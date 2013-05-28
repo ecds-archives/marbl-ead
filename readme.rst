@@ -23,8 +23,6 @@ appropriate authority record URIs (VIAF, GeoNames.org, DBpedia), and commit to t
 MARBL staff will review the diffs between the developer and master branches before pulling the tagged EAD into MARBL's live sites.
 
 -----
-Instructions
-======
 
 Tags will be added using the Oxygen XML editor using the `Namedropper-oxygen`_ and/or from the command line
 using the `Namedropper-python`_ tools. After changes are committed, those creating tags should provide
