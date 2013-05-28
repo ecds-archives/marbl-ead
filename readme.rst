@@ -15,10 +15,10 @@ as part of the `Digital Scholarship Commons`_ project `Networking the Belfast Gr
 .. _Manuscripts, Archives, and Rare Book Library: http://marbl.library.emory.edu
 
 The master branch contains the original MARBL EAD files (as well as any updates made by MARBL during the project).
-The developer branch contains the tagged EAD files.
+The develop branch contains the tagged EAD files.
 
-Project contributors should create a branch for the XML file they are working on, tag names, and link to
-appropriate authority record URIs (VIAF, GeoNames.org, DBpedia), and commit to the appropriate branch.
+Project contributors tag names, link to appropriate authority record URIs
+(VIAF, GeoNames.org, DBpedia), and commit to the develop branch.
 
 MARBL staff will review the diffs between the developer and master branches before pulling the tagged EAD into MARBL's live sites.
 
