@@ -24,6 +24,8 @@ MARBL staff will review the diffs between the developer and master branches befo
 
 -----
 
+**Instructions**
+
 Tags will be added using the Oxygen XML editor using the `Namedropper-oxygen`_ and/or from the command line
 using the `Namedropper-python`_ tools. After changes are committed, those creating tags should provide
 line-level comments on questionable tags using the GitHub interface.
