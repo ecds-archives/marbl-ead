@@ -1,0 +1,615 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/8zm4m" url="http://pid.emory.edu/ark:/25593/8zm4m">mahon1020</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title" type="Irish">Derek Mahon collection, 1985-1988, 1991
+			 2000</titleproper>
+        <author encodinganalog="Creator">Manuscript, Archives, and Rare Book
+			 Library, Emory University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Emory University</publisher>
+        <address>
+          <addressline>Manuscript, Archives, and Rare Book
+				Library</addressline>
+          <addressline>Atlanta, GA 30322</addressline>
+          <addressline>404-727-6887</addressline>
+          <addressline>marbl@emory.edu</addressline>
+        </address>
+        <date encodinganalog="Date" normal="2006-11-27">November 27,
+			 2006</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded, 
+		  <date encodinganalog="Date" normal="2006-11-27">November 27,
+			 2006</date></creation>
+      <langusage>
+        <language langcode="eng" encodinganalog="Language" scriptcode="Latn">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">Mahon, Derek,
+			 1941-</persname>
+      </origination>
+      <unittitle encodinganalog="245$a">Derek Mahon collection, 
+		  <unitdate type="inclusive" encodinganalog="245$f" normal="1985/2000" era="ce" calendar="gregorian">1985-1988, 1991, 2000</unitdate></unittitle>
+      <unitid countrycode="US" repositorycode="geu-s" identifier="1020">Manuscript Collection No.
+		  1020</unitid>
+      <physdesc encodinganalog="300">
+        <extent>.50 linear ft.</extent>
+        <extent>(2
+		  boxes)</extent>
+      </physdesc>
+      <abstract>Small collection of materials relating to Irish poet Derek
+		  Mahon which includes correspondence, literary manuscripts, and some printed
+		  material.</abstract>
+      <langmaterial encodinganalog="546">Materials primarily in
+		  <language langcode="eng">English</language>, with some materials in
+		  <language langcode="fre">French</language> and <language langcode="ita">Italian</language>.</langmaterial>
+      <repository encodinganalog="852">Emory University<subarea>Manuscript,
+		  Archives, and Rare Book Library</subarea></repository>
+    </did>
+    <acqinfo encodinganalog="541">
+      <head>Source</head>
+      <p>Gfit, 2004.</p>
+    </acqinfo>
+    <custodhist>
+      <head>Custodial History</head>
+      <p>Originally received as part of the Raymond Danowski Poetry
+		  Library.</p>
+    </custodhist>
+    <accessrestrict encodinganalog="506">
+      <head>Restrictions on Access</head>
+      <p>Unrestricted access. </p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Terms Governing Use and Reproduction</head>
+      <p>All requests subject to limitations noted in departmental policies on
+		  reproduction.</p>
+    </userestrict>
+    <prefercite encodinganalog="524">
+      <head>Citation</head>
+      <p>[after identification of item(s)], title statement, Manuscript,
+		  Archives, and Rare Book Library, Emory University.</p>
+    </prefercite>
+    <processinfo>
+      <head>Processing</head>
+      <p>Processed by Jennifer Brady, June 2006.</p>
+      <note>
+        <p>Control level 3</p>
+      </note>
+      <note>
+        <p>File name: mahon1020.doc</p>
+      </note>
+    </processinfo>
+    <bioghist encodinganalog="545">
+      <head>Biographical Note</head>
+      <p>Derek Mahon was born in Belfast, Northern Ireland, on November 23,
+		  1941. He was educated at the Belfast Royal Academical Institution and at
+		  Trinity College, Dublin, where he majored in French (1960-1965). In 1960 he
+		  began publishing poems in 
+		<title>Icarus</title>, a student literary magazine, and his first
+		collection of poems, the chapbook 
+		<title>Twelve Poems</title>, was published five years later by Queens
+		University. Oxford University Press published his first major collection, 
+		<title>Night Crossing</title>, in 1968. In addition to his role as poet,
+		Mahon has worked as a free-lance journalist, served as drama critic for the 
+		<title>Listener</title> (1971-1972) and features editor for 
+		<title>Vogue</title> (1974-1975), contributed reviews to the 
+		<title>Observer</title>, the 
+		<title>Listener</title>, 
+		<title>New Statesman</title>, and the 
+		<title>Times Literary Supplement</title>, and written adaptations for
+		television for the BBC.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <head>Scope and Content Note</head>
+      <p>The Derek Mahon collection documents Mahon's work from 1985-1988. The
+		  collection includes correspondence, literary manuscripts, and some printed
+		  material. Among his literary manuscripts are drafts of both published and
+		  unpublished poems, work on his volume of poems 
+		<title>Antarctica</title> (1985), scripts and screenplays, and
+		journalistic writing. In addition, this collection documents Mahon's work
+		translating the poems of Philippe Jaccottet, which were collected under the
+		title 
+		<title>Selected Poems</title> and published in 1988. Also present in this
+		collection is some correspondence with other literary figures, including
+		Michael and Edna Longley and Medbh McGuckian. Additionally, the collection
+		includes correspondence and printed material relating to Mahon’s six-month
+		appointment in 1986 as the first writer in residence at Trinity College,
+		Dublin. </p>
+    </scopecontent>
+    <arrangement encodinganalog="351">
+      <head>Arrangement Note</head>
+      <p>Arranged by record type.</p>
+    </arrangement>
+    <controlaccess>
+      <head>Selected Search Terms</head>
+      <controlaccess>
+        <head>Personal Names</head>
+        <persname encodinganalog="600" source="lcnaf">Longley,
+			 Edna.</persname>
+        <persname encodinganalog="600" source="lcnaf">Longley, Michael,
+			 1939-</persname>
+        <persname encodinganalog="600" source="lcnaf">McGuckian, Medbh,
+			 1950-</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Topical Terms</head>
+        <subject source="lcsh" encodinganalog="650">Irish poetry.</subject>
+        <subject source="lcsh" encodinganalog="650">Poets, Irish.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Form/Genre Terms</head>
+        <genreform source="aat" encodinganalog="655">Manuscripts.</genreform>
+      </controlaccess>
+      <controlaccess>
+        <head>Occupation</head>
+        <occupation source="aat" encodinganalog="656">Poet.</occupation>
+      </controlaccess>
+    </controlaccess>
+    <separatedmaterial encodinganalog="544 0">
+      <head>Related Materials in This Repository</head>
+      <p>Derek Mahon papers; Derek Mahon, Letters to Louis Asekoff; Michael
+		  Longley papers; Peter Fallon/Gallery Press collection; and Medbh McGuckian
+		  papers.</p>
+    </separatedmaterial>
+    <dsc type="in-depth">
+      <head>Container List</head>
+      <c01 level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle>1985-1988, 2000</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle>Undated</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Printed Material about Derek Mahon</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle>1985-1991</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Writings by Derek Mahon - Poetry</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle>"Achill," MS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle>"After Pasternak," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle>"After Rain," MS and TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">7</container>
+          <unittitle>"Aisling," MS and TS [variant title: "All the Flowers of
+				the Mountain"]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">8</container>
+          <unittitle><title>Antarctica</title>, TS and proof</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">9</container>
+          <unittitle>"A Blackbird," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">10</container>
+          <unittitle>"Dawn at St. Patrick's," MS and TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">11</container>
+          <unittitle>"Day and Night," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">12</container>
+          <unittitle>"From 
+				<title>Gramsci's Ashes</title>," MS and TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">13</container>
+          <unittitle>"Looking for Radio 3," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">14</container>
+          <unittitle>"Lovers Wake to Differences," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">15</container>
+          <unittitle>"The Morning Star," MS and TS [variant title: "A Political
+				Prisoner"]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">16</container>
+          <unittitle>"Night and Day," MS and TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">17</container>
+          <unittitle>"Orpheus Ascending," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">18</container>
+          <unittitle>"Paranoia," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">19</container>
+          <unittitle>"Portovenere," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">20</container>
+          <unittitle>"The Race," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">21</container>
+          <unittitle>"A Silent House," MS and TS [variant title: "Rincurran
+				Cottage"]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">22</container>
+          <unittitle>"Towards the Light," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">23</container>
+          <unittitle>"Western Spring," MS and TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">24</container>
+          <unittitle>Unidentified, MS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Writings by Derek Mahon - Prose</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">25</container>
+          <unittitle>"A Chance for Restitution" [review of 
+				<title>The Elgin Marbles</title>, by Christopher Hitchens],
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">26</container>
+          <unittitle>"Modernist Poets," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">27</container>
+          <unittitle>"New York Diary," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">28</container>
+          <unittitle>"Splendid Isolation," proof</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">29</container>
+          <unittitle>"The Unselfish Giant" [review of 
+				<title>Oscar Wilde</title>, by Richard Ellmann], TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">30</container>
+          <unittitle>"Word and Image" [review of 
+				<title>Portraits of Poets</title>, by Christopher and Sebastian
+				Barker], TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">31</container>
+          <unittitle>Untitled [review of 
+				<title>Across a Roaring Hill</title>, edited by Gerald Dawe and
+				Edna Longley; 
+				<title>Celtic Revivals</title>, by Seamus Deane; 
+				<title>Lady Gregory</title>, by Mary Lou Kohlfeld], TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">32</container>
+          <unittitle>Untitled [
+				<title>Vogue</title> piece on English poets], MS and TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">33</container>
+          <unittitle>Untitled [
+				<title>Vogue</title> piece on French literary scene], MS and
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Writings by Derek Mahon - Scripts and
+				Screenplays</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">34</container>
+          <unittitle><title>High Times</title>, proofs (2)</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">35</container>
+          <unittitle>"The Marquise of O," MS and TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">36</container>
+          <unittitle><title>School for Wives</title>, TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">37</container>
+          <unittitle><title>School for Wives</title>, TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">38</container>
+          <unittitle><title>The Temptation of Eileen Hughes</title>, MS and
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1</container>
+          <unittitle><title>The Temptation of Eileen Hughes</title>, TS and related
+				material</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Writings by Derek Mahon - Translations </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">2</container>
+          <unittitle><title>Mirlitonnades</title> by Samuel Beckett, MS and
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">3</container>
+          <unittitle><title>Selected Poems</title>, by Philippe Jaccottet, MS and
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">4</container>
+          <unittitle><title>Selected Poems</title>, by Philippe Jaccottet,
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">5</container>
+          <unittitle><title>Selected Poems</title>, by Philippe Jaccottet,
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">6</container>
+          <unittitle><title>Selected Poems</title>, by Philippe Jaccottet,
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">7</container>
+          <unittitle>From 
+				<title>Songs from Below</title>, by Philippe Jaccottet,
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Writings by Derek Mahon - Translations of Derek Mahon's
+				Writing</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">8</container>
+          <unittitle>"Ragazze Sui Ponte" [Girls on the Bridge], "Achill,"
+				"Cortili du Delft" [Courtyards in Delft], "Un Capanno Abbandonato Nella Contea
+				di Wexford" [A Disused Shed in Co. Wexford], translated by Giovanni Pillonca,
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">9</container>
+          <unittitle>"Image Tirée de Beckett" [An Image from Beckett],
+				"L'Invitation à la Neige" [The Snow Party], "Le Rameau d'Or" [Thammuz], "Le
+				Dernier Roi du Feu" [The Last of the Fire Kings], translated by Denis Rigal,
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Writings by Others</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">10</container>
+          <unittitle>Goodman, Paul, "The Lordly Hudson," MS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">11</container>
+          <unittitle>Kinsella, Thomas (trans.), 
+				<title>An Duanaire 1600-1900: Poems of the Dispossessed</title>,
+				selected by Sean O'Tuama, MS and TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">12</container>
+          <unittitle>Shakespeare, William, 
+				<title>The Winter's Tale</title>, MS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">13</container>
+          <unittitle>Unknown author, "In the dips of this mountain...,"
+				TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">14</container>
+          <unittitle>Unknown author, "Knappogue Songs," TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">15</container>
+          <unittitle>Unknown author, "Wild Mountain Thyme," MS</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

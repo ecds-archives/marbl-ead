@@ -1,0 +1,901 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/8zgst" url="http://pid.emory.edu/ark:/25593/8zgst">irishmisc794</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title" type="Irish">Irish literary miscellany
+			 collection, circa 1943-1998</titleproper>
+        <author encodinganalog="Creator">Manuscript, Archives, and Rare Book
+			 Library, Emory University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Emory University</publisher>
+        <address>
+          <addressline>Robert W. Woodruff Library</addressline>
+          <addressline>Manuscript, Archives, and Rare Book
+				Library</addressline>
+          <addressline>Atlanta, GA 30322</addressline>
+          <addressline>404-727-6887</addressline>
+          <addressline>marbl@emory.edu</addressline>
+          <addressline>marbl@emory.edu</addressline>
+        </address>
+        <date normal="2002-11-04" encodinganalog="Date">November 4, 2002</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded, 
+		  <date normal="2002-11-04" encodinganalog="Date">November 4,
+			 2002</date></creation>
+      <langusage>
+        <language langcode="eng" encodinganalog="Language" scriptcode="Latn">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" relatedencoding="MARC21">
+    <did>
+      <unittitle encodinganalog="245$a">Irish literary miscellany collection, 
+		  <unitdate type="inclusive" normal="1943/1998" encodinganalog="245$f" certainty="circa">circa 1943-1998</unitdate></unittitle>
+      <unitid countrycode="US" repositorycode="geu-s" identifier="794">Manuscript Collection No.
+		  794</unitid>
+      <physdesc encodinganalog="300" label="300">
+        <extent>.5 linear
+		  ft.</extent>
+        <extent>(1 box)</extent>
+      </physdesc>
+      <abstract>Collection composed of materials relating to Irish literature
+		  including correspondence, manuscripts, photographs, theatre programs, and
+		  Belfast Group worksheets.</abstract>
+      <langmaterial encodinganalog="546">Materials entirely in
+		  <language langcode="eng">English</language>.</langmaterial>
+      <repository label="852">Emory University<subarea>Manuscript, Archives,
+		  and Rare Book Library</subarea></repository>
+    </did>
+    <acqinfo encodinganalog="541">
+      <head>Source</head>
+      <p>Purchase, various sources.</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506">
+      <head>Restrictions on access</head>
+      <p>Unrestricted access.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Terms Governing Use and Reproduction</head>
+      <p>All requests subject to limitations noted in departmental policies on
+		  reproduction.</p>
+    </userestrict>
+    <prefercite encodinganalog="524">
+      <head>Citation</head>
+      <p>[after identification of item(s)], Irish literary miscellany
+		  collection, Manuscript, Archives, and Rare Book Library, Emory University.</p>
+    </prefercite>
+    <processinfo>
+      <head>Processing</head>
+      <note>
+        <p>Control level 3</p>
+      </note>
+      <note>
+        <p>File name: Irish Misc794.doc</p>
+      </note>
+    </processinfo>
+    <scopecontent encodinganalog="520">
+      <head>Scope and Content Note</head>
+      <p>The Irish literary miscellany collection is composed of individual
+		  items or small groups of items from various sources that do not relate directly
+		  to any of the division's other Irish literary collections. Materials include
+		  correspondence, manuscripts, photographs, theatre programs, and Belfast Group
+		  worksheets.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351">
+      <head>Arrangement Note</head>
+      <p>Arranged by record type.</p>
+    </arrangement>
+    <controlaccess>
+      <head>Selected Search Terms</head>
+      <controlaccess>
+        <head>Personal Names</head>
+        <persname source="lcnaf" encodinganalog="600">Deane, Seamus,
+			 1940-</persname>
+        <persname source="lcnaf" encodinganalog="600">Hewitt, John Harold,
+			 1907-</persname>
+        <persname source="lcnaf" encodinganalog="600">Kilory,
+			 Thomas.</persname>
+        <persname source="lcnaf" encodinganalog="600">Montague,
+			 John.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Corporate Names</head>
+        <corpname source="lcnaf" encodinganalog="610">Dolmen Press.</corpname>
+        <corpname>Belfast Group.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Topical Terms</head>
+        <subject source="lcsh" encodinganalog="650">English poetry--Irish
+			 authors--20th century.</subject>
+        <subject source="lcsh" encodinganalog="650">Poets, Irish--20th
+			 century.</subject>
+        <subject source="lcsh" encodinganalog="650">Theater--Ireland--20th
+			 century.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Form/Genre Terms</head>
+        <genreform source="aat" encodinganalog="655">Manuscripts.</genreform>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655">Theater
+			 programs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <head>Container list</head>
+      <c01 level="file">
+        <did>
+          <unittitle>Belfast Group</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle>Belfast Group: Correspondence from Michael Allen regarding
+				organizing, October 4, 1968 and n.d.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle>Belfast Group Worksheet: Norman Dugdale</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle>Belfast Group Worksheet: Norman Dugdale</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle>Belfast Group Worksheet: Bernard MacLaverty</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle>Belfast Group Worksheet: Iris Bull</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle>Opening Statement of Sebastian Barry at Emory University
+				colloquium, November 11, 1998</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">7</container>
+          <unittitle>Maeve Binchy postcards, 1997</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">8</container>
+          <unittitle>Peter Kavanagh to Joseph Gold, 1960, also includes newspaper clippings concerning the publication of <title>The John Quinn Letters: A Pandect</title></unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Dolmen Press</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">9</container>
+          <unittitle>"Books Published in Limited Editions at the Dolmen Press,"
+				June 1962, prospectus</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Manuscripts</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">10</container>
+          <unittitle>Deane, Seamus "The Churchyard in Cregan" [translation of
+				Úirchill au Chreagáin], 3 MS drafts. [accession 97-07-03]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">11</container>
+          <unittitle>Hewitt, John "Freehold" [including "Feathers on Turf,"
+				"The Lonely Heart," "Townland of Peace," "The Glittering Sod," and "Roll
+				Call"], offprint [from 
+				<title>Lagan</title>?] w/ several corrections in Hewitt’s hand.
+				[accession 96-12-02]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">12</container>
+          <unittitle>McDonagh, Martin 
+				<title>The Skull in Connemara</title>, [early title for the 
+				<title>Lonesome West</title>], signed TS with corrections.
+				[accession 2003-05-02]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">13</container>
+          <unittitle>Montague, John, "The Trout," MS with note regarding
+				revision of the poem. Originally laid in Special Collections' copy of 
+				<title>A Chosen Light</title> (PR6063 .055 C45).</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Photographs</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">14</container>
+          <unittitle>Berkeley, Sara [accession 97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">15</container>
+          <unittitle>Carson, Ciaran [accession 97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">16</container>
+          <unittitle>Clarke, Austin [accession 97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">17</container>
+          <unittitle>Cronin, Anthony, photographed by John Minihan, 1989
+				[accession 2002-03-13]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">18</container>
+          <unittitle>Davitt, Michael, photographed by Lesley Doyle [accession
+				97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">19</container>
+          <unittitle>Deane, Seamus, photographed by Caroline Forbes [accession
+				97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">20</container>
+          <unittitle>Dhomhnaill, Nuala Ni, photographed by John Minihan,
+				Prague, 1997 [accession 2002-03-13]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">21</container>
+          <unittitle>Ennis, John [accession 97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">22</container>
+          <unittitle>Fiacc, Padraic [accession 97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">23</container>
+          <unittitle>Hewitt, John [accession 97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">24</container>
+          <unittitle>Kennelly, Brendan, photographed by Eimear O’Connor (2)
+				[accession 97-11-04] and John Minihan, 1997 [accession 2002-03-13]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">25</container>
+          <unittitle>Lewis, Cecil Day, photographed by Paul Levitton [accession
+				97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">26</container>
+          <unittitle>Longley, Michael, photographed by John Minihan, Dublin,
+				1991 [accession 2002-03-13]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">27</container>
+          <unittitle>McNeice, Louis, photographed by Gallery Press [accession
+				97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">28</container>
+          <unittitle>Montague, John, photographed by Gallery Press [accession
+				97-11-04] and John Minihan, 1997 [accession 2002-03-13]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">29</container>
+          <unittitle>Murphy, Richard, photographed by Albert Fenton and Stephen
+				Moreton-Pritchard [accession 97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">30</container>
+          <unittitle>O’Grady, Desmond, photographed by Peggy Mulholland, 1995
+				[accession 97-11-04] and John Minihan, 1989 [accession 2002-03-13]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">31</container>
+          <unittitle>O Riordain, Sean, photographed by James, G. Maguire
+				[accession 97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">32</container>
+          <unittitle>Ó Searcaigh, Cathal, photographed by Rachel Brown
+				[accession 97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">33</container>
+          <unittitle>Simmons, James, photographed by Germaine Lot [accession
+				97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">34</container>
+          <unittitle>Stewart, Francis and his wife Finola Graham, photographed
+				by John Minihan, 1989 [accession 2002-03-13]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">35</container>
+          <unittitle>Stoppard, Tom [gift of Richard Ellmann, 1983]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">36</container>
+          <unittitle>Sweeney, Matthew, photographed by John Minihan [accession
+				97-11-04]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">50</container>
+          <unittitle>Thomas, Dylan, 1945</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">37</container>
+          <unittitle>Trevor, William, photographed by John Minihan, 1982 (2)
+				[accession 2002-03-13]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">38</container>
+          <unittitle>Trinity College, Dublin, photographed by John Miniham,
+				1998 [accession 2002-03-13]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Theatre Programs: Capitol Theatre
+				(discontinued)</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">39</container>
+          <unittitle>Hofmannsthal, Hugo von, 
+				<title>Everyman</title>: 5 April 1953</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Theatre Programs: Dublin University Art
+				Society</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">40</container>
+          <unittitle><title>Beckettcetera</title>: 8-12 February [post 1965]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Theatre Programs: Field Day Theatre</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">41</container>
+          <unittitle>Kilroy, Thomas, 
+				<title>The Madame MacAdam</title>, theatre program from Field Day
+				Theatre Company production, [1991]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Theatre Programs: Gaiety Theatre</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">42</container>
+          <unittitle>Podrecca’s Piccoli Theatre, 
+				<title>Marionette Revue</title>: 17 April 1954 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">42</container>
+          <unittitle>Synge, John Millington, 
+				<title>The Playboy of the Western World</title>: 5 July 1954
+				</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">42</container>
+          <unittitle>O’Casey, Sean, 
+				<title>The Bishop's Bonfire</title>: 28 February 1955 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">42</container>
+          <unittitle>Shaw, George Bernard, 
+				<title>Androcles and the Lion</title>; Lady Gregory, 
+				<title>The Rising of the Moon</title>: 2 July 1956 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">42</container>
+          <unittitle>Feydeau, Georges (translated by Peter Meyer), 
+				<title>Sauce for the Goose</title>: 3 October 1978 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">42</container>
+          <unittitle>O’Casey, Sean, 
+				<title>Juno and the Paycock</title>: 21 April 1994</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Theatre Programs: Gate Theatre</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Edwards, Hilton, 
+				<title>"Jack-in-the-Box" and the Future</title>: 16th Jan. 1943.
+				[Attended, as per autograph inscription on verso, by "Mother [Mrs Richard James
+				Hoskin (nee Barbara Hetherington)], Mrs [Phoebie] Cameron, Mrs [Florence]
+				Holmes [nee Cameron], Phoebie [Holmes, now Bennett], Barbara [Robinson, now
+				Wright] and myself (Rosaleen Hilda Robinson, nee Hoskin]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Anouilh, Jean (translated by Christopher FRY), 
+				<title>Ring Round the Moon</title>: 195? </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle><title>Sophochles</title> (a version by W.B. Yeats), 
+				<title>Oedipus, the King</title>; Shaw, Bernard, 
+				<title>The Man of Destiny</title>: 195? </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Shaw, Bernard, 
+				<title>Saint Joan</title>: 195? </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">42</container>
+          <unittitle>Eliot, T. S., 
+				<title>The Cocktail Party</title>: August 1953 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Eliot, T.S., 
+				<title>The Family Reunion</title>: July 1954 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Mac Liammoir, Micheal, 
+				<title>A Slipper for the Moon</title>: December 1954 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">42</container>
+          <unittitle>Pirandello, Luigi, 
+				<title>The Masquerade of Henry IV</title>: April 1955 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Greene, Graham, 
+				<title>The Living Room</title>: May-June 1955 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Shaffer, Peter, 
+				<title>Amadeus</title>: 17 February 1982 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">42</container>
+          <unittitle>Coward, Noel, 
+				<title>Blithe Spirit</title>: 4 December 1985 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Shakespeare, William, 
+				<title>Twelfth Night</title>: 6 December 1988 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Chekhov, Anton (in a version by Frank McGuinness), 
+				<title>Three Sisters</title>: 28 March 1990 [with associated 
+				<title>Irish Times</title> article or 7 May 1990 and published
+				details of Michael Pennington's one-man show, 
+				<title>Anton Chekhov</title>] </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Brecht, Bertolt and Kurt Weil (in a version by Frank
+				McGuinness), 
+				<title>The Threepenny Opera</title>, 9 July 1991; Beckett, Samuel, 
+				<title>Waiting for Godot</title>: 7 February 1992 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Ibsen, Henrik, 
+				<title>A Doll's House</title>: 5 October 1993 </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>Austen, Jane (adapted by James Maxwell), 
+				<title>Pride and Prejudice</title>: 1 December 1994</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Theatre Programs: Irish Theatre Company</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">44</container>
+          <unittitle>Wilder, Thornton, 
+				<title>Our Town</title>; Ibsen, Henrik, 
+				<title>An Enemy of the People</title>: Spring Tour 1980</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Theatre Programs: Olympia Theatre</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle>Ibsen, Henrik (adapted by Max Faber), 
+				<title>Hedda Gabler</title>: 5 July 1954</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle>Rattigan, Terence, 
+				<title>The Deep Blue Sea</title>: 27 September 1954</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle>Davies, Rhys, 
+				<title>No Escape</title>: 11 October 1954</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle>Carroll, Paul Vincent, 
+				<title>The Devil Came from Dublin!</title>: 2 May 1955</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle>Shakespeare, William, 
+				<title>Macbeth</title>: 27 June 1955</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle>Giraudoux, Jean, 
+				<title>The Madwoman of Chaillot</title>: 25 July 1955</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle><title>Azuma Kabuki</title>: 31 October 1955</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle>Balzac, Honore de, 
+				<title>Le Faiseur</title>: 20 May 1957</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle>Joyce Grenfell " 
+				<title>At Home</title>": 16 September 1957</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle>Danish Patomimeteater, 
+				<title>Harlequin's Mechanical Statue</title>: 2 December
+				1957</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle>Stoppard ,Tom and Andre Previn, 
+				<title>Every Good Boy Deserves Favour</title>: 1 October
+				1979</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Theatre Programs: Peacock Theatre</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">46</container>
+          <unittitle><title>Patrick Gulliver</title>, based on the work of Jonathan
+				Swift: 20 June 1978</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">46</container>
+          <unittitle><title>Joycemen</title>; based on James Joyce’s Ulysses: 10
+				November 1980</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">46</container>
+          <unittitle>Beckett, Samuel, 
+				<title>Happy Days</title>: 22 May 1986</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">46</container>
+          <unittitle>Mac Intyre Tom, 
+				<title>Snow White</title>: 27 June 1988</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Theatre Programs: Pike Theatre</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">47</container>
+          <unittitle><title>More Follies of Herbert Lane</title>: 195?. Programme
+				noteworthy for drawing by Pauline Bewick and for being designed and printed at
+				the Dolmen Press [note by Barbara Wright].</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Theatre Programs: Royal Irish Academy of Music</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">48</container>
+          <unittitle>Yeats, W.B., 
+				<title>The Countess Cathleen</title>: 29-30 April 1954 [Organised
+				as part of "An Tostal." an ephemeral Arts Festival, which took place in Dublin
+				in 1954; harp accompaniments by Barbara Robinson now Wright</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Theatre Programs: Saint Patrick’s Cathedral</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">49</container>
+          <unittitle>Eliot, T.S., 
+				<title>Murder in the Cathedral</title>: September/October
+				1962</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Posters</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">OP1</container>
+          <container type="box"/>
+          <unittitle>"Broadsheet 1967-1978: Poetry Prose and Graphics,"
+				National Library of Scotland, 5 February-20 April 1983</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
