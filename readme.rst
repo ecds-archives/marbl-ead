@@ -36,9 +36,9 @@ line-level comments on questionable tags using the GitHub interface.
 Sections of EAD documents to tag should be prioritized based on what the findingaids
 software currently supports exposing via RDFa:
 
-* It is important tag origination name if it contains a personal or family
+* It is important to tag origination name if it contains a personal or family
   name (``archdesc/did/origination``).
-* Semantic data generation is currently supported for bioghist, indexentry,
+* Semantic data generation is currently supported for ``bioghist``, ``indexentry``,
   correspondence series, and series with belfast group sheet listings;
   other series/subseries can probably be skipped for now.
 * In the ``bioghist`` (biographical/historical note), only tag names and places
@@ -47,6 +47,6 @@ software currently supports exposing via RDFa:
   collection.
 * It is beneficial to tag names in the ``controlaccess`` / Selected Search
   Terms.
-* If a series is about a person or group, tag the name in the unittitle
+* If a series is about a person or group, tag the name in the ``unittitle``
   when possible (e.g., series 11 with Edna Longley materials in the
   Michael Longley collection).
