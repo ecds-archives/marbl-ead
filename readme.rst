@@ -21,3 +21,5 @@ Project contributors should create a branch for the XML file they are working on
 appropriate authority record URIs (VIAF, GeoNames.org, DBpedia), and commit to the appropriate branch. 
 
 MARBL staff will review the diffs between the developer and master branches before pulling the tagged EAD into MARBL's live sites.
+
+The XML in this repo is owned by `Manuscripts, Archives, and Rare Book Library`_.
