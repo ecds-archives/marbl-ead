@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/8zfm1" url="http://pid.emory.edu/ark:/25593/8zfm1">hobsbaum1013</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Philip Hobsbaum
+			 collection, 1962-1971</titleproper>
+        <author encodinganalog="Creator">Manuscript, Archives, and Rare Book
+			 Library, Emory University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Emory University</publisher>
+        <address>
+          <addressline>Manuscript, Archives, and Rare Book
+				Library</addressline>
+          <addressline>Atlanta, GA 30322</addressline>
+          <addressline>404-727-6887</addressline>
+          <addressline>marbl@emory.edu</addressline>
+        </address>
+        <date encodinganalog="Date" normal="2005-11-29">November 29,
+			 2005</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded, 
+		  <date encodinganalog="Date" normal="2005-11-29">November 29,
+			 2005</date></creation>
+      <langusage>
+        <language langcode="eng" encodinganalog="Language" scriptcode="Latn">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">Hobsbaum,
+			 Philip.</persname>
+      </origination>
+      <unittitle encodinganalog="245$a">Philip Hobsbaum collection, 
+		  <unitdate type="inclusive" encodinganalog="245$f" normal="1962/1971">1962-1971</unitdate></unittitle>
+      <unitid countrycode="US" repositorycode="geu-s" identifier="1013">Manuscript Collection No.
+		  1013</unitid>
+      <physdesc encodinganalog="300">
+        <extent>.25 linear ft.</extent>
+        <extent>(1
+		  box)</extent>
+      </physdesc>
+      <abstract>Papers relating to Philip Hobsbaum, English poet, critic, and
+		  teacher, including correspondence, typescripts, and proof sheets.</abstract>
+      <langmaterial encodinganalog="546">Materials entirely in
+		  <language langcode="eng">English</language>.</langmaterial>
+      <repository encodinganalog="852">Emory University<subarea>Manuscript,
+		  Archives, and Rare Book Library</subarea></repository>
+    </did>
+    <acqinfo encodinganalog="541">
+      <head>Source</head>
+      <p>Purchase, unknown.</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506">
+      <head>Restrictions on access</head>
+      <p>Unrestricted access.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Terms Governing Use and Reproduction</head>
+      <p>All requests subject to limitations noted in departmental policies on
+		  reproduction.</p>
+    </userestrict>
+    <prefercite encodinganalog="524">
+      <head>Citation</head>
+      <p>[after identification of item(s)], Philip Hobsbaum collection,
+		  Manuscript, Archives and Rare Book Library, Emory University.</p>
+    </prefercite>
+    <processinfo>
+      <head>Processing</head>
+      <p>Processed by Elizabeth Russey, April 7, 2004.</p>
+      <note>
+        <p>Control level 3</p>
+      </note>
+      <note>
+        <p>File name: hobsbaum1013.doc</p>
+      </note>
+    </processinfo>
+    <bioghist encodinganalog="545">
+      <head>Biographical Note</head>
+      <p>Philip Hobsbaum, poet, critic, and teacher, was <?oxy_delete author="namedropper" timestamp="20130614T153051-0400" content="born"?><?oxy_insert_start author="namedropper" timestamp="20130614T153051-0400" comment="Max Born (11 December 1882 – 5 January 1970) was a German-British physicist and mathematician who was instrumental in the development of quantum mechanics. He also made contributions to solid-state physics and optics and supervised the work of a number of notable physicists in the 1920s and 30s. Born won the 1954 Nobel Prize in Physics."?><persname source="viaf" authfilenumber="27126854">born</persname><?oxy_insert_end ?> in London June 29, 1932. He attended Downing College at Cambridge, studying with F.R. Leavis. Around 1955 he began a series of writing workshops, later known as "The Group," that met in Cambridge, <?oxy_delete author="namedropper" timestamp="20130614T153051-0400" content="London"?><?oxy_insert_start author="namedropper" timestamp="20130614T153051-0400" comment="London Listen/ˈlʌndən/ is the capital city of England and the United Kingdom, the largest metropolitan area in the United Kingdom, and the largest urban zone in the European Union by most measures. Located on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium. London's ancient core, the City of London, largely retains its square-mile mediaeval boundaries."?><geogname source="geonames" authfilenumber="2643743">London</geogname><?oxy_insert_end ?>, <?oxy_delete author="namedropper" timestamp="20130614T153109-0400" content="Belfast"?><?oxy_insert_start author="namedropper" timestamp="20130614T153109-0400" comment="Belfast is the capital of and largest city in Northern Ireland. By population, it is the fourteenth largest city in the United Kingdom and second largest on the island of Ireland. It is the seat of the devolved government and legislative Northern Ireland Assembly. The city of Belfast has a population of 267,500 and lies at the heart of the Belfast urban area, which has a population of 579,276. The Larger Urban Zone, as defined by the European Union, has a total population 641,638."?><geogname source="geonames" authfilenumber="3333223">Belfast</geogname><?oxy_insert_end ?>, and Glasgow. In 1959 Hobsbaum began <?oxy_delete author="namedropper" timestamp="20130614T153110-0400" content="work"?><?oxy_insert_start author="namedropper" timestamp="20130614T153110-0400" comment="Workington is a town, civil parish and port on the west coast of Cumbria, England, at the mouth of the River Derwent. Lying within the Borough of Allerdale, Workington is 32 miles (51.5 km) southwest of Carlisle, 7 miles (11.3 km) west of Cockermouth, and 5 miles (8.0 km) southwest of Maryport. It has a population of 24,121. Historically a part of Cumberland, the area around Workington has long been a producer of coal, steel and high-grade iron ore."?><geogname source="dbpedia" authfilenumber="Workington">work</geogname><?oxy_insert_end ?> on a graduate degree at Sheffield University under the direction of William Empson. From 1962 to 1966 he taught at Queens University in <?oxy_delete author="namedropper" timestamp="20130614T153111-0400" content="Belfast"?><?oxy_insert_start author="namedropper" timestamp="20130614T153111-0400" comment="Belfast is the capital of and largest city in Northern Ireland. By population, it is the fourteenth largest city in the United Kingdom and second largest on the island of Ireland. It is the seat of the devolved government and legislative Northern Ireland Assembly. The city of Belfast has a population of 267,500 and lies at the heart of the Belfast urban area, which has a population of 579,276. The Larger Urban Zone, as defined by the European Union, has a total population 641,638."?><geogname source="geonames" authfilenumber="3333223">Belfast</geogname><?oxy_insert_end ?>, resigning due to the rising violence in <?oxy_delete author="namedropper" timestamp="20130614T153112-0400" content="North Ireland"?><?oxy_insert_start author="namedropper" timestamp="20130614T153112-0400" comment="Northern Ireland is a part of the United Kingdom in the north-east of the island of Ireland. It shares a border with the Republic of Ireland to the south and west. As of 2001, its population was 1,685,000, constituting about 30% of the island's total population and about 3% of the population of the United Kingdom. Since the signing of the Good Friday Agreement in 1998, Northern Ireland is largely self-governing."?><geogname source="geonames" authfilenumber="2637761">North Ireland</geogname><?oxy_insert_end ?> and the breakup of his marriage to Hannah <?oxy_delete author="namedropper" timestamp="20130614T153114-0400" content="Kelly"?><?oxy_insert_start author="namedropper" timestamp="20130614T153114-0400" comment="Kelly Brianne Clarkson (born April 24, 1982) is an American singer, songwriter and occasional actress. Clarkson came into prominence after becoming the winner of the inaugural season of the television series American Idol in 2002 and later was the runner-up in the television special World Idol in 2003. In 2003, Clarkson released her debut album, Thankful, which was a commercial success and established herself in the pop music industry."?><persname source="viaf" authfilenumber="5188462">Kelly</persname><?oxy_insert_end ?>.</p>
+      <p>Hobsbaum spent the remainder of his teaching career at the University of Glasgow. From 1966 to 1985 he was a lecturer and reader before being promoted to Professor of English Literature in 1985. He married his second wife Rosemary Philips in 1976. In addition to his teaching and writing duties, Hobsbaum began the <?oxy_delete author="namedropper" timestamp="20130614T153131-0400" content="masters"?><?oxy_insert_start author="namedropper" timestamp="20130614T153131-0400" comment="Edgar Lee Masters (August 23, 1868, Garnett, Kansas – March 5, 1950, Melrose Park, Pennsylvania) was an American poet, biographer, and dramatist. He is the author of Spoon River Anthology, The New Star Chamber and Other Essays, Songs and Satires, The Great Valley, The Serpent in the Wilderness An Obscure Tale, The Spleen, Mark Twain: A Portrait, Lincoln: The Man, and Illinois Poems."?><persname source="viaf" authfilenumber="27068379">masters</persname><?oxy_insert_end ?> program in creative writing at the University of Glasgow. He retired from teaching in 1997. He has four published <?oxy_delete author="namedropper" timestamp="20130614T153131-0400" content="collections"?><?oxy_insert_start author="namedropper" timestamp="20130614T153131-0400" comment="Aretha Louise Franklin (born March 25, 1942) is an American musician, singer, songwriter, and pianist. In a recording career that has spanned over half a century, Franklin's repertoire has included gospel, jazz, blues, R&B, pop, rock and funk. Franklin is known as one of the most important popularizers of the soul music genre and is referred to as the Queen of Soul, a title she was given early in her career. Franklin, the daughter of prominent Baptist minister and activist C. L."?><persname source="viaf" authfilenumber="71577926">collections</persname><?oxy_insert_end ?> of poetry: <title>The Place's Fault</title> (1964), 
+		<title>In Retreat</title> (1966), 
+		<title>Coming Out Fighting</title> (1969), and 
+		<title>Women and Animals</title> (1972). Hobsbaum has also published two
+		works of literary criticism.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <head>Scope and Content Note</head>
+      <p>The collection contains material related to Philip Hobsbaum's
+		  publishing activities with 
+		<title>The Review</title>from 1962 to 1971. The papers include
+		correspondence with 
+		<title>The Review</title> editor John Smith, typescripts and proof sheets
+		of articles published in the periodical, a letter to the editor praising
+		Hobsbaum's article, "Elizabethan Poetry," and four typescript poems Hobsbaum
+		submitted to 
+		<title>The Review</title> for publication.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351">
+      <head>Arrangement Note</head>
+      <p>Arranged by document type.</p>
+    </arrangement>
+    <controlaccess>
+      <head>Selected Search Terms</head>
+      <controlaccess>
+        <head>Topical Terms</head>
+        <subject source="lcsh" encodinganalog="650">English poetry--20th
+			 century.</subject>
+        <subject>Poets, English--20th century.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Form/Genre Terms</head>
+        <genreform source="aat" encodinganalog="655">Poetry.</genreform>
+      </controlaccess>
+      <controlaccess>
+        <head>Occupation</head>
+        <occupation source="aat" encodinganalog="656">Poet.</occupation>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="in-depth">
+      <head>Container List</head>
+      <c01 level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle>Hobsbaum to <?oxy_delete author="namedropper" timestamp="20130614T153139-0400" content="John Smith"?><?oxy_insert_start author="namedropper" timestamp="20130614T153139-0400" comment="(label/description unavailable)"?><persname source="dbpedia" authfilenumber="John_Smith_%28Labour_Party_leader%29">John Smith</persname><?oxy_insert_end ?>, February 1962-April 1971</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Articles</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle>“Elizabethan Poetry,” uncorrected TS</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle>“Elizabethan Poetry,” uncorrected proof</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle>Letter to the Editor from <?oxy_delete author="namedropper" timestamp="20130614T153239-0400" content="David"?><?oxy_insert_start author="namedropper" timestamp="20130614T153239-0400" comment="David was, according to the Hebrew Bible, the second king of the United Kingdom of Israel and, according to the Gospel of Matthew and the Gospel of Luke, an ancestor of Jesus. David is seen as a major Prophet in Islamic traditions. His life is conventionally dated to c. 1040–970 BC, his reign over Judah c. 1010–1003 BC, and his reign over the United Kingdom of Israel c. 1003–970 BC."?><persname source="dbpedia" authfilenumber="David">David</persname><?oxy_insert_end ?> W. <?oxy_delete author="namedropper" timestamp="20130614T153329-0400" content="Lindsay"?><?oxy_insert_start author="namedropper" timestamp="20130614T153329-0400" comment="Lindsay is a community of 19,361 people on the Scugog River in the Kawartha Lakes region of south-eastern Ontario, Canada. It is approximately 43 km (27 mi) west of Peterborough. It is the seat of the City of Kawartha Lakes, and the hub for business and commerce in the region. Lindsay Transit provides bus service to the community and surrounding area. Lindsay has a sister city, Nayoro, Japan, and a small Japanese culture exhibit is in the main entrance to the library."?><geogname source="dbpedia" authfilenumber="Lindsay,_Ontario">Lindsay</geogname><?oxy_insert_end ?> concerning “Elizabethan Poetry”</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Poetry</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle>“Household Gods,” uncorrected TS, [1962?]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle>“Live? Our Pupils, etc.,” uncorrected TS,
+				[1962?]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">7</container>
+          <unittitle>“Room for Development,” corrected TS, [1963?]</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">8</container>
+          <unittitle>“This Small Hostility,” uncorrected TS,
+				[1962?]</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+<?oxy_options track_changes="on"?></ead>
