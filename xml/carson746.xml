@@ -23,7 +23,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded, 
+      <creation>Finding aid encoded,
 		  <date encodinganalog="Date" normal="2002-11-12">November 12,
 			 2002</date></creation>
       <langusage>
@@ -37,7 +37,7 @@
         <persname source="lcnaf" encodinganalog="100">Carson, Ciaran,
 			 1948-</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Ciaran Carson papers, 
+      <unittitle encodinganalog="245$a">Ciaran Carson papers,
 		  <unitdate type="inclusive" encodinganalog="245$f" normal="1970/2010" certainty="circa">circa 1970-2010</unitdate></unittitle>
       <unitid countrycode="US" repositorycode="geu-s" identifier="746">Manuscript Collection No.
 		  746</unitid>
@@ -148,8 +148,9 @@
     </controlaccess>
     <separatedmaterial encodinganalog="544 0">
       <head>Related Materials in This Repository</head>
-      <p>Michael Longley papers, Peter Fallon/Gallery Press collection, and
-		  Medbh McGuckian papers.</p>
+      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8zkmf">Michael Longley papers</extref>,
+      <extref xlink:href="http://pid.emory.edu/ark:/25593/8z8zw">Peter Fallon/Gallery Press collection</extref>, and
+		  <extref xlink:href="http://pid.emory.edu/ark:/25593/8zn19">Medbh McGuckian papers</extref>.</p>
     </separatedmaterial>
     <otherfindaid encodinganalog="555">
       <head>Finding Aid Note</head>
@@ -161,7 +162,7 @@
       <c01 level="series" id="carson746_series1">
         <did>
           <unitid>Series 1</unitid>
-          <unittitle encodinganalog="245$a">Correspondence, 
+          <unittitle encodinganalog="245$a">Correspondence,
 				<unitdate type="inclusive" encodinganalog="245$f" normal="1971/2010">1971-2010</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 1-7</physdesc>
         </did>
@@ -241,12 +242,12 @@
         <c02 level="file"><did><container type="box">7</container><container type="folder">1</container><unittitle>Heaney, Seamus, 1973 (1 item)</unittitle></did></c02>
         <c02 level="file"><did><container type="box">7</container><container type="folder">2</container><unittitle>Heaney, Seamus, 1996-1999 (3 items)</unittitle></did></c02>
         <c02 level="file"><did><container type="box">7</container><container type="folder">3</container><unittitle>Heaney, Seamus, 2010 (2 items)</unittitle></did></c02>
-        
+
       </c01>
       <c01 level="series" id="carson746_series2">
         <did>
           <unitid>Series 2</unitid>
-          <unittitle encodinganalog="245$a">Writings by Carson, 
+          <unittitle encodinganalog="245$a">Writings by Carson,
 				<unitdate type="inclusive" normal="1970/2009" encodinganalog="245$f" certainty="circa">circa 1970-2009</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 8-28, 48-59; OP1-5</physdesc>
         </did>
@@ -263,7 +264,7 @@
         <c02 level="subseries" id="carson746_subseries2.1">
           <did>
             <unitid>Subseries 2.1</unitid>
-            <unittitle type="245$a">Notebooks, 
+            <unittitle type="245$a">Notebooks,
 				  <unitdate type="inclusive" normal="1970/2007" encodinganalog="245$f" certainty="circa">circa 1970-2007</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 8-11, 48-50</physdesc>
           </did>
@@ -327,12 +328,12 @@
           <c03 level="file"><did><container type="box">50</container><container type="folder">4</container><unittitle>Drafts of unpublished poems, March 2006</unittitle></did></c03>
           <c03 level="file"><did><container type="box">50</container><container type="folder">5</container><unittitle><title>For All We Know </title>notebook No. 1, May-June 2007</unittitle></did></c03>
           <c03 level="file"><did><container type="box">50</container><container type="folder">6</container><unittitle><title>For All We Know</title> notebook No. 2, August 2007</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="carson746_subseries2.2">
           <did>
             <unitid>Subseries 2.2</unitid>
-            <unittitle type="245$a">Poetry, 
+            <unittitle type="245$a">Poetry,
 				  <unitdate type="inclusive" normal="1971/2009" encodinganalog="245$f" certainty="circa">1971-2009</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 12-18, 50-54; OP 1-2</physdesc>
           </did>
@@ -348,7 +349,7 @@
           <c03 level="subseries" id="carson746_subseries2.2a">
             <did>
               <unitid>Subseries 2.2a</unitid>
-              <unittitle encodinganalog="245$a">Collected poems 
+              <unittitle encodinganalog="245$a">Collected poems
                 <unitdate type="inclusive" normal="1973/2009" encodinganalog="245$f" certainty="circa">1973-2009</unitdate></unittitle>
               <physdesc encodinganalog="300">Boxes 12-16, 50-54; OP1</physdesc>
             </did>
@@ -943,13 +944,13 @@
             <c04 level="file"><did><container type="box">18</container><container type="folder">36</container><unittitle>Unidentified manuscript fragments</unittitle></did></c04>
             <c04 level="file"><did><container type="box">54</container><container type="folder">39</container><unittitle>Unidentified notes</unittitle></did></c04>
             <c04 level="file"><did><container type="box">18</container><container type="folder">37</container><unittitle>Unidentified typescript fragments</unittitle></did></c04>
-            
+
           </c03>
         </c02>
         <c02 level="subseries" id="carson746_subseries2.3">
           <did>
             <unitid>Subseries 2.3</unitid>
-            <unittitle type="245$a">Translations, 
+            <unittitle type="245$a">Translations,
 				  <unitdate type="inclusive" normal="1994/2008" encodinganalog="245$f">1994-2008</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 18-20, 54-57</physdesc>
           </did>
@@ -1117,12 +1118,12 @@
           <c03 level="file"><did><container type="box">20</container><container type="folder">20</container><unittitle>"Verses to the Song," TS for recording by Padraigiu Ni Uallachain; with two related letters</unittitle></did></c03>
           <c03 level="file"><did><container type="box">20</container><container type="folder">21</container><unittitle>Assorted translations: MS notes on Bar&#x00e1;ntas, Scotish Arts Council, program, 1995 [Scots Gaelic to English]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">19</container><unittitle>Irish versions of poems in <title>Breaking News</title></unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="carson746_subseries2.4">
           <did>
             <unitid>Subseries 2.4</unitid>
-            <unittitle type="245$a">Prose, 
+            <unittitle type="245$a">Prose,
 				  <unitdate type="inclusive" normal="1985/2009" encodinganalog="245$f">1985-2009</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 21-28, 57-59; OP 3-5</physdesc>
           </did>
@@ -1351,12 +1352,12 @@
           <c03 level="file"><did><container type="box">28</container><container type="folder">13</container><unittitle>Untitled, TS review of <title>Sweeney Astray</title> by Seamus Heaney</unittitle></did></c03>
           <c03 level="file"><did><container type="box">59</container><container type="folder">26</container><unittitle>Untitled, TS review of <title>The Truth Commissioner</title> by David Park, circa March 2008</unittitle></did></c03>
           <c03 level="file"><did><container type="box">59</container><container type="folder">27</container><unittitle>Untitled, TS review of <title>An tAthair P&#x00e1;draug &#x00d3; Duinnin -- Bleachtaire</title> and <title>Oiche Bhealtaine</title> by Biddy Jenkinson, circa 2008</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="carson746_subseries2.5">
           <did>
             <unitid>Subseries 2.5</unitid>
-            <unittitle type="245$a">Scripts, 
+            <unittitle type="245$a">Scripts,
 				  <unitdate type="inclusive" normal="1985/2005" encodinganalog="245$f">1985-2005</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 28, 59</physdesc>
           </did><scopecontent encodinganalog="520">
@@ -1376,12 +1377,12 @@
           <c03 level="file"><did><container type="box">59</container><container type="folder">30</container><unittitle>"Radio On, Radio Off," piece for Radio Ulster, 11 July 2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">28</container><container type="folder">18</container><unittitle>"Today and Yesterday in Northern Ireland: The Gift of Ink / Michael J. Murphy" TS Spring 1988</unittitle></did></c03>
           <c03 level="file"><did><container type="box">28</container><container type="folder">19</container><unittitle>"Today and Yesterday in Northern Ireland: Trams," TS Autumn 1988</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="carson746_subseries2.6">
           <did>
             <unitid>Subseries 2.6</unitid>
-            <unittitle type="245$a">Interviews, 
+            <unittitle type="245$a">Interviews,
 				  <unitdate type="inclusive" normal="1989/2009" encodinganalog="245$f">1989-2009</unitdate></unittitle>
             <physdesc encodinganalog="300">Box 28, 59</physdesc>
           </did>
@@ -1406,13 +1407,13 @@
           <c03 level="file"><did><container type="box">59</container><container type="folder">31</container><unittitle>Interview of Ciaran Carson, TS by unknown interviewer, for "Derry News," 12 March 2004</unittitle></did></c03>
           <c03 level="file"><did><container type="box">59</container><container type="folder">32</container><unittitle>Interview of Ciaran Carson, TS by Jenny Malmqvist, circa 2007</unittitle></did></c03>
           <c03 level="file"><did><container type="box">59</container><container type="folder">33</container><unittitle>Interview of Ciaran Carson, TS by Elmer Kennedy-Andrews, "For all I know: Ciaran Carson in conversation with Elmer Kennedy-Andrews," for Four Courts Press book of essays on Carson, circa 2009</unittitle></did></c03>
-          
+
         </c02>
       </c01>
       <c01 level="series" id="carson746_series3">
         <did>
           <unitid>Series 3</unitid>
-          <unittitle encodinganalog="245$a">Writings by others, 
+          <unittitle encodinganalog="245$a">Writings by others,
 				<unitdate type="inclusive" normal="1977/2007" encodinganalog="245$f">1977-2007</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 29-31, 60</physdesc>
         </did>
@@ -1429,7 +1430,7 @@
         <c02 level="subseries" id="carson746_subseries3.1">
           <did>
             <unitid>Subseries 3.1</unitid>
-            <unittitle type="245$a">Poetry by others, 
+            <unittitle type="245$a">Poetry by others,
 				  <unitdate type="inclusive" normal="1977/2007" encodinganalog="245$f">1977-2007</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 29-30, 60</physdesc>
           </did>
@@ -1508,12 +1509,12 @@
           <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>Zuccato, Edoardo, translation of "Belfast Confetti," [See Subseries 4.2: Writing About Carson, "Poesia Inglese: La Generazione Degli Anni Settanta," by Edoardo Zuccato]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>Zuccato, Edoardo, "Collecting Stamps," [See Subseries 4.2: Writing about Carson, "Poesia Inglese: La Generazione Degli Anni Settanta," by Edoardo Zuccato]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>Zuccato, Edoardo, "The Irish for No," [See Subseries 4.2, Writing about Carson: "Poesia Inglese: La Generazione Degli Anni Settanta," by Edoardo Zuccato]</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="carson746_subseries3.2">
           <did>
             <unitid>Subseries 3.2</unitid>
-            <unittitle type="245$a">Prose fiction and drama by others, 
+            <unittitle type="245$a">Prose fiction and drama by others,
 				  <unitdate type="inclusive" normal="1985/2005" encodinganalog="245$f">1985-2005</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 30, 60</physdesc>
           </did>
@@ -1539,12 +1540,12 @@
           <c03 level="file"><did><container type="box">30</container><container type="folder">25</container><unittitle>Muldoon, Paul: TS of libretto, <title>Six Honest Serving Men</title></unittitle></did></c03>
           <c03 level="file"><did><unittitle>Translations of Carson</unittitle></did></c03>
           <c03 level="file"><did><container type="box">60</container><container type="folder">20</container><unittitle>Th&#x00e9; au Tr&#x00e8;ste, TS of translation of Carson's <title>Shamrock Tea</title>, no date</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="carson746_subseries3.3">
           <did>
             <unitid>Subseries 3.3</unitid>
-            <unittitle type="245$a">Writings about Carson, 
+            <unittitle type="245$a">Writings about Carson,
 				  <unitdate type="inclusive" normal="1989/2006" encodinganalog="245$f">1989-2006</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 31, 60</physdesc>
           </did>
@@ -1573,12 +1574,12 @@
           <c03 level="file"><did><container type="box">31</container><container type="folder">14</container><unittitle>Sarbin, Deborah: "'We are all now dispossessed': Postmodern History in Northern Irish Poetry," TS with TLC from Sarbin, 19 March 1992</unittitle></did></c03>
           <c03 level="file"><did><container type="box">31</container><container type="folder">15</container><unittitle>Tochigi, Nobuaki: "Reeling with Words: Music and Intoxication in Ciaran Carson's Alphabetical Sequences" [presented September 1997 at Tokyo IASIL Conference]; TS plus assorted Carson panel handouts from various presenters.</unittitle></did></c03>
           <c03 level="file"><did><container type="box">60</container><container type="folder">22</container><unittitle>Unidentified author: TS, "Seeking a Common Tongue: Carson, Dante, Belfast," no date</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="carson746_subseries3.4">
           <did>
             <unitid>Subseries 3.4</unitid>
-            <unittitle type="245$a">Other writings, 
+            <unittitle type="245$a">Other writings,
 				  <unitdate type="inclusive" normal="1994/1998" encodinganalog="245$f">1994-1998</unitdate></unittitle>
             <physdesc encodinganalog="300">Box 31</physdesc>
           </did>
@@ -1602,13 +1603,13 @@
           <c03 level="file"><did><container type="box">31</container><container type="folder">25</container><unittitle>Robinson, Tim: "Four Threads," TS with note by Carson on relevance to <title>The Star Factory</title></unittitle></did></c03>
           <c03 level="file"><did><container type="box">31</container><container type="folder">26</container><unittitle>Robinson, Tim: "Secret Connemara," TS of paper given at CAIS Toronto, 1994</unittitle></did></c03>
           <c03 level="file"><did><container type="box">31</container><container type="folder">27</container><unittitle>Unidentified: "Irish Traditional Music: the Myth of its Popularity," TTS with TLS</unittitle></did></c03>
-          
+
         </c02>
       </c01>
       <c01 level="series" id="carson746_series4">
         <did>
           <unitid>Series 4</unitid>
-          <unittitle encodinganalog="245$a">Printed material, 
+          <unittitle encodinganalog="245$a">Printed material,
 				<unitdate type="inclusive" normal="1975/2008" encodinganalog="245$f">1975-2008</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 32 - 40, 61-62; OP 6 - 26</physdesc>
         </did>
@@ -1625,7 +1626,7 @@
         <c02 level="subseries" id="carson746_subseries4.1">
           <did>
             <unitid>Subseries 4.1</unitid>
-            <unittitle type="245$a">Printed material by Carson, 
+            <unittitle type="245$a">Printed material by Carson,
 				  <unitdate type="inclusive" normal="1975/2007" encodinganalog="245$f">1975-2007</unitdate></unittitle>
             <physdesc encodinganalog="300">Box 32 - Box 34, 61; OP6 -
 				  12</physdesc>
@@ -1713,12 +1714,12 @@
           <c03 level="file"><did><container type="box">34</container><container type="folder">7</container><unittitle>"Whiskey," [poem translated into German] in <title>Warenmuster, bl&#x00fc;hend</title></unittitle></did></c03>
           <c03 level="file"><did><container type="box">OP10</container><container type="folder">-</container><unittitle>"Yes," in "Four Poems," [poem]  <title>TLS</title> 17-23 March 1989</unittitle></did></c03>
           <c03 level="file"><did><container type="box">34</container><container type="folder">8</container><unittitle>Miscellaneous printed material by Carson</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="carson746_subseries4.2">
           <did>
             <unitid>Subseries 4.2</unitid>
-            <unittitle type="245$a">Printed material about Carson, 
+            <unittitle type="245$a">Printed material about Carson,
 				  <unitdate type="inclusive" normal="1976/2008" encodinganalog="245$f">1976-2008</unitdate></unittitle>
             <physdesc encodinganalog="300">Box 34-38, 61-62; OP 13
 				  - 21</physdesc>
@@ -1883,12 +1884,12 @@
           <c03 level="file"><did><container type="box">62</container><container type="folder">11</container><unittitle>Queen's University's The Seamus Heaney Centre, 11 March 2008</unittitle></did></c03>
           <c03 level="file"><did><container type="box">62</container><container type="folder">12</container><unittitle>Seamus Heaney Centre for Poetry, book launch of <title>Collected Poems</title>, 16 October 2008</unittitle></did></c03>
           <c03 level="file"><did><container type="box">38</container><container type="folder">33</container><unittitle>Assorted undated readings</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="carson746_subseries4.3">
           <did>
             <unitid>Subseries 4.3</unitid>
-            <unittitle type="245$a">Other printed material, 
+            <unittitle type="245$a">Other printed material,
 				  <unitdate type="inclusive" normal="1976/2006" encodinganalog="245$f">1976-2006</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 39-40, 62; OP 21 - 26</physdesc>
           </did>
@@ -1947,13 +1948,13 @@
           <c03 level="file"><did><container type="box">40</container><container type="folder">15</container><unittitle>Miscellaneous printed material about visual arts</unittitle></did></c03>
           <c03 level="file"><did><container type="box">40</container><container type="folder">16</container><unittitle>Miscellaneous printed material with no specific subjects</unittitle></did></c03>
           <c03 level="file"><did><container type="box">OP26</container><container type="folder">-</container><unittitle>Miscellaneous printed material with no specific subjects</unittitle></did></c03>
-          
+
         </c02>
       </c01>
       <c01 level="series" id="carson746_series5">
         <did>
           <unitid>Series 5</unitid>
-          <unittitle encodinganalog="245$a">Belfast Group worksheets, 
+          <unittitle encodinganalog="245$a">Belfast Group worksheets,
 				<unitdate type="inclusive" normal="1971/1972" encodinganalog="245$f">[1971-1972]</unitdate></unittitle>
           <physdesc encodinganalog="300">Box 41</physdesc>
         </did>
@@ -1972,12 +1973,12 @@
         <c02 level="file"><did><container type="box">41</container><container type="folder">4</container><unittitle>MacLaverty, Bernard: "The Deep End;" [14 February 1972]</unittitle></did></c02>
         <c02 level="file"><did><container type="box">41</container><container type="folder">5</container><unittitle>McMahon, Trevor: "Moth," "Worm," "The Planter Speaks," "Old Man," "To Those Involved in Rigid Disciplines," "Rat Song," "The Fool's Soliloquy," "Poem as Mammoth;" [22 November 1971]</unittitle></did></c02>
         <c02 level="file"><did><container type="box">41</container><container type="folder">6</container><unittitle>Muldoon, Paul: "Blowing Eggs," "The Radio Horse," "The Field Hospital," "On a Dog of Unlike Eyes," "The Lost Tribe," "The Upriver Incident," "Party Piece;" [25 October 1971]</unittitle></did></c02>
-        
+
       </c01>
       <c01 level="series" id="carson746_series6">
         <did>
           <unitid>Series 6</unitid>
-          <unittitle encodinganalog="245$a">Photographs, 
+          <unittitle encodinganalog="245$a">Photographs,
 				<unitdate type="inclusive" normal="1977/2007" encodinganalog="245$f">1977-2007</unitdate></unittitle>
           <physdesc encodinganalog="300">Box 41-42</physdesc>
         </did>
@@ -2023,12 +2024,12 @@
         <c02 level="file"><did><container type="box">42</container><container type="folder">31</container><unittitle>Unidentified photograph of building [undated]</unittitle></did></c02>
         <c02 level="file"><did><container type="box">42</container><container type="folder">32</container><unittitle>Unidentified photo of staged medieval battle, circa 1941</unittitle></did></c02>
         <c02 level="file"><did><container type="box">42</container><container type="folder">33</container><unittitle>Photographs of unidentified persons</unittitle></did></c02>
-        
+
       </c01>
       <c01 level="series" id="carson746_series7">
         <did>
           <unitid>Series 7</unitid>
-          <unittitle encodinganalog="245$a">Personal materials, 
+          <unittitle encodinganalog="245$a">Personal materials,
 				<unitdate type="inclusive" normal="1975/2003" encodinganalog="245$f">1975-2003</unitdate></unittitle>
           <physdesc encodinganalog="300">Box 43; OP
 				27</physdesc>
@@ -2063,7 +2064,7 @@
         <c02 level="file"><did><container type="box">43</container><container type="folder">17</container><unittitle>Notes, addresses, agendas [assorted]</unittitle></did></c02>
         <c02 level="file"><did><container type="box">43</container><container type="folder">18</container><unittitle>Passport</unittitle></did></c02>
         <c02 level="file"><did><container type="box">43</container><container type="folder">19</container><unittitle>Sketch of Medbh McGuckian [July 1, 1975]</unittitle></did></c02>
-        
+
       </c01>
       <c01 level="series" id="carson746_series8">
         <did>
@@ -2084,13 +2085,13 @@
         <c02 level="file"><did><container type="box">44</container><container type="folder">3</container><unittitle>Irish Traditional Music Archive</unittitle></did></c02>
         <c02 level="file"><did><container type="box">44</container><container type="folder">4</container><unittitle>Seamus Heaney Centre, Queen's University, no date</unittitle></did></c02>
         <c02 level="file"><did><container type="box">44</container><container type="folder">5</container><unittitle>Spiritualism, 1999-2002</unittitle></did></c02>
-        
+
       </c01>
       <c01 level="series" id="carson746_series9">
         <did>
           <unitid>Series 9</unitid>
           <unittitle encodinganalog="245$a">Arts Council of Northern Ireland
-				records, 
+				records,
 				<unitdate type="inclusive" normal="1973/1998" encodinganalog="245$f">1973-1998</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 45-47</physdesc>
         </did>
@@ -2156,9 +2157,9 @@
         <c02 level="file"><did><container type="box">47</container><container type="folder">13</container><unittitle>Photos, negatives of July 12 arches</unittitle></did></c02>
         <c02 level="file"><did><container type="box">47</container><container type="folder">14</container><unittitle>Press Comment and Reviews, 1973-1978 [includes James Simmons review]</unittitle></did></c02>
         <c02 level="file"><did><container type="box">47</container><container type="folder">15</container><unittitle>Tyrone Guthrie Center, 1998</unittitle></did></c02>
-        
+
       </c01>
-      
+
     </dsc>
     <index id="carson746_index1">
       <head>Index of Selected Correspondents</head>

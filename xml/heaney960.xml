@@ -31,7 +31,7 @@
         <persname source="lcnaf" encodinganalog="100">Heaney,
 			 Seamus, 1939-</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Seamus Heaney papers, 
+      <unittitle encodinganalog="245$a">Seamus Heaney papers,
 		  <unitdate type="inclusive" encodinganalog="245$f" normal="1951/2004">1951-2004</unitdate></unittitle>
       <unitid identifier="960">Manuscript Collection No. 960</unitid>
       <physdesc encodinganalog="300"><extent>51 linear ft.</extent><extent>(102
@@ -84,11 +84,11 @@
       <p>While at St. Joseph's he began to write, publishing work in university
 		  magazines under the pseudonym Incertus. During that time, he joined a poetry
 		  workshop organized by Philip Hobsbaum. In 1965, in connection with the Belfast
-		  Festival, he published 
+		  Festival, he published
 		<title>Eleven Poems</title>, and in August of that year he married Marie
 		Devlin. The following year he became a lecturer in modern English literature at
 		Queens College; his first son, Michael, was born; and Faber and Faber published
-		
+
 		<title>Death of a Naturalist</title>. This collection earned him the Eric
 		Gregory Award, the Cholmondeley Award, the Somerset Maugham Award, and the
 		Geoffrey Faber Memorial Prize. Marie and Seamus Heaney's second son, Christopher,
@@ -97,39 +97,39 @@
 		Society Choice for the year. In 1970-1971, Heaney was guest lecturer at the
 		University of California, Berkeley. He returned to Northern Ireland in 1971,
 		and in 1972 he resigned his lectureship at Queens College, moved his family to
-		Glanmore, in County Wicklow, and published 
+		Glanmore, in County Wicklow, and published
 		<title>Wintering Out</title>. In 1973 his daughter Catherine Ann was
 		born. During this year he also received the Denis Devlin Award and the Writer
-		in Residence Award from the American Irish Foundation. In 1975 
+		in Residence Award from the American Irish Foundation. In 1975
 		<title>North</title> was published, winning the E.M. Forster Award and
 		the Duff Cooper Memorial Prize. During these years at Glanmore, Heaney also
 		gave many readings in the United States and England and edited two poetry
 		anthologies.</p>
       <p>In 1975 Heaney began teaching at Carysfort College in Dublin, and in
 		  1976 he and his family moved to Sandymount in the city. In 1979 Heaney
-		  published 
-		<title>Field Work</title> and in 1980 
-		<title>Selected Poems</title> and 
+		  published
+		<title>Field Work</title> and in 1980
+		<title>Selected Poems</title> and
 		<title>Preoccupations</title>. In 1981 he gave up his position at
 		Carysfort to become visiting professor at Harvard. In 1982 he won the Bennett
 		Award and Queens University awarded him an honorary Doctor of Letters. He
 		co-founded Field Day Company with the playwright Brian Friel and others in
-		1983. 
+		1983.
 		<title>Station Island</title>, his first collection in five years, was
 		published in 1984. During that year he was elected Boylston Professor of
 		Rhetoric and Oratory at Harvard. That same year his mother died.</p>
       <p>In 1988 Seamus Heaney visited Emory University where he inaugurated
 		  the Richard Ellmann Lectures in Modern Literature. These lectures were
-		  collected and published as 
+		  collected and published as
 		<title>The Place of Writing</title> in 1989. In 1991 Heaney published a
-		new collection 
-		<title>Seeing Things</title>, followed by the 
+		new collection
+		<title>Seeing Things</title>, followed by the
 		<title>Redress of Poetry</title> in 1995. In the fall of that year,
 		Heaney was awarded the Nobel Prize in Literature.</p>
       <p>In recent years Heaney has been recipient of numerous awards and
-		  prizes. His translation of 
+		  prizes. His translation of
 		<title>Beowulf</title> (1999) won the Whitbread Award for best book of
-		the year, and his 
+		the year, and his
 		<title>Finders Keepers</title> (2002) won the Truman Capote Award for
 		Literary Criticism. He also has been awarded a number of honorary degrees; he
 		is a member of Aosdana, the Irish Academy of Artist and Writers, and is a
@@ -213,18 +213,26 @@
     </controlaccess>
     <separatedmaterial encodinganalog="544 0">
       <head>Related Materials in This Repository</head>
-      <p>Ciaran Carson papers, Peter Fallon-The Gallery Press collection, Ted
-		  Hughes papers, Michael Longley papers, Derek Mahon papers, Medbh McGuckian
-		  papers, Seamus Heaney collection, Charles Monteith collection, Paul Muldoon
-		  papers, Frank Ormsby papers, Tom Paulin papers, Ron Schuchard papers, and James
-		  Simmons papers.</p>
+      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8z3n4">Ciaran Carson papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8z8zw">Peter Fallon-The Gallery Press collection</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zgd9">Ted Hughes papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zkmf">Michael Longley papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zm5r">Derek Mahon papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zn19">Medbh McGuckian papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zf2t">Seamus Heaney collection</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zp63">Charles Monteith collection</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/bn402">Paul Muldoon papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zqq8">Frank Ormsby papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zrf8">Tom Paulin papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zvnd">Ron Schuchard papers</extref>,
+        and <extref xlink:href="http://pid.emory.edu/ark:/25593/8zw5k">James Simmons papers</extref>.</p>
     </separatedmaterial>
     <dsc type="combined">
       <head>Description of Series</head>
       <c01 level="series" id="heaney960_series1">
         <did>
           <unitid>Series 1</unitid>
-          <unittitle encodinganalog="245$a">Correspondence, 
+          <unittitle encodinganalog="245$a">Correspondence,
 				<unitdate type="inclusive" encodinganalog="245$f" normal="1963/2004">1963-2004</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 1 - 64</physdesc>
         </did>
@@ -264,7 +272,7 @@
         <c02 level="subseries" id="heaney960_subseries1.1">
           <did>
             <unitid>Subseries 1.1</unitid>
-            <unittitle type="245$a">General correspondence, 
+            <unittitle type="245$a">General correspondence,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1963/2003">1963-2003</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 1 - 36</physdesc>
           </did>
@@ -2313,7 +2321,7 @@
         <c02 level="subseries" id="heaney960_subseries1.2">
           <did>
             <unitid>Subseries 1.2</unitid>
-            <unittitle type="245$a">Literary correspondence, 
+            <unittitle type="245$a">Literary correspondence,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1964/2003">1964-2003</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 37 - 44</physdesc>
           </did>
@@ -3162,7 +3170,7 @@
         <c02 level="subseries" id="heaney960_subseries1.3">
           <did>
             <unitid>Subseries 1.3</unitid>
-            <unittitle type="245$a">Outgoing correspondence, 
+            <unittitle type="245$a">Outgoing correspondence,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1968/2004">1968-2004</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 45 - 53</physdesc>
           </did>
@@ -3837,7 +3845,7 @@
         <c02 level="subseries" id="heaney960_subseries1.4">
           <did>
             <unitid>Subseries 1.4</unitid>
-            <unittitle type="245$a">Other correspondence, 
+            <unittitle type="245$a">Other correspondence,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1967/2003">1967-2003</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 54 - 64</physdesc>
           </did>
@@ -4745,7 +4753,7 @@
       <c01 level="series" id="heaney960_series2">
         <did>
           <unitid>Series 2</unitid>
-          <unittitle encodinganalog="245$a">Writings by others, 
+          <unittitle encodinganalog="245$a">Writings by others,
 				<unitdate type="inclusive" encodinganalog="245$f" normal="1964/2004">1964-2004</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 65 – 73 and OP9</physdesc>
         </did>
@@ -4761,7 +4769,7 @@
 				writings by Joseph Brodsky, Patrick Crotty, Donald Davie, Seamus Deane, Ted
 				Hughes, Patrick Kavanagh, Michael Longley, Medbh McGuckian, Derek Mahon, Paul
 				Muldoon, and James Simmons. Of particular interest is a collection of poems
-				written by Ted Hughes, the majority of which are included in 
+				written by Ted Hughes, the majority of which are included in
 			 <title>Birthday Letters</title>, and a large number of early poems by
 			 Michael Longley, some of which are holograph manuscripts signed by Longley.</p>
         </scopecontent>
@@ -4773,7 +4781,7 @@
         <c02 level="subseries" id="heaney960_subseries2.1">
           <did>
             <unitid>Subseries 2.1</unitid>
-            <unittitle type="245$a">Writings about Seamus Heaney, 
+            <unittitle type="245$a">Writings about Seamus Heaney,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1972/2002">1972-2002</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 65 - 67</physdesc>
           </did>
@@ -4786,8 +4794,8 @@
               <container type="box">65</container>
               <container type="folder">1</container>
               <unittitle>Anonymous, "All I Believe That Happened There Was
-					 Revision: 
-					 <title>Selected Poems 1965-1975</title> and 
+					 Revision:
+					 <title>Selected Poems 1965-1975</title> and
 					 <title>New Selected Poems, 1966-1987</title>," essay,
 					 photocopied typescript</unittitle>
             </did>
@@ -4804,7 +4812,7 @@
             <did>
               <container type="box">65</container>
               <container type="folder">3</container>
-              <unittitle>Anonymous, Draft blurb for 
+              <unittitle>Anonymous, Draft blurb for
 					 <title>Redress of Poetry</title>, photocopied
 					 typescript</unittitle>
             </did>
@@ -4847,7 +4855,7 @@
               <container type="box">65</container>
               <container type="folder">8</container>
               <unittitle>Anonymous, "The Potato Bard, An Inner Émigré's Reading
-					 of Seamus Heaney's 
+					 of Seamus Heaney's
 					 <title>Selected Poems 1965-1975</title>," photocopied
 					 typescript, 1995</unittitle>
             </did>
@@ -4881,7 +4889,7 @@
               <container type="box">65</container>
               <container type="folder">12</container>
               <unittitle>Anonymous, "Sweeney Astray, Part 1: Seamus Heaney's
-					 translation of the Irish Epic 
+					 translation of the Irish Epic
 					 <title>Buile Suibhne</title>," essay, photocopied
 					 typescript</unittitle>
             </did>
@@ -4957,7 +4965,7 @@
               <container type="box">65</container>
               <container type="folder">21</container>
               <unittitle>Buttel, Robert, "Seamus Heaney," biography submitted
-					 for 
+					 for
 					 <title>DLB: British Poets</title>, 21 March 1983, photocopied
 					 typescript</unittitle>
             </did>
@@ -4984,7 +4992,7 @@
               <container type="box">65</container>
               <container type="folder">24</container>
               <unittitle>Colome, Pura Lopez, translator, "El Nivel,"
-					 translation into Spanish of Seamus Heaney's 
+					 translation into Spanish of Seamus Heaney's
 					 <title>The Spirit Level</title>, photocopied
 					 typescript</unittitle>
             </did>
@@ -5045,9 +5053,9 @@
               <container type="box">66</container>
               <container type="folder">5</container>
               <unittitle>Feeney, Mary, translator, "L'Homme de Tollund"
-					 translation into French of Seamus Heaney's "Tollund Man" from 
+					 translation into French of Seamus Heaney's "Tollund Man" from
 					 <title>Wintering Out</title> and "Nord," translation of
-					 Heaney's "North" from the collection 
+					 Heaney's "North" from the collection
 					 <title>North</title>, typescript</unittitle>
             </did>
           </c03>
@@ -5065,7 +5073,7 @@
               <container type="box">66</container>
               <container type="folder">7</container>
               <unittitle>Frear, Graham S., "Black House," poem written for
-					 Seamus Heaney after reading the 
+					 Seamus Heaney after reading the
 					 <title>Spirit Level</title>, typescript with note from
 					 author</unittitle>
             </did>
@@ -5083,9 +5091,9 @@
               <container type="box">66</container>
               <container type="folder">9</container>
               <unittitle>Gewanter, David, "Legislators of Poetry" (tentative
-					 title), review of 
+					 title), review of
 					 <title>The Government of the Tongue</title> by Seamus Heaney,
-					 and 
+					 and
 					 <title>Poetry and the World</title> by Robert Pinsky
 					 photocopied typescript</unittitle>
             </did>
@@ -5195,7 +5203,7 @@
             <did>
               <container type="box">66</container>
               <container type="folder">22</container>
-              <unittitle>Hobsbaum, Philip, interview on Seamus Heaney's 
+              <unittitle>Hobsbaum, Philip, interview on Seamus Heaney's
 					 <title>Wintering Out</title>, interviewer: [?] O'Mahony, 19
 					 November [??]</unittitle>
             </did>
@@ -5271,7 +5279,7 @@
             <did>
               <container type="box">66</container>
               <container type="folder">31</container>
-              <unittitle>Kobiernicki, Leszek, article on 
+              <unittitle>Kobiernicki, Leszek, article on
 					 <title>Field Work</title>, photocopied typescript</unittitle>
             </did>
           </c03>
@@ -5286,7 +5294,7 @@
             <did>
               <container type="box">67</container>
               <container type="folder">1</container>
-              <unittitle>McDiarmid, Lucy, " 
+              <unittitle>McDiarmid, Lucy, "
 					 <title>The Government of the Tongue: The 1986 T.S. Eliot
 						Memorial Lectures and Other Critical Writings</title>," review,
 					 1989</unittitle>
@@ -5364,7 +5372,7 @@
               <container type="box">67</container>
               <container type="folder">10</container>
               <unittitle>Nohrnberg, Peter C.L., "Poetry of the Deliberate:
-					 Seamus Heaney's 
+					 Seamus Heaney's
 					 <title>North</title>," dissertation, 1995</unittitle>
             </did>
           </c03>
@@ -5389,7 +5397,7 @@
               <container type="box">67</container>
               <container type="folder">13</container>
               <unittitle>O'Shea, Helen, Transcript of interview with Seamus
-					 Heaney, photocopied typescript, 1 October 1979 with published article from 
+					 Heaney, photocopied typescript, 1 October 1979 with published article from
 					 <title>Quadrant</title>, September 1981</unittitle>
             </did>
           </c03>
@@ -5406,7 +5414,7 @@
               <container type="box">67</container>
               <container type="folder">15</container>
               <unittitle>Parini, Jay, "Seamus Heaney: The Ground Possessed,"
-					 photocopied typescript and photocopy of published article from 
+					 photocopied typescript and photocopy of published article from
 					 <title>The Southern Review</title>, ca. 1979</unittitle>
             </did>
           </c03>
@@ -5414,7 +5422,7 @@
             <did>
               <container type="box">67</container>
               <container type="folder">16</container>
-              <unittitle>Parker, Michael, 
+              <unittitle>Parker, Michael,
 					 <title>Seamus Heaney: the Making of the Poet</title>, chapter
 					 5: "Quickenings 1975-1984," photocopied typescript with notes</unittitle>
             </did>
@@ -5458,7 +5466,7 @@
             <did>
               <container type="box">67</container>
               <container type="folder">21</container>
-              <unittitle>Rosen, Michael J., review of 
+              <unittitle>Rosen, Michael J., review of
 					 <title>Station Island</title> with letter from the author,
 					 photocopied typescript, 1985</unittitle>
             </did>
@@ -5568,7 +5576,7 @@
               <container type="box">67</container>
               <container type="folder">34</container>
               <unittitle>[W?], Danny, pre-publication review of Seamus Heaney's
-					 
+
 					 <title>Beowulf: A New Translation</title>, photocopied
 					 typescript with note from author</unittitle>
             </did>
@@ -5577,7 +5585,7 @@
             <did>
               <container type="box">67</container>
               <container type="folder">35</container>
-              <unittitle>Watson, G.W., review of 
+              <unittitle>Watson, G.W., review of
 					 <title>The Redress of Poetry: Oxford Lectures</title> by Seamus
 					 Heaney, typescript, 1995</unittitle>
             </did>
@@ -5586,9 +5594,9 @@
             <did>
               <container type="box">67</container>
               <container type="folder">36</container>
-              <unittitle>Wright, John, Letter to the Editor [ 
+              <unittitle>Wright, John, Letter to the Editor [
 					 <title>The New Republic</title>?] regarding review by Seamus
-					 Heaney ( 
+					 Heaney (
 					 <title>The Collected Letters of Dylan Thomas</title>), August 1986
 					 photocopied holograph</unittitle>
             </did>
@@ -5597,7 +5605,7 @@
         <c02 level="subseries" id="heaney960_subseries2.2">
           <did>
             <unitid>Subseries 2.2</unitid>
-            <unittitle type="245$a">Other writings, 
+            <unittitle type="245$a">Other writings,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1964/2004">1964-2004</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 68 - 73; OP9</physdesc>
           </did>
@@ -5610,7 +5618,7 @@
               <container type="box">68</container>
               <container type="folder">1</container>
               <unittitle>Anonymous, "Article on the Education Summer School for
-					 Inclusion in the Magazine of the Royal Society of Literature" [ 
+					 Inclusion in the Magazine of the Royal Society of Literature" [
 					 <title>RSL</title>], typescript</unittitle>
             </did>
           </c03>
@@ -5897,7 +5905,7 @@
             <did>
               <container type="box">68</container>
               <container type="folder">37</container>
-              <unittitle>Awano, Lisa Dickler, 
+              <unittitle>Awano, Lisa Dickler,
 					 <title>The Education of Juan Bobo</title>, Chapter 1: "The
 					 First Day of School," novel in progress, typescript with letter from the
 					 author, 1993</unittitle>
@@ -5915,7 +5923,7 @@
             <did>
               <container type="box">68</container>
               <container type="folder">39</container>
-              <unittitle>Banville, John, excerpt from 
+              <unittitle>Banville, John, excerpt from
 					 <title>Kepler: A Novel</title>, typescript with letter from the
 					 author dated 14 January 1980</unittitle>
             </did>
@@ -5982,7 +5990,7 @@
             <did>
               <container type="box">68</container>
               <container type="folder">47</container>
-              <unittitle>Brodsky, Joseph, rhymed foreword to Peter Viereck's 
+              <unittitle>Brodsky, Joseph, rhymed foreword to Peter Viereck's
 					 <title>Tide and Continuities: Last and First Poems</title>, May
 					 1993, photocopied typescript</unittitle>
             </did>
@@ -6024,7 +6032,7 @@
             <did>
               <container type="box">68</container>
               <container type="folder">52</container>
-              <unittitle>Burns, Gerald, "In her 
+              <unittitle>Burns, Gerald, "In her
 					 <title>Selected Poems</title>," typescript, 18 July 1988 with
 					 "The Myth of Accidence, Book VII" [first half], typescript</unittitle>
             </did>
@@ -6057,7 +6065,7 @@
             <did>
               <container type="box">69</container>
               <container type="folder">3</container>
-              <unittitle>Crotty, Patrick, review of 
+              <unittitle>Crotty, Patrick, review of
 					 <title>Ferocious Humanism: An Anthology of Irish Poetry from
 						Before Swift to Years After</title>, W.J. McCormack, editor, facsimile copy,
 					 2000</unittitle>
@@ -6135,7 +6143,7 @@
               <container type="box">69</container>
               <container type="folder">12</container>
               <unittitle>Donnelly, Brian, "Michael Longley (1939- )," entry for
-					 
+
 					 <title>Dictionary of Literary Biography</title>, photocopied
 					 typescript, 1983</unittitle>
             </did>
@@ -6144,7 +6152,7 @@
             <did>
               <container type="box">69</container>
               <container type="folder">13</container>
-              <unittitle>Dowling, Ben, 
+              <unittitle>Dowling, Ben,
 					 <title>The Calligraphy Shop</title>, poetry collection,
 					 photocopied typescript</unittitle>
             </did>
@@ -6186,7 +6194,7 @@
             <did>
               <container type="box">69</container>
               <container type="folder">18</container>
-              <unittitle>Fitzgerald, Robert, translator, 
+              <unittitle>Fitzgerald, Robert, translator,
 					 <title>Aeneid</title> II, 3-56, photocopied typescript,
 					 1979</unittitle>
             </did>
@@ -6236,7 +6244,7 @@
             <did>
               <container type="box">69</container>
               <container type="folder">24</container>
-              <unittitle>Forester, Michael, 
+              <unittitle>Forester, Michael,
 					 <title>Souls, Songs and Solitude</title>, poetry collection,
 					 photocopied typescript with letter from the author, 2000</unittitle>
             </did>
@@ -6253,7 +6261,7 @@
             <did>
               <container type="box">69</container>
               <container type="folder">26</container>
-              <unittitle>Friel, Brian, 
+              <unittitle>Friel, Brian,
 					 <title>Translations</title>, photocopied typescript of play
 					 script, ca. late 1970s</unittitle>
             </did>
@@ -6262,7 +6270,7 @@
             <did>
               <container type="box">69</container>
               <container type="folder">27</container>
-              <unittitle>Gebhardt, Peter, 
+              <unittitle>Gebhardt, Peter,
 					 <title>British Bulldog</title>, poetry collection, page proofs,
 					 undated</unittitle>
             </did>
@@ -6399,7 +6407,7 @@
             <did>
               <container type="box">70</container>
               <container type="folder">6</container>
-              <unittitle>Howell, Christopher, 
+              <unittitle>Howell, Christopher,
 					 <title>Music in the Ice</title>, poems, photocopied typescript,
 					 1973</unittitle>
             </did>
@@ -6408,7 +6416,7 @@
             <did>
               <container type="box">70</container>
               <container type="folder">7</container>
-              <unittitle>Hudepol, Hank, 
+              <unittitle>Hudepol, Hank,
 					 <title>Coal Dragon and Other Discoveries</title>, poetry
 					 collection, photocopied typescript, 2000</unittitle>
             </did>
@@ -6425,7 +6433,7 @@
             <did>
               <container type="box">70</container>
               <container type="folder">9</container>
-              <unittitle>Hughes, Ted, 
+              <unittitle>Hughes, Ted,
 					 <title>Birthday Letters</title>, photocopied typescript of
 					 poems to include, ca. 1998</unittitle>
             </did>
@@ -6488,7 +6496,7 @@
             <did>
               <container type="box">70</container>
               <container type="folder">17</container>
-              <unittitle>Kearney, Richard, 
+              <unittitle>Kearney, Richard,
 					 <title>After the Face</title>, poetry collection with holograph
 					 letter from the author, photocopied typescript, 1978</unittitle>
             </did>
@@ -6514,7 +6522,7 @@
             <did>
               <container type="box">70</container>
               <container type="folder">20</container>
-              <unittitle>Keefe, Joan, 
+              <unittitle>Keefe, Joan,
 					 <title>Translations of Irish Poems</title>, photocopied
 					 typescript</unittitle>
             </did>
@@ -6548,7 +6556,7 @@
             <did>
               <container type="box">70</container>
               <container type="folder">24</container>
-              <unittitle>Kiely Benedict, excerpt from his novel, 
+              <unittitle>Kiely Benedict, excerpt from his novel,
 					 <title>Nothing Happens in Carmincross</title>, holograph
 					 manuscript, 45 pp., ca. 1985</unittitle>
             </did>
@@ -6581,7 +6589,7 @@
             <did>
               <container type="box">71</container>
               <container type="folder">3</container>
-              <unittitle>Longley, Michael, poem list for 
+              <unittitle>Longley, Michael, poem list for
 					 <title>No Continuing City</title> with one poem ("Fanny Hill")
 					 from the list, carbon copy, 20 August 1968</unittitle>
             </did>
@@ -6590,7 +6598,7 @@
             <did>
               <container type="box">71</container>
               <container type="folder">4</container>
-              <unittitle>Longley, Michael, 
+              <unittitle>Longley, Michael,
 					 <title>Lares</title>, poetry collection, photocopied
 					 typescript, 1972</unittitle>
             </did>
@@ -6620,7 +6628,7 @@
             <did>
               <container type="box">71</container>
               <container type="folder">7</container>
-              <unittitle>Longley, Michael, 
+              <unittitle>Longley, Michael,
 					 <title>An Exploded View</title>, poem collection, photocopied
 					 typescript, 1973</unittitle>
             </did>
@@ -6795,7 +6803,7 @@
             <did>
               <container type="box">71</container>
               <container type="folder">27</container>
-              <unittitle>McGuinness, Frank, 
+              <unittitle>McGuinness, Frank,
 					 <title>Carthaginians</title>, drama, photocopied typescript,
 					 pp. 1-59 [1 of 2]</unittitle>
             </did>
@@ -6804,7 +6812,7 @@
             <did>
               <container type="box">71</container>
               <container type="folder">28</container>
-              <unittitle>McGuinness, Frank, 
+              <unittitle>McGuinness, Frank,
 					 <title>Carthaginians</title>, drama, photocopied typescript,
 					 pp. 60-120 [2 of 2]</unittitle>
             </did>
@@ -6813,7 +6821,7 @@
             <did>
               <container type="box">71</container>
               <container type="folder">29</container>
-              <unittitle>McGuinness, Frank, adapt. 
+              <unittitle>McGuinness, Frank, adapt.
 					 <title>Uncle Vanya</title> by Anton Chekhov, scenes from a
 					 rural life in four acts, photocopied typescript</unittitle>
             </did>
@@ -6888,7 +6896,7 @@
             <did>
               <container type="box">72</container>
               <container type="folder">1</container>
-              <unittitle>Morpurgo, Michael, 
+              <unittitle>Morpurgo, Michael,
 					 <title>Twist of Gold</title>, photocopied typescript, pp. 1-99
 					 [1 of 2]</unittitle>
             </did>
@@ -6897,7 +6905,7 @@
             <did>
               <container type="box">72</container>
               <container type="folder">2</container>
-              <unittitle>Morpurgo, Michael, 
+              <unittitle>Morpurgo, Michael,
 					 <title>Twist of Gold</title>, photocopied typescript, pp.
 					 100-196 and chapter 35 [2 of 2]</unittitle>
             </did>
@@ -6914,7 +6922,7 @@
             <did>
               <container type="box">72</container>
               <container type="folder">4</container>
-              <unittitle>Muldoon, Paul, 
+              <unittitle>Muldoon, Paul,
 					 <title>Mules</title>, photocopied typescript, ca.
 					 1977</unittitle>
             </did>
@@ -6939,7 +6947,7 @@
             <did>
               <container type="box">72</container>
               <container type="folder">7</container>
-              <unittitle>O'Brien, Darcy, 
+              <unittitle>O'Brien, Darcy,
 					 <title>Way Down in Little Egypt</title>, photocopied typescript
 					 with some revisions, notes, 1989</unittitle>
             </did>
@@ -6948,8 +6956,8 @@
             <did>
               <container type="box">72</container>
               <container type="folder">8</container>
-              <unittitle>Oldcorn, Tony, "Comparison between 
-					 <title>The Inferno</title> and 
+              <unittitle>Oldcorn, Tony, "Comparison between
+					 <title>The Inferno</title> and
 					 <title>Purgatorio</title> and 'The Love Song of J. Alfred
 					 Prufrock'"</unittitle>
             </did>
@@ -6975,7 +6983,7 @@
             <did>
               <container type="box">72</container>
               <container type="folder">11</container>
-              <unittitle>Pine, Richard, Diviner: 
+              <unittitle>Pine, Richard, Diviner:
 					 <title>The Mind and Art of Brian Friel</title>, pp. 1-89,
 					 photocopied typescript, 1989 [1 of 2]</unittitle>
             </did>
@@ -6984,7 +6992,7 @@
             <did>
               <container type="box">72</container>
               <container type="folder">12</container>
-              <unittitle>Pine, Richard, Diviner: 
+              <unittitle>Pine, Richard, Diviner:
 					 <title>The Mind and Art of Brian Friel</title>, pp. 90-184 and
 					 Notes, photocopied typescript, 1989 [2 of 2]</unittitle>
             </did>
@@ -7026,7 +7034,7 @@
             <did>
               <container type="box">72</container>
               <container type="folder">17</container>
-              <unittitle>Reddy, Srikanth, seven poems from 
+              <unittitle>Reddy, Srikanth, seven poems from
 					 <title>Facts for Visitors: Poems</title>, photocopied
 					 typescript, 2004</unittitle>
             </did>
@@ -7126,7 +7134,7 @@
             <did>
               <container type="box">73</container>
               <container type="folder">10</container>
-              <unittitle>Sleigh, Tom, 
+              <unittitle>Sleigh, Tom,
 					 <title>Waking</title>, poetry collection, photocopied
 					 typescript, ca. 1990</unittitle>
             </did>
@@ -7135,7 +7143,7 @@
             <did>
               <container type="box">73</container>
               <container type="folder">11</container>
-              <unittitle>Smith, John T., 
+              <unittitle>Smith, John T.,
 					 <title>Brave New World</title>, poetry collection with letter,
 					 typescript, 1991</unittitle>
             </did>
@@ -7144,7 +7152,7 @@
             <did>
               <container type="box">73</container>
               <container type="folder">12</container>
-              <unittitle>Sommer, Jason, 
+              <unittitle>Sommer, Jason,
 					 <title>Lifting the Stone</title>, poetry collection,
 					 photocopied typescript</unittitle>
             </did>
@@ -7153,7 +7161,7 @@
             <did>
               <container type="box">73</container>
               <container type="folder">13</container>
-              <unittitle>Sommer, Jason, 
+              <unittitle>Sommer, Jason,
 					 <title>Lifting the Stone</title>, photocopied proofs with cover
 					 letter, 1991</unittitle>
             </did>
@@ -7235,7 +7243,7 @@
             <did>
               <container type="box">73</container>
               <container type="folder">23</container>
-              <unittitle>de Valera, Terry, 
+              <unittitle>de Valera, Terry,
 					 <title>Rhymes of Remembrance</title>, poetry collection with
 					 TLS from author, photocopied typescript, 1998</unittitle>
             </did>
@@ -7252,7 +7260,7 @@
             <did>
               <container type="box">73</container>
               <container type="folder">25</container>
-              <unittitle>Vendler, Helen, prepublication holograph notes for 
+              <unittitle>Vendler, Helen, prepublication holograph notes for
 					 <title>Government of the Tongue</title>, ca. late
 					 1980s</unittitle>
             </did>
@@ -7261,7 +7269,7 @@
             <did>
               <container type="box">73</container>
               <container type="folder">26</container>
-              <unittitle>Wall, Alan, 
+              <unittitle>Wall, Alan,
 					 <title>After Danae</title>, poetry collection, photocopied
 					 typescript with cover letter</unittitle>
             </did>
@@ -7333,7 +7341,7 @@
       <c01 level="series" id="heaney960_series3">
         <did>
           <unitid>Series 3</unitid>
-          <unittitle encodinganalog="245$a">Printed material, 
+          <unittitle encodinganalog="245$a">Printed material,
 				<unitdate type="inclusive" encodinganalog="245$f" normal="1958/2003">1958-2003</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 74 – 88; OP10 – OP13</physdesc>
         </did>
@@ -7365,7 +7373,7 @@
         <c02 level="subseries" id="heaney960_subseries3.1">
           <did>
             <unitid>Subseries 3.1</unitid>
-            <unittitle type="245$a">Writings by Seamus Heaney, 
+            <unittitle type="245$a">Writings by Seamus Heaney,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1965/2003">1965-2003</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 74</physdesc>
           </did>
@@ -7392,7 +7400,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">2</container>
-              <unittitle>"The Barn," reprinted in 
+              <unittitle>"The Barn," reprinted in
 					 <title>Today and Yesterday in Northern Ireland</title>, BBC
 					 Radio Program Guide for Schools, Autumn Term, 1966</unittitle>
             </did>
@@ -7401,7 +7409,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">3</container>
-              <unittitle>"Victorian Guitar," 
+              <unittitle>"Victorian Guitar,"
 					 <title>The Listener</title>, 18 January 1968</unittitle>
             </did>
           </c03>
@@ -7409,8 +7417,8 @@
             <did>
               <container type="box">74</container>
               <container type="folder">4</container>
-              <unittitle>"Turkeys Observed" [from 
-					 <title>Death of a Naturalist</title>], reprinted in 
+              <unittitle>"Turkeys Observed" [from
+					 <title>Death of a Naturalist</title>], reprinted in
 					 <title>The Irish Times</title>, 24 December 1968</unittitle>
             </did>
           </c03>
@@ -7418,7 +7426,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">5</container>
-              <unittitle>"Shore Woman," 
+              <unittitle>"Shore Woman,"
 					 <title>The Irish Press</title>, 1 March 1969</unittitle>
             </did>
           </c03>
@@ -7427,7 +7435,7 @@
               <container type="box">74</container>
               <container type="folder">6</container>
               <unittitle>"Seven Poems by Seamus Heaney," ["Sernades,"
-					 "Midnight," "Navvy," "First Calf," "Medallion," "Icon," "Idyll"], 
+					 "Midnight," "Navvy," "First Calf," "Medallion," "Icon," "Idyll"],
 					 <title>The Listener</title>, 4 September 1969</unittitle>
             </did>
           </c03>
@@ -7435,9 +7443,9 @@
             <did>
               <container type="box">74</container>
               <container type="folder">7</container>
-              <unittitle>"Adriotest of Makers," review of 
-					 <title>Thank You, Fog</title> by W.W. Auden and 
-					 <title>Poetry Introduction 3</title> and 
+              <unittitle>"Adriotest of Makers," review of
+					 <title>Thank You, Fog</title> by W.W. Auden and
+					 <title>Poetry Introduction 3</title> and
 					 <title>The Third Book of Criticism</title> by Randall Jarrell,
 					 photocopied from The Education Times (Dublin), 6 February 1975</unittitle>
             </did>
@@ -7447,8 +7455,8 @@
               <container type="box">74</container>
               <container type="folder">8</container>
               <unittitle>"A Dream of Jealousy," (previously unpublished poem)
-					 and work sheets of four poems in 
-					 <title>North</title>, printed in 
+					 and work sheets of four poems in
+					 <title>North</title>, printed in
 					 <title>Quarto</title>, volume 2, number 1, November 1975,
 					 photocopies</unittitle>
             </did>
@@ -7457,8 +7465,8 @@
             <did>
               <container type="box">74</container>
               <container type="folder">9</container>
-              <unittitle>"Strange Fruit," (from 
-					 <title>North</title>, 1976), reprinted in 
+              <unittitle>"Strange Fruit," (from
+					 <title>North</title>, 1976), reprinted in
 					 <title>The New York Review of Books</title>, 18 March 1976, p.
 					 7</unittitle>
             </did>
@@ -7467,8 +7475,8 @@
             <did>
               <container type="box">74</container>
               <container type="folder">10</container>
-              <unittitle>"The Language of Exile," review of 
-					 <title>The Star-Apple Kingdom</title> by Derek Walcott, 
+              <unittitle>"The Language of Exile," review of
+					 <title>The Star-Apple Kingdom</title> by Derek Walcott,
 					 <title>Parnassus</title>, Fall/Winter 1979, pp. 5-11,
 					 photocopy</unittitle>
             </did>
@@ -7478,7 +7486,7 @@
               <container type="box">74</container>
               <container type="folder">11</container>
               <unittitle>"A Tale of Two Islands: Reflections on the Irish
-					 Poetry Revival," offprint from 
+					 Poetry Revival," offprint from
 					 <title>Irish Studies</title>, volume 1 1980</unittitle>
             </did>
           </c03>
@@ -7487,7 +7495,7 @@
               <container type="box">74</container>
               <container type="folder">12</container>
               <unittitle>"Current Unstated Assumptions about Poetry," reprint
-					 from 
+					 from
 					 <title>Critical Enquiry</title>, volume 7, number 4, Summer
 					 1981</unittitle>
             </did>
@@ -7503,7 +7511,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">14</container>
-              <unittitle>"An Ulster Twilight" from 
+              <unittitle>"An Ulster Twilight" from
 					 <title>Station Island</title> with translation into Catalan by
 					 J.M. Jauma, 1985 [includes holograph notes from translator and from Seamus
 					 Heaney]</unittitle>
@@ -7514,7 +7522,7 @@
               <container type="box">74</container>
               <container type="folder">15</container>
               <unittitle>"Fra Samvittighedens Republik," ["The Republic of
-					 Conscience"], printed in 
+					 Conscience"], printed in
 					 <title>Debat</title>, 7 July 1986</unittitle>
             </did>
           </c03>
@@ -7522,7 +7530,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">16</container>
-              <unittitle>Untitled poem for Marie Bullock, 
+              <unittitle>Untitled poem for Marie Bullock,
 					 <title>Poetry Pilot</title>, February 1987</unittitle>
             </did>
           </c03>
@@ -7531,7 +7539,7 @@
               <container type="box">74</container>
               <container type="folder">17</container>
               <unittitle>"Brodsky's Nobel: What the Applause Was About,"
-					 article photocopied from 
+					 article photocopied from
 					 <title>The New York Times Book Review</title>, 8 November
 					 1987</unittitle>
             </did>
@@ -7541,8 +7549,8 @@
               <container type="box">74</container>
               <container type="folder">18</container>
               <unittitle>"The Impact of Translation" [edited version of an
-					 article included in 
-					 <title>The Government of the Tongue</title>], 
+					 article included in
+					 <title>The Government of the Tongue</title>],
 					 <title>END: Journal of European Nuclear Disarmament</title>,
 					 Issue 33, February-March 1988, pp. 22-24</unittitle>
             </did>
@@ -7551,7 +7559,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">19</container>
-              <unittitle>"The Voice of the Bard," essay, 
+              <unittitle>"The Voice of the Bard," essay,
 					 <title>Antaeus</title>, Spring 1988</unittitle>
             </did>
           </c03>
@@ -7568,7 +7576,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">21</container>
-              <unittitle>"David Thomson," [obituary], 
+              <unittitle>"David Thomson," [obituary],
 					 <title>The Independent</title>, [1988]</unittitle>
             </did>
           </c03>
@@ -7576,7 +7584,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">22</container>
-              <unittitle>"New Worlds," 
+              <unittitle>"New Worlds,"
 					 <title>In the Prison of His Days</title> [a miscellany for
 					 Nelson Mandala on his 70th birthday], 1988, photocopy</unittitle>
             </did>
@@ -7586,7 +7594,7 @@
               <container type="box">74</container>
               <container type="folder">23</container>
               <unittitle>"The Indefatigable Hoof-taps," article regarding
-					 Sylvia Plath, 
+					 Sylvia Plath,
 					 <title>The Times Literary Supplement</title>, 5-11 February
 					 1988, pp. 134, 143-4</unittitle>
             </did>
@@ -7611,7 +7619,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">26</container>
-              <unittitle>"A Field Day for the Irish," photocopied from 
+              <unittitle>"A Field Day for the Irish," photocopied from
 					 <title>The Times</title>, 5 December 1988</unittitle>
             </did>
           </c03>
@@ -7620,7 +7628,7 @@
               <container type="box">74</container>
               <container type="folder">27</container>
               <unittitle>"In the Midst of the Force-field," article regarding
-					 W.B. Yeats, photocopied from 
+					 W.B. Yeats, photocopied from
 					 <title>The Irish Times</title>, 28 January 1989</unittitle>
             </did>
           </c03>
@@ -7629,7 +7637,7 @@
               <container type="box">74</container>
               <container type="folder">28</container>
               <unittitle>"Two Poems by Seamus Heaney: 'A Latch' and 'A
-					 Window,'" photoset by Computer Graphics for 
+					 Window,'" photoset by Computer Graphics for
 					 <title>Times Literary Supplement</title>, 10 October
 					 1989</unittitle>
             </did>
@@ -7639,8 +7647,8 @@
               <container type="box">74</container>
               <container type="folder">29</container>
               <unittitle>"Une tasse d'eau," French translation by Ann Bernard
-					 Kearney and Florence Lafon, reprinted in 
-					 <title>Figaro Litteraire</title> from 
+					 Kearney and Florence Lafon, reprinted in
+					 <title>Figaro Litteraire</title> from
 					 <title>Poems 1966-1984</title>, 1 September 1989</unittitle>
             </did>
           </c03>
@@ -7648,7 +7656,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">30</container>
-              <unittitle>Book cover quote, 
+              <unittitle>Book cover quote,
 					 <title>An Artificial Wilderness</title> by Sven Birkerts,
 					 paperback edition, 1990</unittitle>
             </did>
@@ -7657,7 +7665,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">31</container>
-              <unittitle>Excerpt from 
+              <unittitle>Excerpt from
 					 <title>The Cure at Troy: A Version of Sophocles'
 						Philoctetes</title>, reprinted on card sent to friends and members of the
 					 Fellowship of Reconciliation, ca. 1990</unittitle>
@@ -7667,9 +7675,9 @@
             <did>
               <container type="box">74</container>
               <container type="folder">32</container>
-              <unittitle>"The Ship in the Air," from 
+              <unittitle>"The Ship in the Air," from
 					 <title>Lightenings</title>, reprinted with photograph of Seamus
-					 Heaney, photocopied from 
+					 Heaney, photocopied from
 					 <title>Edge</title>, number 3, Autumn, 1990</unittitle>
             </did>
           </c03>
@@ -7677,8 +7685,8 @@
             <did>
               <container type="box">74</container>
               <container type="folder">33</container>
-              <unittitle>"The Ash Plant" (from 
-					 <title>Seeing Things</title>, 1991), reprinted in 
+              <unittitle>"The Ash Plant" (from
+					 <title>Seeing Things</title>, 1991), reprinted in
 					 <title>Los Angeles Times</title>, 9 February 1992</unittitle>
             </did>
           </c03>
@@ -7694,7 +7702,7 @@
               <container type="box">74</container>
               <container type="folder">34</container>
               <unittitle>"Light Finally Enters the Black Hole," article
-					 photocopied from 
+					 photocopied from
 					 <title>Sunday Tribune</title>, 4 September 1994</unittitle>
             </did>
           </c03>
@@ -7702,7 +7710,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">35</container>
-              <unittitle>"An Aisling in the Burren," p. 9, (from 
+              <unittitle>"An Aisling in the Burren," p. 9, (from
 					 <title>Station Island</title>), and "Postscript," p.15, Burren
 					 College of Art catalog, ca. 1994</unittitle>
             </did>
@@ -7711,7 +7719,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">36</container>
-              <unittitle>"Mycenae Lookout," 
+              <unittitle>"Mycenae Lookout,"
 					 <title>Times Literary Supplement</title>, proof,
 					 1994</unittitle>
             </did>
@@ -7721,7 +7729,7 @@
               <container type="box">74</container>
               <container type="folder">37</container>
               <unittitle>Untitled poem for Prof. Ronald Schuchard, reprinted in
-					 
+
 					 <title>Innovation with Tradition: Newsletter of the University
 						of London Library</title>, no. 1, Spring 1994 [photocopy]</unittitle>
             </did>
@@ -7730,7 +7738,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">38</container>
-              <unittitle>"Doubletake," two verses, reprinted from 
+              <unittitle>"Doubletake," two verses, reprinted from
 					 <title>The Cure at Troy</title>, Christmas card printed for
 					 Sister Sarah Clarke, ca. 1995</unittitle>
             </did>
@@ -7739,7 +7747,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">39</container>
-              <unittitle>"Frandskap," printed as part of a news article, [ 
+              <unittitle>"Frandskap," printed as part of a news article, [
 					 <title>SDS</title>, 10 December 1995]</unittitle>
             </did>
           </c03>
@@ -7774,8 +7782,8 @@
             <did>
               <container type="box">74</container>
               <container type="folder">43</container>
-              <unittitle>"The Last Survivor" [translation of 
-					 <title>Beowulf</title>, lines 2241-70], 
+              <unittitle>"The Last Survivor" [translation of
+					 <title>Beowulf</title>, lines 2241-70],
 					 <title>The Times Literary Supplement</title>, number 4937, 14
 					 November 1997</unittitle>
             </did>
@@ -7784,7 +7792,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">44</container>
-              <unittitle>"Lightenings," excerpt from 
+              <unittitle>"Lightenings," excerpt from
 					 <title>Seeing Things</title> (1991), reprinted in Pushkin
 					 Prizes, 10th Anniversary Dinner program, 25 November 1997</unittitle>
             </did>
@@ -7793,7 +7801,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">45</container>
-              <unittitle>"The Reciprocity of Tears," article photocopied from 
+              <unittitle>"The Reciprocity of Tears," article photocopied from
 					 <title>The Irish Times</title>, 22 August 1998</unittitle>
             </did>
           </c03>
@@ -7801,8 +7809,8 @@
             <did>
               <container type="box">74</container>
               <container type="folder">46</container>
-              <unittitle>"On First Looking into Ted Hughes's 
-					 <title>Birthday Letters</title>," poem photocopied from 
+              <unittitle>"On First Looking into Ted Hughes's
+					 <title>Birthday Letters</title>," poem photocopied from
 					 <title>The New Yorker</title>, 5 October 1998</unittitle>
             </did>
           </c03>
@@ -7826,7 +7834,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">49</container>
-              <unittitle>"At Toomebridge" and "The Augean Stables," 
+              <unittitle>"At Toomebridge" and "The Augean Stables,"
 					 <title>College Green</title>, September 2000</unittitle>
             </did>
           </c03>
@@ -7842,7 +7850,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">51</container>
-              <unittitle>"Shoreline," excerpt from 
+              <unittitle>"Shoreline," excerpt from
 					 <title>Door into the Dark</title>, proposed text and layout for
 					 2001 Centurian Medal, telefacsimile, 15 November 2000</unittitle>
             </did>
@@ -7851,7 +7859,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">52</container>
-              <unittitle>"Follower," 1966, in 
+              <unittitle>"Follower," 1966, in
 					 <title>Arrows of Desire: A Draft of Poems for Series
 						II</title>, Optic Nerve Productions, February 2003 </unittitle>
             </did>
@@ -7869,7 +7877,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">54</container>
-              <unittitle>"…is always political," book review, 
+              <unittitle>"…is always political," book review,
 					 <title>Essays on Politics and Literature</title> by Bernard
 					 Crick, photocopied from unknown source, undated</unittitle>
             </did>
@@ -7887,7 +7895,7 @@
               <container type="box">74</container>
               <container type="folder">56</container>
               <unittitle>"In a Basilica," poem reprinted in unknown source from
-					 
+
 					 <title>Observer</title>, unknown date</unittitle>
             </did>
           </c03>
@@ -7896,7 +7904,7 @@
               <container type="box">74</container>
               <container type="folder">57</container>
               <unittitle>"Morte d'un Naturaliste, French translation,
-					 photocopied from 
+					 photocopied from
 					 <title>Lettre Internationale</title>, unknown date</unittitle>
             </did>
           </c03>
@@ -7905,7 +7913,7 @@
               <container type="box">74</container>
               <container type="folder">58</container>
               <unittitle>"Un Vis de Gelozie" ["A Dream of Jealousy"],
-					 translated into Romanian, 
+					 translated into Romanian,
 					 <title>Suplimentul literar-artistic al Seinteii
 						tineretului</title>, unknown date</unittitle>
             </did>
@@ -7914,7 +7922,7 @@
             <did>
               <container type="box">74</container>
               <container type="folder">59</container>
-              <unittitle>"The Vulgar Muse," review of 
+              <unittitle>"The Vulgar Muse," review of
 					 <title>The Faber Book of Vernacular Verse</title>, edited by
 					 Tom Paulin, photocopy from unknown source, undated</unittitle>
             </did>
@@ -7923,7 +7931,7 @@
         <c02 level="subseries" id="heaney960_subseries3.2">
           <did>
             <unitid>Subseries 3.2</unitid>
-            <unittitle type="245$a">Writings about Seamus Heaney, 
+            <unittitle type="245$a">Writings about Seamus Heaney,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1965/2004">1965-2004</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 75 - 79; OP 10-12</physdesc>
           </did>
@@ -7950,7 +7958,7 @@
               <container type="box">75</container>
               <container type="folder">1</container>
               <unittitle>Ross, Alan, "Poetry: Ginsburg, Snyder, Heaney,
-					 Ramanujan," 
+					 Ramanujan,"
 					 <title>London Magazine</title>, August 1966</unittitle>
             </did>
           </c03>
@@ -7958,7 +7966,7 @@
             <did>
               <container type="box">75</container>
               <container type="folder">2</container>
-              <unittitle>Clarke, Austin, "Seamus Heaney, 
+              <unittitle>Clarke, Austin, "Seamus Heaney,
 					 <title>Contemporary Poets</title>, ca. mid 1970s</unittitle>
             </did>
           </c03>
@@ -7967,7 +7975,7 @@
               <container type="box">75</container>
               <container type="folder">3</container>
               <unittitle>McCormack, W.J., "Straight Lines Become Circles: The
-					 Poetry of Seamus Heaney and Derek Mahon," 
+					 Poetry of Seamus Heaney and Derek Mahon,"
 					 <title>Acorn</title>, Spring 1972</unittitle>
             </did>
           </c03>
@@ -7975,7 +7983,7 @@
             <did>
               <container type="box">75</container>
               <container type="folder">4</container>
-              <unittitle>"Top 100," 
+              <unittitle>"Top 100,"
 					 <title>Irish America</title>, March 1972</unittitle>
             </did>
           </c03>
@@ -7983,7 +7991,7 @@
             <did>
               <container type="box">75</container>
               <container type="folder">5</container>
-              <unittitle>Silkin, Jon, "Bedding the Locale," 
+              <unittitle>Silkin, Jon, "Bedding the Locale,"
 					 <title>New Blackfriars</title>, March 1973</unittitle>
             </did>
           </c03>
@@ -7992,7 +8000,7 @@
               <container type="box">75</container>
               <container type="folder">6</container>
               <unittitle>Bidwell, Bruce, "The Soft Grip on the Sick Place: The
-					 Bogland Poetry of Seamus Heaney," 
+					 Bogland Poetry of Seamus Heaney,"
 					 <title>The Dublin Magazine</title>, Autumn/Winter
 					 1973/1974</unittitle>
             </did>
@@ -8001,7 +8009,7 @@
             <did>
               <container type="box">75</container>
               <container type="folder">7</container>
-              <unittitle>Brown, Terence, "Contemporary Irish Poetry," 
+              <unittitle>Brown, Terence, "Contemporary Irish Poetry,"
 					 <title>Ireland Today</title>, number 884, March
 					 1976</unittitle>
             </did>
@@ -8010,7 +8018,7 @@
             <did>
               <container type="box">75</container>
               <container type="folder">8</container>
-              <unittitle>Fitzgerald, Robert, "Seamus Heaney: An Appreciation," 
+              <unittitle>Fitzgerald, Robert, "Seamus Heaney: An Appreciation,"
 					 <title>The New Republic</title>, 27 March 1976</unittitle>
             </did>
           </c03>
@@ -8019,7 +8027,7 @@
               <container type="box">75</container>
               <container type="folder">9</container>
               <unittitle>Sharratt, Bernard, "Memories of Dying: The Poetry of
-					 Seamus Heaney," 
+					 Seamus Heaney,"
 					 <title>New Blackfriars</title>, volume 57, number 674, July
 					 1976</unittitle>
             </did>
@@ -8029,7 +8037,7 @@
               <container type="box">75</container>
               <container type="folder">10</container>
               <unittitle>Sharratt, Bernard, "Memories of Dying: The Poetry of
-					 Seamus Heaney II," 
+					 Seamus Heaney II,"
 					 <title>New Blackfriars</title>, volume 57, number 675, August
 					 1976, with uncorrected galley</unittitle>
             </did>
@@ -8038,7 +8046,7 @@
             <did>
               <container type="box">75</container>
               <container type="folder">11</container>
-              <unittitle>Broadbridge, Edward, editor, 
+              <unittitle>Broadbridge, Edward, editor,
 					 <title>Seamus Heaney</title>, Skoleradioen, 1977
 					 [photocopy]</unittitle>
             </did>
@@ -8047,8 +8055,8 @@
             <did>
               <container type="box">75</container>
               <container type="folder">12</container>
-              <unittitle>O'Brien, Darcy," In Ireland After 
-					 <title>A Portrait</title>," photocopied from 
+              <unittitle>O'Brien, Darcy," In Ireland After
+					 <title>A Portrait</title>," photocopied from
 					 <title>Approaches to Joyce's Portrait</title>, edited by Thomas
 					 F. Staley and Bernard Benstock, 1977</unittitle>
             </did>
@@ -8058,7 +8066,7 @@
               <container type="box">75</container>
               <container type="folder">13</container>
               <unittitle>Donoghue, Denis, "Now and in Ireland: The Literature
-					 of Trouble," 
+					 of Trouble,"
 					 <title>Hibernia</title>, 11 May 1978</unittitle>
             </did>
           </c03>
@@ -8075,7 +8083,7 @@
             <did>
               <container type="box">75</container>
               <container type="folder">15</container>
-              <unittitle>Mills, Georgina, "Interview with Seamus Heaney," 
+              <unittitle>Mills, Georgina, "Interview with Seamus Heaney,"
 					 <title>Strawberry Fare</title>, Autumn 1980</unittitle>
             </did>
           </c03>
@@ -8084,7 +8092,7 @@
               <container type="box">75</container>
               <container type="folder">16</container>
               <unittitle>Schirmer, Gregory A. "Seamus Heaney's Salvation in
-					 Surrender," 
+					 Surrender,"
 					 <title>Erie-Ireland</title>, Winter 1980</unittitle>
             </did>
           </c03>
@@ -8093,7 +8101,7 @@
               <container type="box">75</container>
               <container type="folder">17</container>
               <unittitle>Waterman, Andrew, "Somewhere, Out There, Beyond: The
-					 Poetry of Seamus Heaney and Derek Mahon," 
+					 Poetry of Seamus Heaney and Derek Mahon,"
 					 <title>Poetry Nation Review</title>, volume 8, number 1,
 					 1981</unittitle>
             </did>
@@ -8103,7 +8111,7 @@
               <container type="box">75</container>
               <container type="folder">18</container>
               <unittitle>Des Pres, Terrance, "Seamus Heaney: Politics and
-					 Poetics," 
+					 Poetics,"
 					 <title>Harper's</title>, March 1981</unittitle>
             </did>
           </c03>
@@ -8112,7 +8120,7 @@
               <container type="box">75</container>
               <container type="folder">19</container>
               <unittitle>Deane, Seamus, "Contemporary Writers Series: 1, Seamus
-					 Heaney," 
+					 Heaney,"
 					 <title>Ireland Today</title>, number 977, June 1981</unittitle>
             </did>
           </c03>
@@ -8121,7 +8129,7 @@
               <container type="box">75</container>
               <container type="folder">20</container>
               <unittitle>McKeen, Catherine, "Seamus Heaney: The Eloquent
-					 Earth," 
+					 Earth,"
 					 <title>America</title>, June 20, 1981</unittitle>
             </did>
           </c03>
@@ -8131,7 +8139,7 @@
               <container type="folder">21</container>
               <unittitle>Hill, Mark and Eric Hadley, "Seamus Heaney and
 					 Translation: Two Articles: Seamus Heaney and Charles Baudelaire," by Hill and
-					 "Heaney and Dante" by Hadley, 
+					 "Heaney and Dante" by Hadley,
 					 <title>The Present Tense</title>, Winter 1981</unittitle>
             </did>
           </c03>
@@ -8148,7 +8156,7 @@
               <container type="box">75</container>
               <container type="folder">23</container>
               <unittitle>Parkinson, Thomas, "Serious Work: The Poetry and Prose
-					 of Seamus Heaney," 
+					 of Seamus Heaney,"
 					 <title>The Southern Review</title>, Spring 1982</unittitle>
             </did>
           </c03>
@@ -8157,7 +8165,7 @@
               <container type="box">75</container>
               <container type="folder">24</container>
               <unittitle>Mahony, Phillip, "Seamus Heaney and the Violence in
-					 Northern Ireland," 
+					 Northern Ireland,"
 					 <title>The Journal of Irish Literature</title>, September
 					 1982</unittitle>
             </did>
@@ -8167,7 +8175,7 @@
               <container type="box">75</container>
               <container type="folder">25</container>
               <unittitle>Kearney, Timothy, "'Befitting Emblems of Adversity':
-					 Seamus Heaney, The Poet and the Troubles," 
+					 Seamus Heaney, The Poet and the Troubles,"
 					 <title>Threshold</title>, Winter 1982</unittitle>
             </did>
           </c03>
@@ -8176,7 +8184,7 @@
               <container type="box">75</container>
               <container type="folder">26</container>
               <unittitle>Quinlan, Kieran, "Unearthing a Terrible Beauty: Seamus
-					 Heaney's Victims of Violence," 
+					 Heaney's Victims of Violence,"
 					 <title>World Literature Today</title>, Summer 1983</unittitle>
             </did>
           </c03>
@@ -8184,7 +8192,7 @@
             <did>
               <container type="box">76</container>
               <container type="folder">1</container>
-              <unittitle>Kelly, Conor, "Seamus Heaney: Naming His Nation," 
+              <unittitle>Kelly, Conor, "Seamus Heaney: Naming His Nation,"
 					 <title>Magill</title>, volume 7, number 5, Christmas
 					 1983</unittitle>
             </did>
@@ -8195,7 +8203,7 @@
               <container type="folder">2</container>
               <unittitle>Johnston, Conor, "Poetry and Politics: Responses to
 					 the Northern Ireland Crisis in the Poetry of John Montague, Derek Mahon, and
-					 Seamus Heaney," 
+					 Seamus Heaney,"
 					 <title>Poesis</title>, 1984</unittitle>
             </did>
           </c03>
@@ -8204,7 +8212,7 @@
               <container type="box">76</container>
               <container type="folder">3</container>
               <unittitle>Dodsworth, Martin, "Heaney's Poetry: Ambiguous Space,"
-					 
+
 					 <title>Poetry Nation Review</title>, volume 12, number 2,
 					 1985</unittitle>
             </did>
@@ -8214,7 +8222,7 @@
               <container type="box">76</container>
               <container type="folder">4</container>
               <unittitle>Grant, Damian, "The Voice of History in British
-					 Poetry, 1970-1984," 
+					 Poetry, 1970-1984,"
 					 <title>E'tudes Anglaises</title>," volume 38, number 2,
 					 1985</unittitle>
             </did>
@@ -8223,7 +8231,7 @@
             <did>
               <container type="box">76</container>
               <container type="folder">5</container>
-              <unittitle>McClatchy, J.D., "Poetry Chronicle," 
+              <unittitle>McClatchy, J.D., "Poetry Chronicle,"
 					 <title>The Hudson Review</title>, ca. 1985</unittitle>
             </did>
           </c03>
@@ -8231,7 +8239,7 @@
             <did>
               <container type="box">76</container>
               <container type="folder">6</container>
-              <unittitle>Buttel, Robert, "Seamus Heaney," 
+              <unittitle>Buttel, Robert, "Seamus Heaney,"
 					 <title>Dictionary of Literary Biography</title>, volume 40,
 					 1985</unittitle>
             </did>
@@ -8241,7 +8249,7 @@
               <container type="box">76</container>
               <container type="folder">7</container>
               <unittitle>Lehman, David and Donna Foote, "The Ulster
-					 Renaissance," 
+					 Renaissance,"
 					 <title>Newsweek</title>, 12 May 1986</unittitle>
             </did>
           </c03>
@@ -8249,7 +8257,7 @@
             <did>
               <container type="box">76</container>
               <container type="folder">8</container>
-              <unittitle>Lehr, Dick, "Schultz Warns against U.S. Isolation," 
+              <unittitle>Lehr, Dick, "Schultz Warns against U.S. Isolation,"
 					 <title>The Boston Globe</title>, 6 September 1986</unittitle>
             </did>
           </c03>
@@ -8257,7 +8265,7 @@
             <did>
               <container type="box">76</container>
               <container type="folder">9</container>
-              <unittitle>Beisch, June, "An Interview with Seamus Heaney," 
+              <unittitle>Beisch, June, "An Interview with Seamus Heaney,"
 					 <title>The Literary Review</title>, 1986</unittitle>
             </did>
           </c03>
@@ -8265,7 +8273,7 @@
             <did>
               <container type="box">76</container>
               <container type="folder">10</container>
-              <unittitle>Murphy, Daniel, et al, "Seamus Heaney," 
+              <unittitle>Murphy, Daniel, et al, "Seamus Heaney,"
 					 <title>Education and the Arts: The Educational Autobiographies
 						of Contemporary Irish Poets, Novelists, Dramatists, Musicians, Painters and
 						Sculptors</title>, Trinity College, Dublin, 1987</unittitle>
@@ -8276,7 +8284,7 @@
               <container type="box">76</container>
               <container type="folder">11</container>
               <unittitle>Furomoto, Taketoshi, "A Reading of Seamus Heaney's
-					 'Kinship,'" 
+					 'Kinship,'"
 					 <title>Kobe Miscellany</title>, 1988</unittitle>
             </did>
           </c03>
@@ -8285,7 +8293,7 @@
               <container type="box">76</container>
               <container type="folder">12</container>
               <unittitle>Toibin, Colm, "Special Award: Seamus Heaney, Poet's
-					 Progress," 
+					 Progress,"
 					 <title>The Sunday Independent</title>, Color Extra, ca.
 					 1989</unittitle>
             </did>
@@ -8295,7 +8303,7 @@
               <container type="box">76</container>
               <container type="folder">13</container>
               <unittitle>Waterman, Andrew, "Keep It in the Six Counties,
-					 Heaney!" 
+					 Heaney!"
 					 <title>Poetry Nation Review</title>, volume 15, number 6,
 					 1989</unittitle>
             </did>
@@ -8322,7 +8330,7 @@
               <container type="box">76</container>
               <container type="folder">16</container>
               <unittitle>Cosgrove, Brian, "Seamus Heaney and the Claims of
-					 Irish Nationalism," 
+					 Irish Nationalism,"
 					 <title>Studies: An Irish Quarterly Review</title>, Autumn
 					 1990</unittitle>
             </did>
@@ -8331,7 +8339,7 @@
             <did>
               <container type="box">76</container>
               <container type="folder">17</container>
-              <unittitle>Midzunoe, Yuichi, 
+              <unittitle>Midzunoe, Yuichi,
 					 <title>Japanese Translation of Seamus Heaney's 'Glanmore
 						Sonnets' and Others</title>, 1990</unittitle>
             </did>
@@ -8340,7 +8348,7 @@
             <did>
               <container type="box">76</container>
               <container type="folder">18</container>
-              <unittitle>Bayley, John, "Godmother of the Salmon," 
+              <unittitle>Bayley, John, "Godmother of the Salmon,"
 					 <title>London Review of Books</title>, 9 July 1992</unittitle>
             </did>
           </c03>
@@ -8348,7 +8356,7 @@
             <did>
               <container type="box">76</container>
               <container type="folder">19</container>
-              <unittitle>Anonymous, "Seamus Heaney," 
+              <unittitle>Anonymous, "Seamus Heaney,"
 					 <title>The International Who's Who,
 						1992-1998</title></unittitle>
             </did>
@@ -8358,7 +8366,7 @@
               <container type="box">76</container>
               <container type="folder">20</container>
               <unittitle>Crowder, Ashley Bland, "Seamus Heaney's Schoolboy:
-					 'Death of a Naturalist,' Birth of a Moralist," 
+					 'Death of a Naturalist,' Birth of a Moralist,"
 					 <title>Poets and Critics, Their Means and Meanings</title>,
 					 1993</unittitle>
             </did>
@@ -8367,7 +8375,7 @@
             <did>
               <container type="box">76</container>
               <container type="folder">21</container>
-              <unittitle>O'Donoghue, Bernard, "Our Nobel Laureate," 
+              <unittitle>O'Donoghue, Bernard, "Our Nobel Laureate,"
 					 <title>Oxford Magazine</title>, 1995</unittitle>
             </did>
           </c03>
@@ -8377,7 +8385,7 @@
               <container type="folder">22</container>
               <unittitle>Fumagalli, Maria Christina, "The Eternal Fountain of
 					 Poetic Imagination: Seamus Heaney's Translation of Juan de la Cruz's 'Cantar de
-					 Alma que se Huelga de Conoscer a Dios por Fee,'" 
+					 Alma que se Huelga de Conoscer a Dios por Fee,'"
 					 <title>Agenda</title>, volume 35, number 2, Summer
 					 1997</unittitle>
             </did>
@@ -8386,8 +8394,8 @@
             <did>
               <container type="box">76</container>
               <container type="folder">23</container>
-              <unittitle>O'Donoghue, Bernard, review of 
-					 <title>Seamus Heaney</title> by Helen Vendler, reprinted from 
+              <unittitle>O'Donoghue, Bernard, review of
+					 <title>Seamus Heaney</title> by Helen Vendler, reprinted from
 					 <title>Essays in Criticism</title>, volume 55, number 1,
 					 January 2000</unittitle>
             </did>
@@ -8397,7 +8405,7 @@
               <container type="box">76</container>
               <container type="folder">24</container>
               <unittitle>Anonymous, "Seamus Heaney," biography printed in the
-					 program for the Second Meeting of Poets, 
+					 program for the Second Meeting of Poets,
 					 <title>Krakow</title>, 10-13 November 2000</unittitle>
             </did>
           </c03>
@@ -8406,7 +8414,7 @@
               <container type="box">76</container>
               <container type="folder">25</container>
               <unittitle>Reddy, Srikanth, "The Bastion of Sensation: Stationing
-					 the Self in the Poetry of Seamus Heaney," 
+					 the Self in the Poetry of Seamus Heaney,"
 					 <title>Journal x</title>, ca. Spring 2001</unittitle>
             </did>
           </c03>
@@ -8833,7 +8841,7 @@
             <did>
               <container type="box">79</container>
               <container type="folder">1</container>
-              <unittitle>Cartoon, 
+              <unittitle>Cartoon,
 					 <title>The Chronicle of Higher Education</title>,
 					 undated</unittitle>
             </did>
@@ -8891,7 +8899,7 @@
         <c02 level="subseries" id="heaney960_subseries3.3">
           <did>
             <unitid>Subseries 3.3</unitid>
-            <unittitle type="245$a">Reviews, 
+            <unittitle type="245$a">Reviews,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1966/2002">1966-2002</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 80 - 83</physdesc>
           </did>
@@ -9183,7 +9191,7 @@
         <c02 level="subseries" id="heaney960_subseries3.4">
           <did>
             <unitid>Subseries 3.4</unitid>
-            <unittitle type="245$a">Collected printed materials, 
+            <unittitle type="245$a">Collected printed materials,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1958/2003">1958-2003</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 84 – 88; OP13</physdesc>
           </did>
@@ -9224,7 +9232,7 @@
             <did>
               <container type="box">84</container>
               <container type="folder">3</container>
-              <unittitle>Alcorn, Alfred, "In the Kingdom of Nabokovia," 
+              <unittitle>Alcorn, Alfred, "In the Kingdom of Nabokovia,"
 					 <title>Harvard Review</title>, proof, undated</unittitle>
             </did>
           </c03>
@@ -9232,7 +9240,7 @@
             <did>
               <container type="box">84</container>
               <container type="folder">4</container>
-              <unittitle>Antonaides, Anthony C., 
+              <unittitle>Antonaides, Anthony C.,
 					 <title>Poetics of Architecture, Theory of Design</title>,
 					 Chapter 6: "Poetry and Literature," photocopy</unittitle>
             </did>
@@ -9273,7 +9281,7 @@
             <did>
               <container type="box">84</container>
               <container type="folder">9</container>
-              <unittitle>Beckett, Samuel, translator, 
+              <unittitle>Beckett, Samuel, translator,
 					 <title>Anthology of Mexican Poetry</title>, Indiana University
 					 Press, 1958, photocopy</unittitle>
             </did>
@@ -9282,7 +9290,7 @@
             <did>
               <container type="box">84</container>
               <container type="folder">10</container>
-              <unittitle>Bosch, Daniel, 
+              <unittitle>Bosch, Daniel,
 					 <title>Homages &amp; Elegies</title>, Chapbook with holograph
 					 note laid in, signed 1998</unittitle>
             </did>
@@ -9292,7 +9300,7 @@
               <container type="box">84</container>
               <container type="folder">11</container>
               <unittitle>Braidwood, J., "Terms for 'Left-handed' in the Ulster
-					 Dialects," offprint from 
+					 Dialects," offprint from
 					 <title>Ulster Folklife</title>, volume 18, 1972,
 					 inscribed</unittitle>
             </did>
@@ -9310,7 +9318,7 @@
               <container type="box">84</container>
               <container type="folder">13</container>
               <unittitle>Cook, Eleanor, "'A Seeing and Unseeing in the Eye':
-					 Canadian Literature and Sense of Place," offprint from 
+					 Canadian Literature and Sense of Place," offprint from
 					 <title>Daedalus</title>, Fall, 1988</unittitle>
             </did>
           </c03>
@@ -9318,7 +9326,7 @@
             <did>
               <container type="box">84</container>
               <container type="folder">14</container>
-              <unittitle>Davitt, Michael, Two poems in 
+              <unittitle>Davitt, Michael, Two poems in
 					 <title>Innti</title> 10, inscribed and signed by the author,
 					 1986</unittitle>
             </did>
@@ -9327,9 +9335,9 @@
             <did>
               <container type="box">84</container>
               <container type="folder">15</container>
-              <unittitle>Dawe, Gerald, "Telling a Story: Beyond 
+              <unittitle>Dawe, Gerald, "Telling a Story: Beyond
 					 <title>Across a Roaring Hill</title>: the Protestant
-					 Imagination in Modern Ireland," offprint from 
+					 Imagination in Modern Ireland," offprint from
 					 <title>Studies</title>, Summer 1988, signed</unittitle>
             </did>
           </c03>
@@ -9371,7 +9379,7 @@
               <container type="box">84</container>
               <container type="folder">20</container>
               <unittitle>Engel, Moore, "An Exemplary Edmund Wilson," offprint
-					 from 
+					 from
 					 <title>The Yale Review</title>, 1987, inscribed by the
 					 author</unittitle>
             </did>
@@ -9381,7 +9389,7 @@
               <container type="box">84</container>
               <container type="folder">21</container>
               <unittitle>Fanger, Donald, "Conflicting Imperatives in the Case
-					 of the Russian Writer: The Case of Tertz/Sinyavsky," offprint from 
+					 of the Russian Writer: The Case of Tertz/Sinyavsky," offprint from
 					 <title>Literature and History: Theoretical Problems and Russian
 						Case Studies</title>, 1986, inscribed</unittitle>
             </did>
@@ -9391,7 +9399,7 @@
               <container type="box">84</container>
               <container type="folder">22</container>
               <unittitle>Foster, John Wilson, "A Redefinition of Topographical
-					 Poetry," offprint from 
+					 Poetry," offprint from
 					 <title>Journal of English and Germanic Philology</title>,
 					 volume 69, number 3, July 1970</unittitle>
             </did>
@@ -9409,7 +9417,7 @@
               <container type="box">84</container>
               <container type="folder">24</container>
               <unittitle>Gatton, John Spalding, "The Sunflower Saint: Oscar
-					 Wilde in Louisville," 
+					 Wilde in Louisville,"
 					 <title>The Filson Club History Quarterly</title>, volume 52,
 					 number 1, January 1978, photocopy</unittitle>
             </did>
@@ -9418,7 +9426,7 @@
             <did>
               <container type="box">84</container>
               <container type="folder">25</container>
-              <unittitle>Gioia, Dana, "Poetry Chronicle," offprint, 
+              <unittitle>Gioia, Dana, "Poetry Chronicle," offprint,
 					 <title>The Hudson Review</title>, volume 34, number 4, Winter
 					 1981-82, inscribed by the author</unittitle>
             </did>
@@ -9468,7 +9476,7 @@
             <did>
               <container type="box">84</container>
               <container type="folder">31</container>
-              <unittitle>Johnston, Carol Ann, 
+              <unittitle>Johnston, Carol Ann,
 					 <title>Eudora Welty: A Study of the Short Fiction</title>,
 					 Twayne Publishers, 1997, photocopy</unittitle>
             </did>
@@ -9520,7 +9528,7 @@
               <container type="box">84</container>
               <container type="folder">37</container>
               <unittitle>Little, Graham, "The Flag My Father Wore," typescript
-					 for 
+					 for
 					 <title>Eureka Street</title>, June 1992</unittitle>
             </did>
           </c03>
@@ -9529,7 +9537,7 @@
               <container type="box">84</container>
               <container type="folder">38</container>
               <unittitle>Mackle, Henry, "Fairies and Leprechauns," photocopied
-					 from 
+					 from
 					 <title>Ulster Life</title>, volume 10, 1964, inscribed and
 					 signed by author</unittitle>
             </did>
@@ -9554,7 +9562,7 @@
             <did>
               <container type="box">84</container>
               <container type="folder">41</container>
-              <unittitle>Matthew, H.C.G., "Leslie Stephen and the New 
+              <unittitle>Matthew, H.C.G., "Leslie Stephen and the New
 					 <title>Dictionary of National Biography</title>," Leslie
 					 Stephen Lecture, Cambridge University, 1995</unittitle>
             </did>
@@ -9581,7 +9589,7 @@
             <did>
               <container type="box">84</container>
               <container type="folder">44</container>
-              <unittitle>Murphy, Hayden, " 
+              <unittitle>Murphy, Hayden, "
 					 <title>Broadsheet</title> 1967-1978: Poetry, Prose, and
 					 Graphics," exhibition catalog, National Library of Scotland, 1983</unittitle>
             </did>
@@ -9599,7 +9607,7 @@
               <container type="box">84</container>
               <container type="folder">46</container>
               <unittitle>Murphy, Hayden, "Bloomsday Message, 2002" signed by
-					 the author, number 19 0f 50 with unpublished review of 
+					 the author, number 19 0f 50 with unpublished review of
 					 <title>Collected Poems</title> and obituary of Michael
 					 Hartnett, </unittitle>
             </did>
@@ -9609,7 +9617,7 @@
               <container type="box">85</container>
               <container type="folder">1</container>
               <unittitle>Narita, Tatsushi, "Eliot and His First Beating of the
-					 'Bhghong' – A Brief Treatise on His View of Poetry," offprint from 
+					 'Bhghong' – A Brief Treatise on His View of Poetry," offprint from
 					 <title>Studies in Social Sciences and Humanities</title>,
 					 volume 32, March 1988</unittitle>
             </did>
@@ -9619,7 +9627,7 @@
               <container type="box">85</container>
               <container type="folder">2</container>
               <unittitle>Narita, Tatsushi, "T.S. Eliot and His St. Louis Area
-					 Background," offprint from 
+					 Background," offprint from
 					 <title>Studies in Social Sciences and Humanities</title>,
 					 volume 33, March 1989</unittitle>
             </did>
@@ -9685,7 +9693,7 @@
             <did>
               <container type="box">85</container>
               <container type="folder">10</container>
-              <unittitle>Pheathan, Ellen, 
+              <unittitle>Pheathan, Ellen,
 					 <title>Fifty Contemporary Poetry Books</title>, 1998, with
 					 letter</unittitle>
             </did>
@@ -9695,7 +9703,7 @@
               <container type="box">85</container>
               <container type="folder">11</container>
               <unittitle>Printz-Pahlson, Goran, "Interview with Raymond
-					 Williams (1967)," offprint from 
+					 Williams (1967)," offprint from
 					 <title>Comparative Criticism</title>, volume II, inscribed by
 					 author</unittitle>
             </did>
@@ -9704,7 +9712,7 @@
             <did>
               <container type="box">85</container>
               <container type="folder">12</container>
-              <unittitle>Rauchbauer, Otto, editor, "An Introductory Sketch", 
+              <unittitle>Rauchbauer, Otto, editor, "An Introductory Sketch",
 					 <title>Ancestral Voices: The Big House in Anglo-Irish
 						Literature</title>, offprint, 1992</unittitle>
             </did>
@@ -9713,7 +9721,7 @@
             <did>
               <container type="box">85</container>
               <container type="folder">13</container>
-              <unittitle>Ruark, Gibbons, 
+              <unittitle>Ruark, Gibbons,
 					 <title>Rescue the Perishing</title>, advance uncorrected
 					 proofs, 1991</unittitle>
             </did>
@@ -9738,7 +9746,7 @@
             <did>
               <container type="box">85</container>
               <container type="folder">16</container>
-              <unittitle>Sands, Bobby, 
+              <unittitle>Sands, Bobby,
 					 <title>The Diary of Bobby Sands</title>, the first seventeen
 					 days of Bobby's H-Block hunger strike to the death, 1981</unittitle>
             </did>
@@ -9748,7 +9756,7 @@
               <container type="box">85</container>
               <container type="folder">17</container>
               <unittitle>Schuchard, Ronald, "'As Regarding Rhythm:' Yeats and
-					 the Imagists," photocopied from 
+					 the Imagists," photocopied from
 					 <title>Yeats: An Annual of Critical and Textual
 						Studies</title>, volume II, 1984, inscribed and signed by author</unittitle>
             </did>
@@ -9757,7 +9765,7 @@
             <did>
               <container type="box">85</container>
               <container type="folder">18</container>
-              <unittitle>Shell, Marc, "OK; or Handel with Care," offprint from 
+              <unittitle>Shell, Marc, "OK; or Handel with Care," offprint from
 					 <title>Common Knowledge</title>, volume 3, Winter 1997,
 					 inscribed by author</unittitle>
             </did>
@@ -9766,7 +9774,7 @@
             <did>
               <container type="box">85</container>
               <container type="folder">19</container>
-              <unittitle>Stack, Tom, 
+              <unittitle>Stack, Tom,
 					 <title>No Earthly Estate: The Religious Poetry of Patrick
 						Kavanagh</title>, galley proofs, pp. 1-99 [1 of 3]</unittitle>
             </did>
@@ -9775,7 +9783,7 @@
             <did>
               <container type="box">85</container>
               <container type="folder">20</container>
-              <unittitle>Stack, Tom, 
+              <unittitle>Stack, Tom,
 					 <title>No Earthly Estate: The Religious Poetry of Patrick
 						Kavanagh</title>, galley proofs, pp. 100-173 [2 of 3]</unittitle>
             </did>
@@ -9784,7 +9792,7 @@
             <did>
               <container type="box">85</container>
               <container type="folder">21</container>
-              <unittitle>Stack, Tom, 
+              <unittitle>Stack, Tom,
 					 <title>No Earthly Estate: The Religious Poetry of Patrick
 						Kavanagh</title>, galley proofs, pp. 108-221 [3 of 3]</unittitle>
             </did>
@@ -9809,7 +9817,7 @@
             <did>
               <container type="box">85</container>
               <container type="folder">24</container>
-              <unittitle>Toraiwa, Masazumi, 
+              <unittitle>Toraiwa, Masazumi,
 					 <title>Five Elements</title>, photocopied poetry collection,
 					 undated</unittitle>
             </did>
@@ -9843,7 +9851,7 @@
               <container type="box">85</container>
               <container type="folder">28</container>
               <unittitle>Vierek, Peter, "Anti-Form or Neo: A Curse on Both
-					 Houses," photocopied from 
+					 Houses," photocopied from
 					 <title>Parnassus Magazine</title>, Spring, 1993</unittitle>
             </did>
           </c03>
@@ -9851,7 +9859,7 @@
             <did>
               <container type="box">85</container>
               <container type="folder">29</container>
-              <unittitle>Warren, Rosanna, review of 
+              <unittitle>Warren, Rosanna, review of
 					 <title>Beyond Amazement: New Essays on John Ashbery</title>,
 					 David Lehman, editor, 1980, offprint</unittitle>
             </did>
@@ -9962,7 +9970,7 @@
             <did>
               <container type="box">86</container>
               <container type="folder">10</container>
-              <unittitle><title>NPFO 6</title> [ 
+              <unittitle><title>NPFO 6</title> [
 					 <title>New Poetry from Oxford 6</title>], 1988</unittitle>
             </did>
           </c03>
@@ -10382,7 +10390,7 @@
       <c01 level="series" id="heaney960_series4">
         <did>
           <unitid>Series 4</unitid>
-          <unittitle encodinganalog="245$a">Subject files, 
+          <unittitle encodinganalog="245$a">Subject files,
 				<unitdate encodinganalog="245$f" normal="1973/2003">1973-2003</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 89</physdesc>
         </did>
@@ -10603,7 +10611,7 @@
       <c01 level="series" id="heaney960_series5">
         <did>
           <unitid>Series 5</unitid>
-          <unittitle encodinganalog="245$a">Photographs, 
+          <unittitle encodinganalog="245$a">Photographs,
 				<unitdate encodinganalog="245$f" normal="1951/2003">1951-2003</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 90 – 93; OP1</physdesc>
         </did>
@@ -10638,7 +10646,7 @@
             <container type="box">90</container>
             <container type="folder">1</container>
             <unittitle>Seamus Heaney sitting in grass, photographer: Jack
-				  McManus for 
+				  McManus for
 				  <title>The Irish Times</title>, black and white, ca.
 				  1960s</unittitle>
           </did>
@@ -10710,7 +10718,7 @@
           <did>
             <container type="box">90</container>
             <container type="folder">10</container>
-            <unittitle>Seamus Heaney reading from 
+            <unittitle>Seamus Heaney reading from
 				  <title>North</title> in the open air, Kilkenny [Rothe House?],
 				  black and white, 1975</unittitle>
           </did>
@@ -10975,7 +10983,7 @@
           <did>
             <container type="box">90</container>
             <container type="folder">43</container>
-            <unittitle>Seamus Heaney signing 
+            <unittitle>Seamus Heaney signing
 				  <title>Electric Light</title>, Oxford, photographer: Norman
 				  McBeath, black and white, 29 March 2001</unittitle>
           </did>
@@ -11045,7 +11053,7 @@
           <did>
             <container type="box">90</container>
             <container type="folder">51</container>
-            <unittitle>Seamus Heaney with Richard Murphy and Terence O'Neill at launch of Stewart's 
+            <unittitle>Seamus Heaney with Richard Murphy and Terence O'Neill at launch of Stewart's
 				  <title>The Ulster Crisis</title>, Midland Hotel, 20 April
 				  1967</unittitle>
           </did>
@@ -11273,7 +11281,7 @@
             <container type="folder">78</container>
             <unittitle>Seamus Heaney with John Montague and Liam O'Flynn on the
 				  occasion of Heaney's fiftieth birthday, Montague's sixtieth, Gate Theatre
-				  (Dublin), three black and white photographs by 
+				  (Dublin), three black and white photographs by
 				  <title>Poetry Ireland</title>, 1989</unittitle>
           </did>
         </c02>
@@ -12324,7 +12332,7 @@
           <did>
             <container type="box">92</container>
             <container type="folder">56</container>
-            <unittitle>Binding for set of 
+            <unittitle>Binding for set of
 				  <title>Bog Poems</title> sheets made by Bernard Middleton, color
 				  snapshot, ca. 1983</unittitle>
           </did>
@@ -12438,7 +12446,7 @@
             <container type="box">92</container>
             <container type="folder">70</container>
             <unittitle>Display in steel mill in Soderfors (Sweden) featuring
-				  Seamus Heaney's "The Forge" from 
+				  Seamus Heaney's "The Forge" from
 				  <title>Door into the Dark</title>, color snapshot, ca.
 				  200</unittitle>
           </did>
@@ -12686,7 +12694,7 @@
       <c01 level="series" id="heaney960_series6">
         <did>
           <unitid>Series 6</unitid>
-          <unittitle encodinganalog="245$a">Audio-Visual materials, 
+          <unittitle encodinganalog="245$a">Audio-Visual materials,
 				<unitdate encodinganalog="245$f" normal="1994/2002">1994-2002</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 94 - 95</physdesc>
         </did>
@@ -12770,7 +12778,7 @@
             <container type="box">94</container>
             <container type="folder">7</container>
             <unittitle>Meridian Radio documentary on Joseph Brodsky from the
-				  series 
+				  series
 				  <title>Meridian Features</title>, presenter: Elizabeth Robson;
 				  producer: Jenny Hargreaves; included is a statement read by Seamus Heaney,
 				  February 1996</unittitle>
@@ -12872,7 +12880,7 @@
           <did>
             <container type="box">94</container>
             <container type="folder">17</container>
-            <unittitle>"Vittorio Gassman Reading Dante, 
+            <unittitle>"Vittorio Gassman Reading Dante,
 				  <title>Inferno: Canto I-VII</title>," reading in Italian,
 				  recorded from television, undated</unittitle>
           </did>
@@ -12967,7 +12975,7 @@
             <container type="box">95</container>
             <container type="folder">6</container>
             <unittitle>"The Poetry of Seamus Heaney," program 2 from the series
-				  
+
 				  <title>Poetry Backpack: Three Poets</title>, narrated by John
 				  Hagley, BBC Television, ca. 1997</unittitle>
           </did>
@@ -13003,7 +13011,7 @@
       <c01 level="series" id="heaney960_series7">
         <did>
           <unitid>Series 7</unitid>
-          <unittitle encodinganalog="245$a">Personal papers, 
+          <unittitle encodinganalog="245$a">Personal papers,
 				<unitdate encodinganalog="245$f" normal="1965/2001">1965-2001</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 96 - 97</physdesc>
         </did>
@@ -13214,7 +13222,7 @@
       <c01 level="series" id="heaney960_series8">
         <did>
           <unitid>Series 8</unitid>
-          <unittitle encodinganalog="245$a">Writings by Seamus Heaney, 
+          <unittitle encodinganalog="245$a">Writings by Seamus Heaney,
 				<unitdate type="inclusive" encodinganalog="245$f" normal="1966/2004">1966-2004</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 98 – 102; OP2 – OP8</physdesc>
         </did>
@@ -13229,7 +13237,7 @@
 				prose, and editing projects. The majority of the prose works are dated and all
 				have been arranged chronologically. Early prose consists of a small number of
 				graded essays written by Heaney as a student. Most notable of the editing
-				projects in the series is one shared with Ted Hughes, 
+				projects in the series is one shared with Ted Hughes,
 			 <title>The School Bag</title>, which includes lists of poems,
 			 correspondence, and files of photocopied items under consideration for the
 			 anthology.</p>
@@ -13242,7 +13250,7 @@
         <c02 level="subseries" id="heaney960_subseries8.1">
           <did>
             <unitid>Subseries 8.1</unitid>
-            <unittitle type="245$a">Poetry and translations, 
+            <unittitle type="245$a">Poetry and translations,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1969/2003">1969-2003</unitdate></unittitle>
             <physdesc encodinganalog="300">Box 98</physdesc>
           </did>
@@ -13331,7 +13339,7 @@
             <did>
               <container type="box">98</container>
               <container type="folder">10</container>
-              <unittitle>"The Given Note," [published in 
+              <unittitle>"The Given Note," [published in
 					 <title>Door into the Dark</title>, 1969], holograph draft and
 					 notes</unittitle>
             </did>
@@ -13357,7 +13365,7 @@
             <did>
               <container type="box">98</container>
               <container type="folder">13</container>
-              <unittitle>"Keeping Going," [published in 
+              <unittitle>"Keeping Going," [published in
 					 <title>The Spirit Level</title>], photocopied
 					 typescript</unittitle>
             </did>
@@ -13415,7 +13423,7 @@
             <did>
               <container type="box">98</container>
               <container type="folder">20</container>
-              <unittitle>"Real Names ["Dramatis Personae" published in 
+              <unittitle>"Real Names ["Dramatis Personae" published in
 					 <title>Electric Light</title>], typescript drafts with
 					 holograph revisions</unittitle>
             </did>
@@ -13426,7 +13434,7 @@
               <container type="folder">21</container>
               <unittitle>"Scaffolding," "Storm on the Island," "Lighting the
 					 Lamp," "The Old Labourer Regrets," "Young Bachelor," five poems returned to
-					 Seamus Heaney with rejection letter from 
+					 Seamus Heaney with rejection letter from
 					 <title>The Times Literary Supplement</title>, ca.
 					 1964</unittitle>
             </did>
@@ -13435,7 +13443,7 @@
             <did>
               <container type="box">98</container>
               <container type="folder">22</container>
-              <unittitle>"The Sharping Stone," [published in 
+              <unittitle>"The Sharping Stone," [published in
 					 <title>The Spirit Level</title>, 1996], typescript</unittitle>
             </did>
           </c03>
@@ -13577,7 +13585,7 @@
             <did>
               <container type="box">98</container>
               <container type="folder">39</container>
-              <unittitle>"Orpheus and Eurydice," (Ovid, 
+              <unittitle>"Orpheus and Eurydice," (Ovid,
 					 <title>Metamorphoses</title>, Book X), telefacsimile with
 					 holograph revisions, ca. 1993</unittitle>
             </did>
@@ -13604,7 +13612,7 @@
             <did>
               <container type="box">98</container>
               <container type="folder">42</container>
-              <unittitle>"Ugolino," (from Dante, 
+              <unittitle>"Ugolino," (from Dante,
 					 <title>Inferno</title> XXXII and XXXIII), photocopied
 					 typescript with revisions</unittitle>
             </did>
@@ -13620,7 +13628,7 @@
         <c02 level="subseries" id="heaney960_subseries8.2">
           <did>
             <unitid>Subseries 8.2</unitid>
-            <unittitle type="245$a">Prose, 
+            <unittitle type="245$a">Prose,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1966/2004">1966-2004</unitdate></unittitle>
             <physdesc encodinganalog="300">Box 98 - 102; OP 2-8</physdesc>
           </did>
@@ -13665,7 +13673,7 @@
               <container type="folder">47</container>
               <unittitle>The Crewe[i]an Oration, Oxford University, typescript
 					 with holograph corrections, 19 June 1991, with draft copy of the introduction
-					 of the oration and photocopied introduction from 
+					 of the oration and photocopied introduction from
 					 <title>Oxford University Gazette</title></unittitle>
             </did>
           </c03>
@@ -14102,7 +14110,7 @@
             <did>
               <container type="box">100</container>
               <container type="folder">9</container>
-              <unittitle>Holograph notes for introduction to 
+              <unittitle>Holograph notes for introduction to
 					 <title>Beowulf</title>, photocopy, 21 March 1995</unittitle>
             </did>
           </c03>
@@ -14143,7 +14151,7 @@
             <did>
               <container type="box">100</container>
               <container type="folder">14</container>
-              <unittitle>Holograph notes for 
+              <unittitle>Holograph notes for
 					 <title>Beowulf</title> reading, undated</unittitle>
             </did>
           </c03>
@@ -14168,7 +14176,7 @@
               <container type="box">100</container>
               <container type="folder">17</container>
               <unittitle>Holograph notes for remarks preceding poetry reading
-					 celebrating publication of 
+					 celebrating publication of
 					 <title>The Field Day Anthology of Irish Literature</title> and
 					 achievements of Seamus Deane</unittitle>
             </did>
@@ -14252,8 +14260,8 @@
             <did>
               <container type="box">100</container>
               <container type="folder">27</container>
-              <unittitle>"Chaucer's 
-					 <title>Troilus and Crisede</title>," "The Patterns of 
+              <unittitle>"Chaucer's
+					 <title>Troilus and Crisede</title>," "The Patterns of
 					 <title>The Canterbury Tales</title>," graded holograph essays
 					 and with notes, ca. 1960s</unittitle>
             </did>
@@ -14278,7 +14286,7 @@
             <did>
               <container type="box">100</container>
               <container type="folder">30</container>
-              <unittitle>"International Books of the Year," review of 
+              <unittitle>"International Books of the Year," review of
 					 <title>Tales from Ovid</title> by Ted Hughes, typescript with
 					 holograph corrections, ca. 1997</unittitle>
             </did>
@@ -14303,7 +14311,7 @@
             <did>
               <container type="box">100</container>
               <container type="folder">33</container>
-              <unittitle>"Ted Hughes, 
+              <unittitle>"Ted Hughes,
 					 <title>Birthday Letters</title>, Faber &amp; Faber," review,
 					 typescript with holograph revisions, 1999</unittitle>
             </did>
@@ -14321,7 +14329,7 @@
             <did>
               <container type="box">100</container>
               <container type="folder">35</container>
-              <unittitle>Book jacket blurb for 
+              <unittitle>Book jacket blurb for
 					 <title>Collected Poems ( I )</title>, by Michael Hartnett,
 					 photocopied typescript, ca. 2001</unittitle>
             </did>
@@ -14370,7 +14378,7 @@
             <did>
               <container type="box">100</container>
               <container type="folder">41</container>
-              <unittitle>"Atlas of Civilization," review article written for 
+              <unittitle>"Atlas of Civilization," review article written for
 					 <title>Parnassus</title>, undated</unittitle>
             </did>
           </c03>
@@ -14561,7 +14569,7 @@
               <container type="box">101</container>
               <container type="folder">16</container>
               <unittitle><title>The School Bag</title>, letter from Joanna Mackle to
-					 Seamus Heaney regarding promotion of 
+					 Seamus Heaney regarding promotion of
 					 <title>The School Bag</title>, 20 December 1996</unittitle>
             </did>
           </c03>
@@ -14587,7 +14595,7 @@
               <container type="box">101</container>
               <container type="folder">19</container>
               <unittitle><title>The School Bag</title>, reading for The Arvon
-					 Foundation, "Love and War," poems from 
+					 Foundation, "Love and War," poems from
 					 <title>The School Bag</title> read by Seamus Heaney, Ted
 					 Hughes, Dianna Rigs, Imogene Stubbs, 2 March 1997</unittitle>
             </did>
@@ -14605,7 +14613,7 @@
             <did>
               <container type="box">102</container>
               <container type="folder">1</container>
-              <unittitle>[ 
+              <unittitle>[
 					 <title>The School Bag</title>?], holograph lists of poets and
 					 poems, undated</unittitle>
             </did>

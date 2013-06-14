@@ -21,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded, 
+      <creation>Finding aid encoded,
 		  <date encodinganalog="Date" normal="2007-01-31">January 31, 2007</date></creation>
       <langusage>
         <language langcode="eng" encodinganalog="Language" scriptcode="Latn">English</language>
@@ -83,7 +83,7 @@
       <p>They returned to England in December and the following Spring Hughes learned that he had won both the Somerset Maugham Award and the Hawthorndon Prize (the latter for his second collection, <title>Lupercal</title>).  A short time later their first child, Frieda, was born.  Partly to support his new family, Hughes began a series of radio talks for the BBC's Listening and Writing program (later collected in <title>Poetry in the Making</title>), and in August the Hughes' moved into "Court Green," a former rectory in the village of North Tawton in Devon.  In January 1962 their second child, Nicholas, was born.</p>
       <p>During the fall of 1962 Hughes began seeing the artist Assia Wevill and soon after he and Sylvia Plath separated.  While suffering from depression the following winter, Plath took her own life.</p>
       <p>After Sylvia Plath's suicide, Hughes published a series of children's books, <title>How the Whale Became</title> (1963), <title>The Earth-Owl and Other Moon People</title> (1963), <title>Nessie the Mannerless Monster</title> (1964), and in 1965 he began serving as a judge for the National Children's Poetry Competition.  He also, along with Daniel Weissbort, founded the journal <title>Modern Poetry in Translation</title> devoted to introducing the work of foreign language poets to English readers.  Also in 1965, Hughes published <title>Ariel</title>, the posthumous collection of Sylvia Plath's poems upon which her reputation as a poet largely rests.  In January 1967 Hughes and Assia Wevill's daughter Shura was born.</p>
-      <p>In 1967 Hughes published <title>Wodwo</title>, a collection of new poems, short stories, and a single radio play that he had previously recorded for the BBC.  He also worked on a variety of other projects including serving as co-director of Poetry International, a major literary festival that included leading poets from around the world.  He also collaborated with the director Peter Brook on a stage adaptation of Seneca's <title>Oedipus</title> for the National Theatre Company and translated a selection of poems by Yehuda Amichai (published in 1968). 
+      <p>In 1967 Hughes published <title>Wodwo</title>, a collection of new poems, short stories, and a single radio play that he had previously recorded for the BBC.  He also worked on a variety of other projects including serving as co-director of Poetry International, a major literary festival that included leading poets from around the world.  He also collaborated with the director Peter Brook on a stage adaptation of Seneca's <title>Oedipus</title> for the National Theatre Company and translated a selection of poems by Yehuda Amichai (published in 1968).
 
 </p>
       <p>In March 1969 Hughes' partner, Assia Wevill took her own life and that of Shura.  Later that same year Hughes' mother also passed away.</p>
@@ -159,7 +159,7 @@
       <c01 level="series" id="hughes644_series1">
         <did>
           <unitid>Series 1</unitid>
-          <unittitle encodinganalog="245$a">Correspondence, 
+          <unittitle encodinganalog="245$a">Correspondence,
 				<unitdate type="inclusive" encodinganalog="245$f" normal="1959/1997" era="ce" calendar="gregorian">1959-1997</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 1-56</physdesc>
         </did>
@@ -182,7 +182,7 @@
         <c02 level="subseries" id="hughes644_subseries1.1">
           <did>
             <unitid>Subseries 1.1</unitid>
-            <unittitle type="245$a">Alphabetical correspondence files, 
+            <unittitle type="245$a">Alphabetical correspondence files,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1959/1996" era="ce" calendar="gregorian">1959-1996</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 1-10</physdesc>
           </did>
@@ -1795,7 +1795,7 @@
         <c02 level="subseries" id="hughes644_subseries1.2">
           <did>
             <unitid>Subseries 1.2</unitid>
-            <unittitle type="245$a">Business correspondence, 
+            <unittitle type="245$a">Business correspondence,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1964/1996" era="ce" calendar="gregorian">1964-1996</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 11-16</physdesc>
           </did>
@@ -2500,7 +2500,7 @@
         <c02 level="subseries" id="hughes644_subseries1.3">
           <did>
             <unitid>Subseries 1.3</unitid>
-            <unittitle type="245$a">General correspondence, 
+            <unittitle type="245$a">General correspondence,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1962/1998" era="ce" calendar="gregorian">1962-1998</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 17-47</physdesc>
           </did>
@@ -4056,7 +4056,7 @@
         <c02 level="subseries" id="hughes644_subseries1.4">
           <did>
             <unitid>Subseries 1.4</unitid>
-            <unittitle type="245$a">Children's correspondence, 
+            <unittitle type="245$a">Children's correspondence,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1961/1996" era="ce" calendar="gregorian">1961-1996</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 48-52; OP1</physdesc>
           </did>
@@ -4296,7 +4296,7 @@
         <c02 level="subseries" id="hughes644_subseries1.5">
           <did>
             <unitid>Subseries 1.5</unitid>
-            <unittitle type="245$a">Ted Hughes' correspondence, 
+            <unittitle type="245$a">Ted Hughes' correspondence,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1957/1997" era="ce" calendar="gregorian">1957-1997</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 53-56</physdesc>
           </did>
@@ -5338,7 +5338,7 @@
       <c01 level="series" id="hughes644_series2">
         <did>
           <unitid>Series 2</unitid>
-          <unittitle encodinganalog="245$a">Writings by Ted Hughes, 
+          <unittitle encodinganalog="245$a">Writings by Ted Hughes,
 				<unitdate type="inclusive" normal="1949/1990" encodinganalog="245$f" era="ce" calendar="gregorian" certainty="circa">circa 1949-1990</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 57-86; OP2-58a; 105-107; OBV1</physdesc>
         </did>
@@ -5357,7 +5357,7 @@
         <c02 level="subseries" id="hughes644_subseries2.1">
           <did>
             <unitid>Subseries 2.1</unitid>
-            <unittitle type="245$a">Notebooks, 
+            <unittitle type="245$a">Notebooks,
 				  <unitdate type="inclusive" normal="1949/1995" encodinganalog="245$f" era="ce" calendar="gregorian" certainty="circa">circa 1949-1995</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 57-58; OBV1</physdesc>
           </did>
@@ -5935,7 +5935,7 @@
         <c02 level="subseries" id="hughes644_subseries2.2">
           <did>
             <unitid>Subseries 2.2</unitid>
-            <unittitle type="245$a">Collected poems, 
+            <unittitle type="245$a">Collected poems,
 				  <unitdate type="inclusive" normal="1957/1995" encodinganalog="245$f" era="ce" calendar="gregorian">1957-1995</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 59-80; OP2-28, 105-107</physdesc>
           </did>
@@ -11464,9 +11464,9 @@
               <unittitle>Notebook of MS poems (includes "Cloudburst," "Salmon-Taking Times," "Four March Watercolors," and "Dee"</unittitle>
             </did>
           </c03>
-          
-          
-          
+
+
+
           <c03 level="file">
             <did>
               <container type="box">74</container>
@@ -11684,7 +11684,7 @@
               <unittitle>"Nurse the River," MS [uncollected]</unittitle>
             </did>
           </c03>
-          
+
           <c03 level="file">
             <did>
               <container type="box">75</container>
@@ -11692,7 +11692,7 @@
               <unittitle>"An October Salmon," MS and TS</unittitle>
             </did>
           </c03>
-          
+
           <c03 level="file">
             <did>
               <container type="box">-</container>
@@ -22161,7 +22161,7 @@
         <c02 level="subseries" id="hughes644_subseries2.6">
           <did>
             <unitid>Subseries 2.6</unitid>
-            <unittitle type="245$a">Children's writings, 
+            <unittitle type="245$a">Children's writings,
 				  <unitdate type="inclusive" normal="1961/1997" encodinganalog="245$f" era="ce" calendar="gregorian">1961-1997</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 123-130; OP47-57</physdesc>
           </did>
@@ -24331,7 +24331,7 @@
         <c02 level="subseries" id="hughes644_subseries2.7">
           <did>
             <unitid>Subseries 2.7</unitid>
-            <unittitle type="245$a">Translations, 
+            <unittitle type="245$a">Translations,
 				  <unitdate type="inclusive" normal="1968/1999" encodinganalog="245$f" era="ce" calendar="gregorian" certainty="circa">circa 1968-1999</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 131-138; OP58-58a</physdesc>
           </did>
@@ -26229,7 +26229,8 @@
         </userestrict>
         <relatedmaterial encodinganalog="544 1">
           <head>Related Materials in Other Repositories</head>
-          <p>Mortimer Rare Book Room, Smith College and Lilly Library, Indiana University.</p>
+          <p><extref xlink:href="http://www.smith.edu/libraries/libs/rarebook/">Mortimer Rare Book Room, Smith College</extref>
+           and <extref xlink:href="http://www.indiana.edu/~liblilly/">Lilly Library, Indiana University</extref>.</p>
         </relatedmaterial>
         <c02 level="subseries" id="hughes644_subseries3.1">
           <did>
@@ -28789,7 +28790,7 @@
             <unittitle>Morton, Lucy, "Christmas"</unittitle>
           </did>
         </c02>
-        
+
         <c02 level="file">
           <did>
             <container type="box">151</container>
@@ -28797,7 +28798,7 @@
             <unittitle>Murphy, Richard, <title>The Mirror Wall</title>, 1988</unittitle>
           </did>
         </c02>
-        
+
         <c02 level="file">
           <did>
             <container type="box">151</container>
@@ -29131,7 +29132,7 @@
       <c01 level="series" id="hughes644_series5">
         <did>
           <unitid>Series 5</unitid>
-          <unittitle encodinganalog="245$a">Subject files, 
+          <unittitle encodinganalog="245$a">Subject files,
 				<unitdate type="inclusive" encodinganalog="245$f" normal="1966/1995" era="ce" calendar="gregorian" certainty="circa">circa 1966-1995</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 155-171</physdesc>
         </did>
@@ -30435,7 +30436,7 @@
       <c01 level="series" id="hughes644_series6">
         <did>
           <unitid>Series 6</unitid>
-          <unittitle encodinganalog="245$a">Printed material, 
+          <unittitle encodinganalog="245$a">Printed material,
 				<unitdate type="inclusive" encodinganalog="245$f" normal="1955/1999" era="ce" calendar="gregorian">1955-1999</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 172-176; OP61-101, 109-114</physdesc>
         </did>
@@ -30456,7 +30457,7 @@
         <c02 level="subseries" id="hughes644_subseries6.1">
           <did>
             <unitid>Subseries 6.1</unitid>
-            <unittitle type="245$a">Writings by Ted Hughes, 
+            <unittitle type="245$a">Writings by Ted Hughes,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1955/1996" era="ce" calendar="gregorian">1955-1996</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 172-173; OP61-88</physdesc>
           </did>
@@ -31137,7 +31138,7 @@
         <c02 level="subseries" id="hughes644_subseries6.2">
           <did>
             <unitid>Subseries 6.2</unitid>
-            <unittitle type="245$a">Writings about Ted Hughes, 
+            <unittitle type="245$a">Writings about Ted Hughes,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1960/1999" era="ce" calendar="gregorian">1960-1999</unitdate></unittitle>
             <physdesc encodinganalog="300">Boxes 174; OP89-99, 109-114</physdesc>
           </did>
@@ -31604,19 +31605,19 @@
               <unittitle><title>The Wound</title>, poster advertising play, n.d.</unittitle>
             </did>
           </c03>
-          
+
           <c03 level="file">
             <did>
               <container type="box">174</container>
               <container type="folder">47</container>
               <unittitle><title>The Wound</title>, program, February 1974</unittitle>
             </did>
-          </c03> 
+          </c03>
         </c02>
         <c02 level="subseries" id="hughes644_subseries6.3">
           <did>
             <unitid>Subseries 6.3</unitid>
-            <unittitle type="245$a">Reviews, 
+            <unittitle type="245$a">Reviews,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1957/1995" era="ce" calendar="gregorian">1957-1995</unitdate></unittitle>
             <physdesc encodinganalog="300">Box 175-176; OP100-101</physdesc>
           </did>
@@ -32223,7 +32224,7 @@
         <c02 level="subseries" id="hughes644_subseries6.4">
           <did>
             <unitid>Subseries 6.4</unitid>
-            <unittitle type="245$a">Scrapbooks, 
+            <unittitle type="245$a">Scrapbooks,
 				  <unitdate type="inclusive" encodinganalog="245$f" normal="1956/1968" era="ce" calendar="gregorian">1956-1968</unitdate></unittitle>
             <physdesc encodinganalog="300">OP103-104</physdesc>
           </did>
@@ -32261,7 +32262,7 @@
       <c01 level="series" id="hughes644_series7">
         <did>
           <unitid>Series 7</unitid>
-          <unittitle encodinganalog="245$a">Photographs, 
+          <unittitle encodinganalog="245$a">Photographs,
 				<unitdate type="inclusive" encodinganalog="245$f" normal="1910/1995" era="ce" calendar="gregorian" certainty="circa">circa 1910-1995</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 177-179; OP102, 115-117</physdesc>
         </did>
@@ -33996,7 +33997,7 @@
         <c02 level="file"><did><container type="box">DVD2</container><container></container><unittitle>Bryant, Christopher - "Relic" (1982) [Film accompanied by poems of Ted Hughes]</unittitle></did></c02>
         <c02 level="file"><did><unittitle>Motion picture films</unittitle></did></c02>
         <c02 level="file"><did><container type="box">DVD3</container><container></container><unittitle>Mexborough Grammar School field trip to Switzerland, 1949</unittitle></did></c02>
-        
+
       </c01>
       <c01 level="series" id="hughes644_series10">
         <did>

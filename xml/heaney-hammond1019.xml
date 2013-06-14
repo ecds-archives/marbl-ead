@@ -23,7 +23,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded, 
+      <creation>Finding aid encoded,
 		  <date encodinganalog="Date" normal="2007-11-12">November 12,
 			 2007</date></creation>
       <langusage>
@@ -37,7 +37,7 @@
         <persname source="lcnaf" encodinganalog="100">Heaney, Seamus,
 			 1939-</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Letters to David Hammond, 
+      <unittitle encodinganalog="245$a">Letters to David Hammond,
 		  <unitdate type="inclusive" encodinganalog="245$f" normal="1968/2005" era="ce" calendar="gregorian">1968-2005</unitdate></unittitle>
       <unitid countrycode="US" repositorycode="geu-s" identifier="1019">Manuscript Collection No.
 		  1019</unitid>
@@ -125,7 +125,8 @@
     </arrangement>
     <separatedmaterial encodinganalog="544 0">
       <head>Related Materials in This Repository</head>
-      <p>Seamus Heaney collection and Seamus Heaney papers</p>
+      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8zf2t">Seamus Heaney collection</extref> and
+      <extref xlink:href="http://pid.emory.edu/ark:/25593/8zf3z">Seamus Heaney papers</extref></p>
     </separatedmaterial>
     <controlaccess>
       <head>Selected Search Terms</head>
@@ -206,7 +207,7 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle> 
+          <unittitle>
 				Collected Poems: <title>No Man's Land</title> [variant title: Wintering Out (1972)],
 				carbon copy of early draft </unittitle>
         </did>
@@ -380,7 +381,7 @@
         <did>
           <container type="box">2</container>
           <container type="folder">25</container>
-          <unittitle>"A Northern Hoard," typescript includes "Roots," " 
+          <unittitle>"A Northern Hoard," typescript includes "Roots," "
 				<title>No Man's Land</title>," "Stump," "No Sanctuary," and
 				"Tinder"</unittitle>
         </did>
@@ -471,7 +472,7 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle> 
+          <unittitle>
 				Collected Poems:  <title>North</title> (1975)</unittitle>
         </did>
       </c01>
@@ -492,7 +493,7 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle> 
+          <unittitle>
 				Collected Poems: <title>Field Work</title> (1979), photocopies and carbon copies of
 				early drafts</unittitle>
         </did>
@@ -692,7 +693,7 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:  
+          <unittitle>Collected Poems:
 				<title>An Open Letter</title> (1983)</unittitle>
         </did>
       </c01>
@@ -706,7 +707,7 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:  
+          <unittitle>Collected Poems:
 				<title>Station Island</title> (1984)</unittitle>
         </did>
       </c01>
@@ -735,7 +736,7 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:  
+          <unittitle>Collected Poems:
 				<title>The Cure at Troy: a Version of Sophocles'
 				  Philoctetes</title> (1990)</unittitle>
         </did>
@@ -750,7 +751,7 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:  
+          <unittitle>Collected Poems:
 				<title>Seeing Things</title> (1991), photocopies of early
 				drafts</unittitle>
         </did>
@@ -774,7 +775,7 @@
         <did>
           <container type="box">2</container>
           <container type="folder">74</container>
-          <unittitle>"Crossings," typescript with revisions [ 
+          <unittitle>"Crossings," typescript with revisions [
 				<title>Squarings</title> (2003)]</unittitle>
         </did>
       </c01>
@@ -895,7 +896,7 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:  
+          <unittitle>Collected Poems:
 				<title>The Spirit Level</title> (1996), photocopies of original
 				draft </unittitle>
         </did>
@@ -1158,7 +1159,7 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:  
+          <unittitle>Collected Poems:
 				<title>The Door Stands Open: Czeslaw Milosz, 1911-2004</title>
 				(2005)</unittitle>
         </did>
@@ -1411,7 +1412,7 @@
         <did>
           <container type="box">3</container>
           <container type="folder">65</container>
-          <unittitle>"Something to Write Home About," formerly " 
+          <unittitle>"Something to Write Home About," formerly "
 				<title>The Sluggan</title>," television film script and proposal,
 				drafts, notes, correspondence, 1996-2002</unittitle>
         </did>
@@ -1467,7 +1468,7 @@
         <did>
           <container type="box">4</container>
           <container type="folder">4</container>
-          <unittitle>Seamus Heaney after the release of the record 
+          <unittitle>Seamus Heaney after the release of the record
 				<title>The Singer's House</title>, 1978, three black and white
 				photographs</unittitle>
         </did>

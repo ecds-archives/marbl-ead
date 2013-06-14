@@ -23,7 +23,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded, 
+      <creation>Finding aid encoded,
 		  <date normal="2005-05-05" encodinganalog="Date">May 5,
 			 2005</date></creation>
       <langusage>
@@ -37,7 +37,7 @@
         <persname source="lcnaf" encodinganalog="100">Heaney,
 			 Seamus, 1939-</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Seamus Heaney collection, 
+      <unittitle encodinganalog="245$a">Seamus Heaney collection,
 		  <unitdate type="inclusive" normal="1972/2003" encodinganalog="245$f">1972-2005</unitdate></unittitle>
       <unitid countrycode="US" repositorycode="geu-s" identifier="653">Manuscript Collection
 		  No.653</unitid>
@@ -94,11 +94,11 @@
       <p>While at St. Joseph's he began to write, publishing work in university
 		  magazines under the pseudonym Incertus. During that time, he joined a poetry
 		  workshop organized by Philip Hobsbaum. In 1965, in connection with the Belfast
-		  Festival, he published 
+		  Festival, he published
 		<title>Eleven Poems</title>, and in August of that year he married Marie
 		Devlin. The following year he became a lecturer in modern English literature at
 		Queens College; his first son, Michael, was born; and Faber and Faber published
-		
+
 		<title>Death of a Naturalist</title>. This collection earned him the Eric
 		Gregory Award, the Cholmondeley Award, the Somerset Maugham Award, and the
 		Geoffrey Faber Memorial Prize. Marie and Seamus Heaney's second son, Christopher,
@@ -107,33 +107,33 @@
 		Society Choice for the year. In 1970-1971, Heaney was guest lecturer at the
 		University of California, Berkeley. He returned to Northern Ireland in 1971,
 		and in 1972 he resigned his lectureship at Queens College, moved his family to
-		Glanmore, in County Wicklow, and published 
+		Glanmore, in County Wicklow, and published
 		<title>Wintering Out</title>. In 1973 his daughter Catherine Ann was
 		born. During this year he also received the Denis Devlin Award and the Writer
-		in Residence Award from the American Irish Foundation. In 1975 
+		in Residence Award from the American Irish Foundation. In 1975
 		<title>North</title> was published, winning the E.M. Forster Award and
 		the Duff Cooper Memorial Prize. During these years at Glanmore, Heaney also
 		gave many readings in the United States and England and edited two poetry
 		anthologies. </p>
       <p>In 1975 Heaney began teaching at Carysfort College in Dublin, and in
 		  1976 he and his family moved to Sandymount in the city. In 1979 Heaney
-		  published 
-		<title>Field Work</title> and in 1980 
-		<title>Selected Poems</title> and 
+		  published
+		<title>Field Work</title> and in 1980
+		<title>Selected Poems</title> and
 		<title>Preoccupations</title>. In 1981 he gave up his position at
 		Carysfort to become visiting professor at Harvard. In 1982 he won the Bennett
 		Award and Queens University awarded him an honorary Doctor of Letters. He
 		co-founded Field Day company with the playwright Brian Friel and others in
-		1983. 
+		1983.
 		<title>Station Island</title>, his first collection in five years, was
 		published in 1984. During that year he was elected Boylston Professor of
 		Rhetoric and Oratory at Harvard. That same year his mother died. </p>
       <p>In 1988 Seamus Heaney visited Emory University where he inaugurated
 		  the Richard Ellmann Lectures in Modern Literature. These lectures were
-		  collected and published as 
+		  collected and published as
 		<title>The Place of Writing</title> in 1989. In 1991 Heaney published a
-		new collection 
-		<title>Seeing Things</title>, followed by the 
+		new collection
+		<title>Seeing Things</title>, followed by the
 		<title>Redress of Poetry</title> in 1995. In the fall of that year,
 		Heaney was awarded the Nobel Prize in Literature.</p>
     </bioghist>
@@ -143,9 +143,9 @@
 		  1972-2005 including, writings by Heaney, printed materials, photographs and
 		  correspondence. The manuscript writings in the collection include multiple
 		  drafts of "Fosterage," a two-page typescript on Michael McLaverty (published as
-		  an introduction to McLaverty's 
+		  an introduction to McLaverty's
 		<title>Collected Stories</title> in 1978), a manuscript of a talk on
-		Wordsworth's 
+		Wordsworth's
 		<title>Prelude</title> which Heaney wrote for Irish radio around 1974,
 		and settings copies of the poems "Bog Queen," "Punishment," "The Grauballe
 		Man," and "Kinship," with editor's markings and corrections in Heaney's hand.
@@ -160,7 +160,7 @@
 		  as President of the Poetry Society. Additional correspondence with Mrs. Parker
 		  (1976) and "Robert" (1978) relate to items found in the writing series of this
 		  collection and the J. Howard Woolmer correspondence relates to the publication
-		  of 
+		  of
 		<title>Stern</title>, a poem in memory of Ted Hughes.</p>
     </scopecontent>
     <arrangement encodinganalog="351">
@@ -205,11 +205,21 @@
     </controlaccess>
     <separatedmaterial encodinganalog="544 0">
       <head>Related Materials in This Repository</head>
-      <p>Ciaran Carson papers, Peter Fallon/The Gallery Press Collection,
-		  Seamus Heaney papers, Ted Hughes papers, Thomas Kinsella papers, Michael
-		  Longley papers, Derek Mahon papers, Medbh McGuckian papers, Charles Montieth
-		  papers, Paul Muldoon papers, Edna O'Brien papers, Desmond O'Grady papers, Frank
-		  Ormsby papers, Tom Paulin papers, and James Simmons papers</p>
+      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8z3n4">Ciaran Carson papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8z8zw">Peter Fallon/The Gallery Press collection</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zf3z">Seamus Heaney papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zgd9">Ted Hughes papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zj24">Thomas Kinsella papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zkmf">Michael Longley papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zm5r">Derek Mahon papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zn19">Medbh McGuckian papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zp63">Charles Monteith papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/bn402">Paul Muldoon papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zqbr">Edna O'Brien papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zqkq">Desmond O'Grady papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zqq8">Frank Ormsby papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zrf8">Tom Paulin papers</extref>,
+        and <extref xlink:href="http://pid.emory.edu/ark:/25593/8zw5k">James Simmons papers</extref>.</p>
     </separatedmaterial>
     <dsc type="combined">
       <head>Description of Series</head>
@@ -253,7 +263,7 @@
           <did>
             <container type="box">1</container>
             <container type="folder">4</container>
-            <unittitle>"Introduction" [from Michael McLaverty's 
+            <unittitle>"Introduction" [from Michael McLaverty's
 				  <title>Collected Stories</title>], photocopied typescript, 2
 				  pp.</unittitle>
           </did>
@@ -278,7 +288,7 @@
           <did>
             <container type="box">1</container>
             <container type="folder">7</container>
-            <unittitle> 
+            <unittitle>
 				  "Leavings," typescript with corrections in Heaney's hand</unittitle>
           </did>
         </c02>
@@ -318,7 +328,7 @@
             <container type="box">1</container>
             <container type="folder">11</container>
             <unittitle>Commencement Address, University of Pennsylvania, 30 May
-				  2000, reprint in 
+				  2000, reprint in
 				  <title>University of Pennsylvania Almanac</title></unittitle>
           </did>
         </c02>
@@ -332,7 +342,7 @@
           </did>
         </c02>
       </c01>
-      
+
       <c01 level="series" id="heaney653_series2">
         <did>
           <unitid>Series 2</unitid>
@@ -399,7 +409,7 @@
             <container type="box">OP9</container>
             <container/>
             <unittitle>Seamus Heaney, Faber and Faber promotional poster for
-				  Heaney's Nobel Prize for literature 1995 and Whitbread Book of the Year for 
+				  Heaney's Nobel Prize for literature 1995 and Whitbread Book of the Year for
 				  <title>The Spirit Level</title> [2 copies]</unittitle>
           </did>
         </c02>
@@ -416,7 +426,7 @@
             <container type="box">OP8</container>
             <container/>
             <unittitle><title>Stations</title>, promotional poster for Ulster Youth
-				  Theatre performance at Saranmilis College based on 
+				  Theatre performance at Saranmilis College based on
 				  <title>Station Island</title> by Seamus Heaney, 7-11 November
 				  [19??]</unittitle>
           </did>
@@ -455,7 +465,7 @@
             <container type="box">1</container>
             <container type="folder">16</container>
             <unittitle><title>The Cure at Troy</title>, program for Harvard Repertory
-				  Theatre production, n.d. Includes "Sweet Talk and Miracles: notes on 
+				  Theatre production, n.d. Includes "Sweet Talk and Miracles: notes on
 				  <title>The Cure at Troy</title>," by Heaney </unittitle>
           </did>
         </c02>
@@ -499,7 +509,7 @@
             <container type="box">OP11</container>
             <container/>
             <unittitle>"Bags of Enlightenment," [Partners in Poetry: Heaney on
-				  Hughes], 
+				  Hughes],
 				  <title>The Guardian</title>, Review section, 25 October
 				  2003</unittitle>
           </did>
@@ -508,7 +518,7 @@
           <did>
             <container type="box">OP12</container>
             <container/>
-            <unittitle>"Seamus Heaney toi Nobelin Eurooppaan," 
+            <unittitle>"Seamus Heaney toi Nobelin Eurooppaan,"
 				  <title>Helsigin Sanomat</title>, Kulttuuri section, 6 October
 				  1995</unittitle>
           </did>
@@ -559,7 +569,7 @@
             <container type="box">-</container>
             <container type="folder">-</container>
             <unittitle>Seamus Heaney and Ted Walker, color photograph, 12
-				  August 1972. Pasted on verso of half-title of 
+				  August 1972. Pasted on verso of half-title of
 				  <title>Death of a Naturalist</title> [PR6058.E2 D401
 				  1969]</unittitle>
           </did>
@@ -767,7 +777,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <unittitle>J. Howard Woolmer [regarding publication of 
+            <unittitle>J. Howard Woolmer [regarding publication of
 				  <title>Stern</title>, a poem in memory of Ted Hughes]</unittitle>
           </did>
         </c02>
