@@ -269,9 +269,12 @@
         <separatedmaterial encodinganalog="544 0">
             <head>Related Materials in This Repository</head>
             <p>
-                <persname authfilenumber="222714533" source="viaf">Seamus Heaney</persname> collection, <persname authfilenumber="39398205" source="viaf">Michael Longley</persname> papers, <persname authfilenumber="110228045" source="viaf">Derek Mahon</persname> papers,
-        <persname authfilenumber="120096893" source="viaf">Medbh McGuckian</persname> papers, <persname authfilenumber="108291535" source="viaf">Tom Paulin</persname> papers, <persname authfilenumber="24613408" source="viaf">Peter Fallon</persname>/<corpname authfilenumber="147893360" source="viaf">Gallery Press</corpname>
-		  papers.</p>
+              <extref xlink:href="http://pid.emory.edu/ark:/25593/8zf2t">Seamus Heaney collection</extref>,,
+                <extref xlink:href="http://pid.emory.edu/ark:/25593/8zkmf">Michael Longley papers</extref>,
+                <extref xlink:href="http://pid.emory.edu/ark:/25593/8zm5r">Derek Mahon papers</extref>,
+                <extref xlink:href="http://pid.emory.edu/ark:/25593/8zn19">Medbh McGuckian papers</extref>,
+                <extref xlink:href="http://pid.emory.edu/ark:/25593/8zrf8">Tom Paulin papers</extref>,
+               <extref  xlink:href="http://pid.emory.edu/ark:/25593/8z8zw">Peter Fallon/Gallery Press papers</extref>.</p>
         </separatedmaterial>
         <dsc type="combined">
             <head>Description of Series</head>

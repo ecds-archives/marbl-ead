@@ -21,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded, 
+      <creation>Finding aid encoded,
 		  <date encodinganalog="Date" normal="2007-11-02">November 02, 2007</date></creation>
       <langusage>
         <language langcode="eng" encodinganalog="Language" scriptcode="Latn">English</language>
@@ -33,7 +33,7 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Mahon, Derek, 1941-</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Derek Mahon papers, 
+      <unittitle encodinganalog="245$a">Derek Mahon papers,
 		  <unitdate type="inclusive" encodinganalog="245$f" normal="1948/2008" era="ce" calendar="gregorian">1948-2008</unitdate></unittitle>
       <unitid repositorycode="geu-s" countrycode="US" identifier="689">Manuscript Collection No.
 		  689</unitid>
@@ -79,11 +79,11 @@
 
 In 1970 Mahon moved to London where he worked as a free-lance journalist, while also serving as drama critic for the <title>Listener</title> (1971-1972) and features editor for <title>Vogue</title> (1974-1975).  During the early seventies he contributed frequent reviews to the <title>Observer</title>, the <title>Listener</title>, <title>New Statesman</title>, and the <title>Times Literary Supplement</title>.  Also during these years he published two more full-length collections of poems, Lives (1972) and <title>The Snow Party</title> (1975).  In 1977 he returned to Northern Ireland as writer in residence at the New University of Ulster, Coleraine.
 
-In 1979 a selection of Mahon's early poetry was published by Oxford University Press, <title>Poems</title>, 1962-1978; that same year he took a position with the BBC writing adaptations for television.  Among his many television adaptations are Jennifer Johnston's <title>Shadows on Our Skin</title> and <title>How Many Miles to Babylon?</title>, and Elizabeth Bowen's <title>The Demon Lover</title> and <title>The Death of the Heart</title>.  
+In 1979 a selection of Mahon's early poetry was published by Oxford University Press, <title>Poems</title>, 1962-1978; that same year he took a position with the BBC writing adaptations for television.  Among his many television adaptations are Jennifer Johnston's <title>Shadows on Our Skin</title> and <title>How Many Miles to Babylon?</title>, and Elizabeth Bowen's <title>The Demon Lover</title> and <title>The Death of the Heart</title>.
 
-In 1982 Mahon published <title>The Hunt by Night</title>, and in 1985 the chapbook <title>Antarctica</title>.  In 1990 Derek Mahon and Peter Fallon co-edited <title>The Penguin Book of Contemporary Irish Poetry</title>.  In 1991 he received the Lannan Foundation Prize and the following year <title>The Irish Times</title>-Aer Lingus Poetry Prize.  After a lengthy silence, Mahon published a chapbook <title>The Yaddo Letter</title> in 1992, followed by the long verse sequence <title>The Hudson Letter</title> in 1995.  A collection of his prose work was published in 1996 under the title <title>Journalism</title>.  
+In 1982 Mahon published <title>The Hunt by Night</title>, and in 1985 the chapbook <title>Antarctica</title>.  In 1990 Derek Mahon and Peter Fallon co-edited <title>The Penguin Book of Contemporary Irish Poetry</title>.  In 1991 he received the Lannan Foundation Prize and the following year <title>The Irish Times</title>-Aer Lingus Poetry Prize.  After a lengthy silence, Mahon published a chapbook <title>The Yaddo Letter</title> in 1992, followed by the long verse sequence <title>The Hudson Letter</title> in 1995.  A collection of his prose work was published in 1996 under the title <title>Journalism</title>.
 
-In 1995 Mahon moved from New York to Dublin, where he still lives, and in the fall of 1997 Gallery Press published <title>The Yellow Book</title>.   In 1998, he published his translations of Philippe Jacottet's poetry as <title>Words In the Air</title>.  His <title>Collected Poems</title>, also published by Gallery, was released in November 1999; this collection represents, according to the publisher, "the poems the author 'wishes to preserve' from the work of forty years."  Some months later, Penguin issued a shorter collection of his poems in the U.K., entitled <title>Selected Poems</title> (2000).  
+In 1995 Mahon moved from New York to Dublin, where he still lives, and in the fall of 1997 Gallery Press published <title>The Yellow Book</title>.   In 1998, he published his translations of Philippe Jacottet's poetry as <title>Words In the Air</title>.  His <title>Collected Poems</title>, also published by Gallery, was released in November 1999; this collection represents, according to the publisher, "the poems the author 'wishes to preserve' from the work of forty years."  Some months later, Penguin issued a shorter collection of his poems in the U.K., entitled <title>Selected Poems</title> (2000).
 </p>
     </bioghist>
     <scopecontent encodinganalog="520">
@@ -96,7 +96,10 @@ In 1995 Mahon moved from New York to Dublin, where he still lives, and in the fa
     </arrangement>
     <separatedmaterial encodinganalog="544 0">
       <head>Related Materials in This Repository</head>
-      <p>Derek Mahon collection, Michael Longley papers, Peter Fallon/Gallery Press collection, and Medbh McGuckian papers</p>
+      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8zm4m">Derek Mahon collection</extref>,
+         <extref xlink:href="http://pid.emory.edu/ark:/25593/8zkmf">Michael Longley papers</extref>,
+      <extref xlink:href="http://pid.emory.edu/ark:/25593/8z8zw">Peter Fallon/Gallery Press collection</extref>;,
+      and <extref xlink:href="http://pid.emory.edu/ark:/25593/8zn19">Medbh McGuckian papers</extref>.</p>
     </separatedmaterial>
     <controlaccess>
       <head>Selected Search Terms</head>
@@ -136,7 +139,7 @@ In 1995 Mahon moved from New York to Dublin, where he still lives, and in the fa
       <c01 level="series" id="mahon689_series1">
         <did>
           <unitid>Series 1</unitid>
-          <unittitle encodinganalog="245$a">Correspondence, 
+          <unittitle encodinganalog="245$a">Correspondence,
 				<unitdate encodinganalog="245$f" normal="1972/2007" era="ce" calendar="gregorian">1972-2007</unitdate></unittitle>
           <physdesc encodinganalog="300">Box 1 - Box 16a</physdesc>
         </did>
@@ -1209,7 +1212,7 @@ In 1995 Mahon moved from New York to Dublin, where he still lives, and in the fa
         </did>
         <scopecontent encodinganalog="520">
           <head>Scope and Content Note</head>
-          <p>The manuscripts in this series date from approximately the same time period as the above correspondence and include drafts of poems, critical writings, radio scripts, and screenplays.  Derek Mahon's literary manuscripts include book-length collections and individual poems by Mahon, prose by Mahon, scripts and screenplays, works that were edited by Mahon, interviews with Mahon, translations of Mahon's work, and some of Derek Mahon's desk diaries.  The poems are listed under the titles of the major trade volumes in which they first appeared.  The information that Mahon recorded in his desk diaries is completely marked out and therefore indecipherable.  
+          <p>The manuscripts in this series date from approximately the same time period as the above correspondence and include drafts of poems, critical writings, radio scripts, and screenplays.  Derek Mahon's literary manuscripts include book-length collections and individual poems by Mahon, prose by Mahon, scripts and screenplays, works that were edited by Mahon, interviews with Mahon, translations of Mahon's work, and some of Derek Mahon's desk diaries.  The poems are listed under the titles of the major trade volumes in which they first appeared.  The information that Mahon recorded in his desk diaries is completely marked out and therefore indecipherable.
 
 In addition, cataloged separately and held in MARBL's book collection are Derek Mahon's working copies of <title>The Hunt by Night</title> (with extensive revisions), <title>Mary Stuart</title>, and <title>She Came of Decent People</title>.
 </p>

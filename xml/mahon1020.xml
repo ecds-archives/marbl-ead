@@ -23,7 +23,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded, 
+      <creation>Finding aid encoded,
 		  <date encodinganalog="Date" normal="2006-11-27">November 27,
 			 2006</date></creation>
       <langusage>
@@ -37,7 +37,7 @@
         <persname source="lcnaf" encodinganalog="100">Mahon, Derek,
 			 1941-</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Derek Mahon collection, 
+      <unittitle encodinganalog="245$a">Derek Mahon collection,
 		  <unitdate type="inclusive" encodinganalog="245$f" normal="1985/2000" era="ce" calendar="gregorian">1985-1988, 1991, 2000</unitdate></unittitle>
       <unitid countrycode="US" repositorycode="geu-s" identifier="1020">Manuscript Collection No.
 		  1020</unitid>
@@ -93,18 +93,18 @@
       <p>Derek Mahon was born in Belfast, Northern Ireland, on November 23,
 		  1941. He was educated at the Belfast Royal Academical Institution and at
 		  Trinity College, Dublin, where he majored in French (1960-1965). In 1960 he
-		  began publishing poems in 
+		  began publishing poems in
 		<title>Icarus</title>, a student literary magazine, and his first
-		collection of poems, the chapbook 
+		collection of poems, the chapbook
 		<title>Twelve Poems</title>, was published five years later by Queens
-		University. Oxford University Press published his first major collection, 
+		University. Oxford University Press published his first major collection,
 		<title>Night Crossing</title>, in 1968. In addition to his role as poet,
-		Mahon has worked as a free-lance journalist, served as drama critic for the 
-		<title>Listener</title> (1971-1972) and features editor for 
-		<title>Vogue</title> (1974-1975), contributed reviews to the 
-		<title>Observer</title>, the 
-		<title>Listener</title>, 
-		<title>New Statesman</title>, and the 
+		Mahon has worked as a free-lance journalist, served as drama critic for the
+		<title>Listener</title> (1971-1972) and features editor for
+		<title>Vogue</title> (1974-1975), contributed reviews to the
+		<title>Observer</title>, the
+		<title>Listener</title>,
+		<title>New Statesman</title>, and the
 		<title>Times Literary Supplement</title>, and written adaptations for
 		television for the BBC.</p>
     </bioghist>
@@ -113,11 +113,11 @@
       <p>The Derek Mahon collection documents Mahon's work from 1985-1988. The
 		  collection includes correspondence, literary manuscripts, and some printed
 		  material. Among his literary manuscripts are drafts of both published and
-		  unpublished poems, work on his volume of poems 
+		  unpublished poems, work on his volume of poems
 		<title>Antarctica</title> (1985), scripts and screenplays, and
 		journalistic writing. In addition, this collection documents Mahon's work
 		translating the poems of Philippe Jaccottet, which were collected under the
-		title 
+		title
 		<title>Selected Poems</title> and published in 1988. Also present in this
 		collection is some correspondence with other literary figures, including
 		Michael and Edna Longley and Medbh McGuckian. Additionally, the collection
@@ -156,9 +156,11 @@
     </controlaccess>
     <separatedmaterial encodinganalog="544 0">
       <head>Related Materials in This Repository</head>
-      <p>Derek Mahon papers; Derek Mahon, Letters to Louis Asekoff; Michael
-		  Longley papers; Peter Fallon/Gallery Press collection; and Medbh McGuckian
-		  papers.</p>
+      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8zm5r">Derek Mahon papers</extref>;
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zm3g">Derek Mahon, Letters to Louis Asekoff</extref>;
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zkmf">Michael Longley papers</extref>;
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8z8zw">Peter Fallon/Gallery Press collection</extref>;
+        and <extref xlink:href="http://pid.emory.edu/ark:/25593/8zn19">Medbh McGuckian papers</extref>.</p>
     </separatedmaterial>
     <dsc type="in-depth">
       <head>Container List</head>
@@ -259,7 +261,7 @@
         <did>
           <container type="box">1</container>
           <container type="folder">12</container>
-          <unittitle>"From 
+          <unittitle>"From
 				<title>Gramsci's Ashes</title>," MS and TS</unittitle>
         </did>
       </c01>
@@ -358,7 +360,7 @@
         <did>
           <container type="box">1</container>
           <container type="folder">25</container>
-          <unittitle>"A Chance for Restitution" [review of 
+          <unittitle>"A Chance for Restitution" [review of
 				<title>The Elgin Marbles</title>, by Christopher Hitchens],
 				TS</unittitle>
         </did>
@@ -388,7 +390,7 @@
         <did>
           <container type="box">1</container>
           <container type="folder">29</container>
-          <unittitle>"The Unselfish Giant" [review of 
+          <unittitle>"The Unselfish Giant" [review of
 				<title>Oscar Wilde</title>, by Richard Ellmann], TS</unittitle>
         </did>
       </c01>
@@ -396,7 +398,7 @@
         <did>
           <container type="box">1</container>
           <container type="folder">30</container>
-          <unittitle>"Word and Image" [review of 
+          <unittitle>"Word and Image" [review of
 				<title>Portraits of Poets</title>, by Christopher and Sebastian
 				Barker], TS</unittitle>
         </did>
@@ -405,10 +407,10 @@
         <did>
           <container type="box">1</container>
           <container type="folder">31</container>
-          <unittitle>Untitled [review of 
+          <unittitle>Untitled [review of
 				<title>Across a Roaring Hill</title>, edited by Gerald Dawe and
-				Edna Longley; 
-				<title>Celtic Revivals</title>, by Seamus Deane; 
+				Edna Longley;
+				<title>Celtic Revivals</title>, by Seamus Deane;
 				<title>Lady Gregory</title>, by Mary Lou Kohlfeld], TS</unittitle>
         </did>
       </c01>
@@ -528,7 +530,7 @@
         <did>
           <container type="box">2</container>
           <container type="folder">7</container>
-          <unittitle>From 
+          <unittitle>From
 				<title>Songs from Below</title>, by Philippe Jaccottet,
 				TS</unittitle>
         </did>
@@ -575,7 +577,7 @@
         <did>
           <container type="box">2</container>
           <container type="folder">11</container>
-          <unittitle>Kinsella, Thomas (trans.), 
+          <unittitle>Kinsella, Thomas (trans.),
 				<title>An Duanaire 1600-1900: Poems of the Dispossessed</title>,
 				selected by Sean O'Tuama, MS and TS</unittitle>
         </did>
@@ -584,7 +586,7 @@
         <did>
           <container type="box">2</container>
           <container type="folder">12</container>
-          <unittitle>Shakespeare, William, 
+          <unittitle>Shakespeare, William,
 				<title>The Winter's Tale</title>, MS</unittitle>
         </did>
       </c01>

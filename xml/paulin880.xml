@@ -237,9 +237,13 @@
     </controlaccess>
     <separatedmaterial>
       <head>Related Materials in This Repository</head>
-      <p>Seamus Heaney papers, Michael Longley papers, Derek Mahon papers,
-		  James Simmons papers, Peter Fallon - Gallery Press collection, and Ted Hughes
-		  papers.</p>
+      <p>
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zf3z">Seamus Heaney papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zkmf">Michael Longley papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zm5r">Derek Mahon papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8zw5k">James Simmons papers</extref>,
+        <extref xlink:href="http://pid.emory.edu/ark:/25593/8z8zw">Peter Fallon - Gallery Press collection</extref>,
+       and <extref xlink:href="http://pid.emory.edu/ark:/25593/8zgd9">Ted Hughes papers</extref>.</p>
     </separatedmaterial>
     <dsc type="combined">
       <head>Description of Series</head>

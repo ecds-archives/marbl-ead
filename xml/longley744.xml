@@ -234,7 +234,10 @@
         </controlaccess>
         <separatedmaterial>
             <head>Related Materials in This Repository</head>
-            <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8zf3z">Seamus Heaney papers</extref>, <extref xlink:href="http://pid.emory.edu/ark:/25593/8zn19">Medbh McGuckian papers</extref>, <extref xlink:href="http://pid.emory.edu/ark:/25593/8zm5r">Derek Mahon papers</extref> and
+            <p>
+                <extref xlink:href="http://pid.emory.edu/ark:/25593/8zf3z">Seamus Heaney papers</extref>,
+                <extref xlink:href="http://pid.emory.edu/ark:/25593/8zn19">Medbh McGuckian papers</extref>,
+                <extref xlink:href="http://pid.emory.edu/ark:/25593/8zm5r">Derek Mahon papers</extref> and
                 <extref xlink:href="http://pid.emory.edu/ark:/25593/bn402">Paul Muldoon papers</extref>.</p>
         </separatedmaterial>
         <dsc type="combined">

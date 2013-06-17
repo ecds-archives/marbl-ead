@@ -22,7 +22,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded, 
+      <creation>Finding aid encoded,
 		  <date encodinganalog="Date" normal="2006-04-02">April 2,
 			 2006</date></creation>
       <langusage>
@@ -36,7 +36,7 @@
         <persname source="lcnaf" encodinganalog="100">Mahon, Derek,
 			 1941-</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Letters to Louis Asekoff, 
+      <unittitle encodinganalog="245$a">Letters to Louis Asekoff,
 		  <unitdate type="inclusive" encodinganalog="245$f" normal="1963/1988" era="ce" calendar="gregorian">1963-1988</unitdate></unittitle>
       <unitid repositorycode="geu-s" countrycode="US" identifier="1011">Manuscript Collection No.
 		  1011</unitid>
@@ -85,16 +85,16 @@
       <p>Irish poet Derek Mahon met Louis Asekoff in the early 1960s while they
 		  were students at Trinity College in Dublin. Louis Asekoff (1939- ), poet and
 		  educator, currently coordinates the M.F.A. Program in Poetry at Brooklyn
-		  College. His poems have appeared in many magazines, including 
-		<title>The New Yorker</title>, 
-		<title>Poetry</title>, 
-		<title>Tikkun</title>, 
-		<title>Salamagundi</title>, 
-		<title>Triquarterly</title>, and 
+		  College. His poems have appeared in many magazines, including
+		<title>The New Yorker</title>,
+		<title>Poetry</title>,
+		<title>Tikkun</title>,
+		<title>Salamagundi</title>,
+		<title>Triquarterly</title>, and
 		<title>The American Poetry Review</title>. He has twice received The
 		American Poetry Review Jerome Shestack Prize for Poetry. He has published two
-		books of poetry, 
-		<title>Dreams of a Work</title> (1994) and 
+		books of poetry,
+		<title>Dreams of a Work</title> (1994) and
 		<title>North Star</title> (1997) by Orchieses Press, Washington, D.C. He
 		has received poetry fellowships from the National Endowment for the Arts, the
 		New York Foundation for the Arts, and The Fund for Poetry.</p>
@@ -139,7 +139,8 @@
     </controlaccess>
     <separatedmaterial encodinganalog="544 0">
       <head>Related Materials in This Repository</head>
-      <p>Derek Mahon papers and the Derek Mahon collection.</p>
+      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8zm5r">Derek Mahon papers</extref> and the
+      <extref xlink:href="http://pid.emory.edu/ark:/25593/8zm4m">Derek Mahon collection</extref>.</p>
     </separatedmaterial>
     <dsc type="in-depth">
       <head>Container List</head>
