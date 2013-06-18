@@ -11808,14 +11808,14 @@
                         <container type="folder">1</container>
                         <unittitle>
                             <persname source="viaf" authfilenumber="50609413" role="schema:author dc:creator">Dugdale, Norman</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Terminus</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">A Question of Identity</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">A Self-Portrait</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Salmon-Leaf: Mayo</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">On a Recent Happy Event</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Saturday</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">N.W.S</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Autopsy on the Fifth Decade</title>
+                            <title render="doublequote">Terminus</title>,
+                            <title render="doublequote">A Question of Identity</title>,
+                            <title render="doublequote">A Self-Portrait</title>,
+                            <title render="doublequote">Salmon-Leaf: Mayo</title>,
+                            <title render="doublequote">On a Recent Happy Event</title>,
+                            <title render="doublequote">Saturday</title>,
+                            <title render="doublequote">N.W.S</title>,
+                            <title render="doublequote">Autopsy on the Fifth Decade</title>
                             [2 copies]</unittitle>
                     </did>
                 </c02>
@@ -11824,13 +11824,13 @@
                         <container type="box">60</container>
                         <container type="folder">2</container>
                         <unittitle><persname role="schema:author dc:creator">Harvey, W.J.</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">The Poem in October</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Reading Drayton in October</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Hart Crane</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Sea-Side Song</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Leni Riefenstahl's Olympiad: 1936</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Sorcerer's Apprentice</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Arriving at Larne: Seasick</title></unittitle>
+                            <title render="doublequote">The Poem in October</title>,
+                            <title render="doublequote">Reading Drayton in October</title>,
+                            <title render="doublequote">Hart Crane</title>,
+                            <title render="doublequote">Sea-Side Song</title>,
+                            <title render="doublequote">Leni Riefenstahl's Olympiad: 1936</title>,
+                            <title render="doublequote">The Sorcerer's Apprentice</title>,
+                            <title render="doublequote">Arriving at Larne: Seasick</title></unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -11840,13 +11840,13 @@
                         <unittitle>
                             <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>,
                             <date normal="1965-04-27">April 27, 1965</date>:
-                            <title render="doublequote" type="bibo:DocumentPart">Boy Driving his Father to Confession</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">To A Wine Jar</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">On Hogarth's Engraving 'Pit Ticket for the Royal Sport'</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Synge on Aran</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Blackberry-Picking</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Saint Francis and the Birds</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">At a Potato Digging</title>
+                            <title render="doublequote">Boy Driving his Father to Confession</title>,
+                            <title render="doublequote">To A Wine Jar</title>,
+                            <title render="doublequote">On Hogarth's Engraving 'Pit Ticket for the Royal Sport'</title>,
+                            <title render="doublequote">Synge on Aran</title>,
+                            <title render="doublequote">Blackberry-Picking</title>,
+                            <title render="doublequote">Saint Francis and the Birds</title>,
+                            <title render="doublequote">At a Potato Digging</title>
                 </unittitle>
                 <dao xlink:href="http://pid.emory.edu/ark:/25593/17kjg"/>
                     </did>
@@ -11857,14 +11857,14 @@
                         <container type="folder">4</container>
                         <unittitle>
                             <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Icon</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Limbo</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Wedding Day</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Last Mummer</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">High Street, Belfast, 1786</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Tweed</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Dawn</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Bye-Child</title>
+                            <title render="doublequote">Icon</title>,
+                            <title render="doublequote">Limbo</title>,
+                            <title render="doublequote">Wedding Day</title>,
+                            <title render="doublequote">The Last Mummer</title>,
+                            <title render="doublequote">High Street, Belfast, 1786</title>,
+                            <title render="doublequote">Tweed</title>,
+                            <title render="doublequote">Dawn</title>,
+                            <title render="doublequote">Bye-Child</title>
                         </unittitle>
                     </did>
                 </c02>
@@ -11874,13 +11874,13 @@
                         <container type="folder">5</container>
                         <unittitle>
                             <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Digging</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Death of a Naturalist</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Storm on the Island</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Soliloquy for an Old Resident</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Writer and Teacher</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Young Bachelor</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Scaffolding</title> [2 copies]
+                            <title render="doublequote">Digging</title>,
+                            <title render="doublequote">Death of a Naturalist</title>,
+                            <title render="doublequote">Storm on the Island</title>,
+                            <title render="doublequote">Soliloquy for an Old Resident</title>,
+                            <title render="doublequote">Writer and Teacher</title>,
+                            <title render="doublequote">Young Bachelor</title>,
+                            <title render="doublequote">Scaffolding</title> [2 copies]
                         </unittitle>
                         <dao xlink:href="http://pid.emory.edu/ark:/25593/17kkm"/>
                     </did>
@@ -11892,13 +11892,13 @@
                         <unittitle>
                             <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>:
                             <title render="doublequote">A Lough Neagh Sequence</title>
-                            [<title render="doublequote" type="bibo:DocumentPart">1. Vision</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">2. The  Coming</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">3. Bait</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">4. Setting</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">5. Lifting</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">6. The Going</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">7. Coda</title>] [2 copies]</unittitle>
+                            [<title render="doublequote">1. Vision</title>,
+                            <title render="doublequote">2. The  Coming</title>,
+                            <title render="doublequote">3. Bait</title>,
+                            <title render="doublequote">4. Setting</title>,
+                            <title render="doublequote">5. Lifting</title>,
+                            <title render="doublequote">6. The Going</title>,
+                            <title render="doublequote">7. Coda</title>] [2 copies]</unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -11907,12 +11907,12 @@
                         <container type="folder">7</container>
                         <unittitle>
                             <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">At Ardboe Point</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Good-Night</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Crowing Man</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Shore Woman</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Yank</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">A Winter's Tale</title>
+                            <title render="doublequote">At Ardboe Point</title>,
+                            <title render="doublequote">Good-Night</title>,
+                            <title render="doublequote">The Crowing Man</title>,
+                            <title render="doublequote">Shore Woman</title>,
+                            <title render="doublequote">Yank</title>,
+                            <title render="doublequote">A Winter's Tale</title>
                         </unittitle>
                     </did>
                 </c02>
@@ -11922,13 +11922,13 @@
                         <container type="folder">8</container>
                         <unittitle>
                             <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">The Diviner</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Gravities</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Ancestral Photograph</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">For the Commander of 'The Eliza'</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Personal Helicon</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Girls Bathing, Galway, 1965</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Salmon Fisher to the Salmon</title> [3 copies, 1 with holograph notes]
+                            <title render="doublequote">The Diviner</title>,
+                            <title render="doublequote">Gravities</title>,
+                            <title render="doublequote">Ancestral Photograph</title>,
+                            <title render="doublequote">For the Commander of 'The Eliza'</title>,
+                            <title render="doublequote">Personal Helicon</title>,
+                            <title render="doublequote">Girls Bathing, Galway, 1965</title>,
+                            <title render="doublequote">The Salmon Fisher to the Salmon</title> [3 copies, 1 with holograph notes]
                 </unittitle>
                 <dao xlink:href="http://pid.emory.edu/ark:/25593/17kmr"/>
                     </did>
@@ -11939,14 +11939,14 @@
                         <container type="folder">9</container>
                         <unittitle>
                             <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Elegy for an Unborn Child</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Triptych for the Easter Battlers</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Homage to Pieter Breughel</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Persephone</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Rookery</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Requiem for the Irish Rebels</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Peninsula</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Orange Drums, Tyrone 1966</title>
+                            <title render="doublequote">Elegy for an Unborn Child</title>,
+                            <title render="doublequote">Triptych for the Easter Battlers</title>,
+                            <title render="doublequote">Homage to Pieter Breughel</title>,
+                            <title render="doublequote">Persephone</title>,
+                            <title render="doublequote">Rookery</title>,
+                            <title render="doublequote">Requiem for the Irish Rebels</title>,
+                            <title render="doublequote">The Peninsula</title>,
+                            <title render="doublequote">Orange Drums, Tyrone 1966</title>
                             [2 copies, 1 with holograph notes]
                         </unittitle>
                         <dao xlink:href="http://pid.emory.edu/ark:/25593/17knw"/>
@@ -11958,24 +11958,24 @@
                         <container type="folder">10</container>
                         <unittitle>
                             <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>, Michael Longley, and Brendan Kennelly:
-                            <title render="doublequote" type="bibo:DocumentPart">Death of a Naturalist</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Lovers on Aran</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Follower</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Elegy for a Still-Born Child</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Personal Helicon</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Antaeus</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The After-Child</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Blind Man</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Marlowe</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Good</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Light Dying</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Dummies</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Osprey</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Hebrides</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Elegy for Fats Waller</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Dr Johnson Dying</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Gathering Mushrooms</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Persephone</title>
+                            <title render="doublequote">Death of a Naturalist</title>,
+                            <title render="doublequote">Lovers on Aran</title>,
+                            <title render="doublequote">Follower</title>,
+                            <title render="doublequote">Elegy for a Still-Born Child</title>,
+                            <title render="doublequote">Personal Helicon</title>,
+                            <title render="doublequote">Antaeus</title>,
+                            <title render="doublequote">The After-Child</title>,
+                            <title render="doublequote">The Blind Man</title>,
+                            <title render="doublequote">Marlowe</title>,
+                            <title render="doublequote">The Good</title>,
+                            <title render="doublequote">Light Dying</title>,
+                            <title render="doublequote">The Dummies</title>,
+                            <title render="doublequote">The Osprey</title>,
+                            <title render="doublequote">The Hebrides</title>,
+                            <title render="doublequote">Elegy for Fats Waller</title>,
+                            <title render="doublequote">Dr Johnson Dying</title>,
+                            <title render="doublequote">Gathering Mushrooms</title>,
+                            <title render="doublequote">Persephone</title>
                         </unittitle>
                     </did>
                 </c02>
@@ -11985,15 +11985,15 @@
                         <container type="folder">11</container>
                         <unittitle>
                             <persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">A Headstone</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Man Friday</title>
-                            <title render="doublequote" type="bibo:DocumentPart">Out of the Sea</title>
+                            <title render="doublequote">A Headstone</title>,
+                            <title render="doublequote">Man Friday</title>
+                            <title render="doublequote">Out of the Sea</title>
                             ["1. Seahorses," "2. Bikini Atoll"],
-                            <title render="doublequote" type="bibo:DocumentPart">Homage to Buster Keaton</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Fanny Hill</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Klondike</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Journey out of Essex</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Barracuda</title>
+                            <title render="doublequote">Homage to Buster Keaton</title>,
+                            <title render="doublequote">Fanny Hill</title>,
+                            <title render="doublequote">Klondike</title>,
+                            <title render="doublequote">Journey out of Essex</title>,
+                            <title render="doublequote">Barracuda</title>
                             [6 copies, 3 with holograph notes]</unittitle>
                     </did>
                 </c02>
@@ -12003,13 +12003,13 @@
                         <container type="folder">12</container>
                         <unittitle>
                             <persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Circe</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Ornithological Section</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Orpheus</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">A Personal Statement</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Centaurs</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Housewife's Testament</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Christopher at Birth</title>
+                            <title render="doublequote">Circe</title>,
+                            <title render="doublequote">The Ornithological Section</title>,
+                            <title render="doublequote">Orpheus</title>,
+                            <title render="doublequote">A Personal Statement</title>,
+                            <title render="doublequote">The Centaurs</title>,
+                            <title render="doublequote">The Housewife's Testament</title>,
+                            <title render="doublequote">Christopher at Birth</title>
                             [3 copies, 1 with holograph notes]
                         </unittitle>
                         <dao xlink:href="http://pid.emory.edu/ark:/25593/17m1h"/>
@@ -12021,15 +12021,15 @@
                         <container type="folder">13</container>
                         <unittitle>
                             <persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Althera Cithera</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Three Posthumous Pieces</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Island</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Casualty</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Badger</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Hedgehog</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Kingfisher</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Robin</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Adulterer</title>
+                            <title render="doublequote">Althera Cithera</title>,
+                            <title render="doublequote">Three Posthumous Pieces</title>,
+                            <title render="doublequote">The Island</title>,
+                            <title render="doublequote">Casualty</title>,
+                            <title render="doublequote">Badger</title>,
+                            <title render="doublequote">Hedgehog</title>,
+                            <title render="doublequote">Kingfisher</title>,
+                            <title render="doublequote">Robin</title>,
+                            <title render="doublequote">The Adulterer</title>
                             [3 copies]
                         </unittitle>
                     </did>
@@ -12039,15 +12039,15 @@
                         <container type="box">60</container>
                         <container type="folder">14</container>
                         <unittitle><persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
-                        <title render="doublequote" type="bibo:DocumentPart">Emily Dickinson</title>,
-                        <title render="doublequote" type="bibo:DocumentPart">The Osprey</title>,
-                        <title render="doublequote" type="bibo:DocumentPart">In Memoriam</title>,
-                        <title render="doublequote" type="bibo:DocumentPart">Christopher at Birth</title>,
-                        <title render="doublequote" type="bibo:DocumentPart">Gathering Mushrooms</title>,
-                        <title render="doublequote" type="bibo:DocumentPart">Persephone</title>,
-                        <title render="doublequote" type="bibo:DocumentPart">Dr. Johnson on the Hebrides</title>,
-                        <title render="doublequote" type="bibo:DocumentPart">Remembrance Day</title>,
-                        <title render="doublequote" type="bibo:DocumentPart">Man Friday</title></unittitle>
+                        <title render="doublequote">Emily Dickinson</title>,
+                        <title render="doublequote">The Osprey</title>,
+                        <title render="doublequote">In Memoriam</title>,
+                        <title render="doublequote">Christopher at Birth</title>,
+                        <title render="doublequote">Gathering Mushrooms</title>,
+                        <title render="doublequote">Persephone</title>,
+                        <title render="doublequote">Dr. Johnson on the Hebrides</title>,
+                        <title render="doublequote">Remembrance Day</title>,
+                        <title render="doublequote">Man Friday</title></unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12055,13 +12055,13 @@
                         <container type="box">60</container>
                         <container type="folder">15</container>
                         <unittitle><persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Dr. Johnson on the Hebrides</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Leaving Inishmore</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Camouflage</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Persephone</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">To Derek Mahon</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">A Working Holiday</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Words for Jazz Perhaps</title>
+                            <title render="doublequote">Dr. Johnson on the Hebrides</title>,
+                            <title render="doublequote">Leaving Inishmore</title>,
+                            <title render="doublequote">Camouflage</title>,
+                            <title render="doublequote">Persephone</title>,
+                            <title render="doublequote">To Derek Mahon</title>,
+                            <title render="doublequote">A Working Holiday</title>,
+                            <title render="doublequote">Words for Jazz Perhaps</title>
                              [1. Elegy for Fats Waller, 2. Billie Holiday, 3. Bud Freeman in Belfast, 4. To Bessie Smith]
                          </unittitle>
                     </did>
@@ -12071,12 +12071,12 @@
                         <container type="box">60</container>
                         <container type="folder">16</container>
                         <unittitle><persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">No Continuing City</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">A Slight Adultery</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Journey</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">To Edna</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Her Mime of the Lame Seagull</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Hebrides</title>
+                            <title render="doublequote">No Continuing City</title>,
+                            <title render="doublequote">A Slight Adultery</title>,
+                            <title render="doublequote">The Journey</title>,
+                            <title render="doublequote">To Edna</title>,
+                            <title render="doublequote">Her Mime of the Lame Seagull</title>,
+                            <title render="doublequote">The Hebrides</title>
                                 [with holograph corrections]</unittitle>
                     </did>
                 </c02>
@@ -12085,13 +12085,13 @@
                         <container type="box">60</container>
                         <container type="folder">17</container>
                         <unittitle><persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">In Memoriam</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Christopher at Birth</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Freeze-Up</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Saint Francis to the Birds</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Elegy for Fats Waller</title>,
-				            <title render="doublequote" type="bibo:DocumentPart">Epitathalamion</title>,
-				            <title render="doublequote" type="bibo:DocumentPart">En Route</title>
+                            <title render="doublequote">In Memoriam</title>,
+                            <title render="doublequote">Christopher at Birth</title>,
+                            <title render="doublequote">Freeze-Up</title>,
+                            <title render="doublequote">Saint Francis to the Birds</title>,
+                            <title render="doublequote">Elegy for Fats Waller</title>,
+			    <title render="doublequote">Epitathalamion</title>,
+			    <title render="doublequote">En Route</title>
 				            [with holograph corrections] </unittitle>
                     </did>
                 </c02>
@@ -12100,14 +12100,14 @@
                         <container type="box">60</container>
                         <container type="folder">18</container>
                         <unittitle><persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Gathering Mushrooms</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">To Bix Beiderbecke</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Nausicaa</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Freemartin</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Narcissus</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Dr. Johnson Dying</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">In a Convent Cemetery</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Remembrance Day</title>
+                            <title render="doublequote">Gathering Mushrooms</title>,
+                            <title render="doublequote">To Bix Beiderbecke</title>,
+                            <title render="doublequote">Nausicaa</title>,
+                            <title render="doublequote">The Freemartin</title>,
+                            <title render="doublequote">Narcissus</title>,
+                            <title render="doublequote">Dr. Johnson Dying</title>,
+                            <title render="doublequote">In a Convent Cemetery</title>,
+                            <title render="doublequote">Remembrance Day</title>
                         </unittitle>
                     </did>
                 </c02>
@@ -12116,13 +12116,13 @@
                         <container type="box">60</container>
                         <container type="folder">19</container>
                         <unittitle><persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
-                         <title render="doublequote" type="bibo:DocumentPart">To the Poets</title>,
-                         <title render="doublequote" type="bibo:DocumentPart">Mountain Swim</title>,
-                         <title render="doublequote" type="bibo:DocumentPart">A Nativity</title>,
-                         <title render="doublequote" type="bibo:DocumentPart">Miscarriage</title>,
-                         <title render="doublequote" type="bibo:DocumentPart">The North</title>,
-                         <title render="doublequote" type="bibo:DocumentPart">Lares</title>,
-                         <title render="doublequote" type="bibo:DocumentPart">Caravan</title>
+                         <title render="doublequote">To the Poets</title>,
+                         <title render="doublequote">Mountain Swim</title>,
+                         <title render="doublequote">A Nativity</title>,
+                         <title render="doublequote">Miscarriage</title>,
+                         <title render="doublequote">The North</title>,
+                         <title render="doublequote">Lares</title>,
+                         <title render="doublequote">Caravan</title>
                          [2 copies, 1 with holograph corrections]</unittitle>
                     </did>
                 </c02>
@@ -12132,10 +12132,10 @@
                         <container type="folder">20</container>
                         <unittitle><persname role="schema:author dc:creator">McGurk, Tom</persname>,
                             <date normal="1965-12-01">December 1, [1965?]</date> group meeting:
-                            <title render="doublequote" type="bibo:DocumentPart">The Magi</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">A.D. 1969</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">A Tribute to Patrick Kavanagh</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Going Up</title>
+                            <title render="doublequote">The Magi</title>,
+                            <title render="doublequote">A.D. 1969</title>,
+                            <title render="doublequote">A Tribute to Patrick Kavanagh</title>,
+                            <title render="doublequote">Going Up</title>
                             [part missing]</unittitle>
                     </did>
                 </c02>
@@ -12144,14 +12144,14 @@
                         <container type="box">60</container>
                         <container type="folder">21</container>
                         <unittitle><persname role="schema:author dc:creator">McGurk, Tom</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">First-Born</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Kavanagh's Arrival</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Heartman - still beating strong!</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Big Ned</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">A Parable of Stoney Ground</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Myxomatosis 1955</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Empty Pages</title>, and
-                            <title render="doublequote" type="bibo:DocumentPart">Henry IX</title></unittitle>
+                            <title render="doublequote">First-Born</title>,
+                            <title render="doublequote">Kavanagh's Arrival</title>,
+                            <title render="doublequote">Heartman - still beating strong!</title>,
+                            <title render="doublequote">Big Ned</title>,
+                            <title render="doublequote">A Parable of Stoney Ground</title>,
+                            <title render="doublequote">Myxomatosis 1955</title>,
+                            <title render="doublequote">The Empty Pages</title>, and
+                            <title render="doublequote">Henry IX</title></unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12159,13 +12159,13 @@
                         <container type="box">60</container>
                         <container type="folder">22</container>
                         <unittitle><persname source="viaf" authfilenumber="110228045" role="schema:author dc:creator">Mahon, Derek</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Poem in Belfast</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">In Carrowdore Churchyard</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">My Wicked Uncle</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Canadian Pacific</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Famous Last Words</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">As God Is My Judge</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Poets Lie Where They Fell</title>
+                            <title render="doublequote">Poem in Belfast</title>,
+                            <title render="doublequote">In Carrowdore Churchyard</title>,
+                            <title render="doublequote">My Wicked Uncle</title>,
+                            <title render="doublequote">Canadian Pacific</title>,
+                            <title render="doublequote">Famous Last Words</title>,
+                            <title render="doublequote">As God Is My Judge</title>,
+                            <title render="doublequote">The Poets Lie Where They Fell</title>
                         </unittitle>
                     </did>
                 </c02>
@@ -12174,14 +12174,14 @@
                         <container type="box">60</container>
                         <container type="folder">23</container>
                         <unittitle><persname source="viaf" authfilenumber="64048541" role="schema:author dc:creator">Muldoon, Paul</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Wind and Tree</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Hedges in Winter</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Cuckoo Corn</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Siesta</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Vampire</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Grass Widow</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Indians on Alcatraz</title>,
-				             and <title render="doublequote" type="bibo:DocumentPart">The Electric Orchard</title></unittitle>
+                            <title render="doublequote">Wind and Tree</title>,
+                            <title render="doublequote">Hedges in Winter</title>,
+                            <title render="doublequote">Cuckoo Corn</title>,
+                            <title render="doublequote">Siesta</title>,
+                            <title render="doublequote">Vampire</title>,
+                            <title render="doublequote">Grass Widow</title>,
+                            <title render="doublequote">The Indians on Alcatraz</title>,
+			and <title render="doublequote">The Electric Orchard</title></unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12189,15 +12189,15 @@
                         <container type="box">60</container>
                         <container type="folder">24</container>
                         <unittitle><persname source="viaf" authfilenumber="64048541" role="schema:author dc:creator">Muldoon, Paul</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Stillborn</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Snail</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">January</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Poem at Eighteen</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Hawk</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Hedgehog</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Seanchas</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Unborn</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Leaving the Island</title></unittitle>
+                            <title render="doublequote">Stillborn</title>,
+                            <title render="doublequote">Snail</title>,
+                            <title render="doublequote">January</title>,
+                            <title render="doublequote">Poem at Eighteen</title>,
+                            <title render="doublequote">Hawk</title>,
+                            <title render="doublequote">Hedgehog</title>,
+                            <title render="doublequote">Seanchas</title>,
+                            <title render="doublequote">Unborn</title>,
+                            <title render="doublequote">Leaving the Island</title></unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12205,11 +12205,11 @@
                         <container type="box">60</container>
                         <container type="folder">25</container>
                         <unittitle><persname source="viaf" authfilenumber="2490119" role="schema:author dc:creator">Terry, Arthur</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">A Small War</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Appointment</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">The Sisters</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Told After Breughel</title>, and
-                            <title render="doublequote" type="bibo:DocumentPart">Caesar</title>
+                            <title render="doublequote">A Small War</title>,
+                            <title render="doublequote">The Appointment</title>,
+                            <title render="doublequote">The Sisters</title>,
+                            <title render="doublequote">Told After Breughel</title>, and
+                            <title render="doublequote">Caesar</title>
                             [with holograph correction]
                         </unittitle>
                     </did>
@@ -12219,10 +12219,10 @@
                         <container type="box">60</container>
                         <container type="folder">26</container>
                         <unittitle><persname source="viaf" authfilenumber="2490119" role="schema:author dc:creator">Terry, Arthur</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">Beginnings</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Untitled ["On Sunday evenings in the poor quarter"]</title>,
-                            <title render="doublequote" type="bibo:DocumentPart">Time Was</title>, and
-                            <title render="doublequote" type="bibo:DocumentPart">My Skeleton</title>
+                            <title render="doublequote">Beginnings</title>,
+                            <title render="doublequote">Untitled ["On Sunday evenings in the poor quarter"]</title>,
+                            <title render="doublequote">Time Was</title>, and
+                            <title render="doublequote">My Skeleton</title>
                             [2 copies]</unittitle>
                     </did>
                 </c02>
@@ -12231,7 +12231,7 @@
                         <container type="box">60</container>
                         <container type="folder">27</container>
                         <unittitle><persname source="viaf" authfilenumber="2490119" role="schema:author dc:creator">Terry, Arthur</persname>:
-                            <title render="doublequote" type="bibo:DocumentPart">By Natural Piety</title></unittitle>
+                            <title render="doublequote">By Natural Piety</title></unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
