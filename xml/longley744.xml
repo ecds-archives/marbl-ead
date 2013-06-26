@@ -11865,6 +11865,7 @@
                             <title render="doublequote">Dawn</title>,
                             <title render="doublequote">Bye-Child</title>
                         </unittitle>
+                        <dao xlink:href="http://pid.emory.edu/ark:/25593/17ktk"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -11892,12 +11893,13 @@
                             <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>:
                             <title render="doublequote">A Lough Neagh Sequence</title>
                             [<title render="doublequote">1. Vision</title>,
-                            <title render="doublequote">2. The  Coming</title>,
+                            <title render="doublequote">2. The Coming</title>,
                             <title render="doublequote">3. Bait</title>,
                             <title render="doublequote">4. Setting</title>,
                             <title render="doublequote">5. Lifting</title>,
                             <title render="doublequote">6. The Going</title>,
                             <title render="doublequote">7. Coda</title>] [2 copies]</unittitle>
+                            <dao xlink:href="http://pid.emory.edu/ark:/25593/17kvq"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -11913,6 +11915,7 @@
                             <title render="doublequote">Yank</title>,
                             <title render="doublequote">A Winter's Tale</title>
                         </unittitle>
+                        <dao xlink:href="http://pid.emory.edu/ark:/25593/17kr9"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -11928,8 +11931,8 @@
                             <title render="doublequote">Personal Helicon</title>,
                             <title render="doublequote">Girls Bathing, Galway, 1965</title>,
                             <title render="doublequote">The Salmon Fisher to the Salmon</title> [3 copies, 1 with holograph notes]
-                </unittitle>
-                <dao xlink:href="http://pid.emory.edu/ark:/25593/17kmr"/>
+                        </unittitle>
+                        <dao xlink:href="http://pid.emory.edu/ark:/25593/17kmr"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -11956,7 +11959,9 @@
                         <container type="box">60</container>
                         <container type="folder">10</container>
                         <unittitle>
-                            <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>, Michael Longley, and Brendan Kennelly:
+                            <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>,
+                            <persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Michael Longley</persname>, and
+                            <persname source="viaf" authfilenumber="267971098" role="schema:author dc:creator">Brendan Kennelly</persname>:
                             <title render="doublequote">Death of a Naturalist</title>,
                             <title render="doublequote">Lovers on Aran</title>,
                             <title render="doublequote">Follower</title>,
@@ -11976,6 +11981,7 @@
                             <title render="doublequote">Gathering Mushrooms</title>,
                             <title render="doublequote">Persephone</title>
                         </unittitle>
+                        <dao xlink:href="http://pid.emory.edu/ark:/25593/17ksf"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -11994,6 +12000,7 @@
                             <title render="doublequote">Journey out of Essex</title>,
                             <title render="doublequote">Barracuda</title>
                             [6 copies, 3 with holograph notes]</unittitle>
+                            <dao xlink:href="http://pid.emory.edu/ark:/25593/17m4x"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12031,6 +12038,7 @@
                             <title render="doublequote">The Adulterer</title>
                             [3 copies]
                         </unittitle>
+                        <dao xlink:href="http://pid.emory.edu/ark:/25593/17m0c"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12047,6 +12055,7 @@
                         <title render="doublequote">Dr. Johnson on the Hebrides</title>,
                         <title render="doublequote">Remembrance Day</title>,
                         <title render="doublequote">Man Friday</title></unittitle>
+                        <dao xlink:href="http://pid.emory.edu/ark:/25593/17m3s"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12063,6 +12072,7 @@
                             <title render="doublequote">Words for Jazz Perhaps</title>
                              [1. Elegy for Fats Waller, 2. Billie Holiday, 3. Bud Freeman in Belfast, 4. To Bessie Smith]
                          </unittitle>
+                         <dao xlink:href="http://pid.emory.edu/ark:/25593/17m2n"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12077,6 +12087,7 @@
                             <title render="doublequote">Her Mime of the Lame Seagull</title>,
                             <title render="doublequote">The Hebrides</title>
                                 [with holograph corrections]</unittitle>
+                        <dao xlink:href="http://pid.emory.edu/ark:/25593/17m7b"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12089,9 +12100,10 @@
                             <title render="doublequote">Freeze-Up</title>,
                             <title render="doublequote">Saint Francis to the Birds</title>,
                             <title render="doublequote">Elegy for Fats Waller</title>,
-			    <title render="doublequote">Epitathalamion</title>,
-			    <title render="doublequote">En Route</title>
+                            <title render="doublequote">Epitathalamion</title>,
+                            <title render="doublequote">En Route</title>
 				            [with holograph corrections] </unittitle>
+                            <dao xlink:href="http://pid.emory.edu/ark:/25593/17m66"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12108,6 +12120,7 @@
                             <title render="doublequote">In a Convent Cemetery</title>,
                             <title render="doublequote">Remembrance Day</title>
                         </unittitle>
+                        <dao xlink:href="http://pid.emory.edu/ark:/25593/17m52"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12123,6 +12136,7 @@
                          <title render="doublequote">Lares</title>,
                          <title render="doublequote">Caravan</title>
                          [2 copies, 1 with holograph corrections]</unittitle>
+                         <dao xlink:href="http://pid.emory.edu/ark:/25593/17m8g"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12180,7 +12194,8 @@
                             <title render="doublequote">Vampire</title>,
                             <title render="doublequote">Grass Widow</title>,
                             <title render="doublequote">The Indians on Alcatraz</title>,
-			and <title render="doublequote">The Electric Orchard</title></unittitle>
+                            and <title render="doublequote">The Electric Orchard</title></unittitle>
+                            <dao xlink:href="http://pid.emory.edu/ark:/25593/17mcw"/>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12197,6 +12212,7 @@
                             <title render="doublequote">Seanchas</title>,
                             <title render="doublequote">Unborn</title>,
                             <title render="doublequote">Leaving the Island</title></unittitle>
+                            <dao xlink:href="http://pid.emory.edu/ark:/25593/17mbr"/>
                     </did>
                 </c02>
                 <c02 level="file">
