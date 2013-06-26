@@ -1530,7 +1530,7 @@
                     <scopecontent encodinganalog="520">
                         <head>Scope and Content Note</head>
                         <p>As editor of
-              <title>The Honest Ulsterman</title>, <persname authfilenumber="49280158" source="viaf">Frank Ormsby</persname> kept detailed
+              <title>The Honest Ulsterman</title>, Frank Ormsby kept detailed
 				files on a host of individual authors. These files contain correspondence,
 				often of both a personal and professional nature, sent to Ormsby or to the
 				magazine. Also, many individual writers' manuscript or typescript submissions
@@ -2503,9 +2503,17 @@
                             <container type="box">8</container>
                             <container type="folder">57</container>
                             <unittitle>
-                                <persname authfilenumber="222714533" source="viaf">Heaney, Seamus</persname>, Poetry: <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet, 8
-					 November 1971 [includes: “Gifts of Rain,” “The Last Mummer,” “Servant Boy,”
-					 “The Tollund Man,” “Westering”]</unittitle>
+                                <persname authfilenumber="222714533" source="viaf" role="schema:author dc:creator">Heaney, Seamus</persname>, Poetry:
+                                <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet,
+                                <date normal="1971-11-08">8 November 1971</date>
+                                    [includes:
+                                    <title render="doublequote">Gifts of Rain</title>,
+                                    <title render="doublequote">The Last Mummer</title>,
+                                    <title render="doublequote">Servant Boy</title>,
+                                    <title render="doublequote">The Tollund Man</title>,
+                                    <title render="doublequote">Westering</title>]
+                                </unittitle>
+                                <dao xlink:href="http://pid.emory.edu/ark:/25593/17kwv"/>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -3053,9 +3061,17 @@
                             <container type="box">9</container>
                             <container type="folder">35</container>
                             <unittitle>
-                                <persname authfilenumber="39398205" source="viaf">Longley, Michael</persname>, Poetry: <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets,
-					 circa 1970-1971 [includes: “To the Poets,” “Mountain Swim,” “A Nativity,”
-					 “Miscarriage,” “The North,” “Lares,” “Caravan”]</unittitle>
+                                <persname authfilenumber="39398205" source="viaf" role="dc:creator schema:author">Longley, Michael</persname>, Poetry:
+                                <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets,
+                                circa <date normal="1970/1971">1970-1971</a> [includes:
+                                <title render="doublequote">To the Poets</title>,
+                                <title render="doublequote">Mountain Swim</title>,
+                                <title render="doublequote">A Nativity</title>,
+                                <title render="doublequote">Miscarriage</title>,
+                                <title render="doublequote">The North</title>,
+                                <title render="doublequote">Lares</title>,
+                                <title render="doublequote">Caravan</title>]</unittitle>
+                                <dao xlink:href="http://pid.emory.edu/ark:/25593/17m8g"/>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -3063,10 +3079,19 @@
                             <container type="box">9</container>
                             <container type="folder">36</container>
                             <unittitle>
-                                <persname authfilenumber="39398205" source="viaf">Longley, Michael</persname>, Poetry: <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets, 31
-					 January 1972 [includes: “Altera Cithera,” “Three Posthumous Pieces,” “The
-					 Island,” “Casualty,” “Badger,” “Hedgehog,” “Robin,” “Kingfisher,” “The
-					 Adulterer”]</unittitle>
+                                <persname authfilenumber="39398205" source="viaf" role="dc:creator schema:author">Longley, Michael</persname>,
+                                Poetry: <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets, <date normal="1972-01-31">31 January 1972</date>
+                                 [includes:
+                                 <title render="doublequote">Altera Cithera</title>,
+                                 <title render="doublequote">Three Posthumous Pieces</title>,
+                                 <title render="doublequote">The Island</title>,
+                                 <title render="doublequote">Casualty</title>,
+                                 <title render="doublequote">Badger</title>,
+                                 <title render="doublequote">Hedgehog</title>,
+                                 <title render="doublequote">Robin</title>,
+                                 <title render="doublequote">Kingfisher</title>,
+                                 <title render="doublequote">The Adulterer</title>]</unittitle>
+                                 <dao xlink:href="http://pid.emory.edu/ark:/25593/17m0c"/>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -3935,9 +3960,12 @@
                             <container type="box">10</container>
                             <container type="folder">72</container>
                             <unittitle>
-                                <persname authfilenumber="64048541" source="viaf">Muldoon, Paul</persname>, Poetry: <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets,
-					 undated [incomplete worksheet includes: "The Electric Orchard," "Grass Window,"
-					 "The Indians on Alcatraz"]</unittitle>
+                                <persname authfilenumber="64048541" source="viaf" role="dc:creator schema:author">Muldoon, Paul</persname>, Poetry:
+                                <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets,
+                                undated [incomplete worksheet includes:
+                                <title render="doublequote">The Electric Orchard</title>,
+                                <title render="doublequote">Grass Window</title>,
+                                <title render="doublequote">The Indians on Alcatraz</title>]</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -3945,10 +3973,18 @@
                             <container type="box">10</container>
                             <container type="folder">73</container>
                             <unittitle>
-                                <persname authfilenumber="64048541" source="viaf">Muldoon, Paul</persname>, Poetry: <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets, 25
-					 October 1971 [includes: "Blowing Eggs," "The Radio Horse," "The Field
-					 Hospital," "On a Dog of Unlike Eyes," "The Lost Tribe," "The Upriver Incident,"
-					 "Party Piece"]</unittitle>
+                                <persname authfilenumber="64048541" source="viaf" role="dc:creator schema:author">Muldoon, Paul</persname>, Poetry:
+                                <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets,
+                                 <date normal="1971-10-25">25 October 1971</date>
+                                 [includes:
+                                 <title render="doublequote">Blowing Eggs</title>,
+                                 <title render="doublequote">The Radio Horse</title>,
+                                 <title render="doublequote">The Field Hospital</title>,
+                                 <title render="doublequote">On a Dog of Unlike Eyes</title>,
+                                 <title render="doublequote">The Lost Tribe</title>,
+                                 <title render="doublequote">The Upriver Incident</title>,
+                                 <title render="doubequote">Party Piece</title>]</unittitle>
+                                 <dao xlink:href="http://pid.emory.edu/ark:/25593/17m9m"/>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -4503,9 +4539,14 @@
                             <container type="box">11</container>
                             <container type="folder">49</container>
                             <unittitle>
-                                <persname authfilenumber="92591927" source="viaf">Simmons, James</persname>s, Poetry: the <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets,
-					 Monday March 1, 1971 [includes: "Marital Sonnets," "Elegy for J.F. Kennedy,"
-					 "The Publican," "A Man of Principle," "No Land is Waste," TS]</unittitle>
+                                <persname authfilenumber="92591927" source="viaf" role="dc:creator schema:author">Simmons, James</persname>s, Poetry:
+                                the <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets,	<date normal="1971-03-01">Monday March 1, 1971</date>
+                                [includes:
+                                <title render="doublequote">Marital Sonnets</title>,
+                                <title render="doublequote">Elegy for J.F. Kennedy</title>,
+                                <title render="doublequote">The Publican</title>,
+                                <title render="doublequote">A Man of Principle</title>,
+                                <title render="doublquote">No Land is Waste</title>, TS]</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -11842,10 +11883,18 @@
                         <container type="box">30</container>
                         <container type="folder">1</container>
                         <unittitle>
-                            <persname authfilenumber="50609413" source="viaf">Dugdale, Norman</persname>: <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet, circa 1972
-				  [includes poems: "Terminus," "A Question of Identity," "A Self-Portrait,"
-				  "Salmon-Leap: Mayo," "On a Recent Happy Event," "Saturday," "N.W.S.," "Autopsy
-				  on the Fifth Decade"]</unittitle>
+                            <persname authfilenumber="50609413" source="viaf" role="dc:creator schema:author">Dugdale, Norman</persname>:
+                            <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet,
+                            circa <date normal="1972">1972</date>
+                            [includes poems:
+                            <title render="doublequote">Terminus</title>,
+                            <title render="doublequote">A Question of Identity</title>,
+                            <title render="doublequote">A Self-Portrait</title>,
+                            <title render="doublequote">Salmon-Leap: Mayo</title>,
+                            <title render="doublequote">On a Recent Happy Event</title>,
+                            <title render="doublequote">Saturday</title>,
+                            <title render="doublequote">N.W.S.</title>,
+                            <title render="doublequote">Autopsy on the Fifth Decade</title>]</unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -11862,9 +11911,11 @@
                         <container type="box">30</container>
                         <container type="folder">3</container>
                         <unittitle>
-                            <persname authfilenumber="95151565" source="viaf">MacLaverty, Bernard</persname>: <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet, 30
-				  November 1971 [includes the short story: "St. Paul Could Hit the Nail on the
-				  Head"]</unittitle>
+                            <persname authfilenumber="95151565" source="viaf" role="dc:creator schema:author">MacLaverty, Bernard</persname>:
+                            <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet,
+                            <date normal="1971-11-30">30 November 1971</date>
+                             [includes the short story:
+                             <title render="doublequote">St. Paul Could Hit the Nail on the Head</title>]</unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -11872,28 +11923,47 @@
                         <container type="box">30</container>
                         <container type="folder">4</container>
                         <unittitle>
-                            <persname authfilenumber="95151565" source="viaf">MacLaverty, Bernard</persname>: <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet, 14
-				  February 1972 [includes the short story: "The Deep End"]</unittitle>
+                            <persname authfilenumber="95151565" source="viaf" role="dc:creator schema:author">>MacLaverty, Bernard</persname>:
+                            <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet,
+                            <date normal="1972-02-14">14 February 1972</date>
+                             [includes the short story:
+                             <title render="doublequote">The Deep End</title>]</unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
                     <did>
                         <container type="box">30</container>
                         <container type="folder">5</container>
-                        <unittitle>McGurk, Tom: <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet, circa 1971-1972
-				  [includes poems: "September Sibelius," "Protest," "The Son of the King of Moy,"
-				  "Apologia in Memoriam," "Greetings," "Mise Eire," "Facts of Life"]</unittitle>
-                    </did>
+                        <unittitle><persname role="dc:creator schema:author">McGurk, Tom</persname>:
+                            <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet,
+                            circa <date normal="1971/1972">1971-1972</date>
+                            [includes poems:
+                            <title render="doublequote">September Sibelius</title>,
+                            <title render="doublequote">Protest</title>,
+                            <title render="doublequote">The Son of the King of Moy</title>,
+                            <title render="doublequote">Apologia in Memoriam</title>,
+                            <title render="doublequote">Greetings</title>,
+                            <title render="doublequote">Mise Eire</title>,
+                            <title render="doublequote">Facts of Life</title>]</unittitle>
+                        </did>
                 </c02>
                 <c02 level="file">
                     <did>
                         <container type="box">30</container>
                         <container type="folder">6</container>
                         <unittitle>
-                            <persname>McMahon, Trevor</persname>: <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet, 22 November
-				  1971 [includes poems: "Moth," "Worm," "The Planter Speaks," "Old Man," "To
-				  Those Involved in Rigid Disciplines," "Rat Song," "The Fool's Soliloquy," "Poem
-				  as Mammoth"] </unittitle>
+                            <persname role="dc:creator schema:author">McMahon, Trevor</persname>:
+                            <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet,
+                            <date normal="1971-11-22">22 November 1971</date>
+                            [includes poems:
+                            <title render="doublequote">Moth</title>,
+                            <title render="doublequote">Worm</title>,
+                            <title render="doublequote">The Planter Speaks</title>,
+                            <title render="doublequote">Old Man</title>,
+                            <title render="doublequote">To Those Involved in Rigid Disciplines</title>,
+                            <title render="doublequote">Rat Song</title>,
+                            <title render="doublequote">The Fool's Soliloquy</title>,
+                            <title render="doublequote">Poem as Mammoth</title>] </unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
