@@ -69,12 +69,12 @@
      </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Paul Muldoon was born in County Armagh in 1951.  He attended Queen's University in Belfast where he studied English literature under Seamus Heaney.  In 1973, the year he graduated from Queen's, Faber and Faber published his first collection of poems.  From 1973 to 1986 he worked as a radio and television producer for BBC Northern Ireland.  He moved to the United States in 1987 and has held various university teaching posts.  He currently lives in New Jersey and is the Howard G. B. Clark '21 Professor at Princeton University and Chair of the Peter B. Lewis Center for the Arts.  Muldoon is married to novelist  Jean Hanff Korelitz, with whom he has two children.</p>
+      <p>Paul Muldoon was born in <geogname source="geonames" authfilenumber="2657059">County Armagh</geogname> in 1951.  He attended <corpname source="dbpedia" authfilenumber="Queen's_University_Belfast">Queen's University in Belfast</corpname> where he studied English literature under <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>.  In 1973, the year he graduated from Queen's, Faber and Faber published his first collection of poems.  From 1973 to 1986 he worked as a radio and television producer for BBC <geogname source="geonames" authfilenumber="2641364">Northern Ireland</geogname>.  He moved to the <geogname source="geonames" authfilenumber="6252001">United States</geogname> in 1987 and has held various university teaching posts.  He currently lives in <geogname source="geonames" authfilenumber="5101760">New Jersey</geogname> and is the Howard G. B. Clark '21 Professor at <corpname source="dbpedia" authfilenumber="Princeton_University">Princeton University</corpname> and Chair of the Peter B. Lewis Center for the Arts.  Muldoon is married to novelist  <persname source="viaf" authfilenumber="3189068">Jean Hanff Korelitz</persname>, with whom he has two children.</p>
       
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
-      <p>The collection consists of the papers of Irish poet Paul Muldoon from 1939-2010, including correspondence, writings by Muldoon and others, printed material, business and personal papers, photographs and audiovisual material.  The papers document Muldoon's creative work since the 1960s, including poetry, television and radio scripts for the BBC, drama and music.  Correspondence in the collection consists primarily of letters to Muldoon from others, with only a few copies of letters written by Muldoon.  The correspondence documents Muldoon's relationships with other Irish poets such as Ciaran Carson, Seamus Heaney, Michael Longley and Derek Mahon.  Writings by Muldoon include drafts, proofs and other materials relating to his work as a poet, translator, and lyricist, as well as various types of prose writing.  Writings by others include works by other Irish poets, interviews with Muldoon, and essays and theses about Muldoon's work.</p>
+      <p>The collection consists of the papers of Irish poet Paul Muldoon from 1939-2010, including correspondence, writings by Muldoon and others, printed material, business and personal papers, photographs and audiovisual material.  The papers document Muldoon's creative work since the 1960s, including poetry, television and radio scripts for the BBC, drama and music.  Correspondence in the collection consists primarily of letters to Muldoon from others, with only a few copies of letters written by Muldoon.  The correspondence documents Muldoon's relationships with other Irish poets such as <persname source="viaf" authfilenumber="85621766">Ciaran Carson</persname>, <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>, <persname source="viaf" authfilenumber="39398205">Michael Longley</persname> and <persname source="viaf" authfilenumber="110228045">Derek Mahon</persname>.  Writings by Muldoon include drafts, proofs and other materials relating to his work as a poet, translator, and lyricist, as well as various types of prose writing.  Writings by others include works by other Irish poets, interviews with Muldoon, and essays and theses about Muldoon's work.</p>
       <p>Printed material consists of published writings by and about Muldoon, published writings by other authors, as well as some collected publications.  Promotional material includes posters, flyers, brochures and other printed material publicizing and promoting Muldoon's work, poetry readings and other appearances.  Business and personal papers consist primarily of publishing contracts, but also contain materials such as Muldoon's curriculum vitae, travel itineraries, appointment books and royalty statements.  Photographs include portraits and snapshots of Muldoon, along with family members, friends and colleagues.  Finally, the audiovisual material in the collection consists of recordings of performances of Muldoon's work, and a small number of interviews with Muldoon and reviews of Muldoon's poetry.</p>
     </scopecontent>
     <arrangement encodinganalog="351">
@@ -90,13 +90,13 @@
         <head>Personal Names</head>
         <persname source="lcnaf" encodinganalog="600">Carson, Ciaran,
           1948-</persname>
-        <persname source="lcnaf" encodinganalog="600">Fallon, Peter,
+        <persname source="viaf" encodinganalog="600" authfilenumber="24613408">Fallon, Peter,
           1951-</persname>
         <persname source="lcnaf" encodinganalog="600">Heaney,
           Seamus.</persname>
         <persname source="lcnaf" encodinganalog="600">Longley, Michael,
           1939-</persname>
-        <persname source="lcnaf" encodinganalog="600">McGuckian, Medbh,
+        <persname source="viaf" encodinganalog="600" authfilenumber="120096893">McGuckian, Medbh,
           1950-</persname>
         <persname source="lcnaf" encodinganalog="600">Mahon, Derek,
           1941-</persname>
@@ -144,11 +144,11 @@
         </arrangement>
         <accessrestrict encodinganalog="506">
           <head>Restrictions on Access</head>
-          <p>Special restrictions apply:  Subseries 1.1, Alphabetical Correspondence, some files are closed without the written permission of Paul Muldoon.  Letters by Seamus Heaney are closed to researchers. Letters by Gerard Quinn are closed until Quinn's death.</p>
+          <p>Special restrictions apply:  Subseries 1.1, Alphabetical Correspondence, some files are closed without the written permission of Paul Muldoon.  Letters by Seamus Heaney are closed to researchers. Letters by <persname source="viaf" authfilenumber="93237321">Gerard Quinn</persname> are closed until Quinn's death.</p>
         </accessrestrict>
         <userestrict encodinganalog="540">
           <head>Restrictions on Use</head>
-          <p>Special restrictions apply: Writings by Ted Hughes (letters and literary works) may not be reproduced without the written permission of Carol Hughes.</p>
+          <p>Special restrictions apply: Writings by <persname source="viaf" authfilenumber="108232871">Ted Hughes</persname> (letters and literary works) may not be reproduced without the written permission of Carol Hughes.</p>
         </userestrict>
         <c02 level="subseries" id="muldoon784_subseries1.1">
           <did>
@@ -159,7 +159,7 @@
           <scopecontent encodinganalog="520">
             <head>Scope and Content Note</head>
             
-            <p>The subseries consists of correspondence sent and received between 1962 and 2005, arranged alphabetically by Muldoon by correspondent name or subject.  Correspondents include Ciaran Carson, Peter Fallon, Seamus Heaney, Michael Longley, Medbh McGuckian, and Derek Mahon.  Subjects include particular works and publications by Muldoon, as well as topics related to Ireland, English-language poetry and Muldoon's professional associations.  Correspondence with composer Daron Hagen, as it largely concerns their collaborative works, is located in Subseries 2.2, Dramatic Works and Lyrics.</p>
+            <p>The subseries consists of correspondence sent and received between 1962 and 2005, arranged alphabetically by Muldoon by correspondent name or subject.  Correspondents include Ciaran Carson, Peter Fallon, Seamus Heaney, Michael Longley, Medbh McGuckian, and Derek Mahon.  Subjects include particular works and publications by Muldoon, as well as topics related to <geogname source="geonames" authfilenumber="2963597">Ireland</geogname>, English-language poetry and Muldoon's professional associations.  Correspondence with composer <persname source="viaf" authfilenumber="45229610">Daron Hagen</persname>, as it largely concerns their collaborative works, is located in Subseries 2.2, Dramatic Works and Lyrics.</p>
             </scopecontent>
           <arrangement encodinganalog="351">
             <head>Arrangement Note</head>
@@ -173,119 +173,119 @@
             <head>Restrictions on Use</head>
             <p>Special restrictions apply: Writings by Ted Hughes (letters and literary works) may not be reproduced without the written permission of Carol Hughes.</p>
           </userestrict>
-          <c03 level="file"><did><container type="box">47</container><container type="folder">1</container><unittitle>92nd Street Y and Unterberg Poetry Center, 1997-2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">2</container><unittitle>The Abbey Theatre, 1998-2000</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">47</container><container type="folder">1</container><unittitle>92nd Street Y and <corpname source="viaf" authfilenumber="130341527">Unterberg Poetry Center</corpname>, 1997-2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">2</container><unittitle>The <geogname source="dbpedia" authfilenumber="Abbey_Theatre">Abbey Theatre</geogname>, 1998-2000</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">3</container><unittitle>The Academy of American Poets, 1998</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">1</container><unittitle>Allen, Michael, 1983-1992</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">4</container><unittitle>Allen, Michael, 1998-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">2</container><unittitle>Allen, Michael, no date with two group sheets</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">5</container><unittitle>Allison Jonathan, 1996-2003</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">6</container><unittitle>American Academy of Arts and Sciences, 2000-2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">7</container><unittitle>American Ireland Fund Literary Award, 2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">8</container><unittitle>American Literary Translators Association, 2004</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">47</container><container type="folder">5</container><unittitle><persname source="viaf" authfilenumber="276579271">Allison Jonathan, 1996-2003</persname></unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">6</container><unittitle><corpname source="viaf" authfilenumber="142551606">American Academy of Arts and Sciences</corpname>, 2000-2002</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">7</container><unittitle><corpname source="viaf" authfilenumber="204196728">American Ireland Fund</corpname> Literary Award, 2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">8</container><unittitle><corpname source="viaf" authfilenumber="150222554">American Literary Translators Association</corpname>, 2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">9</container><unittitle><title>American Scholar</title>, 1997-2003</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">10</container><unittitle>Amichai, Yehuda, 2000</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">11</container><unittitle>Amis, Martin, 2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">10</container><unittitle><persname source="viaf" authfilenumber="29529096">Amichai, Yehuda</persname>, 2000</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">11</container><unittitle><persname source="viaf" authfilenumber="36913662">Amis, Martin</persname>, 2001</unittitle></did></c03>
 <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle><title>Antaeus</title>  [See Subseries 1.1: Ecco Press]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">3</container><unittitle>Aosdána, 1986-1990</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">4</container><unittitle>Aosdána, printed materials, 1986-1990</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">12</container><unittitle>A.P. Watt, Ltd., 1996</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">13</container><unittitle>Armitage, Simon, 1995-2005</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">12</container><unittitle><corpname source="viaf" authfilenumber="152813579">A.P. Watt</corpname>, Ltd., 1996</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">13</container><unittitle><persname source="viaf" authfilenumber="6157973">Armitage, Simon</persname>, 1995-2005</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">14</container><unittitle>The Arvon Foundation, 2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">5</container><unittitle>Asekoff, Louis, 1988-1991</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">5</container><unittitle><persname source="viaf" authfilenumber="9071711">Asekoff, Louis</persname>, 1988-1991</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">15</container><unittitle>Asekoff, Louis, 1997-2000</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">16</container><unittitle>Ashbery, John, 1998</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">6</container><unittitle>Auster, Paul, 1989</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">16</container><unittitle><persname source="viaf" authfilenumber="100001869">Ashbery, John</persname>, 1998</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">6</container><unittitle><persname source="viaf" authfilenumber="110344312">Auster, Paul</persname>, 1989</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">17</container><unittitle><title>The Bangle,</title> 1998</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">18</container><unittitle>Banks, Russell, 1995-1997</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">18</container><unittitle><persname source="viaf" authfilenumber="66487364">Banks, Russell</persname>, 1995-1997</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">19</container><unittitle>Banlin, Nicola, 2000</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">20</container><unittitle>Bardwell, Leland, 2002, with uncorrected typescript of poem in tribute to Bardwell by Muldoon</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">20</container><unittitle><persname source="viaf" authfilenumber="69057176">Bardwell, Leland</persname>, 2002, with uncorrected typescript of poem in tribute to Bardwell by Muldoon</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">7</container><unittitle>Barfield, Brian, 1987</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">21</container><unittitle>Barfield, Brian, 2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">8</container><unittitle>Barnes, Julian, 1987</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">22</container><unittitle>Bateson Memorial Lecture, University of Oxford, 1996-1998</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">9</container><unittitle>Batten, Guinn, 1992-1995</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">8</container><unittitle><persname source="viaf" authfilenumber="51710796">Barnes, Julian</persname>, 1987</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">22</container><unittitle>Bateson Memorial Lecture, <corpname source="dbpedia" authfilenumber="University_of_Oxford">University of Oxford</corpname>, 1996-1998</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">9</container><unittitle><persname source="viaf" authfilenumber="17437836">Batten, Guinn</persname>, 1992-1995</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">23</container><unittitle>Batten, Guinn, 1998-2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">24</container><unittitle>Bender , Matthew, 1999-2000 [regarding proposed opera adaptation of <title>The Last of the Mohicans</title>]</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">10</container><unittitle>Benfey, Christopher, no date</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">24</container><unittitle><persname source="viaf" authfilenumber="44209323">Bender, Matthew</persname>, 1999-2000 [regarding proposed opera adaptation of <title>The Last of the Mohicans</title>]</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">10</container><unittitle><persname source="viaf" authfilenumber="61563422">Benfey, Christopher</persname>, no date</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">25</container><unittitle><title>Between the Lines</title>, 1999-2002</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">26</container><unittitle><title>The Birds</title>, 1995-2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">27</container><unittitle>Blackstaff Press, 2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">11</container><unittitle>Boland, Eavan, 1973</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">12</container><unittitle>Bolger, Dermot, no date</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">27</container><unittitle><corpname source="viaf" authfilenumber="130247428">Blackstaff Press</corpname>, 2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">11</container><unittitle><persname source="viaf" authfilenumber="22253909">Boland, Eavan</persname>, 1973</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">12</container><unittitle><persname source="viaf" authfilenumber="9904049">Bolger, Dermot</persname>, no date</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">28</container><unittitle><title>Book of Beasts</title>, 1996-1998</unittitle></did></c03>
-<c03 level="file"><did><container type="box">47</container><container type="folder">29</container><unittitle>Borodale, Sean, 2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">47</container><container type="folder">29</container><unittitle><persname source="viaf" authfilenumber="14268221">Borodale, Sean</persname>, 2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">30</container><unittitle>Brainerd, Stuart, 1997</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">13</container><unittitle>British Broadcasting Corporation, 1970-1974</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">13</container><unittitle><corpname source="viaf" authfilenumber="134199040">British Broadcasting Corporation</corpname>, 1970-1974</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">14</container><unittitle>British Broadcasting Corporation, 1977-1986</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">15</container><unittitle>British Broadcasting Corporation, 1987-1988</unittitle></did></c03>
 <c03 level="file"><did><container type="box">47</container><container type="folder">31</container><unittitle>British Broadcasting Corporation, 1995-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">16</container><unittitle>British Broadcasting Corporation, no date</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">17</container><unittitle>Brodsky, Joseph, 1986-1992</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">17</container><unittitle><persname source="viaf" authfilenumber="31993687">Brodsky, Joseph</persname>, 1986-1992</unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">1</container><unittitle>Brodsky, Joseph, 1996-2003</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">18</container><unittitle>Brown, Rachel, 1995</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">2</container><unittitle>Byrne, Mairead, 2002-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">2</container><unittitle><persname source="viaf" authfilenumber="263877068">Byrne, Mairead</persname>, 2002-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">3</container><unittitle>Carey, John, 1999</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">4</container><unittitle>Carr, Marina, 1996-1997</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">4</container><unittitle><persname source="viaf" authfilenumber="25717448">Carr, Marina</persname>, 1996-1997</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">19</container><unittitle>Carson, Ciaran, 1973-1988 with "Sleeping Together," carbon typescript [See also Subseries 1.1: Tess Gallagher and George Newson]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">20</container><unittitle>Carson, Ciaran, 1993 with photocopied typescript of <title>First Language</title></unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">5</container><unittitle>Carson, Ciaran, 1996-2002, with typescript of <title>The Twelfth of Never</title> and translation of Canto XXI of Dante's <title>Inferno</title></unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">6</container><unittitle>Carson, Ciaran, 2003-2005</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">21</container><unittitle>Carson, Ciaran, no date </unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">7</container><unittitle>Carter, Catherine, 1996-2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">8</container><unittitle>Cartmill, Deirdre, 2002, with typescript of four poems by Cartmill</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">8</container><unittitle><persname source="viaf" authfilenumber="9802726">Cartmill, Deirdre</persname>, 2002, with typescript of four poems by Cartmill</unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">9</container><unittitle>Christo and Jeanne-Claude, March 1997</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">22</container><unittitle>Clampitt, Amy, 1991</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">10</container><unittitle>Clark, Heather, 2003, with typescript of dissertation chapter about Northern Ireland poets</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">11</container><unittitle>Cliff, Brian, 1998-2004, with article typescript, "Poetry 'on the cusp' :  The manuscripts for Paul Muldoon's '7, Middagh Street'"</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">12</container><unittitle>Clifton, Harry, 1998</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">13</container><unittitle>Cohen, Leonard, 2003-2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">14</container><unittitle>Collins, Diane, 2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">23</container><unittitle>Columbia University, 1987-1992</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">15</container><unittitle>Cone, Edward, 1998</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">24</container><unittitle>Cone, Edward and George Pitcher, 1973-1994</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">25</container><unittitle>Conner, Lester, 1982-1994, with 14 photographs of Muldoon in Pennsylvania, April 1983</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">16</container><unittitle>Conner, Lester, no date, with essay about Samuel Hynes</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">17</container><unittitle>Conover, Roger, 1999</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">18</container><unittitle>Cope, Wendy, 1997-2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">19</container><unittitle>Corcoran, Neil, 2000-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">22</container><unittitle><persname source="viaf" authfilenumber="59098378">Clampitt, Amy</persname>, 1991</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">10</container><unittitle><persname source="viaf" authfilenumber="69230429">Clark, Heather</persname>, 2003, with typescript of dissertation chapter about Northern Ireland poets</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">11</container><unittitle><persname source="viaf" authfilenumber="29792244">Cliff, Brian</persname>, 1998-2004, with article typescript, "Poetry 'on the cusp' :  The manuscripts for Paul Muldoon's '7, Middagh Street'"</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">12</container><unittitle><persname source="viaf" authfilenumber="85680930">Clifton, Harry</persname>, 1998</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">13</container><unittitle><persname source="viaf" authfilenumber="56703476">Cohen, Leonard</persname>, 2003-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">14</container><unittitle><persname source="viaf" authfilenumber="71558929">Collins, Diane</persname>, 2002</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">23</container><unittitle><corpname source="dbpedia" authfilenumber="Columbia_University">Columbia University</corpname>, 1987-1992</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">15</container><unittitle><persname source="viaf" authfilenumber="5060509">Cone, Edward</persname>, 1998</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">24</container><unittitle>Cone, Edward and <persname source="viaf" authfilenumber="196462739">George Pitcher</persname>, 1973-1994</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">25</container><unittitle><persname source="viaf" authfilenumber="27225620">Conner, Lester</persname>, 1982-1994, with 14 photographs of Muldoon in <geogname source="geonames" authfilenumber="6254927">Pennsylvania</geogname>h, April 1983</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">16</container><unittitle>Conner, Lester, no date, with essay about <persname source="viaf" authfilenumber="79046211">Samuel Hynes</persname></unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">17</container><unittitle><persname source="viaf" authfilenumber="12445411">Conover, Roger</persname>, 1999</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">18</container><unittitle><persname source="viaf" authfilenumber="84114095">Cope, Wendy</persname>, 1997-2002</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">19</container><unittitle><persname source="viaf" authfilenumber="29608256">Corcoran, Neil</persname>, 2000-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">20</container><unittitle>County Armagh (Northern Ireland), 1999-2005</unittitle></did></c03>
-<c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>Cowdy, Belinda [See Subseries 1.1: Philip Haas]</unittitle></did></c03>
+<c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle><persname source="viaf" authfilenumber="63625920">Cowdy, Belinda</persname> [See Subseries 1.1: Philip Haas]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">21</container><unittitle>Craobh Rua Books, 2002</unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">22</container><unittitle><title>Cyrano de Bergerac</title>, 1998 [translation by Paul Muldoon of Rostand's play, for the Abbey Theatre, Dublin]</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">23</container><unittitle>Daisey, Mike, 2003-2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">24</container><unittitle>d'Amboise, Jacques, 2002-2003</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">26</container><unittitle>Davitt, Michael, 1982-1987, with typescripts of "Elena," "August," "Prayer 105," Disillusion Street," and "To Pound, From God" [See also Subseries 2.3, Translations]</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">23</container><unittitle><persname source="viaf" authfilenumber="55975210">Daisey, Mike</persname>, 2003-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">24</container><unittitle><persname source="viaf" authfilenumber="18600374">d'Amboise, Jacques</persname>, 2002-2003</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">26</container><unittitle><persname source="viaf" authfilenumber="76452801">Davitt, Michael</persname>, 1982-1987, with typescripts of "Elena," "August," "Prayer 105," Disillusion Street," and "To Pound, From God" [See also Subseries 2.3, Translations]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">25</container><unittitle>Davitt, Michael, 2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">26</container><unittitle>Day-Lewis, Cecil, 2001-2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">27</container><unittitle>Deane, Seamus, 1976-1983</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">26</container><unittitle><persname source="viaf" authfilenumber="88374638">Day-Lewis, Cecil</persname>, 2001-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">27</container><unittitle><persname source="viaf" authfilenumber="108344790">Deane, Seamus</persname>, 1976-1983</unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">27</container><unittitle>Deane, Seamus, 2003</unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">28</container><unittitle>Delaney, Diarmuid, no date</unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">29</container><unittitle>Delantey, Greg, 1998-2002, with a printed keepsake poem by Delantey</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">30</container><unittitle>DeLillo, Don, 2002-2003</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">31</container><unittitle>Devlin, Anne, 1996-1997</unittitle></did></c03>
-<c03 level="file"><did><container type="box">48</container><container type="folder">32</container><unittitle>Diaz, Junot, no date</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">28</container><unittitle>Dingle, County Kerry (Northern Ireland), 1986-1989</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">30</container><unittitle><persname source="viaf" authfilenumber="17253973">DeLillo, Don</persname>, 2002-2003</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">31</container><unittitle><persname source="viaf" authfilenumber="85081211">Devlin, Anne</persname>, 1996-1997</unittitle></did></c03>
+<c03 level="file"><did><container type="box">48</container><container type="folder">32</container><unittitle><persname source="viaf" authfilenumber="79142980">Diaz, Junot</persname>, no date</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">28</container><unittitle><geogname source="geonames" authfilenumber="2964782">Dingle</geogname>, <geogname source="viaf" authfilenumber="124324713">County Kerry</geogname> (Northern Ireland), 1986-1989</unittitle></did></c03>
 <c03 level="file"><did><container type="box">48</container><container type="folder">33</container><unittitle>Dodge Poetry Festival, 2004-2005</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">1</container><unittitle>Donoghue, Denis, 2003-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">1</container><unittitle><persname source="viaf" authfilenumber="109176234">Donoghue, Denis</persname>, 2003-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">1</container><container type="folder">29</container><unittitle>Donoghue, Denis, no date</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">2</container><unittitle>Drabble, Margaret, 1998</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">3</container><unittitle><title>The Drowned Blackbird</title>, 2001 [translations by Paul Muldoon, published by the Gallery Press]</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">4</container><unittitle>Duffy, Carol Ann, 1999-2003</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">5</container><unittitle>Duffy, Rita, 2003-2005</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">6</container><unittitle>Dufour Editions, Inc., 1997</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">7</container><unittitle>Dunbar, Ann, 2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">30</container><unittitle>Dunn, Douglas, 1973-1987</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">8</container><unittitle>Dunn, Stephen, 1996</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">31</container><unittitle>Durcan, Paul, 1976-1994</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">4</container><unittitle><persname source="viaf" authfilenumber="114321106">Duffy, Carol Ann</persname>, 1999-2003</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">5</container><unittitle><persname source="viaf" authfilenumber="261423133">Duffy, Rita</persname>, 2003-2005</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">6</container><unittitle><corpname source="viaf" authfilenumber="155107735">Dufour Editions, Inc</corpname>., 1997</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">7</container><unittitle><persname source="viaf" authfilenumber="9387484">Dunbar, Ann</persname>, 2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">30</container><unittitle><persname source="viaf" authfilenumber="107572951">Dunn, Douglas</persname>, 1973-1987</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">8</container><unittitle><persname source="viaf" authfilenumber="114672534">Dunn, Stephen</persname>, 1996</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">31</container><unittitle><persname source="viaf" authfilenumber="113258025">Durcan, Paul</persname>, 1976-1994</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">9</container><unittitle>Durcan, Paul, no date</unittitle></did></c03>
-<c03 level="file"><did><container type="box">1</container><container type="folder">32</container><unittitle>Ecco Press, 1986-1994 [See also Subseries 1.1: Wake Forest University Press]</unittitle></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">32</container><unittitle><corpname source="viaf" authfilenumber="155042479">Ecco Press</corpname>, 1986-1994 [See also Subseries 1.1: Wake Forest University Press]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">10</container><unittitle>Ecco Press, 1998-2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">11</container><unittitle>Elliott, Judith, 2000-2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">11</container><unittitle><persname source="viaf" authfilenumber="23494189">Elliott, Judith</persname>, 2000-2001</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">12</container><unittitle><title>The End of the Poem</title>, book of lectures delivered by Muldoon as Oxford Professor of Poetry, 1999-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">13</container><unittitle>Evans, Matthew, 2001</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">14</container><unittitle>European Prize for Poetry, 2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">2</container><container type="folder">1</container><unittitle>Faber and Faber, 1970-1971</unittitle></did></c03>
+<c03 level="file"><did><container type="box">2</container><container type="folder">1</container><unittitle><corpname source="viaf" authfilenumber="166810937">Faber and Faber</corpname>, 1970-1971</unittitle></did></c03>
 <c03 level="file"><did><container type="box">2</container><container type="folder">2</container><unittitle>Faber and Faber, 1972-1973</unittitle></did></c03>
 <c03 level="file"><did><container type="box">2</container><container type="folder">3</container><unittitle>Faber and Faber, 1974-1976</unittitle></did></c03>
 <c03 level="file"><did><container type="box">2</container><container type="folder">4</container><unittitle>Faber and Faber, 1977-1979</unittitle></did></c03>
@@ -298,31 +298,31 @@
 <c03 level="file"><did><container type="box">2</container><container type="folder">11</container><unittitle>Faber and Faber, 1994-1995</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">15</container><unittitle>Faber and Faber, 1995-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">2</container><container type="folder">12</container><unittitle>Faber and Faber, no date</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">16</container><unittitle>Fagles, Robert, 1997-2004, with a translation by Fagles of lines 628-804 of Virgil's Aeneid</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">16</container><unittitle><persname source="viaf" authfilenumber="120737892">Fagles, Robert</persname>, 1997-2004, with a translation by Fagles of lines 628-804 of Virgil's Aeneid</unittitle></did></c03>
 <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>Fallon, Peter [See Subseries 1.1: Gallery Press]</unittitle></did></c03>
-<c03 level="file"><did><container type="box">2</container><container type="folder">13</container><unittitle>Farrar, Straus and Giroux, 1989-1991 [See also Subseries 1.1: Jonathan Galassi]</unittitle></did></c03>
+<c03 level="file"><did><container type="box">2</container><container type="folder">13</container><unittitle><corpname source="viaf" authfilenumber="129171041">Farrar, Straus and Giroux</corpname>, 1989-1991 [See also Subseries 1.1: Jonathan Galassi]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">17</container><unittitle>Farrar, Strauss and Giroux, 1995-1999</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">18</container><unittitle>Farrar, Strauss and Giroux, Faber and Faber acquisition, 1998</unittitle></did></c03>
 <c03 level="file"><did><container type="box">2</container><container type="folder">14</container><unittitle>Farrar, Straus and Giroux, no date</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">19</container><unittitle>Feaver, Jane, no date</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">20</container><unittitle>Fenton, James, 1999-2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">2</container><container type="folder">15</container><unittitle>Ferris, Kathleen, 1995</unittitle></did></c03>
-<c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>Field Day Theatre Company  [See Subseries 1.1: Brian Friel]</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">19</container><unittitle><persname source="viaf" authfilenumber="78554028">Feaver, Jane</persname>, no date</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">20</container><unittitle><persname source="viaf" authfilenumber="108728657">Fenton, James</persname>, 1999-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">2</container><container type="folder">15</container><unittitle><persname source="viaf" authfilenumber="114240796">Ferris, Kathleen</persname>, 1995</unittitle></did></c03>
+<c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle><corpname source="viaf" authfilenumber="268319582">Field Day Theatre Company</corpname>  [See Subseries 1.1: <persname source="viaf" authfilenumber="76315726">Brian Friel</persname>]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">21</container><unittitle>Fitzgerald, Fleur, 2001-2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">22</container><unittitle>Flint, Peter, 2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">22</container><unittitle><persname source="viaf" authfilenumber="54288056">Flint, Peter</persname>, 2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>Flying Fox  [See Subseries 1.1: David Hammond]</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">23</container><unittitle>Foer, Jonathan Safran, 2002-2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">24</container><unittitle>Forché, Carolyn, 2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">2</container><container type="folder">16</container><unittitle>Ford, Richard, 1991-1995</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">23</container><unittitle><persname source="viaf" authfilenumber="85500702">Foer, Jonathan Safran</persname>, 2002-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">24</container><unittitle><persname source="viaf" authfilenumber="2603438">Forché, Carolyn</persname>, 2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">2</container><container type="folder">16</container><unittitle><persname source="viaf" authfilenumber="109503268">Ford, Richard,</persname> 1991-1995</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">25</container><unittitle>Ford, Richard, 1997-2001</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">26</container><unittitle>Foster, Richard, 1997-2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">27</container><unittitle>Foster, Roy, 1997-2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">28</container><unittitle>Fountains of Wayne, 2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">2</container><container type="folder">17</container><unittitle>Friel, Brian, 1984-1985</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">27</container><unittitle><persname source="viaf" authfilenumber="41853881">Foster, Roy</persname>, 1997-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">28</container><unittitle><corpname source="viaf" authfilenumber="137388541">Fountains of Wayne</corpname>, 2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">2</container><container type="folder">17</container><unittitle><persname source="viaf" authfilenumber="76315726">Friel, Brian</persname>, 1984-1985</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">29</container><unittitle>Friel, Brian, 1999</unittitle></did></c03>
-<c03 level="file"><did><container type="box">2</container><container type="folder">18</container><unittitle>Galassi, Jonathan, 1978</unittitle></did></c03>
+<c03 level="file"><did><container type="box">2</container><container type="folder">18</container><unittitle><persname source="viaf" authfilenumber="93084793">Galassi, Jonathan</persname>, 1978</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">30</container><unittitle>Galassi, Jonathan, 2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">2</container><container type="folder">19</container><unittitle>Gallagher, Tess, 1977-1982</unittitle></did></c03>
+<c03 level="file"><did><container type="box">2</container><container type="folder">19</container><unittitle><persname source="viaf" authfilenumber="79088985">Gallagher, Tess</persname>, 1977-1982</unittitle></did></c03>
 <c03 level="file"><did><container type="box">2</container><container type="folder">20</container><unittitle>Gallery Press, 1976-1983</unittitle></did></c03>
 <c03 level="file"><did><container type="box">2</container><container type="folder">21</container><unittitle>Gallery Press, 1984-1989</unittitle></did></c03>
 <c03 level="file"><did><container type="box">2</container><container type="folder">22</container><unittitle>Gallery Press, 1990-1992</unittitle></did></c03>
@@ -331,110 +331,110 @@
 <c03 level="file"><did><container type="box">49</container><container type="folder">31</container><unittitle>Gallery Press, 1995-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">49</container><container type="folder">32</container><unittitle>Gallery Press, Christmas Cards, 1998-2004, featuring poems by Muldoon</unittitle></did></c03>
 <c03 level="file"><did><container type="box">2</container><container type="folder">25</container><unittitle>Gallery Press, no date</unittitle></did></c03>
-<c03 level="file"><did><container type="box">49</container><container type="folder">33</container><unittitle>Gardini, Nicola, 1998-2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">49</container><container type="folder">33</container><unittitle><persname source="viaf" authfilenumber="56767530">Gardini, Nicola</persname>, 1998-2001</unittitle></did></c03>
 <c03 level="file"><did><container type="box">50</container><container type="folder">1</container><unittitle>Gering, August, 1999-2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">2</container><unittitle>Goodby, John, 2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">3</container><unittitle>Greenlaw, Lavinia, 2002-2003</unittitle></did></c03>
-<c03 level="file"><did><container type="box">2</container><container type="folder">26</container><unittitle>Grennan, Eamon, 1984-1994</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">4</container><unittitle>Grennan, Eamon, 1998-2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">5</container><unittitle>Greytak, Sharon, 1996</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">2</container><unittitle><persname source="viaf" authfilenumber="7618286">Goodby, John</persname>, 2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">3</container><unittitle><persname source="viaf" authfilenumber="37140301">Greenlaw, Lavinia</persname>, 2002-2003</unittitle></did></c03>
+<c03 level="file"><did><container type="box">2</container><container type="folder">26</container><unittitle><persname source="viaf" authfilenumber="60577">Grennan, Eamon</persname>, 1984-1994</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">4</container><unittitle><persname source="viaf" authfilenumber="60577">Grennan, Eamon</persname>, 1998-2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">5</container><unittitle><persname source="viaf" authfilenumber="60670936">Greytak, Sharon</persname>, 1996</unittitle></did></c03>
 <c03 level="file"><did><container type="box">50</container><container type="folder">6</container><unittitle>Griggstown Bridge, 2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">7</container><unittitle>Gritsman, Andrey, 2004, with typescript of "Belfast," by Gritsman</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">8</container><unittitle>Groarke, Vona, 1998-2000</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">7</container><unittitle><persname source="viaf" authfilenumber="39289747">Gritsman, Andrey</persname>, 2004, with typescript of "Belfast," by Gritsman</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">8</container><unittitle><persname source="viaf" authfilenumber="85453832">Groarke, Vona</persname>, 1998-2000</unittitle></did></c03>
 <c03 level="file"><did><container type="box">50</container><container type="folder">9</container><unittitle>Groucho Club, 1995-2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">10</container><unittitle>Gunn, Thom, 1998</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">10</container><unittitle><persname source="viaf" authfilenumber="100054570">Gunn, Thom</persname>, 1998</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">1</container><unittitle>Haas, Philip and Belinda Cowdy,1989-1991</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">2</container><unittitle>Haas, Robert, 1989-1995</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">11</container><unittitle>Hacker, Marilyn, no date</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">11</container><unittitle><persname source="viaf" authfilenumber="91637977">Hacker, Marilyn</persname>, no date</unittitle></did></c03>
 <c03 level="file"><did><container type="box">50</container><container type="folder">12</container><unittitle>Hadan, Samuel, 2003</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>Hagen, Daron [See Subseries 2.2, Dramatic Works and Lyrics]</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">13</container><unittitle>Hall, Donald, 2000</unittitle></did></c03>
-<c03 level="file"><did><container type="box">3</container><container type="folder">3</container><unittitle>Hammond, David, 1990, with photographs of Muldoon</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle><persname source="viaf" authfilenumber="45229610">Hagen, Daron</persname> [See Subseries 2.2, Dramatic Works and Lyrics]</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">13</container><unittitle><persname source="viaf" authfilenumber="49226675">Hall, Donald</persname>, 2000</unittitle></did></c03>
+<c03 level="file"><did><container type="box">3</container><container type="folder">3</container><unittitle><persname source="viaf" authfilenumber="38545317">Hammond, David</persname>, 1990, with photographs of Muldoon</unittitle></did></c03>
 <c03 level="file"><did><container type="box">50</container><container type="folder">14</container><unittitle>Hammond, David, 1999-2001</unittitle></did></c03>
 <c03 level="file"><did><container type="box">50</container><container type="folder">15</container><unittitle>The Handsome Family, 2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">16</container><unittitle>Hardie, Kerry, no date</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">17</container><unittitle>Harsent, David, 1996-2003</unittitle></did></c03>
-<c03 level="file"><did><container type="box">50</container><container type="folder">18</container><unittitle>Hassett, Joseph, 2002-2005</unittitle></did></c03>
-<c03 level="file"><did><container type="box">3</container><container type="folder">4</container><unittitle>Hawthorne, Denys, 1984-1995</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">16</container><unittitle><persname source="viaf" authfilenumber="117948903">Hardie, Kerry</persname>, no date</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">17</container><unittitle><persname source="viaf" authfilenumber="91680152">Harsent, David</persname>, 1996-2003</unittitle></did></c03>
+<c03 level="file"><did><container type="box">50</container><container type="folder">18</container><unittitle><persname source="viaf" authfilenumber="161892251">Hassett, Joseph</persname>, 2002-2005</unittitle></did></c03>
+<c03 level="file"><did><container type="box">3</container><container type="folder">4</container><unittitle><persname source="viaf" authfilenumber="61248225">Hawthorne, Denys</persname>, 1984-1995</unittitle></did></c03>
 <c03 level="file"><did><container type="box">50</container><container type="folder">19</container><unittitle>Hawthorne, Denys, 1995-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">51</container><container type="folder">1</container><unittitle><title>Hay</title>, 1997-2000</unittitle></did></c03>
-<c03 level="file"><did><container type="box">51</container><container type="folder">2</container><unittitle>Heffernan, Margaret, no date</unittitle></did></c03>
-<c03 level="file"><did><container type="box">51</container><container type="folder">3</container><unittitle>Hejinian, Lyn, 2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">51</container><container type="folder">4</container><unittitle>Healy, Dermot, no date</unittitle></did></c03>
+<c03 level="file"><did><container type="box">51</container><container type="folder">2</container><unittitle><persname source="viaf" authfilenumber="78174519">Heffernan, Margaret</persname>, no date</unittitle></did></c03>
+<c03 level="file"><did><container type="box">51</container><container type="folder">3</container><unittitle><persname source="viaf" authfilenumber="44325651">Hejinian, Lyn</persname>, 2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">51</container><container type="folder">4</container><unittitle><persname source="viaf" authfilenumber="79159109">Healy, Dermot</persname>, no date</unittitle></did></c03>
 <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>Heaney, Seamus [See Subseries 1.1: Restricted correspondence]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">5</container><unittitle>Heaney, Seamus, correspondence from Paul Muldoon to Seamus Heaney, 1995</unittitle></did></c03>
 <c03 level="file"><did><container type="box">51</container><container type="folder">5</container><unittitle>Heaney, Seamus, correspondence from Paul Muldoon to Seamus Heaney, 1995-1996</unittitle></did></c03>
 <c03 level="file"><did><container type="box">51</container><container type="folder">6</container><unittitle>Heaney, Seamus, correspondence from Paul Muldoon to Seamus Heaney, 1997-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">6</container><unittitle>Hefferman, Margaret, 1986-1995</unittitle></did></c03>
 <c03 level="file"><did><container type="box">51</container><container type="folder">7</container><unittitle>Henley, William Ernest, 2003</unittitle></did></c03>
-<c03 level="file"><did><container type="box">51</container><container type="folder">8</container><unittitle>Hertford College, University of Oxford, 1999-2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">51</container><container type="folder">9</container><unittitle>Hicks, Jerry, 1996-1997</unittitle></did></c03>
-<c03 level="file"><did><container type="box">51</container><container type="folder">10</container><unittitle>Hofmann, Michael, 2003-2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">51</container><container type="folder">11</container><unittitle>Hollander, John, 2000</unittitle></did></c03>
-<c03 level="file"><did><container type="box">51</container><container type="folder">12</container><unittitle>Holub, Miroslav, 1998</unittitle></did></c03>
+<c03 level="file"><did><container type="box">51</container><container type="folder">8</container><unittitle><corpname source="dbpedia" authfilenumber="Hertford_College,_Oxford">Hertford College</corpname>, University of Oxford, 1999-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">51</container><container type="folder">9</container><unittitle><persname source="viaf" authfilenumber="102284772">Hicks, Jerry</persname>, 1996-1997</unittitle></did></c03>
+<c03 level="file"><did><container type="box">51</container><container type="folder">10</container><unittitle><persname source="viaf" authfilenumber="64066068">Hofmann, Michael</persname>, 2003-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">51</container><container type="folder">11</container><unittitle><persname source="viaf" authfilenumber="109426764">Hollander, John</persname>, 2000</unittitle></did></c03>
+<c03 level="file"><did><container type="box">51</container><container type="folder">12</container><unittitle><persname source="viaf" authfilenumber="71459062">Holub, Miroslav</persname>, 1998</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">7</container><unittitle><title>Honest Ulsterman</title>, 1969-1995  [See also Subseries 1.1: James Simmons]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">51</container><container type="folder">13</container><unittitle><title>Honest Ulsterman</title>, 1996-2000</unittitle></did></c03>
 <c03 level="file"><did><container type="box">51</container><container type="folder">14</container><unittitle>Honorary degrees, 2000-2004 [1 of 2]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">51</container><container type="folder">15</container><unittitle>Honorary degrees, 2000-2004 [2 of 2]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">1</container><unittitle><title>An Horatian Ode</title>, 2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">2</container><unittitle>Hughes, Frieda, 2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">3</container><container type="folder">8</container><unittitle>Hughes, John, 1990-1994</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">2</container><unittitle><persname source="viaf" authfilenumber="46896227">Hughes, Frieda</persname>, 2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">3</container><container type="folder">8</container><unittitle><persname source="viaf" authfilenumber="47935658">Hughes, John</persname>, 1990-1994</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">3</container><unittitle>Hughes, John, 1997-2002</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">9</container><unittitle>Hughes, Ted, 1983-1994 with photocopied manuscript of "Ode to the Organism"</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">4</container><unittitle>Hughes, Ted, 1995-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">4</container><unittitle><persname source="viaf" authfilenumber="108232871">Hughes, Ted</persname>, 1995-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">5</container><unittitle>International IMPAC Dublin Literary Award, 1997-1998</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">6</container><unittitle>Irish Copyright Licensing Agency, 2001</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">7</container><unittitle><title>Irish Folk and Fairy Tales</title>, 2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">8</container><unittitle>Japan, 1996-2000</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">9</container><unittitle>Jen, Gish, 2000</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">8</container><unittitle><geogname source="geonames" authfilenumber="1861060">Japan</geogname>, 1996-2000</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">9</container><unittitle><persname source="viaf" authfilenumber="97932980">Jen, Gish</persname>, 2000</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">10</container><unittitle>Jenkins, Alan, 1982-1995 with photocopied typescripts of "The Quilt," and "Jellyfish"</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">10</container><unittitle>Jenkins, Alan, 2003</unittitle></did></c03>
-<c03 level="file"><did><container type="box">3</container><container type="folder">11</container><unittitle>Jenkins, Nicholas, 1986-1991 with photocopied typescript of poem attributed to W.H. Auden</unittitle></did></c03>
+<c03 level="file"><did><container type="box">3</container><container type="folder">11</container><unittitle><persname source="viaf" authfilenumber="111444994">Jenkins, Nicholas</persname>, 1986-1991 with photocopied typescript of poem attributed to <persname source="viaf" authfilenumber="2465832">W.H. Auden</persname></unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">11</container><unittitle>Jenkins, Niel, 1995-1999, with typescript review of <title>The Annals of Chile</title> by Jenkins</unittitle></did></c03>
-<c03 level="file"><did><container type="box">3</container><container type="folder">12</container><unittitle>Johnston, Jennifer, 1977</unittitle></did></c03>
+<c03 level="file"><did><container type="box">3</container><container type="folder">12</container><unittitle><persname source="viaf" authfilenumber="24603159">Johnston, Jennifer</persname>, 1977</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">12</container><unittitle>Johnstone, Robert, no date [See also Subseries 1.1: <title>Honest Ulsterman</title>] </unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">13</container><unittitle>Joseph, Lawrence, 1987-1995</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">13</container><unittitle>Keegan, Paul, 1999</unittitle></did></c03>
-<c03 level="file"><did><container type="box">3</container><container type="folder">14</container><unittitle>Kendall, Tim, 1994-1995 [See also Subseries 3.2: Theses and unpublished articles, essays, and interviews and Subseries 4.2: Writings by others.]</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">13</container><unittitle><persname source="viaf" authfilenumber="95042884">Keegan, Paul</persname>, 1999</unittitle></did></c03>
+<c03 level="file"><did><container type="box">3</container><container type="folder">14</container><unittitle><persname source="viaf" authfilenumber="69068124">Kendall, Tim</persname>, 1994-1995 [See also Subseries 3.2: Theses and unpublished articles, essays, and interviews and Subseries 4.2: Writings by others.]</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">14</container><unittitle>Kendall, Tim, 1996-2005</unittitle></did></c03>
-<c03 level="file"><did><container type="box">3</container><container type="folder">15</container><unittitle>Kennelly, Brendan, 1978</unittitle></did></c03>
+<c03 level="file"><did><container type="box">3</container><container type="folder">15</container><unittitle><persname source="viaf" authfilenumber="267971098">Kennelly, Brendan</persname>, 1978</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">15</container><unittitle><title>Kerry Slides</title>, 1998-2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">3</container><container type="folder">16</container><unittitle>Kiely, Ben, no date</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">16</container><unittitle>Kinnell, Galway, 2003</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">17</container><unittitle>Kinsella, John, 1999-2002, with typescript of "Drugs and Country Towns," poem by Kinsella dedicated to Muldoon</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">18</container><unittitle>Knox, Tony, 1995-2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">19</container><unittitle>Koch, Kenneth, 1999-2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">20</container><unittitle>Krauss, Nicole, 2001, with typescript introduction by Krauss to a Muldoon poetry reading</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">21</container><unittitle>Krementz, Jill, 1996</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">22</container><unittitle>Kushner, Tony, 1997</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">23</container><unittitle>Laitman, Lori, 2003-2004, with musical settings by Laitman to various poems by Muldoon</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">24</container><unittitle>Laine, Frankie, 1999-2002, with sheet music composed by Laine</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">25</container><unittitle>Lea, Sydney, 2003</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">26</container><unittitle>Lehman, David, 1998</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">27</container><unittitle>Leithauser, Brad, 1998</unittitle></did></c03>
+<c03 level="file"><did><container type="box">3</container><container type="folder">16</container><unittitle><persname source="viaf" authfilenumber="44326385">Kiely, Ben</persname>, no date</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">16</container><unittitle><persname source="viaf" authfilenumber="36939820">Kinnell, Galway</persname>, 2003</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">17</container><unittitle><persname source="viaf" authfilenumber="116840985">Kinsella, John</persname>, 1999-2002, with typescript of "Drugs and Country Towns," poem by Kinsella dedicated to Muldoon</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">18</container><unittitle><persname source="viaf" authfilenumber="49427137">Knox, Tony</persname>, 1995-2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">19</container><unittitle><persname source="viaf" authfilenumber="110467351">Koch, Kenneth</persname>, 1999-2002</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">20</container><unittitle><persname source="viaf" authfilenumber="99094300">Krauss, Nicole</persname>, 2001, with typescript introduction by Krauss to a Muldoon poetry reading</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">21</container><unittitle><persname source="viaf" authfilenumber="54251488">Krementz, Jill</persname>, 1996</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">22</container><unittitle><persname source="viaf" authfilenumber="85608678">Kushner, Tony</persname>, 1997</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">23</container><unittitle><persname source="viaf" authfilenumber="119890789">Laitman, Lori</persname>, 2003-2004, with musical settings by Laitman to various poems by Muldoon</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">24</container><unittitle><persname source="viaf" authfilenumber="112734547">Laine, Frankie</persname>, 1999-2002, with sheet music composed by Laine</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">25</container><unittitle><persname source="viaf" authfilenumber="261235446">Lea, Sydney</persname>, 2003</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">26</container><unittitle><persname source="viaf" authfilenumber="9870036">Lehman, David</persname>, 1998</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">27</container><unittitle><persname source="viaf" authfilenumber="94522244">Leithauser, Brad</persname>, 1998</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">17</container><unittitle><title>London Review of Books</title>, 1990-1994</unittitle></did></c03>
-<c03 level="file"><did><container type="box">3</container><container type="folder">18</container><unittitle>Longley, Edna, 1984-1994</unittitle></did></c03>
+<c03 level="file"><did><container type="box">3</container><container type="folder">18</container><unittitle><persname source="viaf" authfilenumber="109956735">Longley, Edna</persname>, 1984-1994</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">19</container><unittitle>Longley, Michael 1972-1975</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">20</container><unittitle>Longley, Michael, 1986-1989</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">21</container><unittitle>Longley, Michael, 1990, with photocopied typescript of Gorse Fires</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">22</container><unittitle>Longley, Michael, 1992</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">28</container><unittitle>Longley, Edna and Michael, 1996-2004</unittitle></did></c03>
 <c03 level="file"><did><container type="box">3</container><container type="folder">23</container><unittitle>Longley, Edna and Michael, no date</unittitle></did></c03>
-<c03 level="file"><did><container type="box">3</container><container type="folder">24</container><unittitle>Loyola Marymount University, 1993</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">29</container><unittitle>Lyons, Gilda, 1998, with musical score by Lyons</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">30</container><unittitle>MacArthur, Marit, 2003-2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">31</container><unittitle>MacNeice, Louis, 1997-1998</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">32</container><unittitle>McAleese, Mary, 1999-2003</unittitle></did></c03>
+<c03 level="file"><did><container type="box">3</container><container type="folder">24</container><unittitle><corpname source="dbpedia" authfilenumber="Loyola_Marymount_University">Loyola Marymount University</corpname>, 1993</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">29</container><unittitle><persname source="viaf" authfilenumber="19453090">Lyons, Gilda</persname>, 1998, with musical score by Lyons</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">30</container><unittitle><persname source="viaf" authfilenumber="28988952">MacArthur, Marit</persname>, 2003-2004</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">31</container><unittitle><persname source="viaf" authfilenumber="46802910">MacNeice, Louis</persname>, 1997-1998</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">32</container><unittitle><persname source="viaf" authfilenumber="85688870">McAleese, Mary</persname>, 1999-2003</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">33</container><unittitle>McCauley, Roisin, 2004</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">34</container><unittitle>McBeath, Norman, 1998-2003, with photographs by McBeath for proposed poetry and photography book collaboration between McBeath and Muldoon</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">34</container><unittitle><persname source="viaf" authfilenumber="51655795">McBeath, Norman</persname>, 1998-2003, with photographs by McBeath for proposed poetry and photography book collaboration between McBeath and Muldoon</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">35</container><unittitle>McCaffery, A.J., 1997</unittitle></did></c03>
 <c03 level="file"><did><container type="box">52</container><container type="folder">36</container><unittitle>McCall, Marina, 2002</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">37</container><unittitle>McCann, Colum, 2000</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">38</container><unittitle>McClatchy, J.D., 2000-2001</unittitle></did></c03>
-<c03 level="file"><did><container type="box">52</container><container type="folder">39</container><unittitle>McCloskey, Francis, 2000</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">37</container><unittitle><persname source="viaf" authfilenumber="98559644">McCann, Colum</persname>, 2000</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">38</container><unittitle><persname source="viaf" authfilenumber="98044618">McClatchy, J.D.</persname>, 2000-2001</unittitle></did></c03>
+<c03 level="file"><did><container type="box">52</container><container type="folder">39</container><unittitle><persname source="viaf" authfilenumber="43271508">McCloskey, Francis</persname>, 2000</unittitle></did></c03>
 <c03 level="file"><did><container type="box">4</container><container type="folder">1</container><unittitle>McCracken, Kathleen, 1983-1990</unittitle></did></c03>
 <c03 level="file"><did><container type="box">53</container><container type="folder">1</container><unittitle>McCracken, Kathleen, 2000</unittitle></did></c03>
-<c03 level="file"><did><container type="box">53</container><container type="folder">2</container><unittitle>McCrum, Robert, 2002, with typescript poem by Muldoon about McCrum's wedding</unittitle></did></c03>
+<c03 level="file"><did><container type="box">53</container><container type="folder">2</container><unittitle><persname source="viaf" authfilenumber="24835909">McCrum, Robert</persname>, 2002, with typescript poem by Muldoon about McCrum's wedding</unittitle></did></c03>
 <c03 level="file"><did><container type="box">53</container><container type="folder">3</container><unittitle>McCurry, Jacqueline, 1997-2000</unittitle></did></c03>
 <c03 level="file"><did><container type="box">53</container><container type="folder">4</container><unittitle>McDermott, Alicia, no date</unittitle></did></c03>
 <c03 level="file"><did><container type="box">53</container><container type="folder">5</container><unittitle>McDiarmid, Lucy, 2002</unittitle></did></c03>
