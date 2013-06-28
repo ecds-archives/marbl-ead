@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21">
+<ead xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="urn:isbn:1-931666-22-9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"
+    xmlns:schema="http://schema.org/" xmlns:dbp="http://dbpedia.org/ontology/">
   <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
     <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/8z3n4" url="http://pid.emory.edu/ark:/25593/8z3n4">carson746</eadid>
     <filedesc>
@@ -34,8 +38,7 @@
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname source="lcnaf" encodinganalog="100">Carson, Ciaran,
-			 1948-</persname>
+        <persname source="viaf" encodinganalog="100" authfilenumber="85621766">Carson, Ciaran, 1948-</persname>
       </origination>
       <unittitle encodinganalog="245$a">Ciaran Carson papers,
 		  <unitdate type="inclusive" encodinganalog="245$f" normal="1970/2010" certainty="circa">circa 1970-2010</unitdate></unittitle>
@@ -82,9 +85,9 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Ciaran Gerard Carson (1948-), Irish poet.  He was born in Belfast on 9 October 1948.  He attended St. Mary's Christian Brothers' School in Belfast before going on to Queen's University, Belfast, where he graduated with honors in July 1971.  In the final year of its gathering, 1971-1972, Carson participated in the Belfast group of poets and writers, a gathering of young literary talents organized originally by Philip Hobsbaum at Queens University, Belfast in 1963. After publishing poems in various newspapers and magazines, Carson's first chapbook <title>The Insular Celts</title> appeared in 1973.  From 1974-1975 he taught school in Belfast; before joining the Arts Council of Northern Ireland as Traditional Arts Officer in 1976.  In 1978, Carson received the Eric Gregory Award for his first book of poems, <title>The New Estate</title>.  Three years later he published another chapbook <title>The Lost Explorer</title> (1979).  Eight years passed before Carson completed his next volume of poems, <title>The Irish for No</title> (1987), which received the Alice Hunt Bartlett Award.  <title>Belfast Confetti</title> (1989), a volume closely related to the 1987 collection, received similar critical success, winning the Irish Times/Aer Lingus prize for poetry.</p>
+      <p>Ciaran Gerard Carson (1948-), Irish poet.  He was born in <geogname source="geonames" authfilenumber="3333223" role="dbp:birthPlace">Belfast</geogname> on <date normal="1948-10-09" type="schema:birthDate">9 October 1948</date>.  He attended St. Mary's Christian Brothers' School in Belfast before going on to <corpname source="dbpedia" authfilenumber="Queen%27s_University_Belfast" role="schema:alumniOf">Queen's University, Belfast</corpname>, where he graduated with honors in July 1971.  In the final year of its gathering, 1971-1972, Carson participated in the <corpname source="viaf" authfilenumber="123393054" role="schema:affiliation">Belfast group</corpname> of poets and writers, a gathering of young literary talents organized originally by Philip Hobsbaum at Queens University, Belfast in 1963. After publishing poems in various newspapers and magazines, Carson's first chapbook <title>The Insular Celts</title> appeared in 1973.  From 1974-1975 he taught school in Belfast; before joining the <corpname source="viaf" authfilenumber="129928623" role="schema:worksFor">Arts Council of Northern Ireland</corpname> as Traditional Arts Officer in 1976.  In 1978, Carson received the Eric Gregory Award for his first book of poems, <title>The New Estate</title>.  Three years later he published another chapbook <title>The Lost Explorer</title> (1979).  Eight years passed before Carson completed his next volume of poems, <title>The Irish for No</title> (1987), which received the Alice Hunt Bartlett Award.  <title>Belfast Confetti</title> (1989), a volume closely related to the 1987 collection, received similar critical success, winning the Irish Times/Aer Lingus prize for poetry.</p>
       <p>From 1979 to 1987, Carson continued writing poems and prose pieces including an Appletree Press guide book called <title>Irish Traditional Music</title>, published in 1986.  A flutist himself, Carson returned ten years later to a more extensive examination of Irish music with the 1996 publication of the widely heralded <title>Last Night's Fun: About Time, Food and Music</title>.  The art of story-telling continued to be a significant aspect of Carson's poetry as seen in <title>First Language</title>, a collection of poems awarded the first T. S. Eliot Prize for the outstanding book of poetry published in Great Britain in 1993.  This volume demonstrated Carson's interest in translation including Ovid's <title>Metamorphoses</title> as well as poems written "after" Irish and French originals.  1996 witnessed the publication of <title>Opera Et Cetera</title>, which included a sequence of translations from the Romanian of Stefan Augustin Doinas.  Returning to his roots, <title>The Star Factory</title>, Carson's memoir and homage to the Belfast of his childhood followed in 1997.</p>
-      <p>Leaving the Arts Council in October 1998 to work as a full-time writer, Carson has emerged as one of the major contemporary writers working in English, publishing numerous books of poetry and translations. In 1998, he was appointed a Professor of English at Queen’s University Belfast, where he established the Seamus Heaney Centre for Poetry.</p>
+      <p>Leaving the Arts Council in October 1998 to work as a full-time writer, Carson has emerged as one of the major contemporary writers working in English, publishing numerous books of poetry and translations. In 1998, he was appointed a Professor of English at <corpname source="dbpedia" authfilenumber="Queen%27s_University_Belfast" role="schema:worksFor">Queen’s University Belfast</corpname>, where he established the <corpname source="viaf" authfilenumber="151742014" role="schema:founderOf">Seamus Heaney Centre for Poetry</corpname>.</p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
@@ -98,26 +101,18 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname source="lcnaf" encodinganalog="600">Fallon, Peter,
-			 1951-</persname>
-        <persname source="lcnaf" encodinganalog="600">Gallagher,
-			 Tess.</persname>
-        <persname source="lcnaf" encodinganalog="600">Heaney,
-			 Seamus.</persname>
-        <persname source="lcnaf" encodinganalog="600">McGuckian, Medbh,
-			 1950-</persname>
-        <persname source="lcnaf" encodinganalog="600">Montague,
-			 John.</persname>
-        <persname source="lcnaf" encodinganalog="600">Ormsby, Frank,
-			 1947-</persname>
-        <persname source="lcnaf" encodinganalog="600">Prolux, Annie.</persname>
-        <persname source="lcnaf" encodinganalog="600">Robinson, Tim,
-			 1935-</persname>
+        <persname source="viaf" authfilenumber="24613408" encodinganalog="600">Fallon, Peter, 1951-</persname>
+        <persname source="viaf" authfilenumber="79088985" encodinganalog="600">Gallagher, Tess.</persname>
+        <persname source="viaf" authfilenumber="109557338" encodinganalog="600">Heaney, Seamus</persname>
+        <persname source="viaf" authfilenumber="120096893" encodinganalog="600">McGuckian, Medbh, 1950-</persname>
+        <persname source="viaf" authfilenumber="98548196" encodinganalog="600">Montague, John.</persname>
+        <persname source="viaf" authfilenumber="49280158" encodinganalog="600">Ormsby, Frank, 1947-</persname>
+        <persname source="viaf" authfilenumber="113957087" encodinganalog="600">Prolux, Annie.</persname>
+        <persname source="viaf" authfilenumber="112404721" encodinganalog="600">Robinson, Tim, 1935-</persname>
       </controlaccess>
       <controlaccess>
         <head>Corporate Names</head>
-        <corpname source="lcnaf" encodinganalog="610">Arts Council of Northern
-			 Ireland.</corpname>
+        <corpname source="viaf" encodinganalog="610" authfilenumber="129928623">Arts Council of Northern Ireland.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
@@ -133,8 +128,8 @@
       </controlaccess>
       <controlaccess>
         <head>Geographic Names</head>
-        <geogname encodinganalog="651">Belfast (Northern Ireland)</geogname>
-        <geogname encodinganalog="651">Northern Ireland.</geogname>
+        <geogname source="geonames" authfilenumber="2655984" encodinganalog="651">Belfast (Northern Ireland)</geogname>
+        <geogname source="geonames" authfilenumber="2641364" encodinganalog="651">Northern Ireland.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Form/Genre Terms</head>
@@ -168,7 +163,7 @@
         </did>
         <scopecontent encodinganalog="520">
           <head>Scope and Content Note</head>
-          <p>The correspondence series contains letters Ciaran Carson received from 1971-2010. A substantial part of the correspondence pertains to letters from Carson's various editors: Peter Fallon at Gallery Press, Dillon Johnston at Wake Forest University Press, and Neil Belton at Jonathan Cape and then Granta.  There are also significant literary exchanges with scholars and writers from around the world, including Michael Longley, Seamus Heaney (restricted), Medbh McGuckian, Tim Robinson, Annie Proulx, and Tess Gallagher.  The Ciaran Carson / Tess Gallagher correspondence is of particular interest because of the very close attention Gallagher pays to Carson's work at both early and late stages of a volume's development.  She has served often as a pre-publication editor of most of Carson's major works, and her often extensive annotations are recorded on many typescripts. </p>
+          <p>The correspondence series contains letters Ciaran Carson received from 1971-2010. A substantial part of the correspondence pertains to letters from Carson's various editors: <persname source="viaf" authfilenumber="24613408">Peter Fallon</persname> at Gallery Press, Dillon Johnston at Wake Forest University Press, and Neil Belton at Jonathan Cape and then Granta.  There are also significant literary exchanges with scholars and writers from around the world, including <persname source="viaf" authfilenumber="39398205">Michael Longley</persname>, <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname> (restricted), <persname source="viaf" authfilenumber="120096893">Medbh McGuckian</persname>, <persname source="viaf" authfilenumber="112404721">Tim Robinson</persname>, <persname source="viaf" authfilenumber="113957087">Annie Proulx</persname>, and <persname source="viaf" authfilenumber="79088985">Tess Gallagher</persname>.  The Ciaran Carson / Tess Gallagher correspondence is of particular interest because of the very close attention Gallagher pays to Carson's work at both early and late stages of a volume's development.  She has served often as a pre-publication editor of most of Carson's major works, and her often extensive annotations are recorded on many typescripts. </p>
           <p>Invitations, contracts, and royalty statements are included in this series and arranged separately from the literary correspondence.</p>
         </scopecontent>
         <arrangement encodinganalog="351">
@@ -1954,25 +1949,68 @@
       <c01 level="series" id="carson746_series5">
         <did>
           <unitid>Series 5</unitid>
-          <unittitle encodinganalog="245$a">Belfast Group worksheets,
+          <unittitle encodinganalog="245$a"><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> worksheets,
 				<unitdate type="inclusive" normal="1971/1972" encodinganalog="245$f">[1971-1972]</unitdate></unittitle>
           <physdesc encodinganalog="300">Box 41</physdesc>
         </did>
         <scopecontent encodinganalog="520">
           <head>Scope and Content Note</head>
-          <p>This series contains worksheets for the Belfast Group from 1971-1972.  The Belfast Group, an informal writers' group where the participants read and discussed each other's work, was founded by the poet Philip Hobsbaum in 1963.  Hobsbaum stopped his direction of the meetings when he moved back to England in 1966, but Seamus Heaney continued to organize the meetings off and on for the next six years.  Early participants included Heaney, Longely, Mahon, James Simmons, and Stewart Parker.  Paul Muldoon and Ciaran Carson joined the group in the early 1970s.  Typically, one writer's work highlighted a given session.  A small selection of poems or, less commonly, a short story would be mimeographed and distributed to participants.  These "group sheets" organized by author document the development of both individual writers and a community of writers in Northern Ireland.  The Group under Heaney's auspices finally ceased altogether in 1972 at a time of escalating political violence in Northern Ireland.  More information about the Belfast Group may be found at http://chaucer.library.emory.edu/irishpoet/index.html.</p>
+          <p>This series contains worksheets for the Belfast Group from 1971-1972.  The Belfast Group, an informal writers' group where the participants read and discussed each other's work, was founded by the poet <persname source="viaf" authfilenumber="91907300">Philip Hobsbaum</persname> in 1963.  Hobsbaum stopped his direction of the meetings when he moved back to England in 1966, but <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname> continued to organize the meetings off and on for the next six years.  Early participants included Heaney, <persname source="viaf" authfilenumber="39398205">Longley</persname>, <persname source="viaf" authfilenumber="110228045">Mahon</persname>, <persname source="viaf" authfilenumber="92591927">James Simmons</persname>, and <persname source="viaf" authfilenumber="7497547">Stewart Parker</persname>.  <persname source="viaf" authfilenumber="64048541">Paul Muldoon</persname> and Ciaran Carson joined the group in the early 1970s.  Typically, one writer's work highlighted a given session.  A small selection of poems or, less commonly, a short story would be mimeographed and distributed to participants.  These "group sheets" organized by author document the development of both individual writers and a community of writers in Northern Ireland.  The Group under Heaney's auspices finally ceased altogether in 1972 at a time of escalating political violence in Northern Ireland.  More information about the Belfast Group may be found at http://chaucer.library.emory.edu/irishpoet/index.html.</p>
           <p>The Carson papers contain worksheets for the final year of the Belfast Group's existence, 1971-1972.  In Carson's papers, these worksheets were gathered together in a folder with various cut-outs of published Carson and Heaney poems (See Subseries 4.1 and 4.3), as well as typescripts of poems found in <title>The Insular Celts</title> and Uncollected Poems.  See these poems in Subseries 2.2.</p>
         </scopecontent>
         <arrangement encodinganalog="351">
           <head>Arrangement Note</head>
           <p>Arranged alphabetically by author.</p>
         </arrangement>
-        <c02 level="file"><did><container type="box">41</container><container type="folder">1</container><unittitle>Carson, Ciaran: "Letter from Alaska," "Aranmore Island" (with three sections entitled "Erratics," "The Fault," and "American Wake"), "The Island Revisted," "Wheel," "Post Mortem on a Mass Grave," "The Clockwork Pigeon;" [undated] </unittitle></did></c02>
-        <c02 level="file"><did><container type="box">41</container><container type="folder">2</container><unittitle>Heaney, Seamus: "Servant Boy," "The Last Mummer," "Gifts of Rain," "The Tollund Man," "Westering;" [8 November 1971]</unittitle></did></c02>
-        <c02 level="file"><did><container type="box">41</container><container type="folder">3</container><unittitle>Longley, Michael: "Altera Cithera," "Three Posthumous Pieces," "The Island," "Casualty," "Badger," "Hedgehog," "Kingfisher," "Robin," "The Adulterer;" [31 January 1972]</unittitle></did></c02>
-        <c02 level="file"><did><container type="box">41</container><container type="folder">4</container><unittitle>MacLaverty, Bernard: "The Deep End;" [14 February 1972]</unittitle></did></c02>
-        <c02 level="file"><did><container type="box">41</container><container type="folder">5</container><unittitle>McMahon, Trevor: "Moth," "Worm," "The Planter Speaks," "Old Man," "To Those Involved in Rigid Disciplines," "Rat Song," "The Fool's Soliloquy," "Poem as Mammoth;" [22 November 1971]</unittitle></did></c02>
-        <c02 level="file"><did><container type="box">41</container><container type="folder">6</container><unittitle>Muldoon, Paul: "Blowing Eggs," "The Radio Horse," "The Field Hospital," "On a Dog of Unlike Eyes," "The Lost Tribe," "The Upriver Incident," "Party Piece;" [25 October 1971]</unittitle></did></c02>
+        <c02 level="file"><did><container type="box">41</container><container type="folder">1</container>
+          <unittitle><persname source="viaf" authfilenumber="85621766">Carson, Ciaran</persname>:
+            <title render="doublequote">Letter from Alaska</title>,
+            <title render="doublequote">Aranmore Island</title> (with three sections entitled "Erratics," "The Fault," and "American Wake"),
+            <title render="doublequote">The Island Revisted</title>,
+            <title render="doublequote">Wheel</title>,
+            <title render="doublequote">Post Mortem on a Mass Grave</title>,
+            <title render="doublequote">The Clockwork Pigeon</title>; [undated] </unittitle></did></c02>
+        <c02 level="file"><did><container type="box">41</container><container type="folder">2</container>
+          <unittitle><persname source="viaf" authfilenumber="109557338">Heaney, Seamus</persname>:
+            <title render="doublequote">Servant Boy</title>,
+            <title render="doublequote">The Last Mummer</title>,
+            <title render="doublequote">Gifts of Rain</title>,
+            <title render="doublequote">The Tollund Man</title>,
+            <title>Westering</title>;" [<date normal="1971-11-08">8 November 1971</date>]</unittitle></did></c02>
+        <c02 level="file"><did><container type="box">41</container><container type="folder">3</container>
+          <unittitle><persname source="viaf" authfilenumber="39398205">Longley, Michael</persname>:
+            <title render="doublequote">Altera Cithera</title>,
+            <title render="doublequote">Three Posthumous Pieces</title>,
+            <title render="doublequote">The Island</title>,
+            <title render="doublequote">Casualty</title>,
+            <title render="doublequote">Badger</title>,
+            <title render="doublequote">Hedgehog</title>,
+            <title render="doublequote">Kingfisher</title>,
+            <title render="doublequote">Robin</title>,
+            <title render="doublequote">The Adulterer</title>; [<date normal="1972-01-31">31 January 1972</date>]</unittitle></did></c02>
+        <c02 level="file"><did><container type="box">41</container><container type="folder">4</container>
+          <unittitle><persname source="viaf" authfilenumber="95151565">MacLaverty, Bernard</persname>:
+            <title render="doublequote">The Deep End</title>; [<date normal="1972-02-14">14 February 1972</date>]</unittitle></did></c02>
+        <c02 level="file"><did><container type="box">41</container><container type="folder">5</container>
+          <unittitle><persname>McMahon, Trevor</persname>:
+            <title render="doublequote">Moth</title>,
+            <title render="doublequote">Worm</title>,
+            <title render="doublequote">The Planter Speaks</title>,
+            <title render="doublequote">Old Man</title>,
+            <title render="doublequote">To Those Involved in Rigid Disciplines</title>,
+            <title render="doublequote">Rat Song</title>,
+            <title render="doublequote">The Fool's Soliloquy</title>,
+            <title render="doublequote">Poem as Mammoth</title>; [<date normal="1971-11-22">22 November 1971</date>]</unittitle></did></c02>
+        <c02 level="file"><did><container type="box">41</container><container type="folder">6</container>
+          <unittitle><persname source="viaf" authfilenumber="64048541">Muldoon, Paul</persname>:
+            <title render="doublequote">Blowing Eggs</title>,
+            <title render="doublequote">The Radio Horse</title>,
+            <title render="doublequote">The Field Hospital</title>,
+            <title render="doublequote">On a Dog of Unlike Eyes</title>,
+            <title render="doublequote">The Lost Tribe</title>,
+            <title render="doublequote">The Upriver Incident</title>,
+            <title render="doublequote">Party Piece</title>;
+            [<date normal="1971-11-25">25 October 1971</date>]</unittitle></did></c02>
 
       </c01>
       <c01 level="series" id="carson746_series6">
@@ -2168,7 +2206,7 @@
 			 letters from 1973-1999.</p>
       </note>
       <indexentry>
-        <persname>Batten, Guinn</persname>
+        <persname source="viaf" authfilenumber="17437836">Batten, Guinn</persname>
         <ptrgrp>
           <ref>1995 July 29, ALS, 1p.</ref>
           <ref>undated APCS [August 7]</ref>
@@ -2179,7 +2217,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Belton, Neil</persname>
+        <persname source="viaf" authfilenumber="30405426">Belton, Neil</persname>
         <ptrgrp>
           <ref>1993 August 17, TLS, 1p.</ref>
           <ref>1993 August 27, TLS, 1p.</ref>
@@ -2220,7 +2258,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Brandes, Rand</persname>
+        <persname source="viaf" authfilenumber="5082602">Brandes, Rand</persname>
         <ptrgrp>
           <ref>1989 October 10, APCS</ref>
           <ref>1992 October 5, TLS, 1p.</ref>
@@ -2233,7 +2271,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Byatt, Antonia S.</persname>
+        <persname source="viaf" authfilenumber="187690273">Byatt, Antonia S.</persname>
         <ptrgrp>
           <ref>1994 June 22, TLS, 1p.</ref>
           <ref>1994 October 27, TLS, 2pp.</ref>
@@ -2243,13 +2281,13 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Coady, Michael </persname>
+        <persname source="viaf" authfilenumber="23488067">Coady, Michael </persname>
         <ptrgrp>
           <ref>1998 August 9, ALS, 1p.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Dorgan, Theo</persname>
+        <persname source="viaf" authfilenumber="12402723">Dorgan, Theo</persname>
         <ptrgrp>
           <ref>1993 September 2, TLS, 1p.</ref>
           <ref>1994 September 19, APCS </ref>
@@ -2257,7 +2295,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Drabble, Margaret</persname>
+        <persname source="viaf" authfilenumber="10100">Drabble, Margaret</persname>
         <ptrgrp>
           <ref>1998 October 16, TLS, 1p.</ref>
           <ref>CC to MD: 1998 October 21, TLS, 1p.</ref>
@@ -2265,19 +2303,19 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Dunne, Seán</persname>
+        <persname source="viaf" authfilenumber="115219098">Dunne, Seán</persname>
         <ptrgrp>
           <ref>1992 December 15, TLS, 1p.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Durcan, Paul</persname>
+        <persname source="viaf" authfilenumber="113258025">Durcan, Paul</persname>
         <ptrgrp>
           <ref>1990 October 2, APCS</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Fallon, Peter</persname>
+        <persname source="viaf" authfilenumber="24613408">Fallon, Peter</persname>
         <ptrgrp>
           <ref>1977 July 24, ALS, 1p.</ref>
           <ref>1988 January 28, TLS to Neil Astley at Bloodaxe Books</ref>
@@ -2330,13 +2368,13 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Flannagan, Tom</persname>
+        <persname source="viaf" authfilenumber="2656064">Flanagan, Tom</persname>
         <ptrgrp>
           <ref>1990 fall [undated], TLS, 2pp.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Gallagher, Tess</persname>
+        <persname source="viaf" authfilenumber="79088985">Gallagher, Tess</persname>
         <ptrgrp>
           <ref>1970's, APCS</ref>
           <ref>1989 March 3, ALS, 2pp. plus photocopies of poems</ref>
@@ -2382,26 +2420,26 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Ginsburg, Allen</persname>
+        <persname source="viaf" authfilenumber="108417923">Ginsberg, Allen</persname>
         <ptrgrp>
           <ref>1993 February 5, ALS, 1p.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Groarke, Vona</persname>
+        <persname source="viaf" authfilenumber="85453832">Groarke, Vona</persname>
         <ptrgrp>
           <ref>1998 August 2, APCS</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Hammond, David</persname>
+        <persname source="viaf" authfilenumber="38545317">Hammond, David</persname>
         <ptrgrp>
           <ref>1994 February 22, ALS, 1p.</ref>
           <ref>1997 December 23, ALS, 1p.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Heaney, Seamus [RESTRICTED]</persname>
+        <persname source="viaf" authfilenumber="109557338">Heaney, Seamus [RESTRICTED]</persname>
         <ptrgrp>
           <ref>1973 November 1, 1p.</ref>
           <ref>1996 April 6, TLS, 2pp.</ref>
@@ -2410,7 +2448,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Johnson, Dillon</persname>
+        <persname source="viaf" authfilenumber="64128892">Johnston, Dillon</persname>
         <ptrgrp>
           <ref>1978 August 24, TLS, 1p.</ref>
           <ref>1987 May 21, ALS, 1p.</ref>
@@ -2446,13 +2484,13 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Longley, Edna</persname>
+        <persname source="viaf" authfilenumber="109956735">Longley, Edna</persname>
         <ptrgrp>
           <ref>1997 December 9, TLS, 1p.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Longley, Michael</persname>
+        <persname source="viaf" authfilenumber="39398205">Longley, Michael</persname>
         <ptrgrp>
           <ref>1992 September 19, daughter Rebecca's wedding announcement</ref>
           <ref>undated: Christmas card to CC, with poem "Autumn Lady's
@@ -2463,7 +2501,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>McGuckian, Medbh</persname>
+        <persname source="viaf" authfilenumber="120096893">McGuckian, Medbh</persname>
         <ptrgrp>
           <ref>1976 July 13, APCS</ref>
           <ref>1991 June 5, ALS (photocopy), 2pp.</ref>
@@ -2472,20 +2510,20 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Meehan, Paula</persname>
+        <persname source="viaf" authfilenumber="93167797">Meehan, Paula</persname>
         <ptrgrp>
           <ref>1993 September 19, ALS with poem: "Home" [See subseries 3.1:
 				"Home"]</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Montague, John</persname>
+        <persname source="viaf" authfilenumber="98548196">Montague, John</persname>
         <ptrgrp>
           <ref>1988 July 21, ALS, 1p.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Muldoon, Paul</persname>
+        <persname source="viaf" authfilenumber="64048541">Muldoon, Paul</persname>
         <ptrgrp>
           <ref>1987 August, Wedding Invitation</ref>
           <ref>1992 July 7, Birth Announcement with embossed poem</ref>
@@ -2500,20 +2538,20 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Ní Dhomhnaill, Nuala</persname>
+        <persname source="viaf" authfilenumber="94779115">Ní Dhomhnaill, Nuala</persname>
         <ptrgrp>
           <ref>CC to NN: 1996 July 17, TLS, 1.</ref>
           <ref>1996 September 9, ALS, 1p.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>O'Donoghue, Bernard</persname>
+        <persname source="viaf" authfilenumber="34553683">O'Donoghue, Bernard</persname>
         <ptrgrp>
           <ref>1988 March 1, TLS, 1p.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>O'Faoláin, Nuala</persname>
+        <persname source="viaf" authfilenumber="32215143">O'Faoláin, Nuala</persname>
         <ptrgrp>
           <ref>1995 February 14, TLS, 5pp.</ref>
           <ref>1996 July 17, APCS</ref>
@@ -2521,19 +2559,19 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Olds, Sharon</persname>
+        <persname source="viaf" authfilenumber="13382047">Olds, Sharon</persname>
         <ptrgrp>
           <ref>1994 February, ALS 1p.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Ormsby, Frank</persname>
+        <persname source="viaf" authfilenumber="49280158">Ormsby, Frank</persname>
         <ptrgrp>
           <ref>1972 September 30, ALS, 2pp.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Prolux, Annie</persname>
+        <persname source="viaf" authfilenumber="113957087">Proulx, Annie</persname>
         <ptrgrp>
           <ref>1996 May 11, ALS, 2pp.</ref>
           <ref>1996 August 5, TLS, 1p.</ref>
@@ -2542,7 +2580,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Robertson, Robin</persname>
+        <persname source="viaf" authfilenumber="118144828">Robertson, Robin</persname>
         <ptrgrp>
           <ref>CC to RR: 1995 November 30, TLS, 1p.</ref>
           <ref>1995 November 31, TLS, 1p.</ref>
@@ -2551,7 +2589,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Robinson, Tim</persname>
+        <persname source="viaf" authfilenumber="112404721">Robinson, Tim</persname>
         <ptrgrp>
           <ref>1995 February 11, ALS, 1p.</ref>
           <ref>1995 December 14, ALS, 2pp.</ref>
@@ -2559,13 +2597,13 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Simic, Charles</persname>
+        <persname source="viaf" authfilenumber="22044">Simic, Charles</persname>
         <ptrgrp>
           <ref>CC to CS: 1998 January 27, ALS, 1p.</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Sommer, Piotr</persname>
+        <persname source="viaf" authfilenumber="101760846">Sommer, Piotr</persname>
         <ptrgrp>
           <ref>1980 February 2, ALS, 2pp.</ref>
           <ref>1980 April 4, ALS, 1p.</ref>
@@ -2582,7 +2620,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname>Tansey, Seamus</persname>
+        <persname source="viaf" authfilenumber="68554626">Tansey, Seamus</persname>
         <ptrgrp>
           <ref>1987 July 30, TLS 2pp.</ref>
           <ref>1988 April 8, TLS, 2pp.</ref>
