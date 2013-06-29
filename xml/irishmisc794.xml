@@ -1,4 +1,6 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"
+    xmlns:schema="http://schema.org/" xmlns:dbp="http://dbpedia.org/ontology/"
+    xmlns:dc="http://purl.org/dc/terms/">
     <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
         <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/8zgst" url="http://pid.emory.edu/ark:/25593/8zgst">irishmisc794</eadid>
         <filedesc>
@@ -23,7 +25,7 @@
             </publicationstmt>
         </filedesc>
         <profiledesc>
-            <creation>Finding aid encoded, 
+            <creation>Finding aid encoded,
 		  <date normal="2002-11-04" encodinganalog="Date">November 4,
 			 2002</date>
             </creation>
@@ -34,7 +36,7 @@
     </eadheader>
     <archdesc level="collection" relatedencoding="MARC21">
         <did>
-            <unittitle encodinganalog="245$a">Irish literary miscellany collection, 
+            <unittitle encodinganalog="245$a">Irish literary miscellany collection,
 		  <unitdate type="inclusive" normal="1943/1998" encodinganalog="245$f" certainty="circa">circa 1943-1998</unitdate>
             </unittitle>
             <unitid countrycode="US" repositorycode="geu-s" identifier="794">Manuscript Collection No.
@@ -145,28 +147,28 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">2</container>
-                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="50609413">Norman Dugdale</persname></unittitle>
+                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="50609413" role="schema:author dc:creator">Norman Dugdale</persname></unittitle>
                 </did>
             </c01>
             <c01 level="file">
                 <did>
                     <container type="box">1</container>
                     <container type="folder">3</container>
-                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="50609413">Norman Dugdale</persname></unittitle>
+                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="50609413" role="schema:author dc:creator">Norman Dugdale</persname></unittitle>
                 </did>
             </c01>
             <c01 level="file">
                 <did>
                     <container type="box">1</container>
                     <container type="folder">4</container>
-                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="95151565">Bernard MacLaverty</persname></unittitle>
+                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="95151565" role="schema:author dc:creator">Bernard MacLaverty</persname></unittitle>
                 </did>
             </c01>
             <c01 level="file">
                 <did>
                     <container type="box">1</container>
                     <container type="folder">5</container>
-                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="227096577">Iris Bull</persname></unittitle>
+                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="227096577" role="schema:author dc:creator"    >Iris Bull</persname></unittitle>
                 </did>
             </c01>
             <c01 level="file">
@@ -229,7 +231,7 @@
                     <container type="folder">11</container>
                     <unittitle><persname source="viaf" authfilenumber="94401473">Hewitt, John</persname> "Freehold" [including "Feathers on Turf,"
 				"The Lonely Heart," "Townland of Peace," "The Glittering Sod," and "Roll
-				Call"], offprint [from 
+				Call"], offprint [from
 				<title>Lagan</title>?] w/ several corrections in Hewitt’s hand.
 				[accession 96-12-02]</unittitle>
                 </did>
@@ -238,8 +240,8 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">12</container>
-                    <unittitle><persname source="viaf" authfilenumber="84212805">McDonagh, Martin</persname> 
-				<title>The Skull in Connemara</title>, [early title for the 
+                    <unittitle><persname source="viaf" authfilenumber="84212805">McDonagh, Martin</persname>
+				<title>The Skull in Connemara</title>, [early title for the
 				<title>Lonesome West</title>], signed TS with corrections.
 				[accession 2003-05-02]</unittitle>
                 </did>
@@ -249,7 +251,7 @@
                     <container type="box">1</container>
                     <container type="folder">13</container>
                     <unittitle><persname source="viaf" authfilenumber="98548196">Montague, John</persname>, "The Trout," MS with note regarding
-				revision of the poem. Originally laid in Special Collections' copy of 
+				revision of the poem. Originally laid in Special Collections' copy of
 				<title>A Chosen Light</title> (PR6063 .055 C45).</unittitle>
                 </did>
             </c01>
@@ -468,7 +470,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">39</container>
-                    <unittitle><persname source="viaf" authfilenumber="103209512">Hofmannsthal, Hugo von</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="103209512">Hofmannsthal, Hugo von</persname>,
 				<title>Everyman</title>: 5 April 1953</unittitle>
                 </did>
             </c01>
@@ -495,7 +497,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">41</container>
-                    <unittitle><persname source="viaf" authfilenumber="91961511">Kilroy, Thomas</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="91961511">Kilroy, Thomas</persname>,
 				<title>The Madame MacAdam</title>, theatre program from <corpname source="viaf" authfilenumber="157168776">Field Day Theatre Company</corpname> production, [1991]</unittitle>
                 </did>
             </c01>
@@ -508,7 +510,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">42</container>
-                    <unittitle>Podrecca’s Piccoli Theatre, 
+                    <unittitle>Podrecca’s Piccoli Theatre,
 				<title>Marionette Revue</title>: 17 April 1954 </unittitle>
                 </did>
             </c01>
@@ -516,7 +518,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">42</container>
-                    <unittitle><persname source="viaf" authfilenumber="44305889">Synge, John Millington</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="44305889">Synge, John Millington</persname>,
 				<title>The Playboy of the Western World</title>: 5 July 1954
 				</unittitle>
                 </did>
@@ -525,7 +527,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">42</container>
-                    <unittitle><persname source="viaf" authfilenumber="12319997">O’Casey, Sean</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="12319997">O’Casey, Sean</persname>,
 				<title>The Bishop's Bonfire</title>: 28 February 1955 </unittitle>
                 </did>
             </c01>
@@ -533,8 +535,8 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">42</container>
-                    <unittitle><persname source="viaf" authfilenumber="89019752">Shaw, George Bernard</persname>, 
-				<title>Androcles and the Lion</title>; Lady Gregory, 
+                    <unittitle><persname source="viaf" authfilenumber="89019752">Shaw, George Bernard</persname>,
+				<title>Androcles and the Lion</title>; Lady Gregory,
 				<title>The Rising of the Moon</title>: 2 July 1956 </unittitle>
                 </did>
             </c01>
@@ -542,7 +544,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">42</container>
-                    <unittitle><persname source="viaf" authfilenumber="4929810">Feydeau, Georges</persname> (translated by Peter Meyer), 
+                    <unittitle><persname source="viaf" authfilenumber="4929810">Feydeau, Georges</persname> (translated by Peter Meyer),
 				<title>Sauce for the Goose</title>: 3 October 1978 </unittitle>
                 </did>
             </c01>
@@ -550,7 +552,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">42</container>
-                    <unittitle><persname source="viaf" authfilenumber="12319997">O’Casey, Sean</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="12319997">O’Casey, Sean</persname>,
 				<title>Juno and the Paycock</title>: 21 April 1994</unittitle>
                 </did>
             </c01>
@@ -563,7 +565,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="15034389">Edwards, Hilton</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="15034389">Edwards, Hilton</persname>,
 				<title>"Jack-in-the-Box" and the Future</title>: 16th Jan. 1943.
 				[Attended, as per autograph inscription on verso, by "Mother [Mrs Richard James
 				Hoskin (nee Barbara Hetherington)], Mrs [Phoebie] Cameron, Mrs [Florence]
@@ -575,7 +577,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="54143634">Anouilh, Jean</persname> (translated by Christopher FRY), 
+                    <unittitle><persname source="viaf" authfilenumber="54143634">Anouilh, Jean</persname> (translated by Christopher FRY),
 				<title>Ring Round the Moon</title>: 195? </unittitle>
                 </did>
             </c01>
@@ -584,8 +586,8 @@
                     <container type="box">1</container>
                     <container type="folder">43</container>
                     <unittitle>
-                        <title>Sophochles</title> (a version by <persname source="viaf" authfilenumber="46768718">W.B. Yeats</persname>), 
-				<title>Oedipus, the King</title>; <persname source="viaf" authfilenumber="89019752">Shaw, Bernard</persname>, 
+                        <title>Sophochles</title> (a version by <persname source="viaf" authfilenumber="46768718">W.B. Yeats</persname>),
+				<title>Oedipus, the King</title>; <persname source="viaf" authfilenumber="89019752">Shaw, Bernard</persname>,
 				<title>The Man of Destiny</title>: 195? </unittitle>
                 </did>
             </c01>
@@ -593,7 +595,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="89019752">Shaw, Bernard</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="89019752">Shaw, Bernard</persname>,
 				<title>Saint Joan</title>: 195? </unittitle>
                 </did>
             </c01>
@@ -601,7 +603,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">42</container>
-                    <unittitle><persname source="viaf" authfilenumber="56609282">Eliot, T. S.</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="56609282">Eliot, T. S.</persname>,
 				<title>The Cocktail Party</title>: August 1953 </unittitle>
                 </did>
             </c01>
@@ -609,7 +611,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="56609282">Eliot, T.S.</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="56609282">Eliot, T.S.</persname>,
 				<title>The Family Reunion</title>: July 1954 </unittitle>
                 </did>
             </c01>
@@ -617,7 +619,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="88064986">Mac Liammoir, Micheal</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="88064986">Mac Liammoir, Micheal</persname>,
 				<title>A Slipper for the Moon</title>: December 1954 </unittitle>
                 </did>
             </c01>
@@ -625,7 +627,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">42</container>
-                    <unittitle><persname source="viaf" authfilenumber="64010465">Pirandello, Luigi</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="64010465">Pirandello, Luigi</persname>,
 				<title>The Masquerade of Henry IV</title>: April 1955 </unittitle>
                 </did>
             </c01>
@@ -633,7 +635,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="59083415">Greene, Graham</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="59083415">Greene, Graham</persname>,
 				<title>The Living Room</title>: May-June 1955 </unittitle>
                 </did>
             </c01>
@@ -641,7 +643,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="108585102">Shaffer, Peter</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="108585102">Shaffer, Peter</persname>,
 				<title>Amadeus</title>: 17 February 1982 </unittitle>
                 </did>
             </c01>
@@ -649,7 +651,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">42</container>
-                    <unittitle><persname source="viaf" authfilenumber="39375533">Coward, Noel</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="39375533">Coward, Noel</persname>,
 				<title>Blithe Spirit</title>: 4 December 1985 </unittitle>
                 </did>
             </c01>
@@ -657,7 +659,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="96994048">Shakespeare, William</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="96994048">Shakespeare, William</persname>,
 				<title>Twelfth Night</title>: 6 December 1988 </unittitle>
                 </did>
             </c01>
@@ -665,10 +667,10 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="95216565">Chekhov, Anton</persname> (in a version by <persname source="viaf" authfilenumber="79114734">Frank McGuinness</persname>), 
-				<title>Three Sisters</title>: 28 March 1990 [with associated 
+                    <unittitle><persname source="viaf" authfilenumber="95216565">Chekhov, Anton</persname> (in a version by <persname source="viaf" authfilenumber="79114734">Frank McGuinness</persname>),
+				<title>Three Sisters</title>: 28 March 1990 [with associated
 				<title>Irish Times</title> article or 7 May 1990 and published
-				details of <persname source="viaf" authfilenumber="67411021">Michael Pennington</persname>'s one-man show, 
+				details of <persname source="viaf" authfilenumber="67411021">Michael Pennington</persname>'s one-man show,
 				<title>Anton Chekhov</title>] </unittitle>
                 </did>
             </c01>
@@ -676,8 +678,8 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="2467372">Brecht, Bertolt</persname> and <persname source="viaf" authfilenumber="76501825">Kurt Weil</persname> (in a version by <persname source="viaf" authfilenumber="79114734">Frank McGuinness</persname>), 
-				<title>The Threepenny Opera</title>, 9 July 1991; <persname source="viaf" authfilenumber="7386737">Beckett, Samuel</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="2467372">Brecht, Bertolt</persname> and <persname source="viaf" authfilenumber="76501825">Kurt Weil</persname> (in a version by <persname source="viaf" authfilenumber="79114734">Frank McGuinness</persname>),
+				<title>The Threepenny Opera</title>, 9 July 1991; <persname source="viaf" authfilenumber="7386737">Beckett, Samuel</persname>,
 				<title>Waiting for Godot</title>: 7 February 1992 </unittitle>
                 </did>
             </c01>
@@ -685,7 +687,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="71378383">Ibsen, Henrik</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="71378383">Ibsen, Henrik</persname>,
 				<title>A Doll's House</title>: 5 October 1993 </unittitle>
                 </did>
             </c01>
@@ -693,7 +695,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">43</container>
-                    <unittitle><persname source="viaf" authfilenumber="102333412">Austen, Jane</persname> (adapted by <persname>James Maxwell</persname>), 
+                    <unittitle><persname source="viaf" authfilenumber="102333412">Austen, Jane</persname> (adapted by <persname>James Maxwell</persname>),
 				<title>Pride and Prejudice</title>: 1 December 1994</unittitle>
                 </did>
             </c01>
@@ -706,8 +708,8 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">44</container>
-                    <unittitle><persname source="viaf" authfilenumber="100167035">Wilder, Thornton</persname>, 
-				<title>Our Town</title>; <persname source="viaf" authfilenumber="71378383">Ibsen, Henrik</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="100167035">Wilder, Thornton</persname>,
+				<title>Our Town</title>; <persname source="viaf" authfilenumber="71378383">Ibsen, Henrik</persname>,
 				<title>An Enemy of the People</title>: Spring Tour 1980</unittitle>
                 </did>
             </c01>
@@ -720,7 +722,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">45</container>
-                    <unittitle><persname source="viaf" authfilenumber="71378383">Ibsen, Henrik</persname> (adapted by <persname>Max Faber</persname>), 
+                    <unittitle><persname source="viaf" authfilenumber="71378383">Ibsen, Henrik</persname> (adapted by <persname>Max Faber</persname>),
 				<title>Hedda Gabler</title>: 5 July 1954</unittitle>
                 </did>
             </c01>
@@ -728,7 +730,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">45</container>
-                    <unittitle><persname source="viaf" authfilenumber="24584116">Rattigan, Terence</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="24584116">Rattigan, Terence</persname>,
 				<title>The Deep Blue Sea</title>: 27 September 1954</unittitle>
                 </did>
             </c01>
@@ -736,7 +738,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">45</container>
-                    <unittitle>Davies, Rhys, 
+                    <unittitle>Davies, Rhys,
 				<title>No Escape</title>: 11 October 1954</unittitle>
                 </did>
             </c01>
@@ -744,7 +746,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">45</container>
-                    <unittitle><persname source="viaf" authfilenumber="54942247">Carroll, Paul Vincent</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="54942247">Carroll, Paul Vincent</persname>,
 				<title>The Devil Came from Dublin!</title>: 2 May 1955</unittitle>
                 </did>
             </c01>
@@ -752,7 +754,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">45</container>
-                    <unittitle><persname source="viaf" authfilenumber="96994048">Shakespeare, William</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="96994048">Shakespeare, William</persname>,
 				<title>Macbeth</title>: 27 June 1955</unittitle>
                 </did>
             </c01>
@@ -760,7 +762,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">45</container>
-                    <unittitle><persname source="viaf" authfilenumber="2470938">Giraudoux, Jean</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="2470938">Giraudoux, Jean</persname>,
 				<title>The Madwoman of Chaillot</title>: 25 July 1955</unittitle>
                 </did>
             </c01>
@@ -776,7 +778,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">45</container>
-                    <unittitle><persname source="viaf" authfilenumber="29529595">Balzac, Honore de</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="29529595">Balzac, Honore de</persname>,
 				<title>Le Faiseur</title>: 20 May 1957</unittitle>
                 </did>
             </c01>
@@ -784,7 +786,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">45</container>
-                    <unittitle><persname source="viaf" authfilenumber="109423766">Joyce Grenfell</persname> " 
+                    <unittitle><persname source="viaf" authfilenumber="109423766">Joyce Grenfell</persname> "
 				<title>At Home</title>": 16 September 1957</unittitle>
                 </did>
             </c01>
@@ -792,7 +794,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">45</container>
-                    <unittitle>Danish Patomimeteater, 
+                    <unittitle>Danish Patomimeteater,
 				<title>Harlequin's Mechanical Statue</title>: 2 December
 				1957</unittitle>
                 </did>
@@ -801,7 +803,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">45</container>
-                    <unittitle><persname source="viaf" authfilenumber="101362857">Stoppard, Tom</persname> and <persname source="viaf" authfilenumber="110759893">Andre Previn</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="101362857">Stoppard, Tom</persname> and <persname source="viaf" authfilenumber="110759893">Andre Previn</persname>,
 				<title>Every Good Boy Deserves Favour</title>: 1 October
 				1979</unittitle>
                 </did>
@@ -832,7 +834,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">46</container>
-                    <unittitle><persname source="viaf" authfilenumber="7386737">Beckett, Samuel</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="7386737">Beckett, Samuel</persname>,
 				<title>Happy Days</title>: 22 May 1986</unittitle>
                 </did>
             </c01>
@@ -840,7 +842,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">46</container>
-                    <unittitle>Mac Intyre Tom, 
+                    <unittitle>Mac Intyre Tom,
 				<title>Snow White</title>: 27 June 1988</unittitle>
                 </did>
             </c01>
@@ -868,7 +870,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">48</container>
-                    <unittitle>Yeats, W.B., 
+                    <unittitle>Yeats, W.B.,
 				<title>The Countess Cathleen</title>: 29-30 April 1954 [Organised
 				as part of "An Tostal." an ephemeral Arts Festival, which took place in <geogname source="geonames" authfilenumber="2964574">Dublin</geogname>
 				in 1954; harp accompaniments by Barbara Robinson now Wright</unittitle>
@@ -883,7 +885,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">49</container>
-                    <unittitle><persname source="viaf" authfilenumber="56609282">Eliot, T.S.</persname>, 
+                    <unittitle><persname source="viaf" authfilenumber="56609282">Eliot, T.S.</persname>,
 				<title>Murder in the Cathedral</title>: September/October
 				1962</unittitle>
                 </did>
