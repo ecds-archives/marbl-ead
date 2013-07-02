@@ -1970,14 +1970,18 @@
             <title render="doublequote">The Island Revisted</title>,
             <title render="doublequote">Wheel</title>,
             <title render="doublequote">Post Mortem on a Mass Grave</title>,
-            <title render="doublequote">The Clockwork Pigeon</title>; [undated] </unittitle></did></c02>
+            <title render="doublequote">The Clockwork Pigeon</title>; [undated] </unittitle>
+            <dao xlink:href="http://pid.emory.edu/ark:/25593/1bc0v"/>
+            </did></c02>
         <c02 level="file"><did><container type="box">41</container><container type="folder">2</container>
           <unittitle><persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>:
             <title render="doublequote">Servant Boy</title>,
             <title render="doublequote">The Last Mummer</title>,
             <title render="doublequote">Gifts of Rain</title>,
             <title render="doublequote">The Tollund Man</title>,
-            <title>Westering</title>;" [<date normal="1971-11-08">8 November 1971</date>]</unittitle></did></c02>
+            <title>Westering</title>;" [<date normal="1971-11-08">8 November 1971</date>]</unittitle>
+            <dao xlink:href="http://pid.emory.edu/ark:/25593/17kwv"/>
+          </did></c02>
         <c02 level="file"><did><container type="box">41</container><container type="folder">3</container>
           <unittitle><persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
             <title render="doublequote">Altera Cithera</title>,
@@ -1988,7 +1992,9 @@
             <title render="doublequote">Hedgehog</title>,
             <title render="doublequote">Kingfisher</title>,
             <title render="doublequote">Robin</title>,
-            <title render="doublequote">The Adulterer</title>; [<date normal="1972-01-31">31 January 1972</date>]</unittitle></did></c02>
+            <title render="doublequote">The Adulterer</title>; [<date normal="1972-01-31">31 January 1972</date>]</unittitle>
+            <dao xlink:href="http://pid.emory.edu/ark:/25593/17m0c"/>
+          </did></c02>
         <c02 level="file"><did><container type="box">41</container><container type="folder">4</container>
           <unittitle><persname source="viaf" authfilenumber="95151565">MacLaverty, Bernard</persname>:
             <title render="doublequote">The Deep End</title>; [<date normal="1972-02-14">14 February 1972</date>]</unittitle></did></c02>
@@ -2011,7 +2017,9 @@
             <title render="doublequote">The Lost Tribe</title>,
             <title render="doublequote">The Upriver Incident</title>,
             <title render="doublequote">Party Piece</title>;
-            [<date normal="1971-11-25">25 October 1971</date>]</unittitle></did></c02>
+            [<date normal="1971-11-25">25 October 1971</date>]</unittitle>
+            <dao xlink:href="http://pid.emory.edu/ark:/25593/17m9m"/>
+          </did></c02>
 
       </c01>
       <c01 level="series" id="carson746_series6">
