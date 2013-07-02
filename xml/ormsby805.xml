@@ -3063,7 +3063,7 @@
                             <unittitle>
                                 <persname authfilenumber="39398205" source="viaf" role="dc:creator schema:author">Longley, Michael</persname>, Poetry:
                                 <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets,
-                                circa <date normal="1970/1971">1970-1971</a> [includes:
+                                circa <date normal="1970/1971">1970-1971</date> [includes:
                                 <title render="doublequote">To the Poets</title>,
                                 <title render="doublequote">Mountain Swim</title>,
                                 <title render="doublequote">A Nativity</title>,
@@ -3983,7 +3983,7 @@
                                  <title render="doublequote">On a Dog of Unlike Eyes</title>,
                                  <title render="doublequote">The Lost Tribe</title>,
                                  <title render="doublequote">The Upriver Incident</title>,
-                                 <title render="doubequote">Party Piece</title>]</unittitle>
+                                 <title render="doublequote">Party Piece</title>]</unittitle>
                                  <dao xlink:href="http://pid.emory.edu/ark:/25593/17m9m"/>
                         </did>
                     </c03>
@@ -4546,7 +4546,7 @@
                                 <title render="doublequote">Elegy for J.F. Kennedy</title>,
                                 <title render="doublequote">The Publican</title>,
                                 <title render="doublequote">A Man of Principle</title>,
-                                <title render="doublquote">No Land is Waste</title>, TS]</unittitle>
+                                <title render="doublequote">No Land is Waste</title>, TS]</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
