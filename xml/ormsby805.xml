@@ -11923,7 +11923,7 @@
                         <container type="box">30</container>
                         <container type="folder">4</container>
                         <unittitle>
-                            <persname authfilenumber="95151565" source="viaf" role="dc:creator schema:author">>MacLaverty, Bernard</persname>:
+                            <persname authfilenumber="95151565" source="viaf" role="dc:creator schema:author">MacLaverty, Bernard</persname>:
                             <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheet,
                             <date normal="1972-02-14">14 February 1972</date>
                              [includes the short story:

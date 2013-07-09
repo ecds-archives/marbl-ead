@@ -168,7 +168,7 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">5</container>
-                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="227096577" role="schema:author dc:creator"    >Iris Bull</persname></unittitle>
+                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="227096577" role="schema:author dc:creator">Iris Bull</persname></unittitle>
                 </did>
             </c01>
             <c01 level="file">
