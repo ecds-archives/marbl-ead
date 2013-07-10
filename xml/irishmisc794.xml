@@ -147,28 +147,62 @@
                 <did>
                     <container type="box">1</container>
                     <container type="folder">2</container>
-                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="50609413" role="schema:author dc:creator">Norman Dugdale</persname></unittitle>
+                    <unittitle>
+                        <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet:
+                        <persname source="viaf" authfilenumber="50609413" role="schema:author dc:creator">Norman Dugdale</persname>
+                        <title render="doublequote">Two in Connemara</title>,
+                        <title render="doublequote">Galatea to Pygmalion</title>,
+                        <title render="doublequote">Poor Fitz</title>,
+                        <title render="doublequote">Easter in Craven</title>,
+                        <title render="doublequote">Lines for an Old Lady</title>,
+                        <title render="doublequote">Against Abstraction</title>,
+                        <title render="doublequote">Sea-Change</title>
+                </unittitle>
                 </did>
             </c01>
             <c01 level="file">
                 <did>
                     <container type="box">1</container>
                     <container type="folder">3</container>
-                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="50609413" role="schema:author dc:creator">Norman Dugdale</persname></unittitle>
+                    <unittitle>
+                        <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet:
+                        <persname source="viaf" authfilenumber="50609413" role="schema:author dc:creator">Norman Dugdale</persname>
+                        <title render="doublequote">Seated King and Queen</title>
+                        <title render="doublequote">Dalesmen in Craven</title>
+                        <title render="doublequote">Anarchist</title>
+                        <title render="doublequote">A Study in Sepia</title>
+                        <title render="doublequote">Bog</title>
+                        <title render="doublequote">Nekuia</title>
+                    </unittitle>
                 </did>
             </c01>
             <c01 level="file">
                 <did>
                     <container type="box">1</container>
                     <container type="folder">4</container>
-                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="95151565" role="schema:author dc:creator">Bernard MacLaverty</persname></unittitle>
+                    <unittitle>
+                        <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet:
+                        <persname source="viaf" authfilenumber="95151565" role="schema:author dc:creator">Bernard MacLaverty</persname>
+                        <title render="doublequote">St. Paul Could Hit the Nail on the Head</title>
+                </unittitle>
                 </did>
             </c01>
             <c01 level="file">
                 <did>
                     <container type="box">1</container>
                     <container type="folder">5</container>
-                    <unittitle><corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet: <persname source="viaf" authfilenumber="227096577" role="schema:author dc:creator">Iris Bull</persname></unittitle>
+                    <unittitle>
+                        <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet:
+                        <persname source="viaf" authfilenumber="227096577" role="schema:author dc:creator">Iris Bull</persname>
+                        <title render="doublequote">Facets of War</title>
+                        <title render="doublequote">The Gulf</title>
+                        <title render="doublequote">A Backward Glance</title>
+                        <title render="doublequote">Without You</title>
+                        <title render="doublequote">A Walk in Winter</title>
+                        <title render="doublequote">Gifts</title>
+                        <title render="doublequote">Cavaliers</title>
+                        <title render="doublequote">Life's Little Ironies</title>
+                    </unittitle>
                 </did>
             </c01>
             <c01 level="file">
