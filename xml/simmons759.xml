@@ -94,7 +94,7 @@
         <persname source="viaf" authfilenumber="105939176" role="schema:knows">Wole Soyinka</persname>. Simmons went on to teach English at <corpname source="dbpedia" authfilenumber="Ahmadu_Bello_University" role="schema:worksFor">Ahamadu Bello University</corpname> in <geogname source="geonames" authfilenumber="2328926" role="schema:workLocation">Nigeria</geogname>,
         Friends School, <geogname source="geonames" authfilenumber="2644411" role="schema:workLocation">Lisburn</geogname>, and the <corpname source="viaf" authfilenumber="128469846" role="schema:worksFor">New University of Ulster</corpname>, <geogname source="dbpedia" authfilenumber="Coleraine" role="schema:workLocation">Coleraine</geogname>, and in 1989 was named
         Writer in Residence at <corpname source="dbpedia" authfilenumber="Queen%27s_University_Belfast" role="schema:worksFor">Queens University of Belfast</corpname>. In 1968, Simmons founded and edited
-        <corpname source="dbpedia" authfilenumber="The_Honest_Ulsterman" role="schema:founderOf"><title>The Honest Ulsterman</title></corpname>, a prominent literary magazine in <geogname source="dbpedia" authfilenumber="Ulster">Ulster</geogname>. He founded
+        <corpname source="dbpedia" authfilenumber="The_Honest_Ulsterman" role="schema:founderOf"><emph render="italic">The Honest Ulsterman</emph></corpname>, a prominent literary magazine in <geogname source="dbpedia" authfilenumber="Ulster">Ulster</geogname>. He founded
         The Poets' House, which was a series of summer poetry conferences with wife, <persname source="viaf" authfilenumber="1717723" role="schema:spouse">Janice
         Fitzpatrick Simmons</persname> in 1990. In 1994, The Poets' House began offering Ireland's first M.A.
         in Creative Writing. Simmons had seven children, five with first wife, Laura Stinson, one
@@ -225,8 +225,7 @@
             by Seamus Heaney are closed to researchers.</p>
         </accessrestrict>
         <arrangement encodinganalog="351">
-          <head><?oxy_comment_start author="saritaalami" timestamp="20130702T171502-0400" comment="Correspondence in thie collection is arranged chronologically rather than alphabetically, so there are few opportunities to tag."?>Arrangement<?oxy_comment_end?>
-            Note</head>
+          <head>Arrangement Note</head>
           <p>Organized into five subseries: (1.1) Literary correspondence, (1.2) Correspondence with
             publishers, (1.3) Family correspondence, (1.4) General correspondence, and (1.5)
             Restricted correspondence.</p>
