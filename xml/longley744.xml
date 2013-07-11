@@ -11893,13 +11893,10 @@
                         <unittitle>
                             <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>:
                             <title render="doublequote">A Lough Neagh Sequence</title>
-                            [<title render="doublequote">1. Vision</title>,
-                            <title render="doublequote">2. The Coming</title>,
-                            <title render="doublequote">3. Bait</title>,
-                            <title render="doublequote">4. Setting</title>,
-                            <title render="doublequote">5. Lifting</title>,
-                            <title render="doublequote">6. The Going</title>,
-                            <title render="doublequote">7. Coda</title>] [2 copies]</unittitle>
+                            ["1. Vision", "2. The Coming",
+                             "3. Bait", "4. Setting",
+                             "5. Lifting", "6. The Going",
+                             "7. Coda"] [2 copies]</unittitle>
                             <dao xlink:href="http://pid.emory.edu/ark:/25593/17kvq"/>
                     </did>
                 </c02>
@@ -12028,7 +12025,7 @@
                         <container type="folder">13</container>
                         <unittitle>
                             <persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
-                            <title render="doublequote">Althera Cithera</title>,
+                            <title render="doublequote">Altera Cithera</title>,
                             <title render="doublequote">Three Posthumous Pieces</title>,
                             <title render="doublequote">The Island</title>,
                             <title render="doublequote">Casualty</title>,
