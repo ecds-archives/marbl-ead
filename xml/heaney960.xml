@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21">
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"
+  xmlns:schema="http://schema.org/" xmlns:dbp="http://dbpedia.org/ontology/"
+  xmlns:dc="http://purl.org/dc/terms/">
   <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core">
     <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/8zf3z" url="http://pid.emory.edu/ark:/25593/8zf3z">heaney960</eadid>
     <filedesc>
@@ -28,8 +30,7 @@
   <archdesc level="collection" relatedencoding="MARC 21">
     <did>
       <origination>
-        <persname source="lcnaf" encodinganalog="100">Heaney,
-			 Seamus, 1939-</persname>
+        <persname source="viaf" authfilenumber="109557338" encodinganalog="100">Heaney, Seamus, 1939-</persname>
       </origination>
       <unittitle encodinganalog="245$a">Seamus Heaney papers,
 		  <unitdate type="inclusive" encodinganalog="245$f" normal="1951/2004">1951-2004</unitdate></unittitle>
@@ -75,19 +76,18 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Seamus Heaney was born on April 13, 1939, to Margaret and Patrick
+      <p>Seamus Heaney was born on <date normal="1939-04-13">April 13, 1939</date>, to Margaret and Patrick
 		  Heaney. The eldest of nine children, he was born at the family farm, Mossbawn,
-		  northwest of <geogname source="geonames" authfilenumber="2655984">Belfast</geogname> in <geogname source="geonames" authfilenumber="2643735">County Derry</geogname>. He attended the local school at Anahorish
-		  until 1957 when he enrolled at <corpname source="dbpedia" authfilenumber="Queen%27s_University_Belfast">Queens College, Belfast</corpname>, where he studied
+		  northwest of <geogname source="geonames" authfilenumber="2655984" role="dbp:birthPlace">Belfast</geogname> in <geogname source="geonames" authfilenumber="2643735" role="dbp:birthPlace">County Derry</geogname>. He attended the local school at Anahorish
+		  until 1957 when he enrolled at <corpname source="dbpedia" authfilenumber="Queen%27s_University_Belfast" role="schema:alumniOf">Queens College, Belfast</corpname>, where he studied
 		  English. After graduation he taught English at St. Joseph's College in
 		  Belfast.</p>
       <p>While at St. Joseph's he began to write, publishing work in university
 		  magazines under the pseudonym Incertus. During that time, he joined a poetry
-		  workshop organized by <persname source="viaf" authfilenumber="91907300">Philip Hobsbaum</persname>. In 1965, in connection with the <corpname source="dbpedia" authfilenumber="Belfast_Festival_at_Queen's">Belfast
+		  workshop organized by <persname source="viaf" authfilenumber="91907300" role="schema:knows">Philip Hobsbaum</persname>. In 1965, in connection with the <corpname source="dbpedia" authfilenumber="Belfast_Festival_at_Queen's" role="schema:affiliation">Belfast
 		    Festival</corpname>, he published
-        <title>Eleven Poems</title>, and in August of that year he married <persname source="viaf" authfilenumber="39260346">Marie
-		Devlin</persname>. The following year he became a lecturer in modern English literature at
-		Queens College; his first son, Michael, was born; and Faber and Faber published
+        <title>Eleven Poems</title>, and in August of that year he married <persname source="viaf" authfilenumber="39260346" role="schema:spouse">Marie Devlin</persname>. The following year he became a lecturer in modern English literature at
+		Queens College; his first son, Michael, was born; and <corpname source="viaf" authfilenumber="166810937" role="schema:affiliation">Faber and Faber</corpname> published
 
 		<title>Death of a Naturalist</title>. This collection earned him the Eric
 		Gregory Award, the Cholmondeley Award, the Somerset Maugham Award, and the
@@ -95,25 +95,25 @@
 		was born in 1968.</p>
       <p><title>Door Into the Dark</title>, published in 1969, was a Poetry Book
 		Society Choice for the year. In 1970-1971, Heaney was guest lecturer at the
-		<corpname source="dbpedia" authfilenumber="University_of_California_Berkeley">University of California, Berkeley</corpname>. He returned to <geogname source="geonames" authfilenumber="2637761">Northern Ireland</geogname> in 1971,
+		<corpname source="dbpedia" authfilenumber="University_of_California_Berkeley" role="schema:affiliation">University of California, Berkeley</corpname>. He returned to <geogname source="geonames" authfilenumber="2637761" role="schema:homeLocation">Northern Ireland</geogname> in 1971,
 		and in 1972 he resigned his lectureship at Queens College, moved his family to
-		Glanmore, in <geogname source="geognames" authfilenumber="2960935">County Wicklow</geogname>, and published
+		<geogname source="geonames" authfilenumber="3292681" role="schema:homeLocation">Glanmore</geogname>, in <geogname source="geognames" authfilenumber="2960935" role="schema:homeLocation">County Wicklow</geogname>, and published
 		<title>Wintering Out</title>. In 1973 his daughter Catherine Ann was
 		born. During this year he also received the Denis Devlin Award and the Writer
 		in Residence Award from the American Irish Foundation. In 1975
 		<title>North</title> was published, winning the E.M. Forster Award and
 		the Duff Cooper Memorial Prize. During these years at Glanmore, Heaney also
-		gave many readings in the <geogname source="geonames" authfilenumber="6252001">United States</geogname> and <geogname source="geonames" authfilenumber="3333218">England</geogname> and edited two poetry
+		gave many readings in the <geogname source="geonames" authfilenumber="6252001" role="schema:workLocation">United States</geogname> and <geogname source="geonames" authfilenumber="6269131" role="schema:workLocation">England</geogname> and edited two poetry
 		anthologies.</p>
-      <p>In 1975 Heaney began teaching at <corpname source="dbpedia" authfilenumber="Carysfort_College">Carysfort College</corpname>in <geogname source="geonames" authfilenumber="2964574">Dublin</geogname>, and in
-		  1976 he and his family moved to <geogname source="dbpedia" authfilenumber="Sandymount">Sandymount</geogname> in the city. In 1979 Heaney
+      <p>In 1975 Heaney began teaching at <corpname source="dbpedia" authfilenumber="Carysfort_College" role="schema:worksFor">Carysfort College</corpname>in <geogname source="geonames" authfilenumber="2964574" role="schema:workLocation">Dublin</geogname>, and in
+		  1976 he and his family moved to <geogname source="dbpedia" authfilenumber="Sandymount" role="schema:homeLocation">Sandymount</geogname> in the city. In 1979 Heaney
 		  published
 		<title>Field Work</title> and in 1980
 		<title>Selected Poems</title> and
 		<title>Preoccupations</title>. In 1981 he gave up his position at
-		Carysfort to become visiting professor at <corpname source="dbpedia" authfilenumber="Harvard_University">Harvard.</corpname> In 1982 he won the Bennett
+		Carysfort to become visiting professor at <corpname source="dbpedia" authfilenumber="Harvard_University" role="schema:worksFor">Harvard.</corpname> In 1982 he won the Bennett
 		Award and Queens University awarded him an honorary Doctor of Letters. He
-		co-founded <corpname source="Field_Day_Theatre_Company" authfilenumber="Field_Day_Theatre_Company">Field Day Company</corpname> with the playwright <persname source="viaf" authfilenumber="76315726">Brian Friel</persname> and others in
+		co-founded <corpname source="Field_Day_Theatre_Company" authfilenumber="Field_Day_Theatre_Company" role="schema:founderOf">Field Day Company</corpname> with the playwright <persname source="viaf" authfilenumber="76315726" role="schema:colleague">Brian Friel</persname> and others in
 		1983.
 		<title>Station Island</title>, his first collection in five years, was
 		published in 1984. During that year he was elected Boylston Professor of
@@ -132,8 +132,8 @@
 		the year, and his
 		<title>Finders Keepers</title> (2002) won the Truman Capote Award for
 		Literary Criticism. He also has been awarded a number of honorary degrees; he
-		is a member of Aosdana, the Irish Academy of Artist and Writers, and is a
-		Foreign Member of the American Academy of Arts and Letters. In addition, he has
+		is a member of <corpname source="viaf" authfilenumber="136293942" role="schema:memberOf">Aosdana</corpname>, the Irish Academy of Artist and Writers, and is a
+		Foreign Member of the <corpname source="viaf" authfilenumber="158560852" role="schema:memberOf">American Academy of Arts and Letters</corpname>. In addition, he has
 		been made a Comandeur de L’Ordre des Arts et Lettres by the French Ministry of
 		Culture.</p>
     </bioghist>
@@ -245,11 +245,26 @@
 				letters relate to speaking and reading engagements, queries from aspiring
 				writers, requests for recommendations, and letters from admirers of Heaney's
 				work. Also present in the collection is an important group of letters from his
-				friends and literary associates (1964-2003), notably John Banville, Joseph
-				Brodsky, Seamus Deane, Douglas Dunn, Peter Fallon, Tom Flanagan, Brian Friel,
-				Philip Hobsbaum, Ted Hughes, Brendan Kennelly, Thomas Kilroy, Michael Longley,
-				Medbh McGuckian, Derek Mahon, John Montague, Paul Muldoon, Bernard O'Donoghue,
-				Tom Paulin, and Derek Walcott. A small amount of literary correspondence from
+				friends and literary associates (1964-2003), notably
+            <persname source="viaf" authfilenumber="46805211">John Banville</persname>,
+            <persname source="viaf" authfilenumber="31993687">Joseph Brodsky</persname>,
+            <persname source="viaf" authfilenumber="108344790">Seamus Deane</persname>,
+            <persname source="viaf" authfilenumber="107572951">Douglas Dunn</persname>,
+            <persname source="viaf" authfilenumber="24613408">Peter Fallon</persname>,
+            <persname source="viaf" authfilenumber="56135019">Tom Flanagan</persname>,
+            <persname source="viaf" authfilenumber="76315726">Brian Friel</persname>,
+				    <persname source="viaf" authfilenumber="91907300">Philip Hobsbaum</persname>,
+            <persname source="viaf" authfilenumber="108232871">Ted Hughes</persname>,
+            <persname source="viaf" authfilenumber="267971098">Brendan Kennelly</persname>,
+            <persname source="viaf" authfilenumber="91961511">Thomas Kilroy</persname>,
+            <persname source="viaf" authfilenumber="39398205">Michael Longley</persname>,
+				    <persname source="viaf" authfilenumber="120096893">Medbh McGuckian</persname>,
+            <persname source="viaf" authfilenumber="110228045">Derek Mahon</persname>,
+            <persname source="viaf" authfilenumber="98548196">John Montague</persname>,
+            <persname source="viaf" authfilenumber="64048541">Paul Muldoon</persname>,
+            <persname source="viaf" authfilenumber="34553683">Bernard O'Donoghue</persname>,
+				    <persname source="viaf" authfilenumber="108291535">Tom Paulin</persname>, and
+            <persname source="viaf" authfilenumber="39391959">Derek Walcott</persname>. A small amount of literary correspondence from
 				these and other individuals accompany writings and is found attached to those
 				writings in the Writings by Others series.</p>
           <p>Included in this series is a large group of outgoing letters
@@ -6730,10 +6745,18 @@
             <did>
               <container type="box">71</container>
               <container type="folder">18</container>
-              <unittitle>Longley, Michael, reading sheets for Belfast Poets
-					 Group, includes: "Narcissus," "Dr Johnson Dying," "In a Convent Cemetery,"
-					 "Remembrance Day," "Gathering Mushrooms," "To Bix Beiderbecke," "Nausicaa,"
-					 "The Freemartin," sixteen copies</unittitle>
+              <unittitle><persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>,
+                reading sheets for <corpname source="viaf" authfilenumber="123393054">Belfast Poets
+					 Group</corpname>, includes:
+          <title render="doublequote">Narcissus</title>,
+            <title render="doublequote">Dr Johnson Dying</title>,
+             <title render="doublequote">In a Convent Cemetery</title>,
+					 <title render="doublequote">Remembrance Day</title>,
+           <title render="doublequote">Gathering Mushrooms</title>,
+           <title render="doublequote">To Bix Beiderbecke</title>,
+           <title render="doublequote">Nausicaa</title>,
+					 <title render="doublequote">The Freemartin</title>, sixteen copies</unittitle>
+           <dao xlink:href="http://pid.emory.edu/ark:/25593/17m52"/>
             </did>
           </c03>
           <c03 level="file">
