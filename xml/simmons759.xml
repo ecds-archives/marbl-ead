@@ -2,7 +2,9 @@
 <ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
-  relatedencoding="MARC21">
+  relatedencoding="MARC21"
+  xmlns:schema="http://schema.org/" xmlns:dbp="http://dbpedia.org/ontology/"
+  xmlns:dc="http://purl.org/dc/terms/">
   <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core" scriptencoding="iso15924"
     dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
     <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/8zw5k"
@@ -24,7 +26,7 @@
           <addressline>Atlanta, GA 30322</addressline>
           <addressline>404-727-6887</addressline>
           <addressline>marbl@emory.edu</addressline>
-    
+
         </address>
         <date encodinganalog="Date" normal="2003-07-23">July 23, 2003</date>
       </publicationstmt>
@@ -40,7 +42,7 @@
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname source="lcnaf" encodinganalog="100">Simmons, James, 1933-</persname>
+        <persname source="viaf" authfilenumber="92591927" encodinganalog="100">Simmons, James, 1933-</persname>
       </origination>
       <unittitle encodinganalog="245$a">James Simmons papers, <unitdate type="inclusive"
           encodinganalog="245$f" normal="1945/1996">1945-1996</unitdate></unittitle>
@@ -87,14 +89,14 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>James Simmons was born in 1933 in Derry, Northern Ireland. He attended the University of
-        Leeds as a mature student in the late 1950's where he met lifelong friends Tony Harrison and
-        Wole Soyinka. Simmons went on to teach English at Ahamadu Bello University in Nigeria,
-        Friends School, Lisburn, and the New University of Ulster, Coleraine, and in 1989 was named
-        Writer in Residence at Queens University of Belfast. In 1968, Simmons founded and edited
-          <title>The Honest Ulsterman</title>, a prominent literary magazine in Ulster. He founded
-        The Poets' House, which was a series of summer poetry conferences with wife, Janice
-        Fitzpatrick Simmons in 1990. In 1994, The Poets' House began offering Ireland's first M.A.
+      <p>James Simmons was born in <date normal="1933" type="schema:birthDate">1933</date> in <geogname source="geonames" authfilenumber="2643736" role="dbp:birthPlace">Derry, Northern Ireland</geogname>. He attended the <corpname source="viaf" authfilenumber="135669116" role="schema:alumniOf">University of
+        Leeds</corpname> as a mature student in the late 1950's where he met lifelong friends <persname source="viaf" authfilenumber="109297940" role="schema:knows">Tony Harrison</persname> and
+        <persname source="viaf" authfilenumber="105939176" role="schema:knows">Wole Soyinka</persname>. Simmons went on to teach English at <corpname source="dbpedia" authfilenumber="Ahmadu_Bello_University" role="schema:worksFor">Ahamadu Bello University</corpname> in <geogname source="geonames" authfilenumber="2328926" role="schema:workLocation">Nigeria</geogname>,
+        Friends School, <geogname source="geonames" authfilenumber="2644411" role="schema:workLocation">Lisburn</geogname>, and the <corpname source="viaf" authfilenumber="128469846" role="schema:worksFor">New University of Ulster</corpname>, <geogname source="dbpedia" authfilenumber="Coleraine" role="schema:workLocation">Coleraine</geogname>, and in 1989 was named
+        Writer in Residence at <corpname source="dbpedia" authfilenumber="Queen%27s_University_Belfast" role="schema:worksFor">Queens University of Belfast</corpname>. In 1968, Simmons founded and edited
+        <corpname source="dbpedia" authfilenumber="The_Honest_Ulsterman" role="schema:founderOf"><title>The Honest Ulsterman</title></corpname>, a prominent literary magazine in <geogname source="dbpedia" authfilenumber="Ulster">Ulster</geogname>. He founded
+        The Poets' House, which was a series of summer poetry conferences with wife, <persname source="viaf" authfilenumber="1717723" role="schema:spouse">Janice
+        Fitzpatrick Simmons</persname> in 1990. In 1994, The Poets' House began offering Ireland's first M.A.
         in Creative Writing. Simmons had seven children, five with first wife, Laura Stinson, one
         with Imelda Foley, and one with Janice Fitzpatrick. His published collections of poems
         include: <title>Ten Poems</title>, <title>Ballad of a Marriage</title>, <title>Late but in
@@ -104,20 +106,20 @@
           <title>Memorials of a Tour in Yorkshire</title>, <title>Judy Garland and the Cold
           War</title>, <title>Constantly Singing</title>, <title>From the Irish</title>, <title>Sex,
           Rectitude and Loneliness</title>, <title>Mainstream</title>, and <title>The Company of
-          Children</title>. Simmons passed away June 21st, 2001. </p>
+          Children</title>. Simmons passed away <date normal="2001-06-21" type="schema:deathDate">June 21st, 2001</date>. </p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
       <p>The collection consists of personal and literary papers of James Simmons from 1945-1996.
         The bulk of the collection consists of drafts of Simmons's own writings, including poetry,
         prose, and songs that span his career. Also present are extensive files of personal and
-        literary correspondence including correspondence and literary works of <persname
-          source="viaf" authfilenumber="109297940">Tony Harrison</persname>, <persname source="viaf"
-          authfilenumber="109557338">Seamus Heaney</persname>, <persname source="viaf"
-          authfilenumber="39398205">Michael Longley</persname>, <persname source="viaf"
-          authfilenumber="110228045">Derek Mahon</persname>, <persname source="viaf"
-          authfilenumber="64048541">Paul Muldoon</persname>, <persname source="viaf"
-          authfilenumber="105939176">Wole Soyinka</persname>, and many other prominent literary
+        literary correspondence including correspondence and literary works of
+        <persname source="viaf" authfilenumber="109297940">Tony Harrison</persname>,
+        <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>,
+        <persname source="viaf" authfilenumber="39398205">Michael Longley</persname>,
+        <persname source="viaf" authfilenumber="110228045">Derek Mahon</persname>,
+        <persname source="viaf" authfilenumber="64048541">Paul Muldoon</persname>,
+        <persname source="viaf" authfilenumber="105939176">Wole Soyinka</persname>, and many other prominent literary
         figures. The collection also includes The Poets' House archive, submissions for and a copy
         of the first issue of <title>The Honest Ulsterman</title>, extensive manuscript and
         typescript writings by others, collected printed material, and photographs.</p>
@@ -131,26 +133,16 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname source="viaf" encodinganalog="600" authfilenumber="108905075">Foley, Michael,
-          1947-</persname>
-        <persname source="viaf" encodinganalog="600" authfilenumber="109297940">Harrison, Tony,
-          1937-</persname>
-        <persname source="viaf" encodinganalog="600" authfilenumber="109557338">Heaney,
-          Seamus.</persname>
-        <persname source="viaf" encodinganalog="600" authfilenumber="94401473">Hewitt, John Harold,
-          1907-</persname>
-        <persname source="viaf" encodinganalog="600" authfilenumber="68946198">Larkin,
-          Philip.</persname>
-        <persname source="viaf" encodinganalog="600" authfilenumber="39398205">Longley, Michael,
-          1939-</persname>
-        <persname source="viaf" encodinganalog="600" authfilenumber="110228045">Mahon, Derek,
-          1941-</persname>
-        <persname source="viaf" encodinganalog="600" authfilenumber="120096893">McGuckian, Medbh,
-          1950-</persname>
-        <persname source="viaf" encodinganalog="600" authfilenumber="64048541">Muldoon,
-          Paul.</persname>
-        <persname source="viaf" encodinganalog="600" authfilenumber="105939176">Soyinka,
-          Wole.</persname>
+        <persname source="viaf" encodinganalog="600" authfilenumber="108905075">Foley, Michael, 1947-</persname>
+        <persname source="viaf" encodinganalog="600" authfilenumber="109297940">Harrison, Tony, 1937-</persname>
+        <persname source="viaf" encodinganalog="600" authfilenumber="109557338">Heaney, Seamus.</persname>
+        <persname source="viaf" encodinganalog="600" authfilenumber="94401473">Hewitt, John Harold, 1907-</persname>
+        <persname source="viaf" encodinganalog="600" authfilenumber="68946198">Larkin, Philip.</persname>
+        <persname source="viaf" encodinganalog="600" authfilenumber="39398205">Longley, Michael, 1939-</persname>
+        <persname source="viaf" encodinganalog="600" authfilenumber="110228045">Mahon, Derek, 1941-</persname>
+        <persname source="viaf" encodinganalog="600" authfilenumber="120096893">McGuckian, Medbh, 1950-</persname>
+        <persname source="viaf" encodinganalog="600" authfilenumber="64048541">Muldoon, Paul.</persname>
+        <persname source="viaf" encodinganalog="600" authfilenumber="105939176">Soyinka, Wole.</persname>
       </controlaccess>
       <controlaccess>
         <head>Corporate Names</head>
