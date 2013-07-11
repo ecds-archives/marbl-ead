@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21">
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"
+  xmlns:schema="http://schema.org/" xmlns:dbp="http://dbpedia.org/ontology/"
+  xmlns:dc="http://purl.org/dc/terms/">
   <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
     <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/bn402" url="http://pid.emory.edu/ark:/25593/bn402">muldoon784</eadid>
     <filedesc>
@@ -30,9 +32,8 @@
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname source="lcnaf" encodinganalog="100">Muldoon, Paul.</persname>
+        <persname source="viaf" authfilenumber="64048541" encodinganalog="100">Muldoon, Paul</persname>
       </origination>
-      
       <unittitle encodinganalog="245$a">Paul Muldoon papers, <unitdate type="inclusive" encodinganalog="245$f" normal="1939/2010" era="ce" calendar="gregorian">1939-2010</unitdate></unittitle>
       <unitid countrycode="US" repositorycode="geu-s" identifier="784">Manuscript Collection No. 784</unitid>
       <physdesc encodinganalog="300">
@@ -48,7 +49,7 @@
       <head>Source</head>
       <p>Purchase, 1996, with subsequent additions.</p>
     </acqinfo>
-    
+
     <accessrestrict encodinganalog="506">
       <head>Restrictions on Access</head>
       <p>Special restrictions apply:  Subseries 1.1, Alphabetical Correspondence, some files are closed without the written permission of Paul Muldoon.  Letters by Seamus Heaney are closed to researchers.  Letters by Gerard Quinn are closed until Quinn's death.</p>
@@ -62,15 +63,15 @@
       <p>[after identification of item(s)], Paul Muldoon papers, Manuscript,
         Archives, and Rare Book Library, Emory University.</p>
     </prefercite>
-    
+
     <processinfo>
       <head>Processing</head>
       <p>Sarah Quigley, Maggie Greaves, Michael Hessel-Mial and Will Love, 2012.</p>
      </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Paul Muldoon was born in <geogname source="geonames" authfilenumber="2657059">County Armagh</geogname> in 1951.  He attended <corpname source="dbpedia" authfilenumber="Queen's_University_Belfast">Queen's University in Belfast</corpname> where he studied English literature under <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>.  In 1973, the year he graduated from Queen's, Faber and Faber published his first collection of poems.  From 1973 to 1986 he worked as a radio and television producer for BBC <geogname source="geonames" authfilenumber="2641364">Northern Ireland</geogname>.  He moved to the <geogname source="geonames" authfilenumber="6252001">United States</geogname> in 1987 and has held various university teaching posts.  He currently lives in <geogname source="geonames" authfilenumber="5101760">New Jersey</geogname> and is the Howard G. B. Clark '21 Professor at <corpname source="dbpedia" authfilenumber="Princeton_University">Princeton University</corpname> and Chair of the Peter B. Lewis Center for the Arts.  Muldoon is married to novelist  <persname source="viaf" authfilenumber="3189068">Jean Hanff Korelitz</persname>, with whom he has two children.</p>
-      
+      <p>Paul Muldoon was born in <geogname source="geonames" authfilenumber="2657059" role="dbp:birthPlace">County Armagh</geogname> in <date normal="1951" type="schema:birthDate">1951</date>.  He attended <corpname source="dbpedia" authfilenumber="Queen's_University_Belfast" role="schema:alumniOf">Queen's University in Belfast</corpname> where he studied English literature under <persname source="viaf" authfilenumber="109557338" role="schema:colleague">Seamus Heaney</persname>.  In 1973, the year he graduated from Queen's, Faber and Faber published his first collection of poems.  From 1973 to 1986 he worked as a radio and television producer for <corpname source="viaf" authfilenumber="147030387" role="schema:worksFor">BBC Northern Ireland</corpname>.  He moved to the <geogname source="geonames" authfilenumber="6252001" role="schema:homeLocation">United States</geogname> in 1987 and has held various university teaching posts.  He currently lives in <geogname source="geonames" authfilenumber="5101760" role="schema:homeLocation">New Jersey</geogname> and is the Howard G. B. Clark '21 Professor at <corpname source="dbpedia" authfilenumber="Princeton_University" role="schema:worksFor">Princeton University</corpname> and Chair of the Peter B. Lewis Center for the Arts.  Muldoon is married to novelist <persname source="viaf" authfilenumber="3189068" role="schema:spouse">Jean Hanff Korelitz</persname>, with whom he has two children.</p>
+
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
@@ -81,25 +82,19 @@
       <head>Arrangement Note</head>
       <p>Organized into eight series: (1) Correspondence, (2) Writings by Paul Muldoon, (3) Writings by others, (4) Printed material, (5) Promotional materials, readings, and appearances, (6) Business and personal papers, (7) Photographs, and (8) Audiovisual material.</p>
     </arrangement>
-    
-    
-    
+
+
+
     <controlaccess>
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname source="lcnaf" encodinganalog="600">Carson, Ciaran,
-          1948-</persname>
-        <persname source="viaf" encodinganalog="600" authfilenumber="24613408">Fallon, Peter,
-          1951-</persname>
-        <persname source="lcnaf" encodinganalog="600">Heaney,
-          Seamus.</persname>
-        <persname source="lcnaf" encodinganalog="600">Longley, Michael,
-          1939-</persname>
-        <persname source="viaf" encodinganalog="600" authfilenumber="120096893">McGuckian, Medbh,
-          1950-</persname>
-        <persname source="lcnaf" encodinganalog="600">Mahon, Derek,
-          1941-</persname>
+        <persname source="viaf" authfilenumber="85621766" encodinganalog="600">Carson, Ciaran, 1948-</persname>
+        <persname source="viaf" authfilenumber="24613408" encodinganalog="600">Fallon, Peter, 1951-</persname>
+        <persname source="viaf" authfilenumber="109557338" encodinganalog="600">Heaney, Seamus.</persname>
+        <persname source="viaf" authfilenumber="39398205" encodinganalog="600">Longley, Michael, 1939-</persname>
+        <persname source="viaf" authfilenumber="120096893" encodinganalog="600">McGuckian, Medbh, 1950-</persname>
+        <persname source="viaf" authfilenumber="110228045" encodinganalog="600">Mahon, Derek, 1941-</persname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
@@ -158,8 +153,8 @@
           </did>
           <scopecontent encodinganalog="520">
             <head>Scope and Content Note</head>
-            
-            <p>The subseries consists of correspondence sent and received between 1962 and 2005, arranged alphabetically by Muldoon by correspondent name or subject.  Correspondents include Ciaran Carson, Peter Fallon, Seamus Heaney, Michael Longley, Medbh McGuckian, and Derek Mahon.  Subjects include particular works and publications by Muldoon, as well as topics related to <geogname source="geonames" authfilenumber="2963597">Ireland</geogname>, English-language poetry and Muldoon's professional associations.  Correspondence with composer <persname source="viaf" authfilenumber="45229610">Daron Hagen</persname>, as it largely concerns their collaborative works, is located in Subseries 2.2, Dramatic Works and Lyrics.</p>
+
+            <p>The subseries consists of correspondence sent and received between 1962 and 2005, arranged alphabetically by Muldoon by correspondent name or subject.  Correspondents include <persname source="viaf" authfilenumber="85621766">Ciaran Carson</persname>, <persname source="viaf" authfilenumber="24613408">Peter Fallon</persname>, <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>, <persname source="viaf" authfilenumber="39398205">Michael Longley</persname>, <persname source="viaf" authfilenumber="120096893">Medbh McGuckian</persname>, and <persname source="viaf" authfilenumber="110228045">Derek Mahon</persname>.  Subjects include particular works and publications by Muldoon, as well as topics related to <geogname source="geonames" authfilenumber="2963597">Ireland</geogname>, English-language poetry and Muldoon's professional associations.  Correspondence with composer <persname source="viaf" authfilenumber="45229610">Daron Hagen</persname>, as it largely concerns their collaborative works, is located in Subseries 2.2, Dramatic Works and Lyrics.</p>
             </scopecontent>
           <arrangement encodinganalog="351">
             <head>Arrangement Note</head>
@@ -778,7 +773,7 @@
           <c03 level="file"><did><container type="box">7</container><container type="folder">12</container><unittitle>No date</unittitle></did></c03>
           <c03 level="file"><did><container type="box">7</container><container type="folder">13</container><unittitle>No date</unittitle></did></c03>
           <c03 level="file"><did><container type="box">7</container><container type="folder">14</container><unittitle>Invitations, dated and no date</unittitle></did></c03>
-          
+
         </c02>
       </c01>
       <c01 level="series" id="muldoon784_series2">
@@ -1874,7 +1869,7 @@
           <c03 level="file"><did><container type="box">77</container><container type="folder">16</container><unittitle>"Standing Room Only," typescripts</unittitle></did></c03>
           <c03 level="file"><did><container type="box">77</container><container type="folder">17</container><unittitle>"Take It as Gospel" and "Twice on Clay," typescripts</unittitle></did></c03>
           <c03 level="file"><did><container type="box">77</container><container type="folder">18</container><unittitle>"Who Knew That My Love?", "Wrong Man," and "You Gotta Take Out Milt," typescripts</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="muldoon784_subseries2.3">
           <did>
@@ -1920,7 +1915,7 @@
           <c03 level="file"><did><container type="box">78</container><container type="folder">20</container><unittitle>Nuala Ní Dhomhnaill, "Dubh," typescripts</unittitle></did></c03>
           <c03 level="file"><did><container type="box">78</container><container type="folder">21</container><unittitle>Nuala Ní Dhomhnaill, <title>The Fifty Minute Mermaid</title>, "The Assimilated Merfolk" ("Na Murucha a Thriomaigh"), typescripts</unittitle></did></c03>
           <c03 level="file"><did><container type="box">78</container><container type="folder">22</container><unittitle>Unidentified poet, "Red," page proof</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="muldoon784_subseries2.4">
           <did>
@@ -1965,7 +1960,7 @@
           <c03 level="file"><did><container type="box">79</container><container type="folder">5</container><unittitle>"Mr and Mrs Narcissus Batt," typescripts</unittitle></did></c03>
           <c03 level="file"><did><container type="box">79</container><container type="folder">6</container><unittitle>"Narcissus Batt at the Belfast Bank," typescript</unittitle></did></c03>
           <c03 level="file"><did><container type="box">79</container><container type="folder">7</container><unittitle>Untitled poem</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="muldoon784_subseries2.5">
           <did>
@@ -2096,7 +2091,7 @@
           <c03 level="file"><did><container type="box">83</container><container type="folder">11</container><unittitle>Untitled typescript about the relationship between poetry and the Troubles</unittitle></did></c03>
           <c03 level="file"><did><container type="box">83</container><container type="folder">12</container><unittitle>Unidentified lecture and essay notes</unittitle></did></c03>
           <c03 level="file"><did><container type="box">83</container><container type="folder">13</container><unittitle>Unidentified typescript fragment</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="muldoon784_subseries2.6">
           <did>
@@ -2104,12 +2099,12 @@
             <unittitle type="245$a">Notebooks</unittitle>
             <physdesc encodinganalog="300">Boxes 30 and 84</physdesc>
           </did>
-          
+
             <scopecontent encodinganalog="520">
               <head>Scope and Content Note</head>
               <p>The subseries consists of notebooks kept by Muldoon which include early drafts of poems and other writings.</p>
             </scopecontent>
-          
+
           <c03 level="file"><did><container type="box">30</container><container type="folder">1</container><unittitle>Mead Composition, 2 pp. holograph notes</unittitle></did></c03>
           <c03 level="file"><did><container type="box">30</container><container type="folder">2</container><unittitle>Mead Composition, 31 pp. holograph notes</unittitle></did></c03>
           <c03 level="file"><did><container type="box">30</container><container type="folder">3</container><unittitle>Eaton pad, 5 pp. holograph notes</unittitle></did></c03>
@@ -2118,23 +2113,65 @@
           <c03 level="file"><did><container type="box">30</container><container type="folder">6</container><unittitle>Blue exercise book, 18pp of holograph notes</unittitle></did></c03>
           <c03 level="file"><did><container type="box">84</container><container type="folder">1</container><unittitle>Der Grüne Block, graph paper notebook, circa 1995</unittitle></did></c03>
           <c03 level="file"><did><container type="box">84</container><container type="folder">2</container><unittitle>Orange and yellow hardcover, circa 2000</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="muldoon784_subseries2.7">
           <did>
             <unitid>Subseries 2.7</unitid>
-            <unittitle type="245$a">Belfast group sheets </unittitle>
+            <unittitle type="245$a"><corpname source="viaf" authfilenumber="123393054">Belfast group</corpname> sheets </unittitle>
             <physdesc encodinganalog="300">Box 30</physdesc>
           </did>
           <scopecontent encodinganalog="520">
             <head>Scope and Content Note</head>
             <p>The subseries contains the copied typescripts of poems written and work-shopped by members of the Belfast Group during their meetings.  The group sheets featured in this subseries include poems by Paul Muldoon (for other Belfast Group Sheets, also see related collections).</p>
           </scopecontent>
-          
-          <c03 level="file"><did><container type="box">30</container><container type="folder">7</container><unittitle>Group Sheet 1:  2 leaves, 4 sides, 4 copies: includes "Wind and Tree," "Hedges in Winter," "Cuckoo Corn," "Siesta," "Vampire," "Grass Window," "The Indians on Alcatraz," and "The Electric Orchard"</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">30</container><container type="folder">8</container><unittitle>Group Sheet 2:  3 leaves, 5 sides, 7 copies: includes "Stillborn," "Snail," "January," "Poem at Eighteen," "Hawk," "Hedgehog," "Seanchas," "Unborn," "Leaving the Island" (dated "Lough Derg 1969")</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">30</container><container type="folder">9</container><unittitle>Group Sheet 3: 2 leaves, 4 sides: includes, "Blowing Eggs," "The Radio Horse," "On A Dog of Unlike Eyes," "The Lost Tribe," "The Upriver Incident," "Party Piece"</unittitle></did></c03>
-          
+
+          <c03 level="file"><did><container type="box">30</container><container type="folder">7</container>
+            <unittitle>Group Sheet 1:
+              <persname source="viaf" authfilenumber="64048541" role="schema:author dc:creator"/>
+              2 leaves, 4 sides, 4 copies: includes
+              <title render="doublequote">Wind and Tree</title>,
+              <title render="doublequote">Hedges in Winter</title>,
+              <title render="doublequote">Cuckoo Corn</title>,
+              <title render="doublequote">Siesta</title>,
+              <title render="doublequote">Vampire</title>,
+              <title render="doublequote">Grass Widow</title>,
+              <title render="doublequote">The Indians on Alcatraz</title>, and
+              <title render="doublequote">The Electric Orchard</title>
+            </unittitle>
+            <dao xlink:href="http://pid.emory.edu/ark:/25593/17mcw"/>
+          </did></c03>
+          <c03 level="file"><did><container type="box">30</container><container type="folder">8</container>
+          <unittitle>Group Sheet 2:
+            <persname source="viaf" authfilenumber="64048541" role="schema:author dc:creator"/>
+            3 leaves, 5 sides, 7 copies: includes
+            <title render="doublequote">Stillborn</title>,
+            <title render="doublequote">Snail</title>,
+            <title render="doublequote">January</title>,
+            <title render="doublequote">Poem at Eighteen</title>,
+            <title render="doublequote">Hawk</title>,
+            <title render="doublequote">Hedgehog</title>,
+            <title render="doublequote">Seanchas</title>,
+            <title render="doublequote">Unborn</title>,
+            <title render="doublequote">Leaving the Island</title> (dated "Lough Derg 1969")
+          </unittitle>
+          <dao xlink:href="http://pid.emory.edu/ark:/25593/17mbr"/>
+        </did></c03>
+          <c03 level="file"><did><container type="box">30</container><container type="folder">9</container>
+          <unittitle>Group Sheet 3:
+            <persname source="viaf" authfilenumber="64048541" role="schema:author dc:creator"/>
+            2 leaves, 4 sides: includes,
+            <title render="doublequote">Blowing Eggs</title>,
+            <title render="doublequote">The Radio Horse</title>,
+            <title render="doublequote">The Field Hospital</title>,
+            <title render="doublequote">On a Dog of Unlike Eyes</title>,
+            <title render="doublequote">The Lost Tribe</title>,
+            <title render="doublequote">The Upriver Incident</title>,
+            <title render="doublequote">Party Piece</title>
+          </unittitle>
+          <dao xlink:href="http://pid.emory.edu/ark:/25593/17m9m"/>
+        </did></c03>
+
         </c02>
       </c01>
       <c01 level="series" id="muldoon784_series3">
@@ -2211,7 +2248,7 @@
           <c03 level="file"><did><container type="box">85</container><container type="folder">14</container><unittitle>Unidentified author, "Aeriel," typescript, no date</unittitle></did></c03>
           <c03 level="file"><did><container type="box">85</container><container type="folder">15</container><unittitle>Unidentified author, "Portrait" and "the Virgin at the Window," typescripts</unittitle></did></c03>
           <c03 level="file"><did><container type="box">85</container><container type="folder">16</container><unittitle>Unidentified author, "Prized," typescript, no date</unittitle></did></c03>
-          
+
         </c02>
         <c02 level="subseries" id="muldoon784_subseries3.2">
           <did>
@@ -2266,9 +2303,9 @@
           <c03 level="file"><did><container type="box">87</container><container type="folder">9</container><unittitle>Gauthier, Dominique, typescript of interview with Muldoon, February 1996</unittitle></did></c03>
           <c03 level="file"><did><container type="box">87</container><container type="folder">10</container><unittitle>Gering, August, <title>To Sing of '98: The United Irishmen Rising and the Ballad Tradition in Heaney and Muldoon</title>, summer, 1999</unittitle></did></c03>
           <c03 level="file"><did><container type="box">87</container><container type="folder">11</container><unittitle>Greenlaw, Lavinia, typescripts of interview with Muldoon, November 2000-March 2001</unittitle></did></c03>
-          
+
           <c03 level="file"><did><container type="box">87</container><container type="folder">12</container><unittitle>Haffenden, John, conversation with Paul Muldoon (revised), no date</unittitle></did></c03>
-          
+
           <c03 level="file"><did><container type="box">87</container><container type="folder">13</container><unittitle>Hall, Donald; McHugh, Heather; Huntington, Cynthia; Muldoon, Paul; Simic, Charles; page proofs and corrections by Muldoon of transcribed discussion, published in <title>Harpers Magazine</title>, 1999</unittitle></did></c03>
           <c03 level="file"><did><container type="box">32</container><container type="folder">15</container><unittitle>Hart, Michael, typescript of Muldoon's entry in <title>Modern Irish Writers: A Bio-critical Sourcebook</title>, with cover letter August 21, 1995</unittitle></did></c03>
           <c03 level="file"><did><container type="box">87</container><container type="folder">14</container><unittitle>Hartley, George, typescript, "Rewriting the Conquest:  The Poetics of Hegemony in Francisco X. Alarcón," no date</unittitle></did></c03>
@@ -2338,7 +2375,7 @@
           <c03 level="file"><did><container type="box">89</container><container type="folder">14</container><unittitle>Unidentified author, untitled typescript, April 1996</unittitle></did></c03>
           <c03 level="file"><did><container type="box">89</container><container type="folder">15</container><unittitle>Unidentified author, typescript with various quotations and personal notes, no date</unittitle></did></c03>
           <c03 level="file"><did><container type="box">89</container><container type="folder">16</container><unittitle>Unidentified author, untitled typescript, no date</unittitle></did></c03>
-          
+
         </c02>
       </c01>
       <c01 id="muldoon784_series4">
@@ -2523,7 +2560,7 @@
         <c03 level="file"><did><container type="box">91</container><container type="folder">35</container><unittitle>Unidentified source, "The Coyote"</unittitle></did></c03>
         <c03 level="file"><did><container type="box">35</container><container type="folder">21</container><unittitle>Unidentified source, "Upstairs in a Tent" and "Liz"</unittitle></did></c03>
         <c03 level="file"><did><container type="box">OP71</container><container/><unittitle>Unidentified newspaper source, "Water Skiers--Lough Neagh"</unittitle></did></c03>
-        
+
       </c02>
       <c02 level="subseries" id="muldoon784_subseries4.2">
         <did>
@@ -2708,7 +2745,7 @@
         <c03 level="file"><did><container type="box">92</container><container type="folder">52</container><unittitle>Unidentified journal, no date, "Only Connect," Jeremy Noel-Tod</unittitle></did></c03>
         <c03 level="file"><did><container type="box">92</container><container type="folder">53</container><unittitle><title>Critical Survey of Poetry</title>, no date,entry on Paul Muldoon, George O'Brien</unittitle></did></c03>
         <c03 level="file"><did><container type="box">92</container><container type="folder">54</container><unittitle>"The Sunday Poem," no date, Ruth Padel [about "Quoof" by Paul Muldoon]</unittitle></did></c03>
-        
+
       </c02>
       <c02 level="subseries" id="muldoon784_subseries4.3">
         <did>
@@ -2759,7 +2796,7 @@
         <c03 level="file"><did><container type="box">95</container><container type="folder">2</container><unittitle>Miscellaneous clippings, 2004</unittitle></did></c03>
         <c03 level="file"><did><container type="box">95</container><container type="folder">3</container><unittitle>Miscellaneous clippings, 2005</unittitle></did></c03>
         <c03 level="file"><did><container type="box">95</container><container type="folder">4</container><unittitle>Miscellaneous clippings, no date</unittitle></did></c03>
-        
+
       </c02>
       <c02 level="subseries" id="muldoon784_subseries4.4">
         <did>
@@ -2878,7 +2915,7 @@
         <c03 level="file"><did><container type="box">37</container><container type="folder">23</container><unittitle><title>Writing Women</title>, Vol. 5, No. 1</unittitle></did></c03>
         <c03 level="file"><did><container type="box">98</container><container type="folder">9</container><unittitle><title>The Yale Literary Magazine</title>, volume XII, number 2, Fall 2000</unittitle></did></c03>
         <c03 level="file"><did><container type="box">37</container><container type="folder">24</container><unittitle><title>Yeats, Sligo and Ireland: Essays to Mark the 21st Yeats International Summer School</title>, ed., by A. Norman Jeffares, Irish Literature Studies 6, 1980</unittitle></did></c03>
-        
+
       </c02>
       </c01>
       <c01 id="muldoon784_series5">
@@ -2905,7 +2942,7 @@
           <head>Scope and Content Note</head>
           <p>The subseries consists of promotional material from the British Broadcasting Corporation from 1973-1985, including director's packets, production materials, notes and schedules.</p>
         </scopecontent>
-        
+
         <c03 level="file"><did><container type="box">38</container><container type="folder">1</container><unittitle>Script for <title>The Rhyming Weavers</title> by John Hewitt, produced by Muldoon</unittitle></did></c03>
         <c03 level="file"><did><container type="box">38</container><container type="folder">2</container><unittitle>Script for <title>Dublin Indemnity</title>, by John Morrow, produced by Muldoon</unittitle></did></c03>
         <c03 level="file"><did><container type="box">38</container><container type="folder">3</container><unittitle>Film Direction course materials</unittitle></did></c03>
@@ -2916,7 +2953,7 @@
         <c03 level="file"><did><container type="box">38</container><container type="folder">8</container><unittitle>Address book, bound but no cover</unittitle></did></c03>
         <c03 level="file"><did><container type="box">38</container><container type="folder">9</container><unittitle>BBC appointment books for 1973-1977</unittitle></did></c03>
         <c03 level="file"><did><container type="box">38</container><container type="folder">10</container><unittitle>BBC Programme Week calendars 1978-1984</unittitle></did></c03>
-        
+
       </c02>
       <c02 level="subseries" id="muldoon784_subseries5.2">
         <did>
@@ -3026,7 +3063,7 @@
         <c03 level="file"><did><container type="box">OP159</container><container/><unittitle>Miscellaneous Ecco enclosures</unittitle></did></c03>
         <c03 level="file"><did><container type="box">OP160</container><container/><unittitle>Miscellaneous Faber enclosures</unittitle></did></c03>
         <c03 level="file"><did><container type="box">OP173</container><container/><unittitle>National Poetry Month poster, no date</unittitle></did></c03>
-        
+
       </c02>
       <c02 level="subseries" id="muldoon784_subseries5.3">
         <did>
@@ -3458,7 +3495,7 @@
         <c03 level="file"><did><container type="box">108</container><container type="folder">4</container><unittitle>Oxford University Press statements and contracts, 1997-2004</unittitle></did></c03>
         <c03 level="file"><did><container type="box">108</container><container type="folder">5</container><unittitle>Receipts and invoices, 1979-2004</unittitle></did></c03>
         <c03 level="file"><did><container type="box">108</container><container type="folder">6</container><unittitle>University of Oxford receipts, 1999-2004</unittitle></did></c03>
-        
+
       </c02>
       <c02 level="subseries" id="muldoon784_subseries6.2">
         <did>
@@ -3493,7 +3530,7 @@
         <c03 level="file"><did><container type="box">109</container><container type="folder">12</container><unittitle>Personal appointment books, 2001-2004</unittitle></did></c03>
         <c03 level="file"><did><container type="box">43</container><container type="folder">6</container><unittitle>Princeton Junior School; miscellaneous materials</unittitle></did></c03>
         <c03 level="file"><did><container type="box">109</container><container type="folder">13</container><unittitle>Schedules and itineraries, 1996-2004</unittitle></did></c03>
-        
+
       </c02>
       </c01>
       <c01 level="series" id="muldoon784_series7">
@@ -3625,7 +3662,7 @@
         <c02 level="file"><did><container type="box">45</container><container type="folder">28</container><unittitle>Undeveloped negatives, Donegal (fading)</unittitle></did></c02>
         <c02 level="file"><did><container type="box">45</container><container type="folder">29</container><unittitle>Undeveloped negatives (1)</unittitle></did></c02>
         <c02 level="file"><did><container type="box">45</container><container type="folder">30</container><unittitle>Undeveloped negatives (2)</unittitle></did></c02>
-        
+
       </c01>
       <c01 level="series" id="muldoon784_series8">
         <did>
@@ -3650,6 +3687,6 @@
         <c02 level="file"><did><container type="box">46</container><container/><unittitle>Videotape: "Omnibus--Squeezing the Frog," BBC, August 13, 1987</unittitle></did></c02>
       </c01>
     </dsc>
-    
+
   </archdesc>
 </ead>
