@@ -99,7 +99,7 @@
         <bioghist encodinganalog="545">
             <head>Biographical Note</head>
             <p>Michael Longley was born in
-                <geogname source="geonames" authfilenumber="3333223" role="dbp:birthPlace">Belfast, Northern Ireland</geogname>, on <date normal="1939-07-27" type="schema:birthDate">July 27,
+                <geogname source="geonames" authfilenumber="2655984" role="dbp:birthPlace">Belfast, Northern Ireland</geogname>, on <date normal="1939-07-27" type="schema:birthDate">July 27,
 		  1939</date>. He attended Malone Primary School and the <corpname source="dbpedia" authfilenumber="Royal_Belfast_Academical_Institution" role="schema:alumniOf">Royal Belfast Academical
 		  Institution</corpname>, before going on to <corpname source="dbpedia" authfilenumber="Trinity_College,_Dublin" role="schema:alumniOf">Trinity College, Dublin</corpname>, where he read
 		  Classics. After graduating with honors in 1963, he held a variety of teaching

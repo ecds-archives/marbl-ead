@@ -23,7 +23,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded, 
+      <creation>Finding aid encoded,
 		  <date normal="2005-05-05" encodinganalog="Date">May 5,
 			 2005</date></creation>
       <langusage>
@@ -37,7 +37,7 @@
         <persname source="lcnaf" encodinganalog="100">Heaney,
 			 Seamus, 1939-</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Seamus Heaney collection, 
+      <unittitle encodinganalog="245$a">Seamus Heaney collection,
 		  <unitdate type="inclusive" normal="1972/2003" encodinganalog="245$f">1972-2005</unitdate></unittitle>
       <unitid countrycode="US" repositorycode="geu-s" identifier="653">Manuscript Collection
 		  No.653</unitid>
@@ -88,7 +88,7 @@
       <head>Biographical Note</head>
       <p>Seamus Heaney was born on
         April 13, 1939, the eldest of nine children, to Margaret and Patrick Heaney, at the family
-        farm, Mossbawn, northwest of <geogname source="geonames" authfilenumber="3333223"
+        farm, Mossbawn, northwest of <geogname source="geonames" authfilenumber="2655984"
           >Belfast</geogname> in <geogname source="dbpedia" authfilenumber="County_Londonderry"
           >County Derry</geogname>. He attended the local school at Anahorish until 1957 when he
         enrolled at Queens College, Belfast, where he studied English. After graduation he taught English at St.
@@ -142,9 +142,9 @@
 		  1972-2005 including, writings by Heaney, printed materials, photographs and
 		  correspondence. The manuscript writings in the collection include multiple
 		  drafts of "Fosterage," a two-page typescript on <persname source="viaf" authfilenumber="12366017">Michael McLaverty</persname> (published as
-        an introduction to McLaverty's 
+        an introduction to McLaverty's
 		<title>Collected Stories</title> in 1978), a manuscript of a talk on
-		<persname source="viaf" authfilenumber="35723133">Wordsworth</persname>'s 
+		<persname source="viaf" authfilenumber="35723133">Wordsworth</persname>'s
 		<title>Prelude</title> which Heaney wrote for Irish radio around 1974,
 		and settings copies of the poems "Bog Queen," "Punishment," "The Grauballe
 		Man," and "Kinship," with editor's markings and corrections in Heaney's hand.
@@ -318,7 +318,7 @@
             <container type="box">1</container>
             <container type="folder">11</container>
             <unittitle>Commencement Address, <corpname source="dbpedia" authfilenumber="University_of_Pennsylvania">University of Pennsylvania</corpname>, 30 May
-				  2000, reprint in 
+				  2000, reprint in
 				  <title>University of Pennsylvania Almanac</title></unittitle>
           </did>
         </c02>
@@ -332,7 +332,7 @@
           </did>
         </c02>
       </c01>
-      
+
       <c01 level="series" id="heaney653_series2">
         <did>
           <unitid>Series 2</unitid>
@@ -418,7 +418,7 @@
             <container type="box">OP8</container>
             <container/>
             <unittitle><title>Stations</title>, promotional poster for <geogname source="geonames" authfilenumber="7521316">Ulster</geogname> Youth
-				  Theatre performance at Saranmilis College based on 
+				  Theatre performance at Saranmilis College based on
 				  <title>Station Island</title> by Seamus Heaney, 7-11 November
 				  [19??]</unittitle>
           </did>

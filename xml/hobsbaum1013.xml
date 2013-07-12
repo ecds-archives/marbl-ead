@@ -23,7 +23,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded, 
+      <creation>Finding aid encoded,
         <date encodinganalog="Date" normal="2005-11-29">November 29,
           2005</date></creation>
       <langusage>
@@ -37,7 +37,7 @@
         <persname source="lcnaf" encodinganalog="100">Hobsbaum,
           Philip.</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Philip Hobsbaum collection, 
+      <unittitle encodinganalog="245$a">Philip Hobsbaum collection,
         <unitdate type="inclusive" encodinganalog="245$f" normal="1962/1971">1962-1971</unitdate></unittitle>
       <unitid countrycode="US" repositorycode="geu-s" identifier="1013">Manuscript Collection No.
         1013</unitid>
@@ -89,7 +89,7 @@
           <geogname source="geonames" authfilenumber="2653941">Cambridge</geogname>, studying with
           <persname source="viaf" authfilenumber="108224907">F.R. Leavis</persname>. Around 1955 he
         began a series of writing workshops, later known as "The Group," that met in Cambridge,
-        London, <geogname source="geonames" authfilenumber="3333223">Belfast</geogname>, and
+        London, <geogname source="geonames" authfilenumber="2655984">Belfast</geogname>, and
         Glasgow. In 1959 Hobsbaum began work on a graduate degree at <corpname source="dbpedia"
           authfilenumber="University_of_Sheffield">Sheffield University</corpname> under the
         direction of <persname source="viaf" authfilenumber="34474006">William Empson</persname>.
@@ -109,13 +109,13 @@
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
       <p>The collection contains material related to Philip Hobsbaum's
-        publishing activities with 
+        publishing activities with
         <title>The Review</title>from 1962 to 1971. The papers include
-        correspondence with 
+        correspondence with
         <title>The Review</title> editor John Smith, typescripts and proof sheets
         of articles published in the periodical, a letter to the editor praising
         Hobsbaum's article, "Elizabethan Poetry," and four typescript poems Hobsbaum
-        submitted to 
+        submitted to
         <title>The Review</title> for publication.</p>
     </scopecontent>
     <arrangement encodinganalog="351">
