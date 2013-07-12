@@ -34,8 +34,7 @@
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname source="lcnaf" encodinganalog="100">Hobsbaum,
-          Philip.</persname>
+        <persname source="viaf" authfilenumber="91907300" encodinganalog="100">Hobsbaum, Philip.</persname>
       </origination>
       <unittitle encodinganalog="245$a">Philip Hobsbaum collection,
         <unitdate type="inclusive" encodinganalog="245$f" normal="1962/1971">1962-1971</unitdate></unittitle>
