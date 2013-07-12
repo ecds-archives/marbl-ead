@@ -76,7 +76,7 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Seamus Heaney was born on <date normal="1939-04-13">April 13, 1939</date>, to Margaret and Patrick
+      <p>Seamus Heaney was born on <date normal="1939-04-13" type="schema:birthDate">April 13, 1939</date>, to Margaret and Patrick
 		  Heaney. The eldest of nine children, he was born at the family farm, Mossbawn,
 		  northwest of <geogname source="geonames" authfilenumber="2655984" role="dbp:birthPlace">Belfast</geogname> in <geogname source="geonames" authfilenumber="2643735" role="dbp:birthPlace">County Derry</geogname>. He attended the local school at Anahorish
 		  until 1957 when he enrolled at <corpname source="dbpedia" authfilenumber="Queen%27s_University_Belfast" role="schema:alumniOf">Queens College, Belfast</corpname>, where he studied
