@@ -14127,7 +14127,7 @@
                     <p>The Michael Longley collection contains a good deal of material by
 				or about his wife, Edna Longley. Edna Longley is an eminent <occupation>academic</occupation>
                  and <occupation>critic</occupation>
-				who has taught for many years at <corpname source="viaf" authfilenumber="216613925" role="schema:worksFor">Queen's University, Belfast</corpname>. Collections of
+				who has taught for many years at <corpname source="dbpedia" authfilenumber="Queen%27s_University_Belfast" role="schema:worksFor">Queen's University, Belfast</corpname>. Collections of
 				her criticism, including
 			 <title>Poetry Between the Wars</title> (1986),
 			 <title>The Living Stream</title> (1994) and

@@ -95,7 +95,7 @@
             <head>Biographical Note</head>
             <p>A central figure in <geogname source="geonames" authfilenumber="7521316">Ulster</geogname>'s literary culture since the late 1960's, Frank Ormsby has led a lively and multifarious writing life as a poet, book and magazine editor, and teacher based in <geogname source="geonames" authfilenumber="2655984" role="schema:homeLocation">Belfast</geogname>. Born in <geogname source="geonames" authfilenumber="2649984" role="dbp:birthPlace">Enniskillen,  County Fermanagh, Northern Ireland</geogname> in <date normal="1947" type="schema:birthDate">1947</date>,
             Ormsby studied English at
-            <corpname authfilenumber="173298995" source="viaf" role="schema:alumniOf">Queen's University Belfast</corpname>, where he received an MA. In 1971, he began teaching at the
+            <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia" role="schema:alumniOf">Queen's University Belfast</corpname>, where he received an MA. In 1971, he began teaching at the
             <corpname authfilenumber="126719206" source="viaf" role="schema:workLocation">Royal Belfast Academical Institution</corpname>, and he has been Head of English there for
 		  many years.</p>
             <p>As a poet, Ormsby established himself in the early seventies with two
@@ -10714,7 +10714,7 @@
                             <container type="box">23</container>
                             <container type="folder">3</container>
                             <unittitle>Untitled, TS novel fragments, circa 1968 [written
-                while <persname authfilenumber="49280158" source="viaf">Ormsby</persname> was an undergraduate at <corpname authfilenumber="173298995" source="viaf">Queen's University Belfast</corpname>]</unittitle>
+                while <persname authfilenumber="49280158" source="viaf">Ormsby</persname> was an undergraduate at <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia">Queen's University Belfast</corpname>]</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -13125,7 +13125,7 @@
                             <container type="box">OP13</container>
                             <container/>
                             <unittitle>
-                                <corpname authfilenumber="173298995" source="viaf">Queens University Belfast</corpname>, 29 November 1977, with
+                                <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia">Queens University Belfast</corpname>, 29 November 1977, with
                 readings by <persname authfilenumber="49280158" source="viaf">Ormsby</persname>, <persname authfilenumber="110228045" source="viaf">Mahon</persname>]</unittitle>
                         </did>
                     </c03>
@@ -13134,7 +13134,7 @@
                             <container type="box">32</container>
                             <container type="folder">4</container>
                             <unittitle>
-                                <corpname authfilenumber="173298995" source="viaf">Queens University Belfast</corpname> Anglo-Irish Conference on
+                                <corpname authfilenumber="Queen%27s_University_Belfast" source="viaf">Queens University Belfast</corpname> Anglo-Irish Conference on
 					 <title>Poets from the North of Ireland</title>, 20-21 March
 					 1980</unittitle>
                         </did>
@@ -13176,7 +13176,7 @@
                             <container type="box">32</container>
                             <container type="folder">9</container>
                             <unittitle>
-                                <corpname authfilenumber="173298995" source="viaf">Queens University Belfast</corpname> opening for Poets from the
+                                <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia">Queens University Belfast</corpname> opening for Poets from the
                 North of Ireland by <persname authfilenumber="49280158" source="viaf">Frank Ormsby</persname>, ed. (1991); with readings by <persname authfilenumber="49280158" source="viaf">Ormsby</persname>, <persname authfilenumber="85621766" source="viaf">Carson</persname>,
                 <persname authfilenumber="111397155" source="viaf">Dawe</persname>, <persname authfilenumber="84228596" source="viaf">Greacen</persname>, Hughes, <persname authfilenumber="33362880" source="viaf">Johnstone</persname>, Simmons</unittitle>
                         </did>
@@ -14075,7 +14075,7 @@
                             <container type="box">33</container>
                             <container type="folder">11</container>
                             <unittitle>
-                                <corpname authfilenumber="173298995" source="viaf">Queens University Belfast</corpname> English Society events
+                                <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia">Queens University Belfast</corpname> English Society events
 					 1976-1996</unittitle>
                         </did>
                     </c03>
@@ -14083,7 +14083,7 @@
                         <did>
                             <container type="box">33</container>
                             <container type="folder">12</container>
-                            <unittitle>Fringe Festival, <corpname authfilenumber="173298995" source="viaf">Queens University Belfast</corpname>,
+                            <unittitle>Fringe Festival, <corpname authfilenumber="Queen%27s_University_Belfast" source="viaf">Queens University Belfast</corpname>,
 					 1976</unittitle>
                         </did>
                     </c03>
@@ -14118,7 +14118,7 @@
                         <did>
                             <container type="box">33</container>
                             <container type="folder">16</container>
-                            <unittitle>Fringe Festival, <corpname authfilenumber="173298995" source="viaf">Queens University Belfast</corpname>,
+                            <unittitle>Fringe Festival, <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia">Queens University Belfast</corpname>,
 					 1979</unittitle>
                         </did>
                     </c03>
@@ -14160,7 +14160,7 @@
                         <did>
                             <container type="box">33</container>
                             <container type="folder">21</container>
-                            <unittitle>Promotional poster, <corpname authfilenumber="173298995" source="viaf">Queens University Belfast</corpname> opening
+                            <unittitle>Promotional poster, <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia">Queens University Belfast</corpname> opening
 					 for
 					 <title>Modern Irish Poetry</title>, ed. by <persname authfilenumber="23858623" source="viaf">Patrick Crotty</persname>
                 (1995) [<persname authfilenumber="85621766" source="viaf">Carson</persname>, <persname authfilenumber="120096893" source="viaf">McGuckian</persname>, <persname>Mooney</persname>, <persname authfilenumber="5016545" source="viaf">O' Searcaigh</persname>, <persname authfilenumber="27094596" source="viaf">McCarthy</persname>]</unittitle>
@@ -14170,7 +14170,7 @@
                         <did>
                             <container type="box">33</container>
                             <container type="folder">22</container>
-                            <unittitle>Promotional poster, <corpname authfilenumber="173298995" source="viaf">Queens University Belfast</corpname> (1995)
+                            <unittitle>Promotional poster, <corpname authfilenumber="Queen%27s_University_Belfast" source="viaf">Queens University Belfast</corpname> (1995)
                 [<persname authfilenumber="109557338" source="viaf">Heaney</persname>, <persname authfilenumber="39398205" source="viaf">Longley</persname>, <persname authfilenumber="38545317" source="viaf">Hammond</persname>]</unittitle>
                         </did>
                     </c03>
