@@ -13134,7 +13134,7 @@
                             <container type="box">32</container>
                             <container type="folder">4</container>
                             <unittitle>
-                                <corpname authfilenumber="Queen%27s_University_Belfast" source="viaf">Queens University Belfast</corpname> Anglo-Irish Conference on
+                                <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia">Queens University Belfast</corpname> Anglo-Irish Conference on
 					 <title>Poets from the North of Ireland</title>, 20-21 March
 					 1980</unittitle>
                         </did>
@@ -14083,7 +14083,7 @@
                         <did>
                             <container type="box">33</container>
                             <container type="folder">12</container>
-                            <unittitle>Fringe Festival, <corpname authfilenumber="Queen%27s_University_Belfast" source="viaf">Queens University Belfast</corpname>,
+                            <unittitle>Fringe Festival, <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia">Queens University Belfast</corpname>,
 					 1976</unittitle>
                         </did>
                     </c03>
@@ -14170,7 +14170,7 @@
                         <did>
                             <container type="box">33</container>
                             <container type="folder">22</container>
-                            <unittitle>Promotional poster, <corpname authfilenumber="Queen%27s_University_Belfast" source="viaf">Queens University Belfast</corpname> (1995)
+                            <unittitle>Promotional poster, <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia">Queens University Belfast</corpname> (1995)
                 [<persname authfilenumber="109557338" source="viaf">Heaney</persname>, <persname authfilenumber="39398205" source="viaf">Longley</persname>, <persname authfilenumber="38545317" source="viaf">Hammond</persname>]</unittitle>
                         </did>
                     </c03>
