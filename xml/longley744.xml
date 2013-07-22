@@ -11782,15 +11782,16 @@
                         <container type="box">60</container>
                         <container type="folder">1</container>
                         <unittitle>
-                            <persname authfilenumber="50609413" role="schema:author dc:creator"
-                                source="viaf">Dugdale, Norman</persname>: <title
-                                render="doublequote">Terminus</title>, <title render="doublequote">A
-                                Question of Identity</title>, <title render="doublequote">A
-                                Self-Portrait</title>, <title render="doublequote">Salmon-Leaf:
-                                Mayo</title>, <title render="doublequote">On a Recent Happy
-                                Event</title>, <title render="doublequote">Saturday</title>, <title
-                                render="doublequote">N.W.S</title>, <title render="doublequote"
-                                >Autopsy on the Fifth Decade</title> [2 copies]</unittitle>
+                            <persname source="viaf" authfilenumber="50609413" role="schema:author dc:creator">Dugdale, Norman</persname>:
+                            <title render="doublequote">Terminus</title>,
+                            <title render="doublequote">A Question of Identity</title>,
+                            <title render="doublequote">A Self-Portrait</title>,
+                            <title render="doublequote">Salmon-Leap: Mayo</title>,
+                            <title render="doublequote">On a Recent Happy Event</title>,
+                            <title render="doublequote">Saturday</title>,
+                            <title render="doublequote">N.W.S</title>,
+                            <title render="doublequote">Autopsy on the Fifth Decade</title>
+                            [2 copies]</unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
@@ -12758,7 +12759,7 @@
                             <container type="box">64</container>
                             <container type="folder">6</container>
                             <unittitle>Magazines and Journals: <corpname source="dbpedia" authfilenumber="Š"><emph render="italics">The Honest Ulsterman</emph></corpname>
-                                
+
                             </unittitle>
                         </did>
                     </c03>
