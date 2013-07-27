@@ -157,13 +157,21 @@
         relationship with his students, publishers, friends, and other literary figures, including
           <persname authfilenumber="31993687" source="viaf">Joseph Brodsky</persname>, <persname
           authfilenumber="108291746" source="viaf">Donald Davie</persname>, <persname
-          authfilenumber="108344790" source="viaf">Seamus Deane</persname>, <persname source="viaf" authfilenumber="107572951">Douglas Dunn</persname>, <persname source="viaf" authfilenumber="24613408">Peter
-        Fallon</persname>, <persname source="viaf" authfilenumber="76315726">Brian Friel</persname>, <persname source="viaf" authfilenumber="76363549">Anthony Hecht</persname>, <persname source="viaf" authfilenumber="108232871">Ted Hughes</persname>, <persname source="viaf" authfilenumber="39398205">Michael Longley</persname>, <persname source="viaf" authfilenumber="120096893">Medbh McGuckian</persname>, <persname source="viaf" authfilenumber="64048541">Paul
-        Muldoon</persname>, and <persname source="viaf" authfilenumber="92591927">James Simmons</persname>. Literary manuscripts include a small group of poems and prose
-        written by Heaney and many manuscripts sent to him by other literary figures and by aspiring
-        writers. Printed material, either written by or about Seamus Heaney is present as are other
-        printed items collected by him. Small groups of subject files, audio-visual material, and
-        personal papers are included as well as a large group of photographs from 1951-2003.</p>
+          authfilenumber="108344790" source="viaf">Seamus Deane</persname>, <persname
+          authfilenumber="107572951" source="viaf">Douglas Dunn</persname>, <persname
+          authfilenumber="24613408" source="viaf">Peter Fallon</persname>, <persname
+          authfilenumber="76315726" source="viaf">Brian Friel</persname>, <persname
+          authfilenumber="76363549" source="viaf">Anthony Hecht</persname>, <persname
+          authfilenumber="108232871" source="viaf">Ted Hughes</persname>, <persname
+          authfilenumber="39398205" source="viaf">Michael Longley</persname>, <persname
+          authfilenumber="120096893" source="viaf">Medbh McGuckian</persname>, <persname
+          authfilenumber="64048541" source="viaf">Paul Muldoon</persname>, and <persname
+          authfilenumber="92591927" source="viaf">James Simmons</persname>. Literary manuscripts
+        include a small group of poems and prose written by Heaney and many manuscripts sent to him
+        by other literary figures and by aspiring writers. Printed material, either written by or
+        about Seamus Heaney is present as are other printed items collected by him. Small groups of
+        subject files, audio-visual material, and personal papers are included as well as a large
+        group of photographs from 1951-2003.</p>
     </scopecontent>
     <arrangement encodinganalog="351">
       <head>Arrangement Note</head>
@@ -175,19 +183,19 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname source="viaf" authfilenumber="46805211">Banville, John</persname>
-        <persname source="viaf" authfilenumber="31993687">Brodsky, Joseph, 1940-</persname>
-        <persname source="viaf" authfilenumber="111397155">Dawe, Gerald, 1952-</persname>
-        <persname source="viaf" authfilenumber="108344790">Deane, Seamus, 1940-</persname>
-        <persname source="viaf" authfilenumber="107572951">Dunn, Douglas</persname>.
-        <persname source="viaf" authfilenumber="24613408">Fallon, Peter, 1951-</persname>
-        <persname source="viaf" authfilenumber="76315726">Friel, Brian.</persname>
-        <persname source="viaf" authfilenumber="76363549">Hecht, Anthony, 1923-</persname>
-        <persname source="viaf" authfilenumber="108232871">Hughes, Ted, 1930-1998.</persname>
-        <persname source="viaf" authfilenumber="39398205">Longley, Michael, 1939-</persname>
-        <persname source="viaf" authfilenumber="120096893">McGuckian, Medbh, 1950-</persname>
-        <persname source="viaf" authfilenumber="64048541">Muldoon, Paul.</persname>
-        <persname source="viaf" authfilenumber="2601174">Simmons, James, 1933-</persname>
+        <persname authfilenumber="46805211" source="viaf">Banville, John</persname>
+        <persname authfilenumber="31993687" source="viaf">Brodsky, Joseph, 1940-</persname>
+        <persname authfilenumber="111397155" source="viaf">Dawe, Gerald, 1952-</persname>
+        <persname authfilenumber="108344790" source="viaf">Deane, Seamus, 1940-</persname>
+        <persname authfilenumber="107572951" source="viaf">Dunn, Douglas.</persname> <persname
+          authfilenumber="24613408" source="viaf">Fallon, Peter, 1951-</persname>
+        <persname authfilenumber="76315726" source="viaf">Friel, Brian.</persname>
+        <persname authfilenumber="76363549" source="viaf">Hecht, Anthony, 1923-</persname>
+        <persname authfilenumber="108232871" source="viaf">Hughes, Ted, 1930-1998.</persname>
+        <persname authfilenumber="39398205" source="viaf">Longley, Michael, 1939-</persname>
+        <persname authfilenumber="120096893" source="viaf">McGuckian, Medbh, 1950-</persname>
+        <persname authfilenumber="64048541" source="viaf">Muldoon, Paul.</persname>
+        <persname authfilenumber="2601174" source="viaf">Simmons, James, 1933-</persname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
@@ -2344,217 +2352,248 @@
             <did>
               <container type="box">37</container>
               <container type="folder">1</container>
-              <unittitle><persname source="viaf" authfilenumber="92447844">Alcorn, Alfred</persname>, 1975-2002</unittitle>
+              <unittitle><persname authfilenumber="92447844" source="viaf">Alcorn,
+                Alfred</persname>, 1975-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">2</container>
-              <unittitle><persname source="viaf" authfilenumber="51748870">Astley, Neil</persname>, 1987</unittitle>
+              <unittitle><persname authfilenumber="51748870" source="viaf">Astley, Neil</persname>,
+                1987</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">3</container>
-              <unittitle><persname source="viaf" authfilenumber="46805211">Banville, John</persname>, 1979-1998</unittitle>
+              <unittitle><persname authfilenumber="46805211" source="viaf">Banville,
+                John</persname>, 1979-1998</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">4</container>
-              <unittitle><persname source="viaf" authfilenumber="79847862">Bly, Robert</persname>, 1982-1984</unittitle>
+              <unittitle><persname authfilenumber="79847862" source="viaf">Bly, Robert</persname>,
+                1982-1984</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">5</container>
-              <unittitle><persname source="viaf" authfilenumber="22253909">Boland, Eavan</persname>, ca. 1972</unittitle>
+              <unittitle><persname authfilenumber="22253909" source="viaf">Boland, Eavan</persname>,
+                ca. 1972</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">6</container>
-              <unittitle><persname source="viaf" authfilenumber="5082602">Brandes, Rand</persname>, undated; 1986-2002</unittitle>
+              <unittitle><persname authfilenumber="5082602" source="viaf">Brandes, Rand</persname>,
+                undated; 1986-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">7</container>
-              <unittitle><persname source="viaf" authfilenumber="31993687">Brodsky, Joseph</persname>, undated; 1987-1992</unittitle>
+              <unittitle><persname authfilenumber="31993687" source="viaf">Brodsky,
+                  Joseph</persname>, undated; 1987-1992</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">8</container>
-              <unittitle><persname source="viaf" authfilenumber="100270317">Brown, George Mackay</persname>, 1968-1993</unittitle>
+              <unittitle><persname authfilenumber="100270317" source="viaf">Brown, George
+                  Mackay</persname>, 1968-1993</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">9</container>
-              <unittitle><persname source="viaf" authfilenumber="111533310">Brownjohn, Alan</persname>, 1971-1996</unittitle>
+              <unittitle><persname authfilenumber="111533310" source="viaf">Brownjohn,
+                  Alan</persname>, 1971-1996</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">10</container>
-              <unittitle><persname source="viaf" authfilenumber="85621766">Carson, Ciaran</persname>, 1996</unittitle>
+              <unittitle><persname authfilenumber="85621766" source="viaf">Carson,
+                Ciaran</persname>, 1996</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">11</container>
-              <unittitle><persname source="viaf" authfilenumber="60411648">Chambers, Harry</persname>, undated; 1987-1989</unittitle>
+              <unittitle><persname authfilenumber="60411648" source="viaf">Chambers,
+                  Harry</persname>, undated; 1987-1989</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">12</container>
-              <unittitle><persname source="viaf" authfilenumber="283557895">Cole, William Rossa</persname>, undated, 1970-2000</unittitle>
+              <unittitle><persname authfilenumber="283557895" source="viaf">Cole, William
+                  Rossa</persname>, undated, 1970-2000</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">13</container>
-              <unittitle><persname source="viaf" authfilenumber="27225620">Conner, Lester</persname>, 1971-2001</unittitle>
+              <unittitle><persname authfilenumber="27225620" source="viaf">Conner,
+                Lester</persname>, 1971-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">14</container>
-              <unittitle><persname source="viaf" authfilenumber="95877500">Cooke, Barrie</persname>, undated; 1971-2002</unittitle>
+              <unittitle><persname authfilenumber="95877500" source="viaf">Cooke, Barrie</persname>,
+                undated; 1971-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">37</container>
               <container type="folder">15</container>
-              <unittitle><persname source="viaf" authfilenumber="91616942">Cooney, Seamus</persname>, 1979-1997</unittitle>
+              <unittitle><persname authfilenumber="91616942" source="viaf">Cooney,
+                Seamus</persname>, 1979-1997</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">1</container>
-              <unittitle><persname source="viaf" authfilenumber="34601109">Corbett, Bill</persname>, 1986-2002</unittitle>
+              <unittitle><persname authfilenumber="34601109" source="viaf">Corbett, Bill</persname>,
+                1986-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">2</container>
-              <unittitle><persname source="viaf" authfilenumber="109562114">Creeley, Robert</persname>, 1982</unittitle>
+              <unittitle><persname authfilenumber="109562114" source="viaf">Creeley,
+                  Robert</persname>, 1982</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">3</container>
-              <unittitle><persname source="viaf" authfilenumber="23858623">Crotty, Patrick</persname>, 1993-1998</unittitle>
+              <unittitle><persname authfilenumber="23858623" source="viaf">Crotty,
+                  Patrick</persname>, 1993-1998</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">4</container>
-              <unittitle><persname source="viaf" authfilenumber="68728667">Davids, Roy</persname>, 1981-1982</unittitle>
+              <unittitle><persname authfilenumber="68728667" source="viaf">Davids, Roy</persname>,
+                1981-1982</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">5</container>
-              <unittitle><persname source="viaf" authfilenumber="108291746">Davie, Donald</persname>, 1980-1982</unittitle>
+              <unittitle><persname authfilenumber="108291746" source="viaf">Davie,
+                Donald</persname>, 1980-1982</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">6</container>
-              <unittitle><persname source="viaf" authfilenumber="111397155">Dawe, Gerald</persname>, undated; 1981-1999</unittitle>
+              <unittitle><persname authfilenumber="111397155" source="viaf">Dawe, Gerald</persname>,
+                undated; 1981-1999</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">7</container>
-              <unittitle><persname source="viaf" authfilenumber="71503608">Deane, John F.</persname>, undated; 1981-2002</unittitle>
+              <unittitle><persname authfilenumber="71503608" source="viaf">Deane, John
+                F.</persname>, undated; 1981-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">8</container>
-              <unittitle><persname source="viaf" authfilenumber="108344790">Deane, Seamus</persname>, undated; 1967-1999</unittitle>
+              <unittitle><persname authfilenumber="108344790" source="viaf">Deane,
+                Seamus</persname>, undated; 1967-1999</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">9</container>
-              <unittitle><persname source="viaf" authfilenumber="114960898">Delanty, Greg</persname>, undated; 1987-2002</unittitle>
+              <unittitle><persname authfilenumber="114960898" source="viaf">Delanty,
+                Greg</persname>, undated; 1987-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">10</container>
-              <unittitle><persname source="viaf" authfilenumber="57823509">Des Pres, Terrence</persname>, undated; 1982-1985</unittitle>
+              <unittitle><persname authfilenumber="57823509" source="viaf">Des Pres,
+                  Terrence</persname>, undated; 1982-1985</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">11</container>
-              <unittitle><persname source="viaf" authfilenumber="12402723">Dorgan, Theo</persname>, 1987-2002</unittitle>
+              <unittitle><persname authfilenumber="12402723" source="viaf">Dorgan, Theo</persname>,
+                1987-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">12</container>
-              <unittitle><persname source="viaf" authfilenumber="107572951">Dunn, Douglas</persname>, 1970-1994</unittitle>
+              <unittitle><persname authfilenumber="107572951" source="viaf">Dunn,
+                Douglas</persname>, 1970-1994</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">38</container>
               <container type="folder">13</container>
-              <unittitle><persname source="viaf" authfilenumber="113258025">Durcan, Paul</persname>, 1978-1999</unittitle>
+              <unittitle><persname authfilenumber="113258025" source="viaf">Durcan, Paul</persname>,
+                1978-1999</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">39</container>
               <container type="folder">1</container>
-              <unittitle><persname source="viaf" authfilenumber="73874087">Eagleton, Terry</persname>, 1987</unittitle>
+              <unittitle><persname authfilenumber="73874087" source="viaf">Eagleton,
+                  Terry</persname>, 1987</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">39</container>
               <container type="folder">2</container>
-              <unittitle><persname source="viaf" authfilenumber="61545326">Ellmann, Richard</persname>, 1982-1985</unittitle>
+              <unittitle><persname authfilenumber="61545326" source="viaf">Ellmann,
+                  Richard</persname>, 1982-1985</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">39</container>
               <container type="folder">3</container>
-              <unittitle><persname source="viaf" authfilenumber="24613408">Fallon, Peter</persname>, undated; 1970-1998</unittitle>
+              <unittitle><persname authfilenumber="24613408" source="viaf">Fallon, Peter</persname>,
+                undated; 1970-1998</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -2568,28 +2607,32 @@
             <did>
               <container type="box">39</container>
               <container type="folder">5</container>
-              <unittitle><persname source="viaf" authfilenumber="64005608">Fitzgerald, Sally</persname>, 1990</unittitle>
+              <unittitle><persname authfilenumber="64005608" source="viaf">Fitzgerald,
+                  Sally</persname>, 1990</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">39</container>
               <container type="folder">6</container>
-              <unittitle><persname source="viaf" authfilenumber="79025241">Flanagan, Tom</persname>, 1976-2001</unittitle>
+              <unittitle><persname authfilenumber="79025241" source="viaf">Flanagan, Tom</persname>,
+                1976-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">39</container>
               <container type="folder">7</container>
-              <unittitle><persname source="viaf" authfilenumber="41853881">Foster, Roy</persname>, 1997-2000</unittitle>
+              <unittitle><persname authfilenumber="41853881" source="viaf">Foster, Roy</persname>,
+                1997-2000</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">39</container>
               <container type="folder">8</container>
-              <unittitle><persname source="viaf" authfilenumber="76315726">Friel, Brian</persname>, undated</unittitle>
+              <unittitle><persname authfilenumber="76315726" source="viaf">Friel, Brian</persname>,
+                undated</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -2610,42 +2653,48 @@
             <did>
               <container type="box">39</container>
               <container type="folder">11</container>
-              <unittitle><persname source="viaf" authfilenumber="84228596">Greacen, Robert</persname>, 1995-1998</unittitle>
+              <unittitle><persname authfilenumber="84228596" source="viaf">Greacen,
+                  Robert</persname>, 1995-1998</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">39</container>
               <container type="folder">12</container>
-              <unittitle><persname source="viaf" authfilenumber="60577">Grennan, Eamon</persname>, undated, 1980-2001</unittitle>
+              <unittitle><persname authfilenumber="60577" source="viaf">Grennan, Eamon</persname>,
+                undated, 1980-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">39</container>
               <container type="folder">13</container>
-              <unittitle><persname source="viaf" authfilenumber="91637977">Hacker, Marilyn</persname>, 1986</unittitle>
+              <unittitle><persname authfilenumber="91637977" source="viaf">Hacker,
+                  Marilyn</persname>, 1986</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">39</container>
               <container type="folder">14</container>
-              <unittitle><persname source="viaf" authfilenumber="49226675">Hall, Donald</persname>, undated; 1979-2001</unittitle>
+              <unittitle><persname authfilenumber="49226675" source="viaf">Hall, Donald</persname>,
+                undated; 1979-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">39</container>
               <container type="folder">15</container>
-              <unittitle><persname source="viaf" authfilenumber="112031325">Hamburger, Michael</persname>, 1983</unittitle>
+              <unittitle><persname authfilenumber="112031325" source="viaf">Hamburger,
+                  Michael</persname>, 1983</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">1</container>
-              <unittitle><persname source="viaf" authfilenumber="38545317">Hammond, David</persname>, undated; 1969-1979</unittitle>
+              <unittitle><persname authfilenumber="38545317" source="viaf">Hammond,
+                David</persname>, undated; 1969-1979</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -2659,84 +2708,96 @@
             <did>
               <container type="box">40</container>
               <container type="folder">3</container>
-              <unittitle><persname source="viaf" authfilenumber="110524046">Harper, Michael S.</persname>, 1971-1998</unittitle>
+              <unittitle><persname authfilenumber="110524046" source="viaf">Harper, Michael
+                  S.</persname>, 1971-1998</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">4</container>
-              <unittitle><persname source="viaf" authfilenumber="109297940">Harrison, Tony</persname>, 1971</unittitle>
+              <unittitle><persname authfilenumber="109297940" source="viaf">Harrison,
+                  Tony</persname>, 1971</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">5</container>
-              <unittitle><persname source="viaf" authfilenumber="103216787">Hartnett, Michael</persname>, 1999</unittitle>
+              <unittitle><persname authfilenumber="103216787" source="viaf">Hartnett,
+                  Michael</persname>, 1999</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">6</container>
-              <unittitle><persname source="viaf" authfilenumber="79159109">Healey, Dermot</persname>, ca. 1972</unittitle>
+              <unittitle><persname authfilenumber="79159109" source="viaf">Healey,
+                Dermot</persname>, ca. 1972</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">7</container>
-              <unittitle><persname source="viaf" authfilenumber="76363549">Hecht, Anthony</persname>, undated</unittitle>
+              <unittitle><persname authfilenumber="76363549" source="viaf">Hecht,
+                Anthony</persname>, undated</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">8</container>
-              <unittitle><persname source="viaf" authfilenumber="166981043">Higgins, Aidan</persname>, 1984-1993</unittitle>
+              <unittitle><persname authfilenumber="166981043" source="viaf">Higgins,
+                  Aidan</persname>, 1984-1993</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">9</container>
-              <unittitle><persname source="viaf" authfilenumber="14784059">Hildebidle, John</persname>, ca. 1969-2003</unittitle>
+              <unittitle><persname authfilenumber="14784059" source="viaf">Hildebidle,
+                  John</persname>, ca. 1969-2003</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">10</container>
-              <unittitle><persname source="viaf" authfilenumber="99950733">Hill, Geoffrey</persname>, 1998</unittitle>
+              <unittitle><persname authfilenumber="99950733" source="viaf">Hill,
+                Geoffrey</persname>, 1998</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">11</container>
-              <unittitle><persname source="viaf" authfilenumber="91907300">Hobsbaum, Philip</persname>, undated; 1966-2001</unittitle>
+              <unittitle><persname authfilenumber="91907300" source="viaf">Hobsbaum,
+                  Philip</persname>, undated; 1966-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">12</container>
-              <unittitle><persname source="viaf" authfilenumber="215708974">Hornback, Bert</persname>, 1970-2002</unittitle>
+              <unittitle><persname authfilenumber="215708974" source="viaf">Hornback,
+                  Bert</persname>, 1970-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">13</container>
-              <unittitle><persname source="viaf" authfilenumber="46896227">Hughes, Frieda</persname>, 1999</unittitle>
+              <unittitle><persname authfilenumber="46896227" source="viaf">Hughes,
+                Frieda</persname>, 1999</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">40</container>
               <container type="folder">14</container>
-              <unittitle><persname source="viaf" authfilenumber="109112509">Hughes, Glyn</persname>, 1967-2001</unittitle>
+              <unittitle><persname authfilenumber="109112509" source="viaf">Hughes, Glyn</persname>,
+                1967-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -2750,84 +2811,97 @@
             <did>
               <container type="box">40</container>
               <container type="folder">16</container>
-              <unittitle><persname source="viaf" authfilenumber="108232871">Hughes, Ted</persname>, undated; circa 1972-1995</unittitle>
+              <unittitle><persname authfilenumber="108232871" source="viaf">Hughes, Ted</persname>,
+                undated; circa 1972-1995</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">1</container>
-              <unittitle><persname source="viaf" authfilenumber="64128892">Johnston, Dillon</persname>, 1983-1992</unittitle>
+              <unittitle><persname authfilenumber="64128892" source="viaf">Johnston,
+                  Dillon</persname>, 1983-1992</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">2</container>
-              <unittitle><persname source="viaf" authfilenumber="108497368">Kavanagh, P. J.</persname>, undated; 1994-1999</unittitle>
+              <unittitle><persname authfilenumber="108497368" source="viaf">Kavanagh, P.
+                  J.</persname>, undated; 1994-1999</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">3</container>
-              <unittitle><persname source="viaf" authfilenumber="267971098">Kennelly, Brendan</persname>, 1969-1999</unittitle>
+              <unittitle><persname authfilenumber="267971098" source="viaf">Kennelly,
+                  Brendan</persname>, 1969-1999</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">4</container>
-              <unittitle><persname source="viaf" authfilenumber="44326385">Kiely, Ben</persname>, 1981</unittitle>
+              <unittitle><persname authfilenumber="44326385" source="viaf">Kiely, Ben</persname>,
+                1981</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">5</container>
-              <unittitle><persname source="viaf" authfilenumber="91961511">Kilroy, Thomas</persname>, 1982-2002</unittitle>
+              <unittitle><persname authfilenumber="91961511" source="viaf">Kilroy,
+                Thomas</persname>, 1982-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">6</container>
-              <unittitle><persname source="viaf" authfilenumber="34500781">Kinsella, Tom, 1990</persname></unittitle>
+              <unittitle>
+                <persname authfilenumber="34500781" source="viaf">Kinsella, Tom, 1990</persname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">7</container>
-              <unittitle><persname source="viaf" authfilenumber="3189068">Korelitz, Jean Hanff</persname>, 1993-1995</unittitle>
+              <unittitle><persname authfilenumber="3189068" source="viaf">Korelitz, Jean
+                  Hanff</persname>, 1993-1995</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">8</container>
-              <unittitle><persname source="viaf" authfilenumber="49228258">Levi, Peter</persname>, undated; 1989-1992</unittitle>
+              <unittitle><persname authfilenumber="49228258" source="viaf">Levi, Peter</persname>,
+                undated; 1989-1992</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">9</container>
-              <unittitle><persname source="viaf" authfilenumber="108231070">Lodge, David</persname>, 1988-2000</unittitle>
+              <unittitle><persname authfilenumber="108231070" source="viaf">Lodge, David</persname>,
+                1988-2000</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">10</container>
-              <unittitle><persname source="viaf" authfilenumber="109956735">Longley, Edna</persname>, undated; 1980-1999</unittitle>
+              <unittitle><persname authfilenumber="109956735" source="viaf">Longley,
+                Edna</persname>, undated; 1980-1999</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">11</container>
-              <unittitle><persname source="viaf" authfilenumber="39398205">Longley, Michael</persname>, undated; 1971-1979</unittitle>
+              <unittitle><persname authfilenumber="39398205" source="viaf">Longley,
+                  Michael</persname>, undated; 1971-1979</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -2841,21 +2915,24 @@
             <did>
               <container type="box">41</container>
               <container type="folder">13</container>
-              <unittitle><persname source="viaf" authfilenumber="59767445">McCabe, Bernard</persname>, undated; 1979-2002</unittitle>
+              <unittitle><persname authfilenumber="59767445" source="viaf">McCabe,
+                  Bernard</persname>, undated; 1979-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">14</container>
-              <unittitle><persname source="viaf" authfilenumber="95152561">McGahern, John</persname>, undated; 1971-2001</unittitle>
+              <unittitle><persname authfilenumber="95152561" source="viaf">McGahern,
+                John</persname>, undated; 1971-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">41</container>
               <container type="folder">15</container>
-              <unittitle><persname source="viaf" authfilenumber="120096893">McGuckian, Medbh</persname>, undated</unittitle>
+              <unittitle><persname authfilenumber="120096893" source="viaf">McGuckian,
+                  Medbh</persname>, undated</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -2869,35 +2946,40 @@
             <did>
               <container type="box">42</container>
               <container type="folder">1</container>
-              <unittitle><persname source="viaf" authfilenumber="85878653">McIntyre, Tom</persname>, 1971-1977</unittitle>
+              <unittitle><persname authfilenumber="85878653" source="viaf">McIntyre, Tom</persname>,
+                1971-1977</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">42</container>
               <container type="folder">2</container>
-              <unittitle><persname source="viaf" authfilenumber="12366017">McLaverty, Michael</persname>, 1972-1979</unittitle>
+              <unittitle><persname authfilenumber="12366017" source="viaf">McLaverty,
+                  Michael</persname>, 1972-1979</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">42</container>
               <container type="folder">3</container>
-              <unittitle><persname source="viaf" authfilenumber="110228045">Mahon, Derek</persname>, ca. 1969-ca. 1981</unittitle>
+              <unittitle><persname authfilenumber="110228045" source="viaf">Mahon, Derek</persname>,
+                ca. 1969-ca. 1981</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">42</container>
               <container type="folder">4</container>
-              <unittitle><persname source="viaf" authfilenumber="109019753">Miller, Karl</persname>, 1964-2001</unittitle>
+              <unittitle><persname authfilenumber="109019753" source="viaf">Miller, Karl</persname>,
+                1964-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">42</container>
               <container type="folder">5</container>
-              <unittitle><persname source="viaf" authfilenumber="98548196">Montague, John</persname>, 1970-2001</unittitle>
+              <unittitle><persname authfilenumber="98548196" source="viaf">Montague,
+                John</persname>, 1970-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -2911,21 +2993,24 @@
             <did>
               <container type="box">42</container>
               <container type="folder">7</container>
-              <unittitle><persname source="viaf" authfilenumber="108638782">Morrison, Blake</persname>, undated; 1980-1994</unittitle>
+              <unittitle><persname authfilenumber="108638782" source="viaf">Morrison,
+                  Blake</persname>, undated; 1980-1994</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">42</container>
               <container type="folder">8</container>
-              <unittitle><persname source="viaf" authfilenumber="108893413">Motion, Andrew</persname>, 1981-2001</unittitle>
+              <unittitle><persname authfilenumber="108893413" source="viaf">Motion,
+                  Andrew</persname>, 1981-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">42</container>
               <container type="folder">9</container>
-              <unittitle><persname source="viaf" authfilenumber="64048541">Muldoon, Paul</persname>, undated; 1968-1996</unittitle>
+              <unittitle><persname authfilenumber="64048541" source="viaf">Muldoon, Paul</persname>,
+                undated; 1968-1996</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -2939,28 +3024,32 @@
             <did>
               <container type="box">42</container>
               <container type="folder">11</container>
-              <unittitle><persname source="viaf" authfilenumber="4772115">Murphy, Hayden</persname>, 1978-2003</unittitle>
+              <unittitle><persname authfilenumber="4772115" source="viaf">Murphy, Hayden</persname>,
+                1978-2003</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">42</container>
               <container type="folder">12</container>
-              <unittitle><persname source="viaf" authfilenumber="94779115">Ni Dhomhnaill, Nuala</persname>, undated; 1987</unittitle>
+              <unittitle><persname authfilenumber="94779115" source="viaf">Ni Dhomhnaill,
+                  Nuala</persname>, undated; 1987</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">42</container>
               <container type="folder">13</container>
-              <unittitle><persname source="viaf" authfilenumber="97127930">O'Brien Connor Cruise</persname>, 1977-2002</unittitle>
+              <unittitle><persname authfilenumber="97127930" source="viaf">O'Brien Connor
+                  Cruise</persname>, 1977-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">42</container>
               <container type="folder">14</container>
-              <unittitle><persname source="viaf" authfilenumber="56656629">O'Brien, Darcy</persname>, 1970-1983</unittitle>
+              <unittitle><persname authfilenumber="56656629" source="viaf">O'Brien,
+                Darcy</persname>, 1970-1983</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -2981,126 +3070,144 @@
             <did>
               <container type="box">42</container>
               <container type="folder">17</container>
-              <unittitle><persname source="viaf" authfilenumber="100271219">O'Brien, Edna</persname>, undated; 1989-1998</unittitle>
+              <unittitle><persname authfilenumber="100271219" source="viaf">O'Brien,
+                Edna</persname>, undated; 1989-1998</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">1</container>
-              <unittitle><persname source="viaf" authfilenumber="34553683">O'Donoghue, Bernard</persname>, undated 1972-2002</unittitle>
+              <unittitle><persname authfilenumber="34553683" source="viaf">O'Donoghue,
+                  Bernard</persname>, undated 1972-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">2</container>
-              <unittitle><persname source="viaf" authfilenumber="118976934">O'Driscoll, Dennis</persname>, undated; 1979-2001</unittitle>
+              <unittitle><persname authfilenumber="118976934" source="viaf">O'Driscoll,
+                  Dennis</persname>, undated; 1979-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">3</container>
-              <unittitle><persname source="viaf" authfilenumber="14966454">O'Flynn, Liam</persname>, 1997-2001</unittitle>
+              <unittitle><persname authfilenumber="14966454" source="viaf">O'Flynn, Liam</persname>,
+                1997-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">4</container>
-              <unittitle><persname source="viaf" authfilenumber="5069483">O'Grady, Desmond</persname>, 1984-2003</unittitle>
+              <unittitle><persname authfilenumber="5069483" source="viaf">O'Grady,
+                  Desmond</persname>, 1984-2003</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">5</container>
-              <unittitle><persname source="viaf" authfilenumber="49280158">Ormsby, Frank</persname>, 1978-ca. 1999</unittitle>
+              <unittitle><persname authfilenumber="49280158" source="viaf">Ormsby, Frank</persname>,
+                1978-ca. 1999</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">6</container>
-              <unittitle><persname source="viaf" authfilenumber="108291535">Paulin, Tom</persname>, 1982-2002</unittitle>
+              <unittitle><persname authfilenumber="108291535" source="viaf">Paulin, Tom</persname>,
+                1982-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">7</container>
-              <unittitle><persname source="viaf" authfilenumber="74780620">Pearson, Henry</persname>, 1978-1990</unittitle>
+              <unittitle><persname authfilenumber="74780620" source="viaf">Pearson,
+                Henry</persname>, 1978-1990</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">8</container>
-              <unittitle><persname source="viaf" authfilenumber="79069348">Pinsky, Robert</persname>, 1979-2000</unittitle>
+              <unittitle><persname authfilenumber="79069348" source="viaf">Pinsky,
+                Robert</persname>, 1979-2000</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">9</container>
-              <unittitle><persname source="viaf" authfilenumber="109262065">Raine, Craig</persname>, undated; 1980-2002</unittitle>
+              <unittitle><persname authfilenumber="109262065" source="viaf">Raine, Craig</persname>,
+                undated; 1980-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">10</container>
-              <unittitle><persname source="viaf" authfilenumber="278991209">Rawling, Tom</persname>, 1981-1989</unittitle>
+              <unittitle><persname authfilenumber="278991209" source="viaf">Rawling, Tom</persname>,
+                1981-1989</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">11</container>
-              <unittitle><persname source="viaf" authfilenumber="22044">Simic, Charles</persname>, 1989-1996</unittitle>
+              <unittitle><persname authfilenumber="22044" source="viaf">Simic, Charles</persname>,
+                1989-1996</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">13</container>
-              <unittitle><persname source="viaf" authfilenumber="92591927">Simmons, James</persname>, undated; 1968-1997</unittitle>
+              <unittitle><persname authfilenumber="92591927" source="viaf">Simmons,
+                James</persname>, undated; 1968-1997</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">1</container>
-              <unittitle><persname source="viaf" authfilenumber="16128387">Sleigh, Tom</persname>, 1985-2001</unittitle>
+              <unittitle><persname authfilenumber="16128387" source="viaf">Sleigh, Tom</persname>,
+                1985-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">2</container>
-              <unittitle><persname source="viaf" authfilenumber="109598949">Smith, Dave</persname>, 1979-1994</unittitle>
+              <unittitle><persname authfilenumber="109598949" source="viaf">Smith, Dave</persname>,
+                1979-1994</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">3</container>
-              <unittitle><persname source="viaf" authfilenumber="117357452">Snodgrass, W.D.</persname>, 1986</unittitle>
+              <unittitle><persname authfilenumber="117357452" source="viaf">Snodgrass,
+                  W.D.</persname>, 1986</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">4</container>
-              <unittitle><persname source="viaf" authfilenumber="68944804">Snyder, Gary</persname>, 1989</unittitle>
+              <unittitle><persname authfilenumber="68944804" source="viaf">Snyder, Gary</persname>,
+                1989</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">5</container>
-              <unittitle><persname source="viaf" authfilenumber="84480923">Stallworthy, Jon</persname>, 1980-2002</unittitle>
+              <unittitle><persname authfilenumber="84480923" source="viaf">Stallworthy,
+                  Jon</persname>, 1980-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -3114,63 +3221,72 @@
             <did>
               <container type="box">44</container>
               <container type="folder">7</container>
-              <unittitle><persname source="viaf" authfilenumber="4980635">Sweeney, Jack</persname>, 1965-1985</unittitle>
+              <unittitle><persname authfilenumber="4980635" source="viaf">Sweeney, Jack</persname>,
+                1965-1985</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">8</container>
-              <unittitle><persname source="viaf" authfilenumber="114341331">Sweeney, Matthew</persname>, 1991-2001</unittitle>
+              <unittitle><persname authfilenumber="114341331" source="viaf">Sweeney,
+                  Matthew</persname>, 1991-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">9</container>
-              <unittitle><persname source="viaf" authfilenumber="108474782">Thwaite, Anthony</persname>, 1964-2002</unittitle>
+              <unittitle><persname authfilenumber="108474782" source="viaf">Thwaite,
+                  Anthony</persname>, 1964-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">10</container>
-              <unittitle><persname source="viaf" authfilenumber="51831695">Tillinghast, Richard</persname>, undated; 1977-2002</unittitle>
+              <unittitle><persname authfilenumber="51831695" source="viaf">Tillinghast,
+                  Richard</persname>, undated; 1977-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">11</container>
-              <unittitle><persname source="viaf" authfilenumber="39391959">Walcott, Derek</persname>, undated; 1995-2001</unittitle>
+              <unittitle><persname authfilenumber="39391959" source="viaf">Walcott,
+                Derek</persname>, undated; 1995-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">12</container>
-              <unittitle><persname source="viaf" authfilenumber="61553765">Warren, Robert Penn</persname>, 1986</unittitle>
+              <unittitle><persname authfilenumber="61553765" source="viaf">Warren, Robert
+                  Penn</persname>, 1986</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">13</container>
-              <unittitle><persname source="viaf" authfilenumber="276267047">Watson, George</persname>, 1983-1989</unittitle>
+              <unittitle><persname authfilenumber="276267047" source="viaf">Watson,
+                  George</persname>, 1983-1989</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">14</container>
-              <unittitle><persname source="viaf" authfilenumber="88066394">Welch, Robert</persname>, 1994-2001</unittitle>
+              <unittitle><persname authfilenumber="88066394" source="viaf">Welch, Robert</persname>,
+                1994-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">15</container>
-              <unittitle><persname source="viaf" authfilenumber="14804371">Wilbur, Richard</persname>, 1994</unittitle>
+              <unittitle><persname authfilenumber="14804371" source="viaf">Wilbur,
+                  Richard</persname>, 1994</unittitle>
             </did>
           </c03>
         </c02>
@@ -4234,49 +4350,55 @@
             <did>
               <container type="box">60</container>
               <container type="folder">1</container>
-              <unittitle><title>Agenda</title>, 1984-1995</unittitle>
+              <unittitle><corpname source="dbpedia" authfilenumber="Agenda_(poetry_journal)"><emph render="italics">Agenda</emph></corpname>, 1984-1995</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">60</container>
               <container type="folder">2</container>
-              <unittitle><title>The Atlanta Monthly </title>, 1970-2000</unittitle>
+              <unittitle><corpname source="dbpedia" authfilenumber="Atlanta_(magazine)"><emph render="italics">The Atlanta Monthly</emph></corpname>, 1970-2000</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">60</container>
               <container type="folder">3</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Cambridge_University_Press">Cambridge University Press</corpname>, 1997-2001</unittitle>
+              <unittitle><corpname authfilenumber="Cambridge_University_Press" source="dbpedia"
+                  >Cambridge University Press</corpname>, 1997-2001</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">60</container>
               <container type="folder">4</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="David_R._Godine,_Publisher">David R. Godine</corpname>, 1980-1987</unittitle>
+              <unittitle><corpname authfilenumber="David_R._Godine,_Publisher" source="dbpedia"
+                  >David R. Godine</corpname>, 1980-1987</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">60</container>
               <container type="folder">5</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Dolmen_Press">The Dolmen Press Limited, 1970-1971</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="Dolmen_Press" source="dbpedia">The Dolmen Press Limited,
+                  1970-1971</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">60</container>
               <container type="folder">6</container>
-              <unittitle><title>The Dublin Review</title>, 2002</unittitle>
+              <unittitle><corpname source="dbpedia" authfilenumber="The_Dublin_Review"><emph render="italics">The Dublin Review</emph></corpname>, 2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">60</container>
               <container type="folder">7</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Faber_and_faber">Faber and Faber Ltd.</corpname>, 1965-1969</unittitle>
+              <unittitle><corpname authfilenumber="Faber_and_faber" source="dbpedia">Faber and Faber
+                  Ltd.</corpname>, 1965-1969</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -4332,7 +4454,8 @@
             <did>
               <container type="box">60</container>
               <container type="folder">15</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Farrar,_Straus_and_Giroux">Farrar, Straus &amp; Giroux</corpname>, undated and 1970s </unittitle>
+              <unittitle><corpname authfilenumber="Farrar,_Straus_and_Giroux" source="dbpedia"
+                  >Farrar, Straus &amp; Giroux</corpname>, undated and 1970s </unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -4360,84 +4483,91 @@
             <did>
               <container type="box">60</container>
               <container type="folder">19</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Macmillan_Publishers">The Macmillan Publishers Ltd</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="Macmillan_Publishers" source="dbpedia">The Macmillan
+                  Publishers Ltd</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">60</container>
               <container type="folder">20</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Harvill_Secker">Martin Secker &amp; Warburg</corpname>, 1988-1989</unittitle>
+              <unittitle><corpname authfilenumber="Harvill_Secker" source="dbpedia">Martin Secker
+                  &amp; Warburg</corpname>, 1988-1989</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">1</container>
-              <unittitle><title>The New York Review of Books</title>, 1979-2002</unittitle>
+              <unittitle><corpname source="dbpedia" authfilenumber="The_new_york_review_of_books"><emph render="italics">The New York Review of Books</emph></corpname>, 1979-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">2</container>
-              <unittitle><title>The New Yorker</title>, 1970-2002</unittitle>
+              <unittitle><corpname source="dbpedia" authfilenumber="The_new_yorker"><emph render="italics">The New Yorker</emph></corpname>, 1970-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">3</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Oxford_University_Press">Oxford University Press</corpname>, 1970-1993</unittitle>
+              <unittitle><corpname authfilenumber="Oxford_University_Press" source="dbpedia">Oxford
+                  University Press</corpname>, 1970-1993</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">4</container>
-              <unittitle><title>Parnassus: Poetry in Review</title>, 1982-1995</unittitle>
+              <unittitle><corpname source="dbpedia" authfilenumber="Parnassus_(magazine)"><emph render="italics">Parnassus: Poetry in Review</emph></corpname>, 1982-1995</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">5</container>
-              <unittitle><title>Poetry</title>, 1995 and undated</unittitle>
+              <unittitle><corpname source="dbpedia" authfilenumber="Poetry_magazine"><emph render="italics">Poetry</emph></corpname>, 1995 and undated</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">6</container>
-              <unittitle><title>Poetry Ireland</title>, 1995-2002</unittitle>
+              <unittitle><corpname source="dbpedia" authfilenumber="Poetry_Ireland"><emph render="italics">Poetry Ireland</emph></corpname>, 1995-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">7</container>
-              <unittitle><title>The Southern Review</title>, 1994-1995</unittitle>
+              <unittitle><corpname source="dbpedia" authfilenumber="The_Southern_Review"><emph render="italics">The Southern Review</emph></corpname>, 1994-1995</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">8</container>
-              <unittitle><title>The Times Literary Supplement</title>, 1987-2002</unittitle>
+              <unittitle><corpname source="dbpedia" authfilenumber="Times_Literary_Supplement"><emph render="italics">The Times Literary Supplement</emph></corpname>, 1987-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">9</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="University_of_York">University of York</corpname>, 1991-1992</unittitle>
+              <unittitle><corpname authfilenumber="University_of_York" source="dbpedia">University
+                  of York</corpname>, 1991-1992</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">10</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="W._W._Norton_&_Company">W.W. Norton &amp; Company</corpname>, 1977-2000</unittitle>
+              <unittitle><corpname authfilenumber="W._W._Norton_&_Company" source="dbpedia">W.W.
+                  Norton &amp; Company</corpname>, 1977-2000</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -4484,7 +4614,9 @@
           </c03>
           <c03 level="file">
             <did>
-              <unittitle><corpname source="dbpedia" authfilenumber="British_broadcasting_corporation">British Broadcasting Corporation</corpname> correspondence</unittitle>
+              <unittitle><corpname authfilenumber="British_broadcasting_corporation"
+                  source="dbpedia">British Broadcasting Corporation</corpname>
+                correspondence</unittitle>
             </did>
           </c03>
           <c03 level="file">
