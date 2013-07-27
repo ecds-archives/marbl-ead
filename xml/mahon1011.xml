@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21">
-  <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/8zm3g" url="http://pid.emory.edu/ark:/25593/8zm3g">mahon1011</eadid>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
+    relatedencoding="Dublin Core" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="US" identifier="ark:/25593/8zm3g" mainagencycode="geu-s"
+      url="http://pid.emory.edu/ark:/25593/8zm3g">mahon1011</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper encodinganalog="Title" type="Irish">Derek Mahon Letters to Louis
-			 Asekoff, 1963-1988</titleproper>
-        <author encodinganalog="Creator">Manuscript, Archives, and Rare Book
-			 Library, Emory University</author>
+        <titleproper encodinganalog="Title" type="Irish">Derek Mahon Letters to Louis Asekoff,
+          1963-1988</titleproper>
+        <author encodinganalog="Creator">Manuscript, Archives, and Rare Book Library, Emory
+          University</author>
       </titlestmt>
       <publicationstmt>
         <publisher encodinganalog="Publisher">Emory University</publisher>
@@ -22,35 +26,33 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded,
-		  <date encodinganalog="Date" normal="2006-04-02">April 2,
-			 2006</date></creation>
+      <creation>Finding aid encoded, <date encodinganalog="Date" normal="2006-04-02">April 2,
+          2006</date></creation>
       <langusage>
-        <language langcode="eng" encodinganalog="Language" scriptcode="Latn">English</language>
+        <language encodinganalog="Language" langcode="eng" scriptcode="Latn">English</language>
       </langusage>
     </profiledesc>
   </eadheader>
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname source="lcnaf" encodinganalog="100">Mahon, Derek,
-			 1941-</persname>
+        <persname encodinganalog="100" source="lcnaf">Mahon, Derek, 1941-</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Letters to Louis Asekoff,
-		  <unitdate type="inclusive" encodinganalog="245$f" normal="1963/1988" era="ce" calendar="gregorian">1963-1988</unitdate></unittitle>
-      <unitid repositorycode="geu-s" countrycode="US" identifier="1011">Manuscript Collection No.
-		  1011</unitid>
+      <unittitle encodinganalog="245$a">Letters to Louis Asekoff, <unitdate calendar="gregorian"
+          encodinganalog="245$f" era="ce" normal="1963/1988" type="inclusive"
+        >1963-1988</unitdate></unittitle>
+      <unitid countrycode="US" identifier="1011" repositorycode="geu-s">Manuscript Collection No.
+        1011</unitid>
       <physdesc encodinganalog="300">
         <extent>.25 linear ft.</extent>
-        <extent>(1
-		  box)</extent>
+        <extent>(1 box)</extent>
       </physdesc>
-      <abstract>Letters and postcards from Irish poet Derek Mahon to Louis
-		  Asekoff, including drafts of poetry.</abstract>
-      <langmaterial encodinganalog="546">Materials entirely in
-		  <language langcode="eng">English</language>.</langmaterial>
-      <repository encodinganalog="852">Emory University<subarea>Manuscript,
-		  Archives, and Rare Book Library</subarea></repository>
+      <abstract>Letters and postcards from Irish poet Derek Mahon to Louis Asekoff, including drafts
+        of poetry.</abstract>
+      <langmaterial encodinganalog="546">Materials entirely in <language langcode="eng"
+          >English</language>.</langmaterial>
+      <repository encodinganalog="852">Emory University<subarea>Manuscript, Archives, and Rare Book
+          Library</subarea></repository>
     </did>
     <acqinfo encodinganalog="541">
       <head>Source</head>
@@ -62,13 +64,12 @@
     </accessrestrict>
     <userestrict encodinganalog="540">
       <head>Terms Governing Use and Reproduction</head>
-      <p>All requests subject to limitations noted in departmental policies on
-		  reproduction.</p>
+      <p>All requests subject to limitations noted in departmental policies on reproduction.</p>
     </userestrict>
     <prefercite encodinganalog="524">
       <head>Citation</head>
-      <p>[after identification of item(s)], Derek Mahon, Letters to Louis
-		  Asekoff, Manuscript, Archives and Rare Book Library, Emory University.</p>
+      <p>[after identification of item(s)], Derek Mahon, Letters to Louis Asekoff, Manuscript,
+        Archives and Rare Book Library, Emory University.</p>
     </prefercite>
     <processinfo>
       <head>Processing</head>
@@ -82,32 +83,24 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Irish poet Derek Mahon met Louis Asekoff in the early 1960s while they
-		  were students at Trinity College in Dublin. Louis Asekoff (1939- ), poet and
-		  educator, currently coordinates the M.F.A. Program in Poetry at Brooklyn
-		  College. His poems have appeared in many magazines, including
-		<title>The New Yorker</title>,
-		<title>Poetry</title>,
-		<title>Tikkun</title>,
-		<title>Salamagundi</title>,
-		<title>Triquarterly</title>, and
-		<title>The American Poetry Review</title>. He has twice received The
-		American Poetry Review Jerome Shestack Prize for Poetry. He has published two
-		books of poetry,
-		<title>Dreams of a Work</title> (1994) and
-		<title>North Star</title> (1997) by Orchieses Press, Washington, D.C. He
-		has received poetry fellowships from the National Endowment for the Arts, the
-		New York Foundation for the Arts, and The Fund for Poetry.</p>
+      <p>Irish poet Derek Mahon met <persname source="viaf" authfilenumber="9071711">Louis Asekoff</persname> in the early 1960s while they were students at
+        <corpname source="dbpedia" authfilenumber="Trinity_College,_Dublin">Trinity College</corpname> in <geogname source="geonames" authfilenumber="2964574">Dublin</geogname>. Louis Asekoff (1939- ), poet and educator, currently coordinates
+        the M.F.A. Program in Poetry at <corpname source="dbpedia" authfilenumber="Brooklyn_College">Brooklyn College</corpname>. His poems have appeared in many magazines,
+        including <corpname source="dbpedia" authfilenumber="The_new_yorker"><emph render="italics">The New Yorker</emph></corpname>, <corpname source="dbpedia" authfilenumber="Poetry_magazine"><emph render="italics">Poetry</emph></corpname>, <corpname source="dbpedia" authfilenumber="Tikkun_(magazine)"><emph render="italics">Tikkun</emph></corpname>,
+        <corpname source="dbpedia" authfilenumber="Salmagundi_(magazine)"><emph render="italics">Salmagundi</emph></corpname>, <corpname source="dbpedia" authfilenumber="Triquarterly"><emph render="italics">Triquarterly</emph></corpname>, and <corpname source="dbpedia" authfilenumber="American_Poetry_Review"><emph render="italics">American Poetry Review</emph></corpname>. He has twice received The American Poetry Review Jerome Shestack Prize for
+        Poetry. He has published two books of poetry, <title>Dreams of a Work</title> (1994) and
+          <title>North Star</title> (1997) by Orchieses Press, <geogname source="dbpedia" authfilenumber="Washington,_D.C.">Washington, D.C.</geogname> He has received
+        poetry fellowships from the <corpname source="dbpedia" authfilenumber="National_Endowment_for_the_Arts">National Endowment for the Arts</corpname>, the <corpname source="dbpedia" authfilenumber="New_York_Foundation_for_the_Arts">New York Foundation for the
+        Arts</corpname>, and The Fund for Poetry.</p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
-      <p>The collection consists of letters and postcards from Derek Mahon to
-		  Louis Asekoff from 1963-1988 and reflects their close literary and personal
-		  friendship which began when both were students at Trinity College, Dublin in
-		  the early sixties. Mahon's letters include references to poets and poetry,
-		  literary ambitions, teaching plans, reading tours, personal relationships, and
-		  visits with Asekoff. The collection also includes typscripts of several of
-		  Mahon's poems.</p>
+      <p>The collection consists of letters and postcards from Derek Mahon to <persname source="viaf" authfilenumber="9071711">Louis Asekoff</persname> from
+        1963-1988 and reflects their close literary and personal friendship which began when both
+        were students at <corpname source="dbpedia" authfilenumber="Trinity_College,_Dublin">Trinity College, Dublin</corpname> in the early sixties. Mahon's letters include
+        references to poets and poetry, literary ambitions, teaching plans, reading tours, personal
+        relationships, and visits with Asekoff. The collection also includes typscripts of several
+        of Mahon's poems.</p>
     </scopecontent>
     <arrangement encodinganalog="351">
       <head>Arrangement Note</head>
@@ -117,30 +110,29 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname encodinganalog="600" source="lcnaf">Asekoff, L. S. (Louis
-			 S.), 1939-</persname>
+        <persname source="viaf" authfilenumber="9071711">Asekoff, L. S. (Louis S.), 1939-</persname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
-        <subject source="lcsh" encodinganalog="650">English authors--Irish
-			 authors--20th century.</subject>
-        <subject source="lcsh" encodinganalog="650">Poets, Irish--20th
-			 century.</subject>
+        <subject encodinganalog="650" source="lcsh">English authors--Irish authors--20th
+          century.</subject>
+        <subject encodinganalog="650" source="lcsh">Poets, Irish--20th century.</subject>
       </controlaccess>
       <controlaccess>
         <head>Form/Genre Terms</head>
-        <genreform source="aat" encodinganalog="655">Manuscripts.</genreform>
-        <genreform source="aat" encodinganalog="655">Poems.</genreform>
+        <genreform encodinganalog="655" source="aat">Manuscripts.</genreform>
+        <genreform encodinganalog="655" source="aat">Poems.</genreform>
       </controlaccess>
       <controlaccess>
         <head>Occupation</head>
-        <occupation source="aat" encodinganalog="656">Poet.</occupation>
+        <occupation encodinganalog="656" source="aat">Poet.</occupation>
       </controlaccess>
     </controlaccess>
     <separatedmaterial encodinganalog="544 0">
       <head>Related Materials in This Repository</head>
-      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8zm5r">Derek Mahon papers</extref> and the
-      <extref xlink:href="http://pid.emory.edu/ark:/25593/8zm4m">Derek Mahon collection</extref>.</p>
+      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8zm5r">Derek Mahon papers</extref> and
+        the <extref xlink:href="http://pid.emory.edu/ark:/25593/8zm4m">Derek Mahon
+          collection</extref>.</p>
     </separatedmaterial>
     <dsc type="in-depth">
       <head>Container List</head>
@@ -153,7 +145,7 @@
         <did>
           <container type="box">1</container>
           <container type="folder">1</container>
-          <unittitle>Mahon, Derek to Asekoff, 1963 (1 letter)</unittitle>
+          <unittitle>Mahon, Derek to <persname source="viaf" authfilenumber="9071711">Asekoff</persname>, 1963 (1 letter)</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -202,32 +194,28 @@
         <did>
           <container type="box">1</container>
           <container type="folder">8</container>
-          <unittitle>Mahon, Derek to Asekoff, 1974 (3 letters, 1
-				postcard)</unittitle>
+          <unittitle>Mahon, Derek to Asekoff, 1974 (3 letters, 1 postcard)</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">1</container>
           <container type="folder">9</container>
-          <unittitle>Mahon, Derek to Asekoff, 1975 (3 letters, 1
-				postcard)</unittitle>
+          <unittitle>Mahon, Derek to Asekoff, 1975 (3 letters, 1 postcard)</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">1</container>
           <container type="folder">10</container>
-          <unittitle>Mahon, Derek to Asekoff, 1977 (1 letter, 1
-				postcard)</unittitle>
+          <unittitle>Mahon, Derek to Asekoff, 1977 (1 letter, 1 postcard)</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">1</container>
           <container type="folder">11</container>
-          <unittitle>Mahon, Derek to Asekoff, 1978 (2 letters, 2
-				postcards)</unittitle>
+          <unittitle>Mahon, Derek to Asekoff, 1978 (2 letters, 2 postcards)</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -248,8 +236,7 @@
         <did>
           <container type="box">1</container>
           <container type="folder">14</container>
-          <unittitle>Mahon, Derek to Asekoff, 1981 (2 letters, 3
-				postcards)</unittitle>
+          <unittitle>Mahon, Derek to Asekoff, 1981 (2 letters, 3 postcards)</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -284,16 +271,14 @@
         <did>
           <container type="box">1</container>
           <container type="folder">19</container>
-          <unittitle>Mahon, Derek to Asekoff, September 12, 1987 (2
-				letters)</unittitle>
+          <unittitle>Mahon, Derek to Asekoff, September 12, 1987 (2 letters)</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">1</container>
           <container type="folder">20</container>
-          <unittitle>Mahon, Derek to Asekoff, February 24, 1988 (2
-				letters)</unittitle>
+          <unittitle>Mahon, Derek to Asekoff, February 24, 1988 (2 letters)</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -305,48 +290,44 @@
         <did>
           <container type="box">-</container>
           <container type="folder">-</container>
-          <unittitle>"Breakfast at 'The Edge of the World,'" TS [See letter of
-				April 24, 1964]</unittitle>
+          <unittitle>"Breakfast at 'The Edge of the World,'" TS [See letter of April 24,
+            1964]</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">1</container>
           <container type="folder">21</container>
-          <unittitle>"A Disused Shed in Co. Wexford (for J.G. Farrell),"
-				TS</unittitle>
+          <unittitle>"A Disused Shed in Co. Wexford (for <persname source="viaf" authfilenumber="76353436">J.G. Farrell</persname>)," TS</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">-</container>
           <container type="folder">-</container>
-          <unittitle>"In Carrowdore Churchyard (at the gave of Louis
-				MacNeice)," TS [See letter of June 23, 1965</unittitle>
+          <unittitle>"In Carrowdore Churchyard (at the gave of <persname source="viaf" authfilenumber="46802910">Louis MacNeice</persname>)," TS [See letter of
+            June 23, 1965</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">-</container>
           <container type="folder">-</container>
-          <unittitle>"The Joycenterary Ode," [See letter of June 24,
-				1981]</unittitle>
+          <unittitle>"The Joycenterary Ode," [See letter of June 24, 1981]</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">-</container>
           <container type="folder">-</container>
-          <unittitle>"La Condition Ouvrière," TS [See letter of June 7,
-				1964]</unittitle>
+          <unittitle>"La Condition Ouvrière," TS [See letter of June 7, 1964]</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">-</container>
           <container type="folder">-</container>
-          <unittitle>"North City, South City," TS [See letter of June 7,
-				1964]</unittitle>
+          <unittitle>"North City, South City," TS [See letter of June 7, 1964]</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -372,8 +353,7 @@
         <did>
           <container type="box">1</container>
           <container type="folder">22</container>
-          <unittitle>"A Parisian October Notebook," Fortnight, December
-				1983</unittitle>
+          <unittitle>"A Parisian October Notebook," Fortnight, December 1983</unittitle>
         </did>
       </c01>
     </dsc>
