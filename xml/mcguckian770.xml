@@ -87,20 +87,25 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Medbh McGuckian was born in 1950 in <geogname source="geonames" authfilenumber="2655984">Belfast, Northern Ireland</geogname>. She received her Bachelor of
-        Arts degree from Queen's University, Belfast, in 1972 and earned her Masters in Arts from
-        the same institution two years later. McGuckian won the National Poetry Competition prize in
-        1979 for "The Flitting," and she published her first two collections of poetry,
-          <title>Single Ladies: Sixteen Poems</title> and <title>Portrait of Joanna</title>, in
-        1980. Among her most recent collections are <title>Had I a Thousand Lives</title>,
-          <title>The Book of the Angel</title>, and <title>The Currach Requires No Harbours</title>.
-        In addition to being one of Ireland's foremost poets, McGuckian has also served as the
-        editor of <corpname source="dbpedia" authfilenumber="Fortnight_Magazine"><emph render="italics">Fortnight Literary Magazine</emph></corpname>tle> and has held numerous academic
-        appointments, including serving as the Writer-in-Residence at her alma mater, Queen's
-        University Belfast, and as a Creative Writing Lecturer at the <corpname source="dbpedia" authfilenumber="Seamus_Heaney_Centre_for_Poetry">Seamus Heaney Centre for
-        Poetry</corpname> there. McGuckian has also translated the work of several poets of different
-        nationalities; notably, McGuckian and <persname source="viaf" authfilenumber="114019944">Eiléan Ní Chuilleanáin</persname> translated the poetry of <persname source="viaf" authfilenumber="94779115">Nuala
-        Ní Dhomhnaill</persname> from Gaelic to English for <title>The Water Horse</title> (2000).</p>
+      <p>Medbh McGuckian was born in 1950 in <geogname authfilenumber="2655984" source="geonames"
+          >Belfast, Northern Ireland</geogname>. She received her Bachelor of Arts degree from
+        Queen's University, Belfast, in 1972 and earned her Masters in Arts from the same
+        institution two years later. McGuckian won the National Poetry Competition prize in 1979 for
+        "The Flitting," and she published her first two collections of poetry, <title>Single Ladies:
+          Sixteen Poems</title> and <title>Portrait of Joanna</title>, in 1980. Among her most
+        recent collections are <title>Had I a Thousand Lives</title>, <title>The Book of the
+          Angel</title>, and <title>The Currach Requires No Harbours</title>. In addition to being
+        one of Ireland's foremost poets, McGuckian has also served as the editor of <corpname
+          authfilenumber="Fortnight_Magazine" source="dbpedia"><emph render="italic">Fortnight
+            Literary Magazine</emph></corpname>tle> and has held numerous academic appointments,
+        including serving as the Writer-in-Residence at her alma mater, Queen's University Belfast,
+        and as a Creative Writing Lecturer at the <corpname
+          authfilenumber="Seamus_Heaney_Centre_for_Poetry" source="dbpedia">Seamus Heaney Centre for
+          Poetry</corpname> there. McGuckian has also translated the work of several poets of
+        different nationalities; notably, McGuckian and <persname authfilenumber="114019944"
+          source="viaf">Eiléan Ní Chuilleanáin</persname> translated the poetry of <persname
+          authfilenumber="94779115" source="viaf">Nuala Ní Dhomhnaill</persname> from Gaelic to
+        English for <title>The Water Horse</title> (2000).</p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
@@ -108,12 +113,23 @@
         McGuckian from 1964-2006. The bulk of the collection consists of drafts of McGuckian's own
         writings, including drafts of poems from her first collection, <title>Single Ladies</title>,
         through <title>The Currach Requires No Harbours</title>. Also present are extensive files of
-        personal and literary correspondence, which contain letters from <persname source="viaf" authfilenumber="94266891">Nuala Archer</persname>, <persname source="viaf" authfilenumber="111397155">Gerald Dawe</persname>,
-        <persname source="viaf" authfilenumber="12402723">Theo Dorgan</persname>, <persname source="viaf" authfilenumber="113258025">Paul Durcan</persname>, <persname source="viaf" authfilenumber="79088985">Tess Gallagher</persname>, <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>, <persname source="viaf" authfilenumber="2335631">Rita Ann Higgins</persname>, <persname source="viaf" authfilenumber="24603159">Jennifer
-        Johnston</persname>, <persname source="viaf" authfilenumber="39398205">Michael Longley</persname>, <persname source="viaf" authfilenumber="58320732">Joan McBreen</persname>, <persname source="viaf" authfilenumber="64048541">Paul Muldoon</persname>, <persname source="viaf" authfilenumber="94779115">Nuala Ní Dhomhnaill</persname>, <persname source="viaf" authfilenumber="118976934">Dennis
-        O'Driscoll</persname>, and others. The collection also includes writings by others (including student
-        writing), subject files, collected printed material either by or about Medbh McGuckian,
-        photographs, and sound recordings.</p>
+        personal and literary correspondence, which contain letters from <persname
+          authfilenumber="94266891" source="viaf">Nuala Archer</persname>, <persname
+          authfilenumber="111397155" source="viaf">Gerald Dawe</persname>, <persname
+          authfilenumber="12402723" source="viaf">Theo Dorgan</persname>, <persname
+          authfilenumber="113258025" source="viaf">Paul Durcan</persname>, <persname
+          authfilenumber="79088985" source="viaf">Tess Gallagher</persname>, <persname
+          authfilenumber="109557338" source="viaf">Seamus Heaney</persname>, <persname
+          authfilenumber="2335631" source="viaf">Rita Ann Higgins</persname>, <persname
+          authfilenumber="24603159" source="viaf">Jennifer Johnston</persname>, <persname
+          authfilenumber="39398205" source="viaf">Michael Longley</persname>, <persname
+          authfilenumber="58320732" source="viaf">Joan McBreen</persname>, <persname
+          authfilenumber="64048541" source="viaf">Paul Muldoon</persname>, <persname
+          authfilenumber="94779115" source="viaf">Nuala Ní Dhomhnaill</persname>, <persname
+          authfilenumber="118976934" source="viaf">Dennis O'Driscoll</persname>, and others. The
+        collection also includes writings by others (including student writing), subject files,
+        collected printed material either by or about Medbh McGuckian, photographs, and sound
+        recordings.</p>
     </scopecontent>
     <arrangement encodinganalog="351">
       <head>Arrangement Note</head>
@@ -137,19 +153,19 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname source="viaf" authfilenumber="94266891">Archer, Nuala, 1955-</persname>
-        <persname source="viaf" authfilenumber="111397155">Dawe, Gerald, 1952-</persname>
-        <persname source="viaf" authfilenumber="12402723">Dorgan, Theo.</persname>
-        <persname source="viaf" authfilenumber="113258025">Durcan, Paul, 1944-</persname>
-        <persname source="viaf" authfilenumber="79088985">Gallagher, Tess.</persname>
-        <persname source="viaf" authfilenumber="109557338">Heaney, Seamus, 1939-</persname>
-        <persname source="viaf" authfilenumber="2335631">Higgins, Rita Ann.</persname>
-        <persname source="viaf" authfilenumber="24603159">Johnston, Jennifer, 1930-</persname>
-        <persname source="viaf" authfilenumber="39398205">Longley, Michael, 1939-</persname>
-        <persname source="viaf" authfilenumber="58320732">McBreen, Joan, 1947-</persname>
-        <persname source="viaf" authfilenumber="64048541">Muldoon, Paul.</persname>
-        <persname source="viaf" authfilenumber="94779115">Ní Dhomhnaill, Nuala, 1952-</persname>
-        <persname source="viaf" authfilenumber="118976934">O'Driscoll, Dennis.</persname>
+        <persname authfilenumber="94266891" source="viaf">Archer, Nuala, 1955-</persname>
+        <persname authfilenumber="111397155" source="viaf">Dawe, Gerald, 1952-</persname>
+        <persname authfilenumber="12402723" source="viaf">Dorgan, Theo.</persname>
+        <persname authfilenumber="113258025" source="viaf">Durcan, Paul, 1944-</persname>
+        <persname authfilenumber="79088985" source="viaf">Gallagher, Tess.</persname>
+        <persname authfilenumber="109557338" source="viaf">Heaney, Seamus, 1939-</persname>
+        <persname authfilenumber="2335631" source="viaf">Higgins, Rita Ann.</persname>
+        <persname authfilenumber="24603159" source="viaf">Johnston, Jennifer, 1930-</persname>
+        <persname authfilenumber="39398205" source="viaf">Longley, Michael, 1939-</persname>
+        <persname authfilenumber="58320732" source="viaf">McBreen, Joan, 1947-</persname>
+        <persname authfilenumber="64048541" source="viaf">Muldoon, Paul.</persname>
+        <persname authfilenumber="94779115" source="viaf">Ní Dhomhnaill, Nuala, 1952-</persname>
+        <persname authfilenumber="118976934" source="viaf">O'Driscoll, Dennis.</persname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
@@ -161,7 +177,7 @@
       </controlaccess>
       <controlaccess>
         <head>Geographic Names</head>
-        <geogname source="geonames" authfilenumber="2641364">Northern Ireland.</geogname>
+        <geogname authfilenumber="2641364" source="geonames">Northern Ireland.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Form/Genre Terms</head>
@@ -189,12 +205,24 @@
           <head>Scope and Content Note</head>
           <p>The correspondence series in the Medbh McGuckian papers includes letters dating from
             1964 to 2006, with the largest portion from the 1980s and 1990s. Literary correspondents
-            include <persname source="viaf" authfilenumber="94266891">Nuala Archer</persname>, <persname source="viaf" authfilenumber="111397155">Gerald Dawe</persname>, <persname source="viaf" authfilenumber="12402723">Theo Dorgan</persname>, <persname source="viaf" authfilenumber="113258025">Paul Durcan</persname>, <persname source="viaf" authfilenumber="79088985">Tess Gallagher</persname>, <persname source="viaf" authfilenumber="109557338">Seamus
-            Heaney</persname>, <persname source="viaf" authfilenumber="2335631">Rita Ann Higgins</persname>, <persname source="viaf" authfilenumber="24603159">Jennifer Johnston</persname>, <persname source="viaf" authfilenumber="39398205">Michael Longley</persname>, <persname source="viaf" authfilenumber="58320732">Joan McBreen</persname>, <persname source="viaf" authfilenumber="64048541">Paul
-            Muldoon</persname>, <persname source="viaf" authfilenumber="94779115">Nuala Ní Dhomhnaill</persname>, and <persname source="viaf" authfilenumber="118976934">Dennis O'Driscoll</persname>. Subseries 1.2 contains
-            correspondence between McGuckian and her publishers. Subseries 1.3 contains the
-            restricted correspondence of <persname source="viaf" authfilenumber="12166553">John Drexel</persname> and <persname source="viaf" authfilenumber="39260346">Marie</persname> and Seamus Heaney. Additional
-            correspondence is located in Subseries 4.2, Other subject files.</p>
+            include <persname authfilenumber="94266891" source="viaf">Nuala Archer</persname>,
+              <persname authfilenumber="111397155" source="viaf">Gerald Dawe</persname>, <persname
+              authfilenumber="12402723" source="viaf">Theo Dorgan</persname>, <persname
+              authfilenumber="113258025" source="viaf">Paul Durcan</persname>, <persname
+              authfilenumber="79088985" source="viaf">Tess Gallagher</persname>, <persname
+              authfilenumber="109557338" source="viaf">Seamus Heaney</persname>, <persname
+              authfilenumber="2335631" source="viaf">Rita Ann Higgins</persname>, <persname
+              authfilenumber="24603159" source="viaf">Jennifer Johnston</persname>, <persname
+              authfilenumber="39398205" source="viaf">Michael Longley</persname>, <persname
+              authfilenumber="58320732" source="viaf">Joan McBreen</persname>, <persname
+              authfilenumber="64048541" source="viaf">Paul Muldoon</persname>, <persname
+              authfilenumber="94779115" source="viaf">Nuala Ní Dhomhnaill</persname>, and <persname
+              authfilenumber="118976934" source="viaf">Dennis O'Driscoll</persname>. Subseries 1.2
+            contains correspondence between McGuckian and her publishers. Subseries 1.3 contains the
+            restricted correspondence of <persname authfilenumber="12166553" source="viaf">John
+              Drexel</persname> and <persname authfilenumber="39260346" source="viaf"
+              >Marie</persname> and Seamus Heaney. Additional correspondence is located in Subseries
+            4.2, Other subject files.</p>
         </scopecontent>
         <arrangement encodinganalog="351">
           <head>Arrangement Note</head>
@@ -1458,7 +1486,8 @@
             <did>
               <container type="box">14a</container>
               <container type="folder">5</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Bloodaxe_Books">Bloodaxe Books</corpname>, 1983-2000</unittitle>
+              <unittitle><corpname authfilenumber="Bloodaxe_Books" source="dbpedia">Bloodaxe
+                  Books</corpname>, 1983-2000</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -1472,14 +1501,16 @@
             <did>
               <container type="box">14a</container>
               <container type="folder">7</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Faber_and_faber">Faber and Faber</corpname>, 1981-1991</unittitle>
+              <unittitle><corpname authfilenumber="Faber_and_faber" source="dbpedia">Faber and
+                  Faber</corpname>, 1981-1991</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">14a</container>
               <container type="folder">8</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Farrar,_Straus_and_Giroux">Farrar, Straus, and Giroux, Inc</corpname>, 1987</unittitle>
+              <unittitle><corpname authfilenumber="Farrar,_Straus_and_Giroux" source="dbpedia"
+                  >Farrar, Straus, and Giroux, Inc</corpname>, 1987</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -1521,7 +1552,8 @@
             <did>
               <container type="box">15</container>
               <container type="folder">4</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Oxford_university_press">Oxford University Press</corpname>, 1981-1989</unittitle>
+              <unittitle><corpname authfilenumber="Oxford_university_press" source="dbpedia">Oxford
+                  University Press</corpname>, 1981-1989</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -1535,7 +1567,8 @@
             <did>
               <container type="box">15</container>
               <container type="folder">6</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Penguin_books">Penguin Books</corpname>, 1983-1984</unittitle>
+              <unittitle><corpname authfilenumber="Penguin_books" source="dbpedia">Penguin
+                  Books</corpname>, 1983-1984</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -1549,14 +1582,16 @@
             <did>
               <container type="box">15</container>
               <container type="folder">8</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="University_of_california_press">University of California Press</corpname>, 1989</unittitle>
+              <unittitle><corpname authfilenumber="University_of_california_press" source="dbpedia"
+                  >University of California Press</corpname>, 1989</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">15</container>
               <container type="folder">9</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Wake_forest_university_press"> Wake Forest University Press</corpname>, 1983-1999</unittitle>
+              <unittitle><corpname authfilenumber="Wake_forest_university_press" source="dbpedia">
+                  Wake Forest University Press</corpname>, 1983-1999</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -1593,21 +1628,27 @@
             <did>
               <container type="box">15a</container>
               <container type="folder">1</container>
-              <unittitle><persname source="viaf" authfilenumber="12166553">Drexel, John</persname></unittitle>
+              <unittitle>
+                <persname authfilenumber="12166553" source="viaf">Drexel, John</persname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">15a</container>
               <container type="folder">2</container>
-              <unittitle><persname source="viaf" authfilenumber="39260346">Heaney, Marie</persname></unittitle>
+              <unittitle>
+                <persname authfilenumber="39260346" source="viaf">Heaney, Marie</persname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">15a</container>
               <container type="folder">3</container>
-              <unittitle><persname source="viaf" authfilenumber="109557338">Heaney, Seamus</persname></unittitle>
+              <unittitle>
+                <persname authfilenumber="109557338" source="viaf">Heaney, Seamus</persname>
+              </unittitle>
             </did>
           </c03>
         </c02>
@@ -10366,9 +10407,14 @@
             diaries (1965-1986) contain brief descriptions of and thoughts on daily events as well
             as appointments, addresses, poetry transcriptions, and quotations.</p>
           <p>Subseries 4.2, subject files contain printed material and correspondence relating to
-            specific individuals, such as <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname> and <persname source="viaf" authfilenumber="79088985">Tess Gallagher</persname>, and organizations such
-            as <corpname source="dbpedia" authfilenumber="Aosdana">Aosdana</corpname>, <corpname source="dbpedia" authfilenumber="Arts_council_of_northern_ireland">The Northern Ireland Arts Council</corpname>, Queen's University Belfast, and
-            <corpname source="dbpedia" authfilenumber="Fortnight_Magazine"><emph render="italics">Fortnight</emph></corpname></p>
+            specific individuals, such as <persname authfilenumber="109557338" source="viaf">Seamus
+              Heaney</persname> and <persname authfilenumber="79088985" source="viaf">Tess
+              Gallagher</persname>, and organizations such as <corpname authfilenumber="Aosdana"
+              source="dbpedia">Aosdana</corpname>, <corpname
+              authfilenumber="Arts_council_of_northern_ireland" source="dbpedia">The Northern
+              Ireland Arts Council</corpname>, Queen's University Belfast, and <corpname
+              authfilenumber="Fortnight_Magazine" source="dbpedia"><emph render="italic"
+                >Fortnight</emph></corpname></p>
         </scopecontent>
         <arrangement encodinganalog="351">
           <head>Arrangement Note</head>
@@ -10598,7 +10644,9 @@
             <did>
               <container type="box">40</container>
               <container type="folder">1</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Aosdana">Aósdana</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="Aosdana" source="dbpedia">Aósdana</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -10661,7 +10709,10 @@
             <did>
               <container type="box">41</container>
               <container type="folder">2</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Arts_Council_of_Northern_Ireland">Arts Council</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="Arts_Council_of_Northern_Ireland" source="dbpedia">Arts
+                  Council</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -10696,14 +10747,18 @@
             <did>
               <container type="box">42</container>
               <container type="folder">1</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Arvon_foundation">Arvon Foundation</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="Arvon_foundation" source="dbpedia">Arvon
+                  Foundation</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">42</container>
               <container type="folder">2</container>
-              <unittitle><geogname source="geonames" authfilenumber="2656531">Ballycastle</geogname> (geographical and historical information)</unittitle>
+              <unittitle><geogname authfilenumber="2656531" source="geonames">Ballycastle</geogname>
+                (geographical and historical information)</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -10718,14 +10773,19 @@
             <did>
               <container type="box">42</container>
               <container type="folder">3</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Bbc">BBC</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="Bbc" source="dbpedia">BBC</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">42</container>
               <container type="folder">4</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Belfast_Festival_at_Queen%27s">Belfast Festival at Queens</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="Belfast_Festival_at_Queen%27s" source="dbpedia">Belfast
+                  Festival at Queens</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -10774,14 +10834,19 @@
             <did>
               <container type="box">43</container>
               <container type="folder">2</container>
-              <unittitle><persname source="viaf" authfilenumber="85311710">Conlon, Evelyn</persname> </unittitle>
+              <unittitle>
+                <persname authfilenumber="85311710" source="viaf">Conlon, Evelyn</persname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">43</container>
               <container type="folder">3</container>
-              <unittitle><corpname source="viaf" authfilenumber="147720695">Cultural Relations Committee</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="147720695" source="viaf">Cultural Relations
+                  Committee</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -10810,7 +10875,9 @@
               <container type="box">43</container>
               <container type="folder">7</container>
               <unittitle>
-                <corpname source="dbpedia" authfilenumber="Fortnight_Magazine"><emph render="italics">Fortnight</emph></corpname>
+                <corpname authfilenumber="Fortnight_Magazine" source="dbpedia">
+                  <emph render="italic">Fortnight</emph>
+                </corpname>
               </unittitle>
             </did>
           </c03>
@@ -10863,14 +10930,18 @@
             <did>
               <container type="box">44</container>
               <container type="folder">4</container>
-              <unittitle><persname source="viaf" authfilenumber="45544893">Freeman, Barbara</persname></unittitle>
+              <unittitle>
+                <persname authfilenumber="45544893" source="viaf">Freeman, Barbara</persname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">44</container>
               <container type="folder">5</container>
-              <unittitle><persname source="viaf" authfilenumber="79088985">Gallagher, Tess</persname></unittitle>
+              <unittitle>
+                <persname authfilenumber="79088985" source="viaf">Gallagher, Tess</persname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -10940,7 +11011,9 @@
             <did>
               <container type="box">45</container>
               <container type="folder">6</container>
-              <unittitle><persname source="viaf" authfilenumber="109557338">Heaney, Seamus</persname></unittitle>
+              <unittitle>
+                <persname authfilenumber="109557338" source="viaf">Heaney, Seamus</persname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -10962,14 +11035,20 @@
             <did>
               <container type="box">46</container>
               <container type="folder">3</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Irish_Writers%27_Union">Irish Writers' Union</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="Irish_Writers%27_Union" source="dbpedia">Irish Writers'
+                  Union</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">46</container>
               <container type="folder">4</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Linen_Hall_Library">The Linen Hall Library</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="Linen_Hall_Library" source="dbpedia">The Linen Hall
+                  Library</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -11009,7 +11088,9 @@
             <did>
               <container type="box">46</container>
               <container type="folder">9</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Poetry_Ireland">Poetry Ireland</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="Poetry_Ireland" source="dbpedia">Poetry Ireland</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -11051,7 +11132,8 @@
             <did>
               <container type="box">46a</container>
               <container type="folder">5</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Queen%27s_University_Belfast">Queens University, Belfast</corpname> and Armagh</unittitle>
+              <unittitle><corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia"
+                  >Queens University, Belfast</corpname> and Armagh</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -11107,15 +11189,19 @@
             <did>
               <container type="box">47</container>
               <container type="folder">6</container>
-              <unittitle><persname source="viaf" authfilenumber="22938720">Ratushinskaya, Irina</persname></unittitle>
+              <unittitle>
+                <persname authfilenumber="22938720" source="viaf">Ratushinskaya, Irina</persname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">47</container>
               <container type="folder">7</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Seamus_Heaney_Centre_for_Poetry">The Seamus Heaney Centre for Poetry at Queen's University
-                Belfast</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="Seamus_Heaney_Centre_for_Poetry" source="dbpedia">The
+                  Seamus Heaney Centre for Poetry at Queen's University Belfast</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -11143,14 +11229,20 @@
             <did>
               <container type="box">47</container>
               <container type="folder">11</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="University_of_California,_Berkeley">University of California, Berkeley</corpname></unittitle>
+              <unittitle>
+                <corpname authfilenumber="University_of_California,_Berkeley" source="dbpedia"
+                  >University of California, Berkeley</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">47</container>
               <container type="folder">12</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="University_of_Ulster">University of Ulster</corpname> </unittitle>
+              <unittitle>
+                <corpname authfilenumber="University_of_Ulster" source="dbpedia">University of
+                  Ulster</corpname>
+              </unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -14848,7 +14940,7 @@
     <index id="mcguckian770_index1">
       <head>Index of Selected Correspondents</head>
       <indexentry>
-        <persname source="viaf" authfilenumber="94266891">ARCHER, NUALA</persname>
+        <persname authfilenumber="94266891" source="viaf">ARCHER, NUALA</persname>
         <ptrgrp>
           <ref>1986 January 10, 1p w/ envelope</ref>
           <ref>1986 December 1, TLS, 1p</ref>
@@ -14863,7 +14955,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="22253909">BOLAND, EAVAN</persname>
+        <persname authfilenumber="22253909" source="viaf">BOLAND, EAVAN</persname>
         <ptrgrp>
           <ref>undated, TLS, 3pps</ref>
           <ref>undated, ALS, 1p</ref>
@@ -14871,7 +14963,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-       <persname source="viaf" authfilenumber="85621766">CARSON, CIARAN</persname>
+        <persname authfilenumber="85621766" source="viaf">CARSON, CIARAN</persname>
         <ptrgrp>
           <ref>1973 November 11, TLS, 1p w/ envelope</ref>
           <ref>1974 June 15, TLS, 2pps </ref>
@@ -14919,7 +15011,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="100286402">COLLINS, BILLY</persname>
+        <persname authfilenumber="100286402" source="viaf">COLLINS, BILLY</persname>
         <ptrgrp>
           <ref>2004 January 28, email</ref>
           <ref>2004 February 23, email</ref>
@@ -14927,14 +15019,14 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="96595189">CROSS, DOROTHY</persname>
+        <persname authfilenumber="96595189" source="viaf">CROSS, DOROTHY</persname>
         <ptrgrp>
           <ref>1993 November 17, TLS, 1 p</ref>
           <ref>1994 February 6, ACS</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="111397155">DAWE, GERALD</persname>
+        <persname authfilenumber="111397155" source="viaf">DAWE, GERALD</persname>
         <ptrgrp>
           <ref>1982 September 12, ACS</ref>
           <ref>1984 May 14, TLS, 1p</ref>
@@ -14952,7 +15044,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="108344790">DEANE, SEAMUS</persname>
+        <persname authfilenumber="108344790" source="viaf">DEANE, SEAMUS</persname>
         <ptrgrp>
           <ref>1992 March 11, TLS, 1p w/ envelope</ref>
           <ref>1996 March 25, TLS, 1p w/ envelope</ref>
@@ -14961,7 +15053,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="12402723">DORGAN, THEO</persname>
+        <persname authfilenumber="12402723" source="viaf">DORGAN, THEO</persname>
         <ptrgrp>
           <ref>1990 August 10, ACS</ref>
           <ref>1990 November 27, TLS, 1p w/ envelope</ref>
@@ -14992,7 +15084,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="114321106">DUFFY, CAROL ANN</persname>
+        <persname authfilenumber="114321106" source="viaf">DUFFY, CAROL ANN</persname>
         <ptrgrp>
           <ref>1999 June, TLS, 2pps w/ envelope</ref>
           <ref>1999 June 25, post card</ref>
@@ -15000,7 +15092,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="113258025">DURCAN, PAUL</persname>
+        <persname authfilenumber="113258025" source="viaf">DURCAN, PAUL</persname>
         <ptrgrp>
           <ref>1987 February 20, ANS</ref>
           <ref>1987 February 27, ACS</ref>
@@ -15016,13 +15108,13 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="73874087">EAGLETON, TERRY</persname>
+        <persname authfilenumber="73874087" source="viaf">EAGLETON, TERRY</persname>
         <ptrgrp>
           <ref>1989 October 7, 1p</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="79088985">GALLAGHER, TESS</persname>
+        <persname authfilenumber="79088985" source="viaf">GALLAGHER, TESS</persname>
         <ptrgrp>
           <ref>1977 February 1, TLS, 2pps</ref>
           <ref>1977 March 23, ALS, 7pps w/ envelope</ref>
@@ -15076,25 +15168,25 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="60577">GRENNAN, EAMON</persname>
+        <persname authfilenumber="60577" source="viaf">GRENNAN, EAMON</persname>
         <ptrgrp>
           <ref>1985 November 22, 1p w/ Table of contents for <title>Verse</title></ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="85453832">GROARKE, VONA</persname>
+        <persname authfilenumber="85453832" source="viaf">GROARKE, VONA</persname>
         <ptrgrp>
           <ref>2001 September 3, post card w/ envelope</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-       <persname source="viaf" authfilenumber="109297940">HARRISON, TONY</persname>
+        <persname authfilenumber="109297940" source="viaf">HARRISON, TONY</persname>
         <ptrgrp>
           <ref>1991 August 8, post card</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="39260346">HEANEY, MARIE [RESTRICTED]</persname>
+        <persname authfilenumber="39260346" source="viaf">HEANEY, MARIE [RESTRICTED]</persname>
         <ptrgrp>
           <ref>1990 November 8, ACS</ref>
           <ref>1992 October 13, ACS</ref>
@@ -15111,7 +15203,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="109557338">HEANEY, SEAMUS [RESTRICTED]</persname>
+        <persname authfilenumber="109557338" source="viaf">HEANEY, SEAMUS [RESTRICTED]</persname>
         <ptrgrp>
           <ref>1985 October 24, ALS, 1p w/ envelope</ref>
           <ref>1988 September 12, ALS, 1p w/ envelope and poem "Composed for Harvard's 250th
@@ -15151,7 +15243,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="2335631">HIGGINS, RITA ANN</persname>
+        <persname authfilenumber="2335631" source="viaf">HIGGINS, RITA ANN</persname>
         <ptrgrp>
           <ref>1987 May 30, ALS, 3pps</ref>
           <ref>1987 August 5, ALS, 3pps w/ enclosures: O'Donnell O'Hara to RH, TLS [copy], 1 p, with
@@ -15172,14 +15264,14 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="108232871">HUGHES, TED</persname>
+        <persname authfilenumber="108232871" source="viaf">HUGHES, TED</persname>
         <ptrgrp>
           <ref>1994 February 15, TLS [copy], 1p w/ 6pps of attachments</ref>
           <ref>1996 January 15, 1p</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="24603159">JOHNSTON, JENNIFER</persname>
+        <persname authfilenumber="24603159" source="viaf">JOHNSTON, JENNIFER</persname>
         <ptrgrp>
           <ref>1990 September 11, ACS</ref>
           <ref>1990, ACS</ref>
@@ -15198,19 +15290,19 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="68946198">LARKIN, PHILIP</persname>
+        <persname authfilenumber="68946198" source="viaf">LARKIN, PHILIP</persname>
         <ptrgrp>
           <ref>1982 November, 1p</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="9868894">LEVERTOV, DENISE</persname>
+        <persname authfilenumber="9868894" source="viaf">LEVERTOV, DENISE</persname>
         <ptrgrp>
           <ref>undated, ANS</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="109956735">LONGLEY, EDNA</persname>
+        <persname authfilenumber="109956735" source="viaf">LONGLEY, EDNA</persname>
         <ptrgrp>
           <ref>1985 May 14, ALS, 1p</ref>
           <ref>1990 October 9, 1p</ref>
@@ -15227,7 +15319,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="39398205">LONGLEY, MICHAEL</persname>
+        <persname authfilenumber="39398205" source="viaf">LONGLEY, MICHAEL</persname>
         <ptrgrp>
           <ref>1979 December 18, ACS</ref>
           <ref>1980 May 21, ACS</ref>
@@ -15264,21 +15356,21 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="110228045">MAHON, DEREK</persname>
+        <persname authfilenumber="110228045" source="viaf">MAHON, DEREK</persname>
         <ptrgrp>
           <ref>1983 May 24, ACS</ref>
           <ref>1987 May 23, ACS</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-       <persname source="viaf" authfilenumber="85878653">MACINTYRE, TOM</persname>
+        <persname authfilenumber="85878653" source="viaf">MACINTYRE, TOM</persname>
         <ptrgrp>
           <ref>1989 August 20, ANS with poem "Shaper"</ref>
           <ref>1993 November 5, ANS</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="58320732">MCBREEN, JOAN</persname>
+        <persname authfilenumber="58320732" source="viaf">MCBREEN, JOAN</persname>
         <ptrgrp>
           <ref>1988 December 16, 4pps</ref>
           <ref>1989 March 8, 4pps</ref>
@@ -15409,19 +15501,20 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="115090094">MCCORMACK, W.J. / HUGH MAXTON (NOM DE PLUME)</persname>
+        <persname authfilenumber="115090094" source="viaf">MCCORMACK, W.J. / HUGH MAXTON (NOM DE
+          PLUME)</persname>
         <ptrgrp>
           <ref>1988 May 31, TLS, 1p</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="108638782">MORRISON, BLAKE</persname>
+        <persname authfilenumber="108638782" source="viaf">MORRISON, BLAKE</persname>
         <ptrgrp>
           <ref>1992 June 3, 1p</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-       <persname source="viaf" authfilenumber="108893413">MOTION, ANDREW</persname>
+        <persname authfilenumber="108893413" source="viaf">MOTION, ANDREW</persname>
         <ptrgrp>
           <ref>1981 January 5, post card</ref>
           <ref>1981 May 8, post card</ref>
@@ -15434,7 +15527,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="64048541">MULDOON, PAUL</persname>
+        <persname authfilenumber="64048541" source="viaf">MULDOON, PAUL</persname>
         <ptrgrp>
           <ref>1987 November 23, ALS, 2pps w/ envelope</ref>
           <ref>1989 October 5, ANS w/ envelope</ref>
@@ -15467,7 +15560,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="114019944">NÍ CHUILLEANÁIN, EILÉAN</persname>
+        <persname authfilenumber="114019944" source="viaf">NÍ CHUILLEANÁIN, EILÉAN</persname>
         <ptrgrp>
           <ref>1987 July 2, ALS, 1p</ref>
           <ref>1999 October 18, ALS, 1p</ref>
@@ -15480,7 +15573,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="94779115">NÍ DHOMHNAILL, NUALA</persname>
+        <persname authfilenumber="94779115" source="viaf">NÍ DHOMHNAILL, NUALA</persname>
         <ptrgrp>
           <ref>1986 February 21, ALS, 6pps</ref>
           <ref>1986 May 16, ALS, 3pps</ref>
@@ -15500,7 +15593,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="118976934">O'DRISCOLL, DENNIS</persname>
+        <persname authfilenumber="118976934" source="viaf">O'DRISCOLL, DENNIS</persname>
         <ptrgrp>
           <ref>1983 January 9, 1p</ref>
           <ref>1993 March 3, TLS, 1p w/ enclosures: articles by DD, "At Work: Poet as Civil Servant"
@@ -15536,26 +15629,26 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-       <persname source="viaf" authfilenumber="5069483">O'GRADY, DESMOND</persname>
+        <persname authfilenumber="5069483" source="viaf">O'GRADY, DESMOND</persname>
         <ptrgrp>
           <ref>1989 February 22, ANS w/ 4pps poem "To John Montague at Sixty, February 1989”"</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="49280158">ORMSBY, FRANK</persname>
+        <persname authfilenumber="49280158" source="viaf">ORMSBY, FRANK</persname>
         <ptrgrp>
           <ref>1974 September 8 [to Ciaran Carson], ALS, 2pps w/ poem "On Holiday"</ref>
           <ref>1975 March 2, ALS, 1p w/ envelope</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="33082514">REID, CHRISTOPHER</persname>
+        <persname authfilenumber="33082514" source="viaf">REID, CHRISTOPHER</persname>
         <ptrgrp>
           <ref>1989 January 5, 1p</ref>
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="16565">RICH, ADRIENNE</persname>
+        <persname authfilenumber="16565" source="viaf">RICH, ADRIENNE</persname>
         <ptrgrp>
           <ref>1986 June 3, 2pps</ref>
           <ref>1994 June 13, APS w/ envelope</ref>
@@ -15564,7 +15657,8 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="47073247">ROBINSON, MARY, PRESIDENT OF IRELAND</persname>
+        <persname authfilenumber="47073247" source="viaf">ROBINSON, MARY, PRESIDENT OF
+          IRELAND</persname>
         <ptrgrp>
           <ref>1992 March 12, TNS</ref>
           <ref>1993 April, ACS with envelope</ref>
@@ -15573,7 +15667,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="2601174">SIMMONS, JAMES</persname>
+        <persname authfilenumber="2601174" source="viaf">SIMMONS, JAMES</persname>
         <ptrgrp>
           <ref>1987 August 27, TNS</ref>
           <ref>1991 January 15, ALS, 1p</ref>
@@ -15585,7 +15679,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="1717723">SIMMONS, JANICE</persname>
+        <persname authfilenumber="1717723" source="viaf">SIMMONS, JANICE</persname>
         <ptrgrp>
           <ref>1994 October 10, 1p</ref>
           <ref>1996 September 27, 1p</ref>
@@ -15594,7 +15688,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-        <persname source="viaf" authfilenumber="108450526">VENDLER, HELEN</persname>
+        <persname authfilenumber="108450526" source="viaf">VENDLER, HELEN</persname>
         <ptrgrp>
           <ref>1993 November 2, 1p [See Yeats Summer School Subject File]</ref>
           <ref>1994 February 1, 4pps [See Yeats Summer School Subject File]</ref>
@@ -15602,7 +15696,7 @@
         </ptrgrp>
       </indexentry>
       <indexentry>
-       <persname source="viaf" authfilenumber="92867270">WHEATLEY, DAVID</persname>
+        <persname authfilenumber="92867270" source="viaf">WHEATLEY, DAVID</persname>
         <ptrgrp>
           <ref>1995 December 29, 1p w/ envelope</ref>
           <ref>1996 December 19, Christmas card</ref>

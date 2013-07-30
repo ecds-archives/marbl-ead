@@ -187,8 +187,8 @@
         <persname authfilenumber="31993687" source="viaf">Brodsky, Joseph, 1940-</persname>
         <persname authfilenumber="111397155" source="viaf">Dawe, Gerald, 1952-</persname>
         <persname authfilenumber="108344790" source="viaf">Deane, Seamus, 1940-</persname>
-        <persname authfilenumber="107572951" source="viaf">Dunn, Douglas.</persname> <persname
-          authfilenumber="24613408" source="viaf">Fallon, Peter, 1951-</persname>
+        <persname authfilenumber="107572951" source="viaf">Dunn, Douglas.</persname>
+        <persname authfilenumber="24613408" source="viaf">Fallon, Peter, 1951-</persname>
         <persname authfilenumber="76315726" source="viaf">Friel, Brian.</persname>
         <persname authfilenumber="76363549" source="viaf">Hecht, Anthony, 1923-</persname>
         <persname authfilenumber="108232871" source="viaf">Hughes, Ted, 1930-1998.</persname>
@@ -4350,14 +4350,16 @@
             <did>
               <container type="box">60</container>
               <container type="folder">1</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Agenda_(poetry_journal)"><emph render="italics">Agenda</emph></corpname>, 1984-1995</unittitle>
+              <unittitle><corpname authfilenumber="Agenda_(poetry_journal)" source="dbpedia"><emph
+                    render="italic">Agenda</emph></corpname>, 1984-1995</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">60</container>
               <container type="folder">2</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Atlanta_(magazine)"><emph render="italics">The Atlanta Monthly</emph></corpname>, 1970-2000</unittitle>
+              <unittitle><corpname authfilenumber="Atlanta_(magazine)" source="dbpedia"><emph
+                    render="italic">The Atlanta Monthly</emph></corpname>, 1970-2000</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -4390,7 +4392,8 @@
             <did>
               <container type="box">60</container>
               <container type="folder">6</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="The_Dublin_Review"><emph render="italics">The Dublin Review</emph></corpname>, 2002</unittitle>
+              <unittitle><corpname authfilenumber="The_Dublin_Review" source="dbpedia"><emph
+                    render="italic">The Dublin Review</emph></corpname>, 2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -4501,14 +4504,17 @@
             <did>
               <container type="box">61</container>
               <container type="folder">1</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="The_new_york_review_of_books"><emph render="italics">The New York Review of Books</emph></corpname>, 1979-2002</unittitle>
+              <unittitle><corpname authfilenumber="The_new_york_review_of_books" source="dbpedia"
+                    ><emph render="italic">The New York Review of Books</emph></corpname>,
+                1979-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">2</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="The_new_yorker"><emph render="italics">The New Yorker</emph></corpname>, 1970-2002</unittitle>
+              <unittitle><corpname authfilenumber="The_new_yorker" source="dbpedia"><emph
+                    render="italic">The New Yorker</emph></corpname>, 1970-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -4523,35 +4529,42 @@
             <did>
               <container type="box">61</container>
               <container type="folder">4</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Parnassus_(magazine)"><emph render="italics">Parnassus: Poetry in Review</emph></corpname>, 1982-1995</unittitle>
+              <unittitle><corpname authfilenumber="Parnassus_(magazine)" source="dbpedia"><emph
+                    render="italic">Parnassus: Poetry in Review</emph></corpname>,
+                1982-1995</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">5</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Poetry_magazine"><emph render="italics">Poetry</emph></corpname>, 1995 and undated</unittitle>
+              <unittitle><corpname authfilenumber="Poetry_magazine" source="dbpedia"><emph
+                    render="italic">Poetry</emph></corpname>, 1995 and undated</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">6</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Poetry_Ireland"><emph render="italics">Poetry Ireland</emph></corpname>, 1995-2002</unittitle>
+              <unittitle><corpname authfilenumber="Poetry_Ireland" source="dbpedia"><emph
+                    render="italic">Poetry Ireland</emph></corpname>, 1995-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">7</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="The_Southern_Review"><emph render="italics">The Southern Review</emph></corpname>, 1994-1995</unittitle>
+              <unittitle><corpname authfilenumber="The_Southern_Review" source="dbpedia"><emph
+                    render="italic">The Southern Review</emph></corpname>, 1994-1995</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">61</container>
               <container type="folder">8</container>
-              <unittitle><corpname source="dbpedia" authfilenumber="Times_Literary_Supplement"><emph render="italics">The Times Literary Supplement</emph></corpname>, 1987-2002</unittitle>
+              <unittitle><corpname authfilenumber="Times_Literary_Supplement" source="dbpedia"><emph
+                    render="italic">The Times Literary Supplement</emph></corpname>,
+                1987-2002</unittitle>
             </did>
           </c03>
           <c03 level="file">

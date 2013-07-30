@@ -83,24 +83,40 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Irish poet Derek Mahon met <persname source="viaf" authfilenumber="9071711">Louis Asekoff</persname> in the early 1960s while they were students at
-        <corpname source="dbpedia" authfilenumber="Trinity_College,_Dublin">Trinity College</corpname> in <geogname source="geonames" authfilenumber="2964574">Dublin</geogname>. Louis Asekoff (1939- ), poet and educator, currently coordinates
-        the M.F.A. Program in Poetry at <corpname source="dbpedia" authfilenumber="Brooklyn_College">Brooklyn College</corpname>. His poems have appeared in many magazines,
-        including <corpname source="dbpedia" authfilenumber="The_new_yorker"><emph render="italics">The New Yorker</emph></corpname>, <corpname source="dbpedia" authfilenumber="Poetry_magazine"><emph render="italics">Poetry</emph></corpname>, <corpname source="dbpedia" authfilenumber="Tikkun_(magazine)"><emph render="italics">Tikkun</emph></corpname>,
-        <corpname source="dbpedia" authfilenumber="Salmagundi_(magazine)"><emph render="italics">Salmagundi</emph></corpname>, <corpname source="dbpedia" authfilenumber="Triquarterly"><emph render="italics">Triquarterly</emph></corpname>, and <corpname source="dbpedia" authfilenumber="American_Poetry_Review"><emph render="italics">American Poetry Review</emph></corpname>. He has twice received The American Poetry Review Jerome Shestack Prize for
-        Poetry. He has published two books of poetry, <title>Dreams of a Work</title> (1994) and
-          <title>North Star</title> (1997) by Orchieses Press, <geogname source="dbpedia" authfilenumber="Washington,_D.C.">Washington, D.C.</geogname> He has received
-        poetry fellowships from the <corpname source="dbpedia" authfilenumber="National_Endowment_for_the_Arts">National Endowment for the Arts</corpname>, the <corpname source="dbpedia" authfilenumber="New_York_Foundation_for_the_Arts">New York Foundation for the
-        Arts</corpname>, and The Fund for Poetry.</p>
+      <p>Irish poet Derek Mahon met <persname authfilenumber="9071711" source="viaf">Louis
+          Asekoff</persname> in the early 1960s while they were students at <corpname
+          authfilenumber="Trinity_College,_Dublin" source="dbpedia">Trinity College</corpname> in
+          <geogname authfilenumber="2964574" source="geonames">Dublin</geogname>. Louis Asekoff
+        (1939- ), poet and educator, currently coordinates the M.F.A. Program in Poetry at <corpname
+          authfilenumber="Brooklyn_College" source="dbpedia">Brooklyn College</corpname>. His poems
+        have appeared in many magazines, including <corpname authfilenumber="The_new_yorker"
+          source="dbpedia"><emph render="italic">The New Yorker</emph></corpname>, <corpname
+          authfilenumber="Poetry_magazine" source="dbpedia"><emph render="italic"
+          >Poetry</emph></corpname>, <corpname authfilenumber="Tikkun_(magazine)" source="dbpedia"
+            ><emph render="italic">Tikkun</emph></corpname>, <corpname
+          authfilenumber="Salmagundi_(magazine)" source="dbpedia"><emph render="italic"
+            >Salmagundi</emph></corpname>, <corpname authfilenumber="Triquarterly" source="dbpedia"
+            ><emph render="italic">Triquarterly</emph></corpname>, and <corpname
+          authfilenumber="American_Poetry_Review" source="dbpedia"><emph render="italic">American
+            Poetry Review</emph></corpname>. He has twice received The American Poetry Review Jerome
+        Shestack Prize for Poetry. He has published two books of poetry, <title>Dreams of a
+          Work</title> (1994) and <title>North Star</title> (1997) by Orchieses Press, <geogname
+          authfilenumber="Washington,_D.C." source="dbpedia">Washington, D.C.</geogname> He has
+        received poetry fellowships from the <corpname
+          authfilenumber="National_Endowment_for_the_Arts" source="dbpedia">National Endowment for
+          the Arts</corpname>, the <corpname authfilenumber="New_York_Foundation_for_the_Arts"
+          source="dbpedia">New York Foundation for the Arts</corpname>, and The Fund for Poetry.</p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
-      <p>The collection consists of letters and postcards from Derek Mahon to <persname source="viaf" authfilenumber="9071711">Louis Asekoff</persname> from
-        1963-1988 and reflects their close literary and personal friendship which began when both
-        were students at <corpname source="dbpedia" authfilenumber="Trinity_College,_Dublin">Trinity College, Dublin</corpname> in the early sixties. Mahon's letters include
-        references to poets and poetry, literary ambitions, teaching plans, reading tours, personal
-        relationships, and visits with Asekoff. The collection also includes typscripts of several
-        of Mahon's poems.</p>
+      <p>The collection consists of letters and postcards from Derek Mahon to <persname
+          authfilenumber="9071711" source="viaf">Louis Asekoff</persname> from 1963-1988 and
+        reflects their close literary and personal friendship which began when both were students at
+          <corpname authfilenumber="Trinity_College,_Dublin" source="dbpedia">Trinity College,
+          Dublin</corpname> in the early sixties. Mahon's letters include references to poets and
+        poetry, literary ambitions, teaching plans, reading tours, personal relationships, and
+        visits with Asekoff. The collection also includes typscripts of several of Mahon's
+        poems.</p>
     </scopecontent>
     <arrangement encodinganalog="351">
       <head>Arrangement Note</head>
@@ -110,7 +126,7 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname source="viaf" authfilenumber="9071711">Asekoff, L. S. (Louis S.), 1939-</persname>
+        <persname authfilenumber="9071711" source="viaf">Asekoff, L. S. (Louis S.), 1939-</persname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
@@ -145,7 +161,8 @@
         <did>
           <container type="box">1</container>
           <container type="folder">1</container>
-          <unittitle>Mahon, Derek to <persname source="viaf" authfilenumber="9071711">Asekoff</persname>, 1963 (1 letter)</unittitle>
+          <unittitle>Mahon, Derek to <persname authfilenumber="9071711" source="viaf"
+              >Asekoff</persname>, 1963 (1 letter)</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -298,15 +315,16 @@
         <did>
           <container type="box">1</container>
           <container type="folder">21</container>
-          <unittitle>"A Disused Shed in Co. Wexford (for <persname source="viaf" authfilenumber="76353436">J.G. Farrell</persname>)," TS</unittitle>
+          <unittitle>"A Disused Shed in Co. Wexford (for <persname authfilenumber="76353436"
+              source="viaf">J.G. Farrell</persname>)," TS</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">-</container>
           <container type="folder">-</container>
-          <unittitle>"In Carrowdore Churchyard (at the gave of <persname source="viaf" authfilenumber="46802910">Louis MacNeice</persname>)," TS [See letter of
-            June 23, 1965</unittitle>
+          <unittitle>"In Carrowdore Churchyard (at the gave of <persname authfilenumber="46802910"
+              source="viaf">Louis MacNeice</persname>)," TS [See letter of June 23, 1965</unittitle>
         </did>
       </c01>
       <c01 level="file">

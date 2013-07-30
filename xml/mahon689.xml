@@ -93,7 +93,8 @@
           source="dbpedia">Belfast Royal Academical Institution</corpname> and at <corpname
           authfilenumber="Trinity_College,_Dublin" role="schema:alumniOf" source="dbpedia">Trinity
           College, Dublin</corpname>, where he majored in French (1960-1965). In 1960 he began
-        publishing poems in <corpname source="dbpedia" authfilenumber="Icarus_(magazine)"><emph render="italics">Icarus</emph></corpname>, a student literary magazine, and in 1965 he
+        publishing poems in <corpname authfilenumber="Icarus_(magazine)" source="dbpedia"><emph
+            render="italic">Icarus</emph></corpname>, a student literary magazine, and in 1965 he
         received the Eric Gregory Award for poetry. For the next few years, Mahon held a variety of
         teaching jobs in <geogname authfilenumber="2637761" role="schema:workLocation"
           source="geonames">Ireland</geogname>, <geogname authfilenumber="3333218"
@@ -108,20 +109,29 @@
 
       <p>In 1970 Mahon moved to <geogname authfilenumber="2643743" role="schema:homeLocation"
           source="geonames">London</geogname> where he worked as a free-lance journalist, while also
-        serving as drama critic for the <corpname source="dbpedia" authfilenumber="The_Listener_(magazine)"><emph render="italics">Listener</emph></corpname> (1971-1972) and features editor for
-        <corpname source="dbpedia" authfilenumber="Vogue_magazine"><emph render="italics">Vogue</emph></corpname> (1974-1975). During the early seventies he contributed frequent
-        reviews to the <corpname source="dbpedia" authfilenumber="The_Observer"><emph render="italics">Observer</emph></corpname>, the <corpname source="dbpedia" authfilenumber="The_Listener_(magazine)"><emph render="italics">Listener</emph></corpname>, <corpname source="dbpedia" authfilenumber="New_Statesman"><emph render="italics">New Statesman</emph></corpname>, and the <corpname source="dbpedia" authfilenumber="Times_Literary_Supplement"><emph render="italics">Times Literary Supplement</emph></corpname>. Also during these
-        years he published two more full-length collections of poems, Lives (1972) and <title>The
-          Snow Party</title> (1975). In 1977 he returned to <geogname authfilenumber="2637761"
-          role="schema:homeLocaton" source="geonames">Northern Ireland</geogname> as writer in
-        residence at the <corpname authfilenumber="University of Ulster" role="schema:worksFor"
-          source="dbpedia">New University of Ulster</corpname>, <geogname authfilenumber="Coleraine"
+        serving as drama critic for the <corpname authfilenumber="The_Listener_(magazine)"
+          source="dbpedia"><emph render="italic">Listener</emph></corpname> (1971-1972) and
+        features editor for <corpname authfilenumber="Vogue_magazine" source="dbpedia"><emph
+            render="italic">Vogue</emph></corpname> (1974-1975). During the early seventies he
+        contributed frequent reviews to the <corpname authfilenumber="The_Observer" source="dbpedia"
+            ><emph render="italic">Observer</emph></corpname>, the <corpname
+          authfilenumber="The_Listener_(magazine)" source="dbpedia"><emph render="italic"
+            >Listener</emph></corpname>, <corpname authfilenumber="New_Statesman" source="dbpedia"
+            ><emph render="italic">New Statesman</emph></corpname>, and the <corpname
+          authfilenumber="Times_Literary_Supplement" source="dbpedia"><emph render="italic">Times
+            Literary Supplement</emph></corpname>. Also during these years he published two more
+        full-length collections of poems, Lives (1972) and <title>The Snow Party</title> (1975). In
+        1977 he returned to <geogname authfilenumber="2637761" role="schema:homeLocaton"
+          source="geonames">Northern Ireland</geogname> as writer in residence at the <corpname
+          authfilenumber="University of Ulster" role="schema:worksFor" source="dbpedia">New
+          University of Ulster</corpname>, <geogname authfilenumber="Coleraine"
           role="schema:workLocation" source="dbpedia">Coleraine</geogname>.</p>
 
-      <p>In 1979 a selection of Mahon's early poetry was published by <corpname source="dbpedia" authfilenumber="Oxford_university_press">Oxford University Press</corpname>,
-          <title>Poems</title>, 1962-1978; that same year he took a position with the <corpname
-          authfilenumber="BBC" role="schema:worksFor" source="dbpedia">BBC</corpname> writing
-        adaptations for television. Among his many television adaptations are <persname
+      <p>In 1979 a selection of Mahon's early poetry was published by <corpname
+          authfilenumber="Oxford_university_press" source="dbpedia">Oxford University
+          Press</corpname>, <title>Poems</title>, 1962-1978; that same year he took a position with
+        the <corpname authfilenumber="BBC" role="schema:worksFor" source="dbpedia">BBC</corpname>
+        writing adaptations for television. Among his many television adaptations are <persname
           authfilenumber="24603159" role="schema:colleague" source="viaf">Jennifer
           Johnston</persname>'s <title>Shadows on Our Skin</title> and <title>How Many Miles to
           Babylon?</title>, and Elizabeth Bowen's <title>The Demon Lover</title> and <title>The
@@ -143,7 +153,8 @@
         published his translations of Philippe Jacottet's poetry as <title>Words In the Air</title>.
         His <title>Collected Poems</title>, also published by Gallery, was released in November
         1999; this collection represents, according to the publisher, "the poems the author 'wishes
-        to preserve' from the work of forty years." Some months later, <corpname source="dbpedia" authfilenumber="Penguin_Books">Penguin</corpname> issued a shorter
+        to preserve' from the work of forty years." Some months later, <corpname
+          authfilenumber="Penguin_Books" source="dbpedia">Penguin</corpname> issued a shorter
         collection of his poems in the U.K., entitled <title>Selected Poems</title> (2000).</p>
     </bioghist>
     <scopecontent encodinganalog="520">
@@ -153,13 +164,27 @@
         files, and ephemera from 1948-2008. The papers document Derek Mahon's creative work during
         the last thirty years. In addition, his writing for television and the stage, as well as his
         journalistic writing during this period (including his regular "Letter from New York" which
-        he contributed to <corpname source="dbpedia" authfilenumber="The_Irish_Times"><emph render="italics">The Irish Times</emph></corpname>), are well documented. The papers also
-        include correspondence with other literary figures, including: <persname source="viaf" authfilenumber="7386737">Samuel Beckett</persname>, <persname source="viaf" authfilenumber="26912311">Sara
-        Berkeley</persname>, <persname source="viaf" authfilenumber="107572951">Douglas Dunn</persname>, <persname source="viaf" authfilenumber="24613408">Peter Fallon</persname>, <persname source="viaf" authfilenumber="76315726">Brian Friel</persname>, <persname source="viaf" authfilenumber="60577">Eamon Grennan</persname>, <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname> (letters by
-        Seamus Heaney are closed without the written permission of Seamus Heaney), <persname source="viaf" authfilenumber="76363549">Anthony Hecht</persname>,
-        <persname source="viaf" authfilenumber="166981043">Aidan Higgins</persname>, <persname source="viaf" authfilenumber="39398205">Michael Longley</persname>, <persname source="viaf" authfilenumber="110923132">W.S. Merwin</persname>, <persname source="viaf" authfilenumber="98548196">John Montague</persname>, <persname source="viaf" authfilenumber="36913224">Brian Moore</persname>, <persname source="viaf" authfilenumber="83076151">Harold Pinter</persname>, and
-        <persname source="viaf" authfilenumber="92591927">James Simmons</persname>. Printed material, either by or about Derek Mahon or collected by him, is also
-        present, as are photographs and financial papers from this same period.</p>
+        he contributed to <corpname authfilenumber="The_Irish_Times" source="dbpedia"><emph
+            render="italic">The Irish Times</emph></corpname>), are well documented. The papers
+        also include correspondence with other literary figures, including: <persname
+          authfilenumber="7386737" source="viaf">Samuel Beckett</persname>, <persname
+          authfilenumber="26912311" source="viaf">Sara Berkeley</persname>, <persname
+          authfilenumber="107572951" source="viaf">Douglas Dunn</persname>, <persname
+          authfilenumber="24613408" source="viaf">Peter Fallon</persname>, <persname
+          authfilenumber="76315726" source="viaf">Brian Friel</persname>, <persname
+          authfilenumber="60577" source="viaf">Eamon Grennan</persname>, <persname
+          authfilenumber="109557338" source="viaf">Seamus Heaney</persname> (letters by Seamus
+        Heaney are closed without the written permission of Seamus Heaney), <persname
+          authfilenumber="76363549" source="viaf">Anthony Hecht</persname>, <persname
+          authfilenumber="166981043" source="viaf">Aidan Higgins</persname>, <persname
+          authfilenumber="39398205" source="viaf">Michael Longley</persname>, <persname
+          authfilenumber="110923132" source="viaf">W.S. Merwin</persname>, <persname
+          authfilenumber="98548196" source="viaf">John Montague</persname>, <persname
+          authfilenumber="36913224" source="viaf">Brian Moore</persname>, <persname
+          authfilenumber="83076151" source="viaf">Harold Pinter</persname>, and <persname
+          authfilenumber="92591927" source="viaf">James Simmons</persname>. Printed material, either
+        by or about Derek Mahon or collected by him, is also present, as are photographs and
+        financial papers from this same period.</p>
     </scopecontent>
     <arrangement encodinganalog="351">
       <head>Arrangement Note</head>
@@ -180,25 +205,18 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname source="viaf" encodinganalog="600" authfilenumber="7386737" >Beckett, Samuel</persname>,
-          1906-1989
-        <persname source="viaf" encodinganalog="600" authfilenumber="26912311">Berkeley, Sara</persname>,
-          1967-
-        <persname source="viaf" encodinganalog="600" authfilenumber="76315726">Friel, Brian</persname>,
-          1948-
-        <persname source="viaf" encodinganalog="600" authfilenumber="109557338">Heaney, Seamus</persname>,
-          1939-
-        <persname source="viaf" encodinganalog="600" authfilenumber="76363549">Hecht, Anthony</persname>,
-          1923-2004
-        <persname source="viaf" encodinganalog="600" authfilenumber="39398205">Longley, Michael</persname>,
-          1939-
-        <persname source="viaf" encodinganalog="600" authfilenumber="110923132">Merwin, W. S.
-          (William Stanley)</persname>, 1927-
-        <persname source="viaf" encodinganalog="600" authfilenumber="98548196">Montague,
-          John</persname>.
-        <persname source="viaf" encodinganalog="600" authfilenumber="2601174">Simmons, James</persname>,
-          1933-
-      </controlaccess>
+        <persname authfilenumber="7386737" encodinganalog="600" source="viaf">Beckett,
+          Samuel</persname>, 1906-1989 <persname authfilenumber="26912311" encodinganalog="600"
+          source="viaf">Berkeley, Sara</persname>, 1967- <persname authfilenumber="76315726"
+          encodinganalog="600" source="viaf">Friel, Brian</persname>, 1948- <persname
+          authfilenumber="109557338" encodinganalog="600" source="viaf">Heaney, Seamus</persname>,
+        1939- <persname authfilenumber="76363549" encodinganalog="600" source="viaf">Hecht,
+          Anthony</persname>, 1923-2004 <persname authfilenumber="39398205" encodinganalog="600"
+          source="viaf">Longley, Michael</persname>, 1939- <persname authfilenumber="110923132"
+          encodinganalog="600" source="viaf">Merwin, W. S. (William Stanley)</persname>, 1927-
+          <persname authfilenumber="98548196" encodinganalog="600" source="viaf">Montague,
+          John</persname>. <persname authfilenumber="2601174" encodinganalog="600" source="viaf"
+          >Simmons, James</persname>, 1933- </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
         <subject encodinganalog="650" source="lcsh">English poetry-Irish authors.</subject>
@@ -1229,52 +1247,43 @@
           <did>
             <container type="box">16a</container>
             <container type="folder">1</container>
-            <unittitle><persname source="viaf" authfilenumber="61654493">Cahill, Christopher</persname>, Mahon to</unittitle>
+            <unittitle><persname authfilenumber="61654493" source="viaf">Cahill,
+                Christopher</persname>, Mahon to</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">16a</container>
             <container type="folder">2</container>
-            <unittitle>
-              Heaney, Seamus
-            </unittitle>
+            <unittitle> Heaney, Seamus </unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">16a</container>
             <container type="folder">3</container>
-            <unittitle>
-              Heaney, Seamus
-            </unittitle>
+            <unittitle> Heaney, Seamus </unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">16a</container>
             <container type="folder">4</container>
-            <unittitle>
-              Heaney, Seamus
-            </unittitle>
+            <unittitle> Heaney, Seamus </unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">16a</container>
             <container type="folder">5</container>
-            <unittitle>
-              McGuckian, Medbh
-            </unittitle>
+            <unittitle> McGuckian, Medbh </unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">16a</container>
             <container type="folder">6</container>
-            <unittitle>
-              Montague, John
-            </unittitle>
+            <unittitle> Montague, John </unittitle>
           </did>
         </c02>
         <c02 level="file">

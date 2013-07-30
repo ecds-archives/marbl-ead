@@ -88,16 +88,30 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Derek Mahon was born in <geogname source="geonames" authfilenumber="3333223">Belfast, Northern Ireland</geogname>, on November 23, 1941. He was educated at
-        the <corpname source="dbpedia" authfilenumber="Royal_Belfast_Academical_Institution">Belfast Royal Academical Institution</corpname> and at <corpname source="dbpedia" authfilenumber="Trinity_College,_Dublin">Trinity College, Dublin</corpname>, where he majored in
-        French (1960-1965). In 1960 he began publishing poems in <corpname source="dbpedia" authfilenumber="Icarus_(magazine)"><emph render="italics">Icarus</emph></corpname>, a student
-        literary magazine, and his first collection of poems, the chapbook <title>Twelve
-          Poems</title>, was published five years later by Queens University. <corpname source="dbpedia" authfilenumber="Oxford_university_press">Oxford University
-        Press</corpname> published his first major collection, <title>Night Crossing</title>, in 1968. In
-        addition to his role as poet, Mahon has worked as a free-lance journalist, served as drama
-        critic for the <corpname source="dbpedia" authfilenumber="The_Listener_(magazine)"><emph render="italics">Listener</emph></corpname> (1971-1972) and features editor for
-        <corpname source="dbpedia" authfilenumber="Vogue_(magazine)"><emph render="italics">Vogue</emph></corpname> (1974-1975), contributed reviews to the <corpname source="dbpedia" authfilenumber="Observer_Magazine"><emph render="italics">Observer</emph></corpname>, the
-        <title>Listener</title>, <corpname source="dbpedia" authfilenumber="New_Statesman"><emph render="italics">New Statesman</emph></corpname>, and the <corpname source="dbpedia" authfilenumber="Times_Literary_Supplement"><emph render="italics">Times Literary Supplement</emph></corpname>, and written adaptations for television for the <corpname source="dbpedia" authfilenumber="BBC">BBC</corpname>.</p>
+      <p>Derek Mahon was born in <geogname authfilenumber="3333223" source="geonames">Belfast,
+          Northern Ireland</geogname>, on November 23, 1941. He was educated at the <corpname
+          authfilenumber="Royal_Belfast_Academical_Institution" source="dbpedia">Belfast Royal
+          Academical Institution</corpname> and at <corpname
+          authfilenumber="Trinity_College,_Dublin" source="dbpedia">Trinity College,
+          Dublin</corpname>, where he majored in French (1960-1965). In 1960 he began publishing
+        poems in <corpname authfilenumber="Icarus_(magazine)" source="dbpedia"><emph
+            render="italic">Icarus</emph></corpname>, a student literary magazine, and his first
+        collection of poems, the chapbook <title>Twelve Poems</title>, was published five years
+        later by Queens University. <corpname authfilenumber="Oxford_university_press"
+          source="dbpedia">Oxford University Press</corpname> published his first major collection,
+          <title>Night Crossing</title>, in 1968. In addition to his role as poet, Mahon has worked
+        as a free-lance journalist, served as drama critic for the <corpname
+          authfilenumber="The_Listener_(magazine)" source="dbpedia"><emph render="italic"
+            >Listener</emph></corpname> (1971-1972) and features editor for <corpname
+          authfilenumber="Vogue_(magazine)" source="dbpedia"><emph render="italic"
+          >Vogue</emph></corpname> (1974-1975), contributed reviews to the <corpname
+          authfilenumber="Observer_Magazine" source="dbpedia"><emph render="italic"
+          >Observer</emph></corpname>, the <title>Listener</title>, <corpname
+          authfilenumber="New_Statesman" source="dbpedia"><emph render="italic">New
+            Statesman</emph></corpname>, and the <corpname
+          authfilenumber="Times_Literary_Supplement" source="dbpedia"><emph render="italic">Times
+            Literary Supplement</emph></corpname>, and written adaptations for television for the
+          <corpname authfilenumber="BBC" source="dbpedia">BBC</corpname>.</p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
@@ -105,12 +119,17 @@
         correspondence, literary manuscripts, and some printed material. Among his literary
         manuscripts are drafts of both published and unpublished poems, work on his volume of poems
           <title>Antarctica</title> (1985), scripts and screenplays, and journalistic writing. In
-        addition, this collection documents Mahon's work translating the poems of <persname source="viaf" authfilenumber="49227055">Philippe
-        Jaccottet</persname>, which were collected under the title <title>Selected Poems</title> and published
-        in 1988. Also present in this collection is some correspondence with other literary figures,
-        including <persname source="viaf" authfilenumber="39398205">Michael</persname> and <persname source="viaf" authfilenumber="109956735">Edna Longley</persname> and <persname source="viaf" authfilenumber="120096893">Medbh McGuckian</persname>. Additionally, the collection
-        includes correspondence and printed material relating to Mahon’s six-month appointment in
-        1986 as the first writer in residence at <corpname source="dbpedia" authfilenumber="Trinity_College,_Dublin">Trinity College, Dublin</corpname>. </p>
+        addition, this collection documents Mahon's work translating the poems of <persname
+          authfilenumber="49227055" source="viaf">Philippe Jaccottet</persname>, which were
+        collected under the title <title>Selected Poems</title> and published in 1988. Also present
+        in this collection is some correspondence with other literary figures, including <persname
+          authfilenumber="39398205" source="viaf">Michael</persname> and <persname
+          authfilenumber="109956735" source="viaf">Edna Longley</persname> and <persname
+          authfilenumber="120096893" source="viaf">Medbh McGuckian</persname>. Additionally, the
+        collection includes correspondence and printed material relating to Mahon’s six-month
+        appointment in 1986 as the first writer in residence at <corpname
+          authfilenumber="Trinity_College,_Dublin" source="dbpedia">Trinity College,
+          Dublin</corpname>. </p>
     </scopecontent>
     <arrangement encodinganalog="351">
       <head>Arrangement Note</head>
@@ -120,9 +139,9 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname source="viaf" authfilenumber="109956735">Longley, Edna.</persname>
-        <persname source="viaf" authfilenumber="39398205">Longley, Michael, 1939-</persname>
-        <persname source="viaf" authfilenumber="120096893">McGuckian, Medbh, 1950-</persname>
+        <persname authfilenumber="109956735" source="viaf">Longley, Edna.</persname>
+        <persname authfilenumber="39398205" source="viaf">Longley, Michael, 1939-</persname>
+        <persname authfilenumber="120096893" source="viaf">McGuckian, Medbh, 1950-</persname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
