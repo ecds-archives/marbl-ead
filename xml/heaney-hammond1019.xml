@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21">
-  <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/8zf1p" url="http://pid.emory.edu/ark:/25593/8zf1p">heaney-hammond1019</eadid>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
+    relatedencoding="Dublin Core" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="US" identifier="ark:/25593/8zf1p" mainagencycode="geu-s"
+      url="http://pid.emory.edu/ark:/25593/8zf1p">heaney-hammond1019</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper encodinganalog="Title">Letters to David Hammond,
-			 1968-2005</titleproper>
-        <author encodinganalog="Creator">Manuscript, Archives, and Rare Book
-			 Library, Emory University</author>
+        <titleproper encodinganalog="Title">Letters to David Hammond, 1968-2005</titleproper>
+        <author encodinganalog="Creator">Manuscript, Archives, and Rare Book Library, Emory
+          University</author>
       </titlestmt>
       <publicationstmt>
         <publisher encodinganalog="Publisher">Emory University</publisher>
@@ -18,41 +21,37 @@
           <addressline>404-727-6887</addressline>
           <addressline>marbl@emory.edu</addressline>
         </address>
-        <date encodinganalog="Date" normal="2007-11-12">November 12,
-			 2007</date>
+        <date encodinganalog="Date" normal="2007-11-12">November 12, 2007</date>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded,
-		  <date encodinganalog="Date" normal="2007-11-12">November 12,
-			 2007</date></creation>
+      <creation>Finding aid encoded, <date encodinganalog="Date" normal="2007-11-12">November 12,
+          2007</date></creation>
       <langusage>
-        <language langcode="eng" encodinganalog="Language" scriptcode="Latn">English</language>
+        <language encodinganalog="Language" langcode="eng" scriptcode="Latn">English</language>
       </langusage>
     </profiledesc>
   </eadheader>
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname source="lcnaf" encodinganalog="100">Heaney, Seamus,
-			 1939-</persname>
+        <persname encodinganalog="100" source="lcnaf">Heaney, Seamus, 1939-</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Letters to David Hammond,
-		  <unitdate type="inclusive" encodinganalog="245$f" normal="1968/2005" era="ce" calendar="gregorian">1968-2005</unitdate></unittitle>
-      <unitid countrycode="US" repositorycode="geu-s" identifier="1019">Manuscript Collection No.
-		  1019</unitid>
+      <unittitle encodinganalog="245$a">Letters to David Hammond, <unitdate calendar="gregorian"
+          encodinganalog="245$f" era="ce" normal="1968/2005" type="inclusive"
+        >1968-2005</unitdate></unittitle>
+      <unitid countrycode="US" identifier="1019" repositorycode="geu-s">Manuscript Collection No.
+        1019</unitid>
       <physdesc encodinganalog="300">
         <extent>1.75 linear ft.</extent>
-        <extent>(4
-		  boxes)</extent>
+        <extent>(4 boxes)</extent>
       </physdesc>
-      <abstract>Letters from Irish poet Seamus Heaney to David and Eileen
-		  Hammond, as well as some photographs, printed material, and literary
-		  manuscripts.</abstract>
-      <langmaterial encodinganalog="546">Materials entirely in
-		  <language langcode="eng">English</language>.</langmaterial>
-      <repository encodinganalog="852">Emory University<subarea>Manuscript,
-		  Archives, and Rare Book Library</subarea></repository>
+      <abstract>Letters from Irish poet Seamus Heaney to David and Eileen Hammond, as well as some
+        photographs, printed material, and literary manuscripts.</abstract>
+      <langmaterial encodinganalog="546">Materials entirely in <language langcode="eng"
+          >English</language>.</langmaterial>
+      <repository encodinganalog="852">Emory University<subarea>Manuscript, Archives, and Rare Book
+          Library</subarea></repository>
     </did>
     <acqinfo encodinganalog="541">
       <head>Source</head>
@@ -64,13 +63,12 @@
     </accessrestrict>
     <userestrict encodinganalog="540">
       <head>Terms Governing Use and Reproduction</head>
-      <p>All requests subject to limitations noted in departmental policies on
-		  reproduction.</p>
+      <p>All requests subject to limitations noted in departmental policies on reproduction.</p>
     </userestrict>
     <prefercite encodinganalog="524">
       <head>Citation</head>
-      <p>[after identification of item(s)], Seamus Heaney, Letters to David
-		  Hammond, Manuscript, Archives, and Rare Book Library, Emory University.</p>
+      <p>[after identification of item(s)], Seamus Heaney, Letters to David Hammond, Manuscript,
+        Archives, and Rare Book Library, Emory University.</p>
     </prefercite>
     <processinfo>
       <head>Processing</head>
@@ -84,40 +82,36 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Seamus Heaney was born on April 13, 1939, the eldest child of nine
-		  born to a farming family in County Derry, Northern Ireland. He won a
-		  scholarship to St Columb's College, Derry, beginning an academic career that
-		  would lead, through Queen's University Belfast, where his first books of poems
-		  were written, to positions including Boylston Professor of Rhetoric and Oratory
-		  at Harvard and the Oxford Professor of Poetry. Among his many awards are the
-		  Nobel Prize for Literature 1995 and the Whitbread prize in 1987, 1996 and 1999.
-		  He was made a Commandeur de L'Ordre des Arts et Lettres in 1996. </p>
-      <p>David Hammond, folk singer, radio and film producer, was born in
-		  Belfast, Northern Ireland in 1928. Beginning in the 1950s, Hammond worked for
-		  the British Broadcasting Corporation Northern Ireland (BBC NI) as both a
-		  broadcaster and a film-maker. Hammond, along with Seamus Heaney, Tom Paulin and
-		  Brian Friel, served as directors when the Field Day Theatre was established in
-		  1980. In 1986, Hammond formed Flying Fox Films, an independent company based in
-		  Belfast, which is primarily concerned with the production of television
-		  documentaries about Irish history, literature and culture. </p>
-      <p>Hammond and Heaney collaborated on a number of film and radio projects
-		  for the BBC NI, including "Something to Write Home About," formerly "The
-		  Sluggan." Hammond directed "Something to Write Home About," a television
-		  documentary produced by Fox Films about Seamus Heaney which was aired by the
-		  BBC NI in 1998. </p>
+      <p>Seamus Heaney was born on April 13, 1939, the eldest child of nine born to a farming family
+        in <geogname source="geonames" authfilenumber="2643735">County Derry, Northern Ireland</geogname>. He won a scholarship to <corpname source="dbpedia" authfilenumber="St_Columb%27s_College">St Columb's College</corpname>, Derry,
+        beginning an academic career that would lead, through <corpname source="dbpedia" authfilenumber="Queens_University_Belfast">Queen's University Belfast</corpname>, where his
+        first books of poems were written, to positions including Boylston Professor of Rhetoric and
+        Oratory at <corpname source="dbpedia" authfilenumber="Harvard_university">Harvard</corpname> and the <persname source="dbpedia" authfilenumber="Oxford_university">Oxford</persname> Professor of Poetry. Among his many awards are the Nobel
+        Prize for Literature 1995 and the Whitbread prize in 1987, 1996 and 1999. He was made a
+        Commandeur de L'Ordre des Arts et Lettres in 1996. </p>
+      <p>David Hammond, folk singer, radio and film producer, was born in <geogname source="geonames" authfilenumber="2655984">Belfast, Northern Ireland</geogname>
+        in 1928. Beginning in the 1950s, Hammond worked for the British Broadcasting Corporation
+        Northern Ireland (BBC NI) as both a broadcaster and a film-maker. Hammond, along with Seamus
+        Heaney, <persname source="viaf" authfilenumber="108291535">Tom Paulin</persname> and <persname source="viaf" authfilenumber="76315726">Brian Friel</persname>, served as directors when the <corpname source="dbpedia" authfilenumber="Field_Day_Theatre_Company">Field Day Theatre</corpname> was
+        established in 1980. In 1986, Hammond formed <corpname source="viaf" authfilenumber="126800954">Flying Fox Films</corpname>, an independent company based
+        in Belfast, which is primarily concerned with the production of television documentaries
+        about Irish history, literature and culture. </p>
+      <p>Hammond and Heaney collaborated on a number of film and radio projects for the <corpname source="dbpedia" authfilenumber="BBC_Northern_Ireland">BBC NI</corpname>,
+        including "Something to Write Home About," formerly "The Sluggan." Hammond directed
+        "Something to Write Home About," a television documentary produced by <corpname source="dbpedia" authfilenumber="Fox_Broadcasting_Company">Fox</corpname> Films about Seamus
+        Heaney which was aired by the BBC NI in 1998. </p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
-      <p>The collection primarily consists of letters from Seamus Heaney to
-		  David and Eileen Hammond from 1968-2005. There are approximately 50 letters and
-		  250 postcards (a favorite form of correspondence for Heaney) from Heaney during
-		  his affiliations with the University of California, Berkeley and Harvard
-		  University, and while traveling in England and abroad. The collection also
-		  includes photographs, printed material, and literary manuscripts. The literary
-		  manuscripts include holograph drafts, corrected typescripts, and faxes or
-		  photocopies of early typescripts of published and unpublished poems, prose
-		  writings, and radio and film scripts. The draft scripts include "Something to
-		  Write Home About" and a subsequent draft text intended for publication.</p>
+      <p>The collection primarily consists of letters from Seamus Heaney to David and Eileen Hammond
+        from 1968-2005. There are approximately 50 letters and 250 postcards (a favorite form of
+        correspondence for Heaney) from Heaney during his affiliations with the <corpname source="dbpedia" authfilenumber="University_of_California,_Berkeley">University of
+          California, Berkeley</corpname> and <corpname source="dbpedia" authfilenumber="Harvard_university">Harvard University</corpname>, and while traveling in <geogname source="geonames" authfilenumber="6269131">England</geogname> and abroad. The
+        collection also includes photographs, printed material, and literary manuscripts. The
+        literary manuscripts include holograph drafts, corrected typescripts, and faxes or
+        photocopies of early typescripts of published and unpublished poems, prose writings, and
+        radio and film scripts. The draft scripts include "Something to Write Home About" and a
+        subsequent draft text intended for publication.</p>
     </scopecontent>
     <arrangement encodinganalog="351">
       <head>Arrangement Note</head>
@@ -125,30 +119,29 @@
     </arrangement>
     <separatedmaterial encodinganalog="544 0">
       <head>Related Materials in This Repository</head>
-      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8zf2t">Seamus Heaney collection</extref> and
-      <extref xlink:href="http://pid.emory.edu/ark:/25593/8zf3z">Seamus Heaney papers</extref></p>
+      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/8zf2t">Seamus Heaney
+          collection</extref> and <extref xlink:href="http://pid.emory.edu/ark:/25593/8zf3z">Seamus
+          Heaney papers</extref></p>
     </separatedmaterial>
     <controlaccess>
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Topical Terms</head>
-        <subject source="lcsh" encodinganalog="650">English poetry--Irish
-			 authors.</subject>
-        <subject source="lcsh" encodinganalog="650">Poets, Irish--20th
-			 century.</subject>
+        <subject encodinganalog="650" source="lcsh">English poetry--Irish authors.</subject>
+        <subject encodinganalog="650" source="lcsh">Poets, Irish--20th century.</subject>
       </controlaccess>
       <controlaccess>
         <head>Form/Genre Terms</head>
-        <genreform source="aat" encodinganalog="655">Manuscripts.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform encodinganalog="655" source="aat">Manuscripts.</genreform>
+        <genreform encodinganalog="655" source="aat">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="in-depth">
       <head>Container List</head>
       <c01 level="file">
         <did>
-          <unittitle>Correspondence: Seamus Heaney to David and Eileen
-				Hammond [RESTRICTED]</unittitle>
+          <unittitle>Correspondence: Seamus Heaney to David and Eileen Hammond
+            [RESTRICTED]</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -207,9 +200,8 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>
-				Collected Poems: <title>No Man's Land</title> [variant title: Wintering Out (1972)],
-				carbon copy of early draft </unittitle>
+          <unittitle> Collected Poems: <title>No Man's Land</title> [variant title: Wintering Out
+            (1972)], carbon copy of early draft </unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -223,16 +215,14 @@
         <did>
           <container type="box">2</container>
           <container type="folder">3</container>
-          <unittitle>"Anahorish" and "Broagh," original typescript with
-				revision</unittitle>
+          <unittitle>"Anahorish" and "Broagh," original typescript with revision</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">2</container>
           <container type="folder">4</container>
-          <unittitle>"Aubade," [variant title: "Summer Home"],
-				typescript</unittitle>
+          <unittitle>"Aubade," [variant title: "Summer Home"], typescript</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -246,8 +236,7 @@
         <did>
           <container type="box">2</container>
           <container type="folder">6</container>
-          <unittitle>"Bathing," typescript [variant title: "Summer
-				Home"]</unittitle>
+          <unittitle>"Bathing," typescript [variant title: "Summer Home"]</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -261,8 +250,7 @@
         <did>
           <container type="box">2</container>
           <container type="folder">8</container>
-          <unittitle>"Community Relations," typescript [variant title: "The
-				Other Side"]</unittitle>
+          <unittitle>"Community Relations," typescript [variant title: "The Other Side"]</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -381,9 +369,8 @@
         <did>
           <container type="box">2</container>
           <container type="folder">25</container>
-          <unittitle>"A Northern Hoard," typescript includes "Roots," "
-				<title>No Man's Land</title>," "Stump," "No Sanctuary," and
-				"Tinder"</unittitle>
+          <unittitle>"A Northern Hoard," typescript includes "Roots," " <title>No Man's
+            Land</title>," "Stump," "No Sanctuary," and "Tinder"</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -472,16 +459,14 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>
-				Collected Poems:  <title>North</title> (1975)</unittitle>
+          <unittitle> Collected Poems: <title>North</title> (1975)</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">2</container>
           <container type="folder">38</container>
-          <unittitle>"Exposure," typescript, signed by Seamus Heaney, December
-				18, 1973 </unittitle>
+          <unittitle>"Exposure," typescript, signed by Seamus Heaney, December 18, 1973 </unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -493,9 +478,8 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>
-				Collected Poems: <title>Field Work</title> (1979), photocopies and carbon copies of
-				early drafts</unittitle>
+          <unittitle> Collected Poems: <title>Field Work</title> (1979), photocopies and carbon
+            copies of early drafts</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -544,8 +528,7 @@
         <did>
           <container type="box">2</container>
           <container type="folder">46</container>
-          <unittitle>"Field Work," typescripts (missing section III)
-				</unittitle>
+          <unittitle>"Field Work," typescripts (missing section III) </unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -636,9 +619,9 @@
         <did>
           <container type="box">2</container>
           <container type="folder">59</container>
-          <unittitle>"The Seals," [variant title: "The Singer's House"]
-				original typescript with inscription to David and Eileen by Heaney, August 15,
-				1976; photocopied typescript of "The Singer's House"</unittitle>
+          <unittitle>"The Seals," [variant title: "The Singer's House"] original typescript with
+            inscription to David and Eileen by Heaney, August 15, 1976; photocopied typescript of
+            "The Singer's House"</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -673,8 +656,8 @@
         <did>
           <container type="box">2</container>
           <container type="folder">64</container>
-          <unittitle>"Triptych," includes "After a Killing," "Sibyl," "Song of
-				Erne," [variant title: "At the Water's Edge"], typescripts</unittitle>
+          <unittitle>"Triptych," includes "After a Killing," "Sibyl," "Song of Erne," [variant
+            title: "At the Water's Edge"], typescripts</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -693,38 +676,35 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:
-				<title>An Open Letter</title> (1983)</unittitle>
+          <unittitle>Collected Poems: <title>An Open Letter</title> (1983)</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">2</container>
           <container type="folder">67</container>
-          <unittitle>Four photocopied early typescript drafts with
-				revisions</unittitle>
+          <unittitle>Four photocopied early typescript drafts with revisions</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:
-				<title>Station Island</title> (1984)</unittitle>
+          <unittitle>Collected Poems: <title>Station Island</title> (1984)</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">2</container>
           <container type="folder">68</container>
-          <unittitle>"The Loaning," typescript with inscription to David
-				Hammond and signed by Seamus Heaney, January 3, 1981 </unittitle>
+          <unittitle>"The Loaning," typescript with inscription to David Hammond and signed by
+            Seamus Heaney, January 3, 1981 </unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">2</container>
           <container type="folder">69</container>
-          <unittitle>"Sandstone," typescript, signed by Heaney, June 8, 1983,
-				[variant title "Sandstone Keepsake"] </unittitle>
+          <unittitle>"Sandstone," typescript, signed by Heaney, June 8, 1983, [variant title
+            "Sandstone Keepsake"] </unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -736,24 +716,21 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:
-				<title>The Cure at Troy: a Version of Sophocles'
-				  Philoctetes</title> (1990)</unittitle>
+          <unittitle>Collected Poems: <title>The Cure at Troy: a Version of Sophocles'
+              Philoctetes</title> (1990)</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">2</container>
           <container type="folder">71</container>
-          <unittitle>Early photocopied typescript draft with
-				revisions</unittitle>
+          <unittitle>Early photocopied typescript draft with revisions</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:
-				<title>Seeing Things</title> (1991), photocopies of early
-				drafts</unittitle>
+          <unittitle>Collected Poems: <title>Seeing Things</title> (1991), photocopies of early
+            drafts</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -767,16 +744,15 @@
         <did>
           <container type="box">2</container>
           <container type="folder">73</container>
-          <unittitle>"Casting and Gathering," typescript draft with
-				revisions</unittitle>
+          <unittitle>"Casting and Gathering," typescript draft with revisions</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">2</container>
           <container type="folder">74</container>
-          <unittitle>"Crossings," typescript with revisions [
-				<title>Squarings</title> (2003)]</unittitle>
+          <unittitle>"Crossings," typescript with revisions [ <title>Squarings</title>
+            (2003)]</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -811,8 +787,7 @@
         <did>
           <container type="box">2</container>
           <container type="folder">79</container>
-          <unittitle>["Offings," typescript; variant titles "Settings" and
-				"Squarings"]</unittitle>
+          <unittitle>["Offings," typescript; variant titles "Settings" and "Squarings"]</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -875,16 +850,16 @@
         <did>
           <container type="box">2</container>
           <container type="folder">88</container>
-          <unittitle>"Three Drawings" includes "The Point," "The Pulse," and "A
-				Haul," photocopied typescripts</unittitle>
+          <unittitle>"Three Drawings" includes "The Point," "The Pulse," and "A Haul," photocopied
+            typescripts</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">2</container>
           <container type="folder">89</container>
-          <unittitle>"Three Quatrains," includes "1939," "Pussy Willows," "The
-				Rescue," photocopied typescripts</unittitle>
+          <unittitle>"Three Quatrains," includes "1939," "Pussy Willows," "The Rescue," photocopied
+            typescripts</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -896,18 +871,16 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:
-				<title>The Spirit Level</title> (1996), photocopies of original
-				draft </unittitle>
+          <unittitle>Collected Poems: <title>The Spirit Level</title> (1996), photocopies of
+            original draft </unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">1</container>
-          <unittitle>Title page, table of contents, and acknowledgements
-				together with letter from Roxann Brown to David Hammond, 28 June 1995,
-				typescripts</unittitle>
+          <unittitle>Title page, table of contents, and acknowledgements together with letter from
+            Roxann Brown to David Hammond, 28 June 1995, typescripts</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -970,8 +943,7 @@
         <did>
           <container type="box">3</container>
           <container type="folder">10</container>
-          <unittitle>"A Dog Was Crying To-Night in Wicklow Also,"
-				typescript</unittitle>
+          <unittitle>"A Dog Was Crying To-Night in Wicklow Also," typescript</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -999,8 +971,7 @@
         <did>
           <container type="box">3</container>
           <container type="folder">14</container>
-          <unittitle>"Four Finger Exercise: The Thimble,"
-				typescript</unittitle>
+          <unittitle>"Four Finger Exercise: The Thimble," typescript</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -1159,9 +1130,8 @@
       </c01>
       <c01 level="file">
         <did>
-          <unittitle>Collected Poems:
-				<title>The Door Stands Open: Czeslaw Milosz, 1911-2004</title>
-				(2005)</unittitle>
+          <unittitle>Collected Poems: <title>The Door Stands Open: Czeslaw Milosz, 1911-2004</title>
+            (2005)</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -1187,41 +1157,40 @@
         <did>
           <container type="box">3</container>
           <container type="folder">39</container>
-          <unittitle>"A Cart for Edward Gallagher," photocopy from unidentified
-				published source</unittitle>
+          <unittitle>"A Cart for Edward Gallagher," photocopy from unidentified published
+            source</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">40</container>
-          <unittitle>"From Chekov's Donegal Journal," carbon typescript with
-				handwritten inscription to David Hammond and Eileen, July 1981</unittitle>
+          <unittitle>"From Chekov's Donegal Journal," carbon typescript with handwritten inscription
+            to David Hammond and Eileen, July 1981</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">41</container>
-          <unittitle>"Dialogues," carbon typescript with handwritten note by
-				Seamus Heaney</unittitle>
+          <unittitle>"Dialogues," carbon typescript with handwritten note by Seamus
+            Heaney</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">42</container>
-          <unittitle>"A Dream of Solstice," typescript facsimile, midwinter at
-				Newgrange, 1999; [first published in The Kenyon Review, Winter
-				2001]</unittitle>
+          <unittitle>"A Dream of Solstice," typescript facsimile, midwinter at Newgrange, 1999;
+            [first published in The Kenyon Review, Winter 2001]</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">43</container>
-          <unittitle>"Dream of the Trenches," with handwritten note by David
-				Hammond, clipping from unidentified published source</unittitle>
+          <unittitle>"Dream of the Trenches," with handwritten note by David Hammond, clipping from
+            unidentified published source</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -1235,49 +1204,49 @@
         <did>
           <container type="box">3</container>
           <container type="folder">45</container>
-          <unittitle>"Going Back," original typescript with note to David
-				Hammond signed by Seamus Heaney, 26 July 1982</unittitle>
+          <unittitle>"Going Back," original typescript with note to David Hammond signed by Seamus
+            Heaney, 26 July 1982</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">46</container>
-          <unittitle>"The Lesson," photocopied typescript with handwritten
-				inscription to David Hammond, 25 February 1998, two copies</unittitle>
+          <unittitle>"The Lesson," photocopied typescript with handwritten inscription to David
+            Hammond, 25 February 1998, two copies</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">47</container>
-          <unittitle>"Postcards," handwritten on verso of calendar for month of
-				December 1984</unittitle>
+          <unittitle>"Postcards," handwritten on verso of calendar for month of December
+            1984</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">48</container>
-          <unittitle>"The Professor of Poetry's After-Dinner Remarks
-				Ventriloquized in the Style of Percy French's ‘The Queen's After-Dinner
-				Speech," typescript signed by Seamus Heaney, May 18, 1994</unittitle>
+          <unittitle>"The Professor of Poetry's After-Dinner Remarks Ventriloquized in the Style of
+            Percy French's ‘The Queen's After-Dinner Speech," typescript signed by Seamus Heaney,
+            May 18, 1994</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">49</container>
-          <unittitle>"A Shuttle for Big D., 5 October 1993," a birthday poem
-				for David Hammond, holograph with inscription by Seamus Heaney</unittitle>
+          <unittitle>"A Shuttle for Big D., 5 October 1993," a birthday poem for David Hammond,
+            holograph with inscription by Seamus Heaney</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">50</container>
-          <unittitle>Un-titled poem with first line "There was a young man from
-				Belfast," photocopied typescript, 2 copies </unittitle>
+          <unittitle>Un-titled poem with first line "There was a young man from Belfast,"
+            photocopied typescript, 2 copies </unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -1289,94 +1258,90 @@
         <did>
           <container type="box">3</container>
           <container type="folder">51</container>
-          <unittitle>Address (includes poem) for launch of "Campaign for
-				Queens", photocopied typescript, November 8, 2001; a campaign to provide
-				funding for new capital, academic, and community initiatives at Queens
-				University of Belfast</unittitle>
+          <unittitle>Address (includes poem) for launch of "Campaign for Queens", photocopied
+            typescript, November 8, 2001; a campaign to provide funding for new capital, academic,
+            and community initiatives at Queens University of Belfast</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">52</container>
-          <unittitle>Biographical note for Seamus Heaney, photocopied
-				typescript, [1984]</unittitle>
+          <unittitle>Biographical note for Seamus Heaney, photocopied typescript, [1984]</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">53</container>
-          <unittitle>"Explorations," typescripts with Seamus Heaney's
-				handwritten notes on broadcasts together with typing instructions from David
-				Hammond to [Marie], 9 September 1973; a series of ten BBC radio broadcasts on
-				literary themes with introductions by Heaney, 1973-1974</unittitle>
+          <unittitle>"Explorations," typescripts with Seamus Heaney's handwritten notes on
+            broadcasts together with typing instructions from David Hammond to [Marie], 9 September
+            1973; a series of ten BBC radio broadcasts on literary themes with introductions by
+            Heaney, 1973-1974</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">54</container>
-          <unittitle><title>The Government of the Tongue</title>, original draft,
-				typescript introduction with note to David Hammond, October 1, 1987</unittitle>
+          <unittitle><title>The Government of the Tongue</title>, original draft, typescript
+            introduction with note to David Hammond, October 1, 1987</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">55</container>
-          <unittitle><title>Lord of the Flies</title>, holograph teaching
-				notes</unittitle>
+          <unittitle><title>Lord of the Flies</title>, holograph teaching notes</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">56</container>
-          <unittitle>"Mary Holland," typescript with revisions; Seamus Heaney's
-				eulogy at Holland's funeral, June 7, 2004</unittitle>
+          <unittitle>"Mary Holland," typescript with revisions; Seamus Heaney's eulogy at Holland's
+            funeral, June 7, 2004</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">57</container>
-          <unittitle>Obituary for Stewart Parker by Seamus Heaney, typescript
-				photocopy with revisions, November 2 1988</unittitle>
+          <unittitle>Obituary for Stewart Parker by Seamus Heaney, typescript photocopy with
+            revisions, November 2 1988</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">58</container>
-          <unittitle><title>The People of the Sea: Celtic Tales of the Seal Folk</title>
-				by David Thomson (2001): Introduction by Seamus Heaney, facsimile typescript
-				with revisions </unittitle>
+          <unittitle><title>The People of the Sea: Celtic Tales of the Seal Folk</title> by David
+            Thomson (2001): Introduction by Seamus Heaney, facsimile typescript with revisions
+          </unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">59</container>
-          <unittitle>Seamus Heaney's eulogy at the funeral of Paddy Falloon,
-				June 2003, typescript </unittitle>
+          <unittitle>Seamus Heaney's eulogy at the funeral of Paddy Falloon, June 2003, typescript
+          </unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">60</container>
-          <unittitle>"The Singer's House," Seamus Heaney's review of record by
-				David Hammond and Donal Lunny, typescript with revisions, May Day
-				1978</unittitle>
+          <unittitle>"The Singer's House," Seamus Heaney's review of record by David Hammond and
+            Donal Lunny, typescript with revisions, May Day 1978</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">61</container>
-          <unittitle><title>A Way of Life like Any Other</title> by Darcy O'Brien
-				(2001): Introduction by Seamus Heaney, facsimile typescript</unittitle>
+          <unittitle><title>A Way of Life like Any Other</title> by Darcy O'Brien (2001):
+            Introduction by Seamus Heaney, facsimile typescript</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -1388,50 +1353,49 @@
         <did>
           <container type="box">3</container>
           <container type="folder">62</container>
-          <unittitle>Boyne Valley radio program, handwritten notes and
-				typescript, undated</unittitle>
+          <unittitle>Boyne Valley radio program, handwritten notes and typescript,
+            undated</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">63</container>
-          <unittitle>"I am of Irlande," original first draft, typed radio
-				script with revisions, 1971</unittitle>
+          <unittitle>"I am of Irlande," original first draft, typed radio script with revisions,
+            1971</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">64</container>
-          <unittitle>"Islandman," handwritten [radio script?] with typed
-				insertions, undated </unittitle>
+          <unittitle>"Islandman," handwritten [radio script?] with typed insertions, undated
+          </unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">65</container>
-          <unittitle>"Something to Write Home About," formerly "
-				<title>The Sluggan</title>," television film script and proposal,
-				drafts, notes, correspondence, 1996-2002</unittitle>
+          <unittitle>"Something to Write Home About," formerly " <title>The Sluggan</title>,"
+            television film script and proposal, drafts, notes, correspondence,
+            1996-2002</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">66</container>
-          <unittitle>"Something to Write Home About," first and second drafts
-				revised text prepared for publication by David Hammond, typescript,
-				1998</unittitle>
+          <unittitle>"Something to Write Home About," first and second drafts revised text prepared
+            for publication by David Hammond, typescript, 1998</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">3</container>
           <container type="folder">67</container>
-          <unittitle>"Ulster in Focus: The Loughsiders," typed film script,
-				1972, narrated by Seamus Heaney and produced by David Hammond</unittitle>
+          <unittitle>"Ulster in Focus: The Loughsiders," typed film script, 1972, narrated by Seamus
+            Heaney and produced by David Hammond</unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -1443,95 +1407,91 @@
         <did>
           <container type="box">4</container>
           <container type="folder">1</container>
-          <unittitle>Seamus Heaney, with others including children, Christmas,
-				1971, three color photographs</unittitle>
+          <unittitle>Seamus Heaney, with others including children, Christmas, 1971, three color
+            photographs</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">2</container>
-          <unittitle>Seamus Heaney, with others, Christmas, 1972, two black and
-				white photographs</unittitle>
+          <unittitle>Seamus Heaney, with others, Christmas, 1972, two black and white
+            photographs</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">3</container>
-          <unittitle>Seamus Heaney visiting Hugh MacDiarmid and his wife Zelda
-				with D.H. and Trevor Royle, [Southern Uplands] near [Galashiels], 1977, seven
-				black and white photographs</unittitle>
+          <unittitle>Seamus Heaney visiting <persname source="viaf" authfilenumber="17217819">Hugh MacDiarmid</persname> and his wife Zelda with D.H. and Trevor
+            Royle, [Southern Uplands] near [Galashiels], 1977, seven black and white
+            photographs</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">4</container>
-          <unittitle>Seamus Heaney after the release of the record
-				<title>The Singer's House</title>, 1978, three black and white
-				photographs</unittitle>
+          <unittitle>Seamus Heaney after the release of the record <title>The Singer's
+            House</title>, 1978, three black and white photographs</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">5</container>
-          <unittitle>Seamus Heaney, and others filming in the Boyne Valley at
-				Newgrange, autumn 1979, five color photographs</unittitle>
+          <unittitle>Seamus Heaney, and others filming in the Boyne Valley at <geogname source="geonames" authfilenumber="2962272">Newgrange</geogname>, autumn
+            1979, five color photographs</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">6</container>
-          <unittitle>Seamus Heaney, after a reading in Syracuse, NY while
-				staying with Dan Casey, 1979, five black and white photographs</unittitle>
+          <unittitle>Seamus Heaney, after a reading in <geogname source="geonames" authfilenumber="5140405">Syracuse, NY</geogname> while staying with <persname source="viaf" authfilenumber="31423528">Dan Casey</persname>,
+            1979, five black and white photographs</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">7</container>
-          <unittitle>Seamus Heaney, visiting farm with children, [1970s], five
-				black and white photographs; photographer: Jim Bennett</unittitle>
+          <unittitle>Seamus Heaney, visiting farm with children, [1970s], five black and white
+            photographs; photographer: <persname source="viaf" authfilenumber="80698663">Jim Bennett</persname></unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">8</container>
-          <unittitle>Seamus Heaney and others at Derek Hill's Studio,
-				McPheeter's Farm near [Garthas], Co. Donegal; Faber had commissioned Derek Hill
-				to paint a portrait of Seamus for his 50th birthday, 1989, four color
-				photographs</unittitle>
+          <unittitle>Seamus Heaney and others at <persname source="viaf" authfilenumber="91962784">Derek Hill</persname>'s Studio, McPheeter's Farm near
+            [Garthas], Co. <geogname source="geonames" authfilenumber="2964751">Donegal</geogname>; <corpname source="dbpedia" authfilenumber="Faber_and_Faber">Faber</corpname> had commissioned Derek Hill to paint a portrait of Seamus
+            for his 50th birthday, 1989, four color photographs</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">9</container>
-          <unittitle>Seamus Heaney and David Hammond visiting Master McGrath
-				monument near [Dungarran,] Co. Waterford, 1993, eight color
-				photographs</unittitle>
+          <unittitle>Seamus Heaney and David Hammond visiting Master McGrath monument near
+            [Dungarran,] Co. <geogname source="geonames" authfilenumber="2960992">Waterford</geogname>, 1993, eight color photographs</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">10</container>
-          <unittitle>Seamus Heaney's Nobel Prize homecoming celebration with
-				family and friends, Roley's Bistro, Dublin, November, 1995, 26 color
-				photographs</unittitle>
+          <unittitle>Seamus Heaney's Nobel Prize homecoming celebration with family and friends,
+            Roley's Bistro, <geogname source="geonames" authfilenumber="2964574">Dublin</geogname>, November, 1995, 26 color photographs</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">11</container>
-          <unittitle>Mechanical harvesting of a peat bog, Ireland, undated,
-				three black and white photographs; photographers: Rex Roberts Studios Ltd. and
-				Deegan Photo Ltd., Dublin </unittitle>
+          <unittitle>Mechanical harvesting of a peat bog, Ireland, undated, three black and white
+            photographs; photographers: Rex Roberts Studios Ltd. and Deegan Photo Ltd., Dublin
+          </unittitle>
         </did>
       </c01>
       <c01 level="file">
@@ -1543,24 +1503,24 @@
         <did>
           <container type="box">4</container>
           <container type="folder">12</container>
-          <unittitle>"In Their Element: a Programme of Poetry by Seamus Heaney
-				&amp; Derek Mahon," brochure for reading tour, [1977]</unittitle>
+          <unittitle>"In Their Element: a Programme of Poetry by Seamus Heaney &amp; Derek Mahon,"
+            brochure for reading tour, [1977]</unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">13</container>
-          <unittitle>Published obituaries from various newspapers including one
-				in Polish for the Polish poet Czeslaw Milosz, August 2004 </unittitle>
+          <unittitle>Published obituaries from various newspapers including one in Polish for the
+            Polish poet <persname source="viaf" authfilenumber="110389400">Czeslaw Milosz</persname>, August 2004 </unittitle>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="box">4</container>
           <container type="folder">14</container>
-          <unittitle>Cartoon from unknown published source with caption in
-				[Hammond’s] hand, undated</unittitle>
+          <unittitle>Cartoon from unknown published source with caption in [Hammond’s] hand,
+            undated</unittitle>
         </did>
       </c01>
     </dsc>
