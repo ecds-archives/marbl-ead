@@ -4579,7 +4579,7 @@
             <did>
               <container type="box">61</container>
               <container type="folder">10</container>
-              <unittitle><corpname authfilenumber="W._W._Norton_&_Company" source="dbpedia">W.W.
+              <unittitle><corpname authfilenumber="W._W._Norton_&amp;_Company" source="dbpedia">W.W.
                   Norton &amp; Company</corpname>, 1977-2000</unittitle>
             </did>
           </c03>

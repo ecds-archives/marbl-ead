@@ -12741,7 +12741,7 @@
                         <did>
                             <container type="box">64</container>
                             <container type="folder">4</container>
-                            <unittitle>Magazines and Journals: <corpname source="dbpedia" authfilenumber="Fortnight_Magazine"><emph render="italics">Fortnight</emph></corpname> [includes
+                            <unittitle>Magazines and Journals: <corpname source="dbpedia" authfilenumber="Fortnight_Magazine"><emph render="italic">Fortnight</emph></corpname> [includes
                                 Fortnight Educational Trust correspondence]</unittitle>
                         </did>
                     </c03>
@@ -12758,7 +12758,7 @@
                         <did>
                             <container type="box">64</container>
                             <container type="folder">6</container>
-                            <unittitle>Magazines and Journals: <corpname source="dbpedia" authfilenumber="Š"><emph render="italics">The Honest Ulsterman</emph></corpname>
+                            <unittitle>Magazines and Journals: <corpname source="dbpedia" authfilenumber="Š"><emph render="italic">The Honest Ulsterman</emph></corpname>
 
                             </unittitle>
                         </did>
@@ -12775,7 +12775,7 @@
                         <did>
                             <container type="box">64</container>
                             <container type="folder">8</container>
-                            <unittitle>Magazines and Journals: <corpname source="dbpedia" authfilenumber="Poetry_Ireland_Review"><emph render="italics">Poetry Ireland</emph></corpname>
+                            <unittitle>Magazines and Journals: <corpname source="dbpedia" authfilenumber="Poetry_Ireland_Review"><emph render="italic">Poetry Ireland</emph></corpname>
                             </unittitle>
                         </did>
                     </c03>

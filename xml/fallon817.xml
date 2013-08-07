@@ -20328,7 +20328,7 @@
           <did>
             <container type="box">174</container>
             <container type="folder">3</container>
-            <unittitle>National Theatre Company / <corpname source="dbpedia" authfilenumber="The_Abbey_Theatre">>The Abbey Theatre</corpname</unittitle>
+            <unittitle>National Theatre Company / <corpname source="dbpedia" authfilenumber="The_Abbey_Theatre">The Abbey Theatre</corpname></unittitle>
           </did>
         </c02>
         <c02 level="file">
