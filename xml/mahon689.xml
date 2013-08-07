@@ -89,7 +89,7 @@
       <p>Derek Mahon was born in <geogname authfilenumber="3333223" role="dbp:birthPlace"
           source="geonames">Belfast, Northern Ireland</geogname>, on <date normal="1941-11-23"
           type="schema:birthDate">November 23, 1941</date>. He was educated at the <corpname
-          authfilenumber="Royal Belfast Academical Institution" role="schema:alumniOf"
+          authfilenumber="Royal_Belfast_Academical_Institution" role="schema:alumniOf"
           source="dbpedia">Belfast Royal Academical Institution</corpname> and at <corpname
           authfilenumber="Trinity_College,_Dublin" role="schema:alumniOf" source="dbpedia">Trinity
           College, Dublin</corpname>, where he majored in French (1960-1965). In 1960 he began
