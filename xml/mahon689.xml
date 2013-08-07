@@ -205,18 +205,16 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname authfilenumber="7386737" encodinganalog="600" source="viaf">Beckett,
-          Samuel</persname>, 1906-1989 <persname authfilenumber="26912311" encodinganalog="600"
-          source="viaf">Berkeley, Sara</persname>, 1967- <persname authfilenumber="76315726"
-          encodinganalog="600" source="viaf">Friel, Brian</persname>, 1948- <persname
-          authfilenumber="109557338" encodinganalog="600" source="viaf">Heaney, Seamus</persname>,
-        1939- <persname authfilenumber="76363549" encodinganalog="600" source="viaf">Hecht,
-          Anthony</persname>, 1923-2004 <persname authfilenumber="39398205" encodinganalog="600"
-          source="viaf">Longley, Michael</persname>, 1939- <persname authfilenumber="110923132"
-          encodinganalog="600" source="viaf">Merwin, W. S. (William Stanley)</persname>, 1927-
-          <persname authfilenumber="98548196" encodinganalog="600" source="viaf">Montague,
-          John</persname>. <persname authfilenumber="2601174" encodinganalog="600" source="viaf"
-          >Simmons, James</persname>, 1933- </controlaccess>
+          <persname authfilenumber="7386737" encodinganalog="600" source="viaf">Beckett, Samuel, 1906-1989</persname>
+          <persname authfilenumber="26912311" encodinganalog="600" source="viaf">Berkeley, Sara, 1967-</persname>
+          <persname authfilenumber="76315726" encodinganalog="600" source="viaf">Friel, Brian, 1948-</persname>
+          <persname authfilenumber="109557338" encodinganalog="600" source="viaf">Heaney, Seamus, 1939-</persname>
+          <persname authfilenumber="76363549" encodinganalog="600" source="viaf">Hecht, Anthony, 1923-2004</persname>
+          <persname authfilenumber="39398205" encodinganalog="600" source="viaf">Longley, Michael, 1939-</persname>
+          <persname authfilenumber="110923132" encodinganalog="600" source="viaf">Merwin, W. S. (William Stanley), 1927-</persname>
+          <persname authfilenumber="98548196" encodinganalog="600" source="viaf">Montague, John.</persname>
+          <persname authfilenumber="2601174" encodinganalog="600" source="viaf">Simmons, James, 1933-</persname>
+        </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
         <subject encodinganalog="650" source="lcsh">English poetry-Irish authors.</subject>
