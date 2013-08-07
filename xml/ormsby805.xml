@@ -38,8 +38,10 @@
     </eadheader>
     <archdesc level="collection" relatedencoding="MARC21">
         <did>
-            <origination> Ormsby, Frank, 1947- </origination>
-            <unittitle encodinganalog="245$a"> Frank Ormsby papers, <unitdate certainty="circa"
+            <origination>
+                <persname source="viaf" authfilenumber="49280158" encodinganalog="100">Ormsby, Frank, 1947-</persname>
+            </origination>
+            <unittitle encodinganalog="245$a">Frank Ormsby papers, <unitdate certainty="circa"
                     encodinganalog="245$f" normal="1967/2004" type="inclusive">circa
                     1967-2004</unitdate>
             </unittitle>
@@ -585,14 +587,14 @@
                         <did>
                             <container type="box">2a</container>
                             <container type="folder">1</container>
-                            <unittitle> Heaney, Seamus, 1971-1996 (13 items)</unittitle>
+                            <unittitle>Heaney, Seamus, 1971-1996 (13 items)</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">2a</container>
                             <container type="folder">2</container>
-                            <unittitle> Heaney, Seamus, 1975-1996, announcements and
+                            <unittitle>Heaney, Seamus, 1975-1996, announcements and
                                 invitations</unittitle>
                         </did>
                     </c03>
@@ -746,7 +748,7 @@
                         <did>
                             <container type="box">3</container>
                             <container type="folder">12</container>
-                            <unittitle> Blackstaff Press, contractual and editorial correspondence,
+                            <unittitle>Blackstaff Press, contractual and editorial correspondence,
                                 1987-1989</unittitle>
                         </did>
                     </c03>
@@ -754,7 +756,7 @@
                         <did>
                             <container type="box">3</container>
                             <container type="folder">13</container>
-                            <unittitle> Blackstaff Press, contractual and editorial correspondence,
+                            <unittitle>Blackstaff Press, contractual and editorial correspondence,
                                 1990-1992</unittitle>
                         </did>
                     </c03>
@@ -762,7 +764,7 @@
                         <did>
                             <container type="box">3</container>
                             <container type="folder">14</container>
-                            <unittitle> Blackstaff Press, contractual and editorial correspondence,
+                            <unittitle>Blackstaff Press, contractual and editorial correspondence,
                                 1993-1996</unittitle>
                         </did>
                     </c03>
@@ -780,7 +782,7 @@
                         <did>
                             <container type="box">4</container>
                             <container type="folder">2</container>
-                            <unittitle> Faber and Faber, contractual and editorial correspondence,
+                            <unittitle>Faber and Faber, contractual and editorial correspondence,
                                 1989 [re: reissue of <title>The Long Embrace: Twentieth Century
                                     Irish Love Poems</title>]</unittitle>
                         </did>
@@ -799,7 +801,7 @@
                         <did>
                             <container type="box">4</container>
                             <container type="folder">4</container>
-                            <unittitle> Gallery Press, editorial correspondence,
+                            <unittitle>Gallery Press, editorial correspondence,
                                 1994-1995</unittitle>
                         </did>
                     </c03>
@@ -807,14 +809,14 @@
                         <did>
                             <container type="box">4</container>
                             <container type="folder">5</container>
-                            <unittitle> Gallery Press, editorial correspondence, undated</unittitle>
+                            <unittitle>Gallery Press, editorial correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">4</container>
                             <container type="folder">6</container>
-                            <unittitle> Gallery Press, contracts and royalty statements,
+                            <unittitle>Gallery Press, contracts and royalty statements,
                                 1986-1995</unittitle>
                         </did>
                     </c03>
@@ -842,7 +844,7 @@
                         <did>
                             <container type="box">4</container>
                             <container type="folder">9</container>
-                            <unittitle> Oxford University Press, editorial correspondence,
+                            <unittitle>Oxford University Press, editorial correspondence,
                                 1977-1978</unittitle>
                         </did>
                     </c03>
@@ -850,7 +852,7 @@
                         <did>
                             <container type="box">4</container>
                             <container type="folder">10</container>
-                            <unittitle> Oxford University Press, editorial correspondence,
+                            <unittitle>Oxford University Press, editorial correspondence,
                                 1979-1981</unittitle>
                         </did>
                     </c03>
@@ -858,7 +860,7 @@
                         <did>
                             <container type="box">4</container>
                             <container type="folder">11</container>
-                            <unittitle> Oxford University Press, editorial correspondence,
+                            <unittitle>Oxford University Press, editorial correspondence,
                                 1982-1993</unittitle>
                         </did>
                     </c03>
@@ -866,7 +868,7 @@
                         <did>
                             <container type="box">4</container>
                             <container type="folder">12</container>
-                            <unittitle> Oxford University Press, editorial correspondence,
+                            <unittitle>Oxford University Press, editorial correspondence,
                                 undated</unittitle>
                         </did>
                     </c03>
@@ -874,7 +876,7 @@
                         <did>
                             <container type="box">4</container>
                             <container type="folder">13</container>
-                            <unittitle> Oxford University Press, contracts and Royalty statements,
+                            <unittitle>Oxford University Press, contracts and Royalty statements,
                                 1977-1986</unittitle>
                         </did>
                     </c03>
@@ -932,7 +934,7 @@
                         <did>
                             <container type="box">4</container>
                             <container type="folder">19</container>
-                            <unittitle> Secker &amp; Warburg, correspondence [includes:
+                            <unittitle>Secker &amp; Warburg, correspondence [includes:
                                 miscellaneous publishers' addresses]</unittitle>
                         </did>
                     </c03>
@@ -1628,14 +1630,14 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">5</container>
-                            <unittitle> Buchanan, George, Correspondence, 1989-1990</unittitle>
+                            <unittitle>Buchanan, George, Correspondence, 1989-1990</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">6</container>
-                            <unittitle> Buchanan, George, Poetry: “Ballygalley Head,” and “Psychic
+                            <unittitle>Buchanan, George, Poetry: “Ballygalley Head,” and “Psychic
                                 Suicide,” TS </unittitle>
                         </did>
                     </c03>
@@ -1643,14 +1645,14 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">7</container>
-                            <unittitle> Buchanan, George, Poetry: “Christmas,” TS</unittitle>
+                            <unittitle>Buchanan, George, Poetry: “Christmas,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">8</container>
-                            <unittitle> Buchanan, George, Poetry: “A Church By the Water,”
+                            <unittitle>Buchanan, George, Poetry: “A Church By the Water,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -1658,7 +1660,7 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">9</container>
-                            <unittitle> Buchanan, George, Poetry: “The Dead,” and “Magda and a
+                            <unittitle>Buchanan, George, Poetry: “The Dead,” and “Magda and a
                                 Group,” TS</unittitle>
                         </did>
                     </c03>
@@ -1666,7 +1668,7 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">10</container>
-                            <unittitle> Buchanan, George, Poetry: “Limavady Verses 1946,”
+                            <unittitle>Buchanan, George, Poetry: “Limavady Verses 1946,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -1674,42 +1676,42 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">11</container>
-                            <unittitle> Buchanan, George, Poetry: “Old Stag,” TS</unittitle>
+                            <unittitle>Buchanan, George, Poetry: “Old Stag,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">12</container>
-                            <unittitle> Buchanan, George, Poetry: “Privacy,” TS</unittitle>
+                            <unittitle>Buchanan, George, Poetry: “Privacy,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">13</container>
-                            <unittitle> Buchanan, George, Poetry: “Prophet,” TS</unittitle>
+                            <unittitle>Buchanan, George, Poetry: “Prophet,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">14</container>
-                            <unittitle> Buchanan, George, Poetry: “Teenager,” TS</unittitle>
+                            <unittitle>Buchanan, George, Poetry: “Teenager,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">15</container>
-                            <unittitle> Buchanan, George, Poetry: “W.B. Yeats,” TS</unittitle>
+                            <unittitle>Buchanan, George, Poetry: “W.B. Yeats,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">16</container>
-                            <unittitle> Buchanan, George, Prose: “The Autobiographies,”
+                            <unittitle>Buchanan, George, Prose: “The Autobiographies,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -1717,7 +1719,7 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">17</container>
-                            <unittitle> Buchanan, George, Prose: <title>The Umbra</title>, TS
+                            <unittitle>Buchanan, George, Prose: <title>The Umbra</title>, TS
                                 [autobiography]; includes ALS from Buchanan, 20 April
                                 1976</unittitle>
                         </did>
@@ -1735,14 +1737,14 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">19</container>
-                            <unittitle> Carson, Ciaran, Correspondence, undated</unittitle>
+                            <unittitle>Carson, Ciaran, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">20</container>
-                            <unittitle> Carson, Ciaran, Poetry: <title>The Insular Celts</title>
+                            <unittitle>Carson, Ciaran, Poetry: <title>The Insular Celts</title>
                                 (1973), pamphlet mark-up</unittitle>
                         </did>
                     </c03>
@@ -1750,7 +1752,7 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">21</container>
-                            <unittitle> Carson, Ciaran, Poetry: <title>The Lost Explorer</title>
+                            <unittitle>Carson, Ciaran, Poetry: <title>The Lost Explorer</title>
                                 (1978), TS</unittitle>
                         </did>
                     </c03>
@@ -1758,14 +1760,14 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">22</container>
-                            <unittitle> Carson, Ciaran, Poetry: “After the Exile,” TS</unittitle>
+                            <unittitle>Carson, Ciaran, Poetry: “After the Exile,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">23</container>
-                            <unittitle> Carson, Ciaran, Poetry: “Cyclist,” “King’s Lynn,” “Wheel,”
+                            <unittitle>Carson, Ciaran, Poetry: “Cyclist,” “King’s Lynn,” “Wheel,”
                                 MS; includes ALS from Carson (undated)</unittitle>
                         </did>
                     </c03>
@@ -1773,7 +1775,7 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">24</container>
-                            <unittitle> Carson, Ciaran, Poetry: “The Death of Colmcille,”
+                            <unittitle>Carson, Ciaran, Poetry: “The Death of Colmcille,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -1781,14 +1783,14 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">25</container>
-                            <unittitle> Carson, Ciaran, Poetry: “The Irish for No,” TS</unittitle>
+                            <unittitle>Carson, Ciaran, Poetry: “The Irish for No,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">26</container>
-                            <unittitle> Carson, Ciaran, Poetry: “Liadan’s Love for Cuirithir,”
+                            <unittitle>Carson, Ciaran, Poetry: “Liadan’s Love for Cuirithir,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -1796,21 +1798,21 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">27</container>
-                            <unittitle> Carson, Ciaran, Poetry: “Moving In,” TS</unittitle>
+                            <unittitle>Carson, Ciaran, Poetry: “Moving In,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">28</container>
-                            <unittitle> Carson, Ciaran, Poetry: “Serial,” TS</unittitle>
+                            <unittitle>Carson, Ciaran, Poetry: “Serial,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">29</container>
-                            <unittitle> Carson, Ciaran, Poetry: “Sisters,” TS [variant title:
+                            <unittitle>Carson, Ciaran, Poetry: “Sisters,” TS [variant title:
                                 “Obituaries”]</unittitle>
                         </did>
                     </c03>
@@ -1818,7 +1820,7 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">30</container>
-                            <unittitle> Carson, Ciaran, Prose: “Interview with Ciaran Carson,” TS
+                            <unittitle>Carson, Ciaran, Prose: “Interview with Ciaran Carson,” TS
                                 and published version in <title>Linen Hall Review</title> (spring
                                 1991)</unittitle>
                         </did>
@@ -1836,14 +1838,14 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">32</container>
-                            <unittitle> Dawe, Gerald, Correspondence, undated</unittitle>
+                            <unittitle>Dawe, Gerald, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">33</container>
-                            <unittitle> Dawe, Gerald, Poetry: <title>Sunday School Poems</title>
+                            <unittitle>Dawe, Gerald, Poetry: <title>Sunday School Poems</title>
                                 (1991), TS</unittitle>
                         </did>
                     </c03>
@@ -1851,35 +1853,35 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">34</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Alba,” TS</unittitle>
+                            <unittitle>Dawe, Gerald, Poetry: “Alba,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">35</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Backward Look,” TS</unittitle>
+                            <unittitle>Dawe, Gerald, Poetry: “Backward Look,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">36</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Chronology,” TS</unittitle>
+                            <unittitle>Dawe, Gerald, Poetry: “Chronology,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">37</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Distances,” TS</unittitle>
+                            <unittitle>Dawe, Gerald, Poetry: “Distances,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">38</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Do Not Walk on Graves,”
+                            <unittitle>Dawe, Gerald, Poetry: “Do Not Walk on Graves,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -1887,28 +1889,28 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">39</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Double Exposure,” TS</unittitle>
+                            <unittitle>Dawe, Gerald, Poetry: “Double Exposure,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">40</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Ghosts,” TS</unittitle>
+                            <unittitle>Dawe, Gerald, Poetry: “Ghosts,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">41</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Interstices,” TS</unittitle>
+                            <unittitle>Dawe, Gerald, Poetry: “Interstices,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">42</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Leda,” “Monolith,” “The
+                            <unittitle>Dawe, Gerald, Poetry: “Leda,” “Monolith,” “The
                                 Spiritualist,” “Territory,” TS; includes TLS from <persname
                                     authfilenumber="111397155" source="viaf">Dawe</persname>
                                 (undated)</unittitle>
@@ -1918,7 +1920,7 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">43</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Shades of Alexander Park,”
+                            <unittitle>Dawe, Gerald, Poetry: “Shades of Alexander Park,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -1926,21 +1928,21 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">44</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Sunday Walk at Ross,” TS</unittitle>
+                            <unittitle>Dawe, Gerald, Poetry: “Sunday Walk at Ross,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">45</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Vigil,” TS</unittitle>
+                            <unittitle>Dawe, Gerald, Poetry: “Vigil,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">7</container>
                             <container type="folder">46</container>
-                            <unittitle> Dawe, Gerald, Poetry: “Vista,” TS</unittitle>
+                            <unittitle>Dawe, Gerald, Poetry: “Vista,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -1956,7 +1958,7 @@
                         <did>
                             <container type="box">7</container>
                             <container type="folder">48</container>
-                            <unittitle> Dunn, Douglas, Translations from the Polish of Piotr Sumner:
+                            <unittitle>Dunn, Douglas, Translations from the Polish of Piotr Sumner:
                                 “Drop,” “At Least I See It That Way,” “Cavafy,” “Recently,”
                                 “Arrival,” “Smiling with reconciliation,” “The man…,” “What You Need
                                 To Do,” “Before Sleep,” “Exiles,” “In these same rooms,”
@@ -1985,14 +1987,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">2</container>
-                            <unittitle> Ewart, Gavin, Correspondence, undated</unittitle>
+                            <unittitle>Ewart, Gavin, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">3</container>
-                            <unittitle> Ewart, Gavin, Poetry: “Anti-Christmas Poems,” TS [including:
+                            <unittitle>Ewart, Gavin, Poetry: “Anti-Christmas Poems,” TS [including:
                                 “Advice for the Winter,” “The Reason Why,” “Sonnet: People Who Love
                                 Abstractions,” “Two Poems for Bad Children,” “The Unforeseeable,”
                                 “The Young Lady of Herm”] with ALS from Ewart, 2 December
@@ -2003,7 +2005,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">4</container>
-                            <unittitle> Ewart, Gavin, Poetry: “Double Haiku: Singers,”
+                            <unittitle>Ewart, Gavin, Poetry: “Double Haiku: Singers,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2011,14 +2013,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">5</container>
-                            <unittitle> Ewart, Gavin, Poetry: “Experience Hotel,” TS</unittitle>
+                            <unittitle>Ewart, Gavin, Poetry: “Experience Hotel,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">6</container>
-                            <unittitle> Ewart, Gavin, Poetry: “In the Divorce Court,” TS and
+                            <unittitle>Ewart, Gavin, Poetry: “In the Divorce Court,” TS and
                                 “Penal,” TS</unittitle>
                         </did>
                     </c03>
@@ -2026,7 +2028,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">7</container>
-                            <unittitle> Ewart, Gavin, Poetry: “John Reginald Halliday Christie,”
+                            <unittitle>Ewart, Gavin, Poetry: “John Reginald Halliday Christie,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2034,7 +2036,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">8</container>
-                            <unittitle> Ewart, Gavin, Poetry: “The Little Girl Writes a Sonnet About
+                            <unittitle>Ewart, Gavin, Poetry: “The Little Girl Writes a Sonnet About
                                 Her Dead Cat,” TS</unittitle>
                         </did>
                     </c03>
@@ -2042,14 +2044,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">9</container>
-                            <unittitle> Ewart, Gavin, Poetry: “Miss God,” TS</unittitle>
+                            <unittitle>Ewart, Gavin, Poetry: “Miss God,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">10</container>
-                            <unittitle> Ewart, Gavin, Poetry: “On the ‘A’ Level Syllabus,”
+                            <unittitle>Ewart, Gavin, Poetry: “On the ‘A’ Level Syllabus,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2057,14 +2059,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">11</container>
-                            <unittitle> Ewart, Gavin, Poetry: “On the Spot,” TS</unittitle>
+                            <unittitle>Ewart, Gavin, Poetry: “On the Spot,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">12</container>
-                            <unittitle> Ewart, Gavin, Poetry: “The Relaxed Sunday Morning,”
+                            <unittitle>Ewart, Gavin, Poetry: “The Relaxed Sunday Morning,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2072,7 +2074,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">13</container>
-                            <unittitle> Ewart, Gavin, Poetry: “The Return of the Hero,”
+                            <unittitle>Ewart, Gavin, Poetry: “The Return of the Hero,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2080,14 +2082,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">14</container>
-                            <unittitle> Ewart, Gavin, Poetry: “Sonnet: The Carpet,” TS</unittitle>
+                            <unittitle>Ewart, Gavin, Poetry: “Sonnet: The Carpet,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">15</container>
-                            <unittitle> Ewart, Gavin, Poetry: “Three Poems” [including TS of: “The
+                            <unittitle>Ewart, Gavin, Poetry: “Three Poems” [including TS of: “The
                                 Lives of the Poets,” Soldiers’ Song,” “Ending”]</unittitle>
                         </did>
                     </c03>
@@ -2104,42 +2106,42 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">17</container>
-                            <unittitle> Fallon, Peter, Correspondence, 1989-1996</unittitle>
+                            <unittitle>Fallon, Peter, Correspondence, 1989-1996</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">18</container>
-                            <unittitle> Fallon, Peter, Correspondence, undated</unittitle>
+                            <unittitle>Fallon, Peter, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">19</container>
-                            <unittitle> Fallon, Peter, Poetry: “The Darker Arts,” TS</unittitle>
+                            <unittitle>Fallon, Peter, Poetry: “The Darker Arts,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">20</container>
-                            <unittitle> Fallon, Peter, Poetry: “El Dorado,” TS</unittitle>
+                            <unittitle>Fallon, Peter, Poetry: “El Dorado,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">21</container>
-                            <unittitle> Fallon, Peter, Poetry: “Herding,” TS</unittitle>
+                            <unittitle>Fallon, Peter, Poetry: “Herding,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">22</container>
-                            <unittitle> Fallon, Peter, Poetry: “Killer,” TS</unittitle>
+                            <unittitle>Fallon, Peter, Poetry: “Killer,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -2155,14 +2157,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">24</container>
-                            <unittitle> Foley, Michael, Correspondence, undated</unittitle>
+                            <unittitle>Foley, Michael, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">25</container>
-                            <unittitle> Foley, Michael, Poetry: “The Arseless Years,” and “Dossing,”
+                            <unittitle>Foley, Michael, Poetry: “The Arseless Years,” and “Dossing,”
                                 TS </unittitle>
                         </did>
                     </c03>
@@ -2170,21 +2172,21 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">26</container>
-                            <unittitle> Foley, Michael, Poetry: “Careers Talk,” TS </unittitle>
+                            <unittitle>Foley, Michael, Poetry: “Careers Talk,” TS </unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">27</container>
-                            <unittitle> Foley, Michael, Poetry: “I Was There,” TS </unittitle>
+                            <unittitle>Foley, Michael, Poetry: “I Was There,” TS </unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">28</container>
-                            <unittitle> Foley, Michael, Poetry: “The Laments of Hi Ho,” TS
+                            <unittitle>Foley, Michael, Poetry: “The Laments of Hi Ho,” TS
                             </unittitle>
                         </did>
                     </c03>
@@ -2192,7 +2194,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">29</container>
-                            <unittitle> Foley, Michael, Poetry: “The World is Seldom With Us,” TS
+                            <unittitle>Foley, Michael, Poetry: “The World is Seldom With Us,” TS
                             </unittitle>
                         </did>
                     </c03>
@@ -2200,7 +2202,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">30</container>
-                            <unittitle> Foley, Michael, Drama: <title>The Few</title>, MS
+                            <unittitle>Foley, Michael, Drama: <title>The Few</title>, MS
                             </unittitle>
                         </did>
                     </c03>
@@ -2208,7 +2210,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">31</container>
-                            <unittitle> Foley, Michael, Prose: “Living the Job,” MS
+                            <unittitle>Foley, Michael, Prose: “Living the Job,” MS
                                 [essay]</unittitle>
                         </did>
                     </c03>
@@ -2216,7 +2218,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">32</container>
-                            <unittitle> Foley, Michael, Prose: “The New Science Fiction,” MS
+                            <unittitle>Foley, Michael, Prose: “The New Science Fiction,” MS
                                 [essay]</unittitle>
                         </did>
                     </c03>
@@ -2224,7 +2226,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">33</container>
-                            <unittitle> Foley, Michael, Prose: “The Ulster Goldmine,” MS
+                            <unittitle>Foley, Michael, Prose: “The Ulster Goldmine,” MS
                                 [essay]</unittitle>
                         </did>
                     </c03>
@@ -2232,7 +2234,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">34</container>
-                            <unittitle> Foley, Michael, Prose: “Mr. Ewart Entertains,” MS [review of
+                            <unittitle>Foley, Michael, Prose: “Mr. Ewart Entertains,” MS [review of
                                     <title>Be My Guest</title> and <title>An Imaginary Love
                                     Affair</title> by <persname authfilenumber="56651926"
                                     source="viaf">Gavin Ewart</persname>]</unittitle>
@@ -2242,7 +2244,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">35</container>
-                            <unittitle> Foley, Michael, Prose: Review [untitled] of <title>Energy to
+                            <unittitle>Foley, Michael, Prose: Review [untitled] of <title>Energy to
                                     Burn</title> by James Simmons </unittitle>
                         </did>
                     </c03>
@@ -2250,7 +2252,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">36</container>
-                            <unittitle> Foley, Michael, Prose: Review [untitled] of <title>The Long
+                            <unittitle>Foley, Michael, Prose: Review [untitled] of <title>The Long
                                     Summer Still to Come</title> by James Simmons</unittitle>
                         </did>
                     </c03>
@@ -2258,7 +2260,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">37</container>
-                            <unittitle> Foley, Michael, Prose: Review [untitled] of
+                            <unittitle>Foley, Michael, Prose: Review [untitled] of
                                     <title>Night-Lines</title> by John McGahern</unittitle>
                         </did>
                     </c03>
@@ -2275,14 +2277,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">39</container>
-                            <unittitle> Greacen, Robert, Correspondence, undated</unittitle>
+                            <unittitle>Greacen, Robert, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">40</container>
-                            <unittitle> Greacen, Robert, Poetry: <title>Uncle Jack</title> (1990),
+                            <unittitle>Greacen, Robert, Poetry: <title>Uncle Jack</title> (1990),
                                 TS [includes: “Uncle Jack,” “Bad Books,” “Instead of Flowers,”
                                 “Uncle George,” “Father,” “Photograph,” “Aunt Tillie,” “Cousin
                                 Willie,” “Goals,” “Miss Vincent,” “St. Andrew’s Day”]; with TLS from
@@ -2293,7 +2295,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">41</container>
-                            <unittitle> Greacen, Robert, Poetry: Ten Poems [includes: “Carnival at
+                            <unittitle>Greacen, Robert, Poetry: Ten Poems [includes: “Carnival at
                                 the River,” “Church and Covenant,” “City,” “Differential Calculus,”
                                 “Dreams, Nightmares,” “Hero,” “Oranges,” “A Stone from Buckie,”
                                 “Sunday in Co. Monaghan, 1935,” “A Wish for St. Patrick’s Day”];
@@ -2304,14 +2306,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">42</container>
-                            <unittitle> Greacen, Robert, Poetry: “Birthday,” TS</unittitle>
+                            <unittitle>Greacen, Robert, Poetry: “Birthday,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">43</container>
-                            <unittitle> Greacen, Robert, Poetry: “The Captain in Spain,”
+                            <unittitle>Greacen, Robert, Poetry: “The Captain in Spain,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2319,7 +2321,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">44</container>
-                            <unittitle> Greacen, Robert, Poetry: “Chorus from ‘Adam at Evening,’”
+                            <unittitle>Greacen, Robert, Poetry: “Chorus from ‘Adam at Evening,’”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2327,7 +2329,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">45</container>
-                            <unittitle> Greacen, Robert, Poetry: “In This Dead Month,”
+                            <unittitle>Greacen, Robert, Poetry: “In This Dead Month,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2335,7 +2337,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">46</container>
-                            <unittitle> Greacen, Robert, Poetry: “Jack! Jack!,” and “A Poet Dying,”
+                            <unittitle>Greacen, Robert, Poetry: “Jack! Jack!,” and “A Poet Dying,”
                                 TS; with ALS from Greacen, 23 July 1971</unittitle>
                         </did>
                     </c03>
@@ -2343,14 +2345,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">47</container>
-                            <unittitle> Greacen, Robert, Poetry: “The Letter,” TS</unittitle>
+                            <unittitle>Greacen, Robert, Poetry: “The Letter,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">48</container>
-                            <unittitle> Greacen, Robert, Poetry: “Lines for a Young Lady on Her
+                            <unittitle>Greacen, Robert, Poetry: “Lines for a Young Lady on Her
                                 Twenty-First Birthday,” TS</unittitle>
                         </did>
                     </c03>
@@ -2358,14 +2360,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">49</container>
-                            <unittitle> Greacen, Robert, Poetry: “The Only Emperor,” TS</unittitle>
+                            <unittitle>Greacen, Robert, Poetry: “The Only Emperor,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">50</container>
-                            <unittitle> Greacen, Robert, Poetry: “Prothalamion for K. F.,”
+                            <unittitle>Greacen, Robert, Poetry: “Prothalamion for K. F.,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2373,28 +2375,28 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">51</container>
-                            <unittitle> Greacen, Robert, Poetry: “Seaon and Season,” TS</unittitle>
+                            <unittitle>Greacen, Robert, Poetry: “Seaon and Season,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">52</container>
-                            <unittitle> Greacen, Robert, Poetry: “Song,” TS</unittitle>
+                            <unittitle>Greacen, Robert, Poetry: “Song,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">53</container>
-                            <unittitle> Greacen, Robert, Poetry: “Wee Jimmy,” TS</unittitle>
+                            <unittitle>Greacen, Robert, Poetry: “Wee Jimmy,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">54</container>
-                            <unittitle> Greacen, Robert, Prose: <title>Brief Encounters</title>
+                            <unittitle>Greacen, Robert, Prose: <title>Brief Encounters</title>
                                 (1991) [proof of book of essays]</unittitle>
                         </did>
                     </c03>
@@ -2402,7 +2404,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">55</container>
-                            <unittitle> Greacen, Robert, Prose: “John Gallen: A Memoir,” TS of
+                            <unittitle>Greacen, Robert, Prose: “John Gallen: A Memoir,” TS of
                                 essay</unittitle>
                         </did>
                     </c03>
@@ -2410,7 +2412,7 @@
                         <did>
                             <container type="box"/>
                             <container/>
-                            <unittitle> Heaney, Seamus, Correspondence, 1971-1996 [See Subseries
+                            <unittitle>Heaney, Seamus, Correspondence, 1971-1996 [See Subseries
                                 1.2: Personal literary correspondence, restricted files]</unittitle>
                         </did>
                     </c03>
@@ -2418,7 +2420,7 @@
                         <did>
                             <container type="box"/>
                             <container/>
-                            <unittitle> Heaney, Seamus, Correspondence: Announcements and
+                            <unittitle>Heaney, Seamus, Correspondence: Announcements and
                                 invitations, 1975-1996 [See Subseries 1.2: Personal literary
                                 correspondence, restricted files]</unittitle>
                         </did>
@@ -2427,7 +2429,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">56</container>
-                            <unittitle> Heaney, Seamus, Poetry: “Christmas Eve,” [variant title: “An
+                            <unittitle>Heaney, Seamus, Poetry: “Christmas Eve,” [variant title: “An
                                 Ulster Twilight;” printed as Heaney family Christmas card, December
                                 1984]</unittitle>
                         </did>
@@ -2436,7 +2438,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">57</container>
-                            <unittitle> Heaney, Seamus, Poetry: Belfast Group worksheet, <date
+                            <unittitle>Heaney, Seamus, Poetry: Belfast Group worksheet, <date
                                     normal="1971-11-08">8 November 1971</date> [includes: <title
                                     render="doublequote">Gifts of Rain</title>, <title
                                     render="doublequote">The Last Mummer</title>, <title
@@ -2450,7 +2452,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">58</container>
-                            <unittitle> Heaney, Seamus, Poetry: Seamus Heaney: <title>The Incertus
+                            <unittitle>Heaney, Seamus, Poetry: Seamus Heaney: <title>The Incertus
                                     Years</title>, TS (1985 reprint of 1961 pamphlet) [includes:
                                 “Reaping in Heat,” “October Thought,” “Nostalgia in the Afternoon,”
                                 “Aran,” “Song of My Man Alive,” “There’s Rosemary” (story), and
@@ -2462,7 +2464,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">59</container>
-                            <unittitle> Heaney, Seamus, Poetry: “The Last Mummer,” TS [included with
+                            <unittitle>Heaney, Seamus, Poetry: “The Last Mummer,” TS [included with
                                 “Letter to an Editor” and “Servant Boy”]</unittitle>
                         </did>
                     </c03>
@@ -2470,7 +2472,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">60</container>
-                            <unittitle> Heaney, Seamus, Poetry: “Letter to an Editor,” TS [included
+                            <unittitle>Heaney, Seamus, Poetry: “Letter to an Editor,” TS [included
                                 with “The Last Mummer” and “Servant Boy”]</unittitle>
                         </did>
                     </c03>
@@ -2478,14 +2480,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">61</container>
-                            <unittitle> Heaney, Seamus, Poetry: “Limbo,” TS</unittitle>
+                            <unittitle>Heaney, Seamus, Poetry: “Limbo,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">62</container>
-                            <unittitle> Heaney, Seamus, Poetry: “Servant Boy,” TS [included with
+                            <unittitle>Heaney, Seamus, Poetry: “Servant Boy,” TS [included with
                                 “The Last Mummer” and “Letter to an Editor”]</unittitle>
                         </did>
                     </c03>
@@ -2493,7 +2495,7 @@
                         <did>
                             <container type="box"/>
                             <container/>
-                            <unittitle> Heaney, Seamus, Poetry: “Servant Boy,” autographed broadside
+                            <unittitle>Heaney, Seamus, Poetry: “Servant Boy,” autographed broadside
                                 (20 June 1971) [catalogued separately as part of the Special
                                 Collections Rare Book Collection]</unittitle>
                         </did>
@@ -2502,7 +2504,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">63</container>
-                            <unittitle> Heaney, Seamus, Prose: “Seamus Heaney writes…” in
+                            <unittitle>Heaney, Seamus, Prose: “Seamus Heaney writes…” in
                                     <title>Poetry Book Society Bulletin</title> (summer
                                 1969)</unittitle>
                         </did>
@@ -2511,7 +2513,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">64</container>
-                            <unittitle> Heaney, Seamus, Prose: “Review of <title>The Confessions of
+                            <unittitle>Heaney, Seamus, Prose: “Review of <title>The Confessions of
                                     Proinnsias O’Toole”</title> (1971)</unittitle>
                         </did>
                     </c03>
@@ -2519,7 +2521,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">65</container>
-                            <unittitle> Heaney, Seamus, Promotional material: Broadside for
+                            <unittitle>Heaney, Seamus, Promotional material: Broadside for
                                     <title>Field Work</title> book-launch and reading, 15 October
                                 1979</unittitle>
                         </did>
@@ -2528,7 +2530,7 @@
                         <did>
                             <container type="box">OP1</container>
                             <container/>
-                            <unittitle> Heaney, Seamus, Printed material by Heaney [includes:
+                            <unittitle>Heaney, Seamus, Printed material by Heaney [includes:
                                 “Whatever You Say, Say Nothing” (poem), “John Hume’s Derry”
                                 (article), “Secret Nests of County Derry” (article), “Kavanagh of
                                 the Parish,” (article), “Deep as England” (review of Ted Hughes’s
@@ -2543,7 +2545,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">66</container>
-                            <unittitle> Heaney, Seamus, Printed material about Heaney: Promotional
+                            <unittitle>Heaney, Seamus, Printed material about Heaney: Promotional
                                 and biographical material</unittitle>
                         </did>
                     </c03>
@@ -2551,7 +2553,7 @@
                         <did>
                             <container type="box">OP2</container>
                             <container/>
-                            <unittitle> Heaney, Seamus, Printed material about Heaney: General
+                            <unittitle>Heaney, Seamus, Printed material about Heaney: General
                                 articles and interviews</unittitle>
                         </did>
                     </c03>
@@ -2559,7 +2561,7 @@
                         <did>
                             <container type="box">OP3</container>
                             <container/>
-                            <unittitle> Heaney, Seamus, Printed material about Heaney: Reviews
+                            <unittitle>Heaney, Seamus, Printed material about Heaney: Reviews
                                 [includes reviews of <title>North</title>, <title>Field
                                 Work</title>, <title>Sweeney Astray</title>, <title>Station
                                     Island</title>, <title>Government of the Tongue</title>,
@@ -2571,7 +2573,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">67</container>
-                            <unittitle> Heaney, Seamus, Printed material about Heaney: “Time and
+                            <unittitle>Heaney, Seamus, Printed material about Heaney: “Time and
                                 History in Seamus Heaney's ‘In Memoriam Francis Ledwidge,” by Robert
                                 di Nicola in <title>Eire-Ireland</title> (21:4) 1986</unittitle>
                         </did>
@@ -2589,7 +2591,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">69</container>
-                            <unittitle> Hewitt, John, Correspondence, 1965-1981 [between Hewitt and
+                            <unittitle>Hewitt, John, Correspondence, 1965-1981 [between Hewitt and
                                 Alan Warner]</unittitle>
                         </did>
                     </c03>
@@ -2597,7 +2599,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">70</container>
-                            <unittitle> Hewitt, John, Poetry: “Executives Third Tier,”
+                            <unittitle>Hewitt, John, Poetry: “Executives Third Tier,”
                                 MS</unittitle>
                         </did>
                     </c03>
@@ -2605,7 +2607,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">71</container>
-                            <unittitle> Hewitt, John, Poetry: “For a Moment of Darkness Over the
+                            <unittitle>Hewitt, John, Poetry: “For a Moment of Darkness Over the
                                 Nation,” TS</unittitle>
                         </did>
                     </c03>
@@ -2613,14 +2615,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">72</container>
-                            <unittitle> Hewitt, John, Poetry: “The Last Spring,” TS</unittitle>
+                            <unittitle>Hewitt, John, Poetry: “The Last Spring,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">73</container>
-                            <unittitle> Hewitt, John, Poetry: “Legend in His Own Lifetime,”
+                            <unittitle>Hewitt, John, Poetry: “Legend in His Own Lifetime,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2628,14 +2630,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">74</container>
-                            <unittitle> Hewitt, John, Poetry: “This Was the Pub,” MS</unittitle>
+                            <unittitle>Hewitt, John, Poetry: “This Was the Pub,” MS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">75</container>
-                            <unittitle> Hewitt, John, Poetry: “The Threatened Place: Winter in the
+                            <unittitle>Hewitt, John, Poetry: “The Threatened Place: Winter in the
                                 Midlands,” TS</unittitle>
                         </did>
                     </c03>
@@ -2643,14 +2645,14 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">76</container>
-                            <unittitle> Hewitt, John, Poetry: “Two Artists,” TS</unittitle>
+                            <unittitle>Hewitt, John, Poetry: “Two Artists,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">8</container>
                             <container type="folder">77</container>
-                            <unittitle> Hewitt, John, Printed material by Hewitt: “Coventry: The
+                            <unittitle>Hewitt, John, Printed material by Hewitt: “Coventry: The
                                 Tradition of Change and Continuity,” 1966 [prose
                                 pamphlet]</unittitle>
                         </did>
@@ -2659,7 +2661,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">78</container>
-                            <unittitle> Hewitt, John, Printed material about Hewitt: John Hewitt
+                            <unittitle>Hewitt, John, Printed material about Hewitt: John Hewitt
                                 International Summer School materials, 1991-1992</unittitle>
                         </did>
                     </c03>
@@ -2667,7 +2669,7 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">79</container>
-                            <unittitle> Hewitt, John, Printed material about Hewitt: Invitations and
+                            <unittitle>Hewitt, John, Printed material about Hewitt: Invitations and
                                 programs, 1977-1987</unittitle>
                         </did>
                     </c03>
@@ -2856,14 +2858,14 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">24</container>
-                            <unittitle> Keenan, Gerard, Correspondence, 1975-1984</unittitle>
+                            <unittitle>Keenan, Gerard, Correspondence, 1975-1984</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">25</container>
-                            <unittitle> Keenan, Gerard, Correspondence, 1986, 1988,
+                            <unittitle>Keenan, Gerard, Correspondence, 1986, 1988,
                                 undated</unittitle>
                         </did>
                     </c03>
@@ -2871,7 +2873,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">26</container>
-                            <unittitle> Keenan, Gerard, Prose: <title>The First Chronicle of
+                            <unittitle>Keenan, Gerard, Prose: <title>The First Chronicle of
                                     Farset</title>, TS [novel chapters 3-14]</unittitle>
                         </did>
                     </c03>
@@ -2879,7 +2881,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">27</container>
-                            <unittitle> Keenan, Gerard, Prose: “The <title>H.U.</title> Business
+                            <unittitle>Keenan, Gerard, Prose: “The <title>H.U.</title> Business
                                 Section,” TS [essays by “Jude the Obscure”]</unittitle>
                         </did>
                     </c03>
@@ -2896,28 +2898,28 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">29</container>
-                            <unittitle> Longley, Michael, Correspondence, 1978-1984</unittitle>
+                            <unittitle>Longley, Michael, Correspondence, 1978-1984</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">30</container>
-                            <unittitle> Longley, Michael, Correspondence, 1989-1991</unittitle>
+                            <unittitle>Longley, Michael, Correspondence, 1989-1991</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">31</container>
-                            <unittitle> Longley, Michael, Correspondence, undated</unittitle>
+                            <unittitle>Longley, Michael, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">32</container>
-                            <unittitle> Longley, Michael, Correspondence, 1977, 1990 [from Frank
+                            <unittitle>Longley, Michael, Correspondence, 1977, 1990 [from Frank
                                 Ormsby]</unittitle>
                         </did>
                     </c03>
@@ -2925,7 +2927,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">33</container>
-                            <unittitle> Longley, Michael, Correspondence, Invitations and
+                            <unittitle>Longley, Michael, Correspondence, Invitations and
                                 programs</unittitle>
                         </did>
                     </c03>
@@ -2933,7 +2935,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">34</container>
-                            <unittitle> Longley, Michael, Poetry: <title>Gorse Fires</title>,
+                            <unittitle>Longley, Michael, Poetry: <title>Gorse Fires</title>,
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2941,7 +2943,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">35</container>
-                            <unittitle> Longley, Michael, Poetry: Belfast Group worksheets, circa
+                            <unittitle>Longley, Michael, Poetry: Belfast Group worksheets, circa
                                     <date normal="1970/1971">1970-1971</date> [includes: <title
                                     render="doublequote">To the Poets</title>, <title
                                     render="doublequote">Mountain Swim</title>, <title
@@ -2957,7 +2959,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">36</container>
-                            <unittitle> Longley, Michael, Poetry: Belfast Group worksheets, <date
+                            <unittitle>Longley, Michael, Poetry: Belfast Group worksheets, <date
                                     normal="1972-01-31">31 January 1972</date> [includes: <title
                                     render="doublequote">Altera Cithera</title>, <title
                                     render="doublequote">Three Posthumous Pieces</title>, <title
@@ -2974,21 +2976,21 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">37</container>
-                            <unittitle> Longley, Michael, Poetry: “An Amish Rug,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “An Amish Rug,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">38</container>
-                            <unittitle> Longley, Michael, Poetry: “Anticleia,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “Anticleia,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">39</container>
-                            <unittitle> Longley, Michael, Poetry: “Belfast to Dublin,”
+                            <unittitle>Longley, Michael, Poetry: “Belfast to Dublin,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -2996,14 +2998,14 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">40</container>
-                            <unittitle> Longley, Michael, Poetry: “Between Hovers,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “Between Hovers,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">41</container>
-                            <unittitle> Longley, Michael, Poetry: “The Butchers,” TS [with ALS from
+                            <unittitle>Longley, Michael, Poetry: “The Butchers,” TS [with ALS from
                                 Longley]</unittitle>
                         </did>
                     </c03>
@@ -3011,35 +3013,35 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">42</container>
-                            <unittitle> Longley, Michael, Poetry: “Cat’s Cradle,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “Cat’s Cradle,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">43</container>
-                            <unittitle> Longley, Michael, Poetry: “A Dedication,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “A Dedication,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">44</container>
-                            <unittitle> Longley, Michael, Poetry: “Detour,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “Detour,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">45</container>
-                            <unittitle> Longley, Michael, Poetry: “Entomology,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “Entomology,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">46</container>
-                            <unittitle> Longley, Michael, Poetry: “Ghetto,” TS [See also ALS from
+                            <unittitle>Longley, Michael, Poetry: “Ghetto,” TS [See also ALS from
                                     <persname authfilenumber="39398205" source="viaf"
                                     >Longley</persname> included with “The Butchers”]</unittitle>
                         </did>
@@ -3048,14 +3050,14 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">47</container>
-                            <unittitle> Longley, Michael, Poetry: “Homecoming,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “Homecoming,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">48</container>
-                            <unittitle> Longley, Michael, Poetry: “Insomnia,” TS and
+                            <unittitle>Longley, Michael, Poetry: “Insomnia,” TS and
                                 “Phosphorescence,” TS</unittitle>
                         </did>
                     </c03>
@@ -3063,7 +3065,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">49</container>
-                            <unittitle> Longley, Michael, Poetry: “Laertes,” TS [See also ALS from
+                            <unittitle>Longley, Michael, Poetry: “Laertes,” TS [See also ALS from
                                 Longley included with “The Butchers”]</unittitle>
                         </did>
                     </c03>
@@ -3071,7 +3073,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">50</container>
-                            <unittitle> Longley, Michael, Poetry: “A Lapwing’s Egg,” Christmas card,
+                            <unittitle>Longley, Michael, Poetry: “A Lapwing’s Egg,” Christmas card,
                                 undated</unittitle>
                         </did>
                     </c03>
@@ -3079,7 +3081,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">51</container>
-                            <unittitle> Longley, Michael, Poetry: “A Letter to James Simmons,” TS
+                            <unittitle>Longley, Michael, Poetry: “A Letter to James Simmons,” TS
                                 [with ALS from Longley, 12 April 1972]</unittitle>
                         </did>
                     </c03>
@@ -3087,7 +3089,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">52</container>
-                            <unittitle> Longley, Michael, Poetry: “Peregrine,” Christmas card,
+                            <unittitle>Longley, Michael, Poetry: “Peregrine,” Christmas card,
                                 undated</unittitle>
                         </did>
                     </c03>
@@ -3095,7 +3097,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">53</container>
-                            <unittitle> Longley, Michael, Poetry: “Ploughing By the Tail,”
+                            <unittitle>Longley, Michael, Poetry: “Ploughing By the Tail,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -3103,49 +3105,49 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">54</container>
-                            <unittitle> Longley, Michael, Poetry: “Sea Shanty,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “Sea Shanty,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">55</container>
-                            <unittitle> Longley, Michael, Poetry: “Soiree,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “Soiree,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">56</container>
-                            <unittitle> Longley, Michael, Poetry: “Spells,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “Spells,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">57</container>
-                            <unittitle> Longley, Michael, Poetry: “Spring Tide,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “Spring Tide,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">58</container>
-                            <unittitle> Longley, Michael, Poetry: “Trade Winds,” TS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: “Trade Winds,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">59</container>
-                            <unittitle> Longley, Michael, Poetry: untitled fragments, MS</unittitle>
+                            <unittitle>Longley, Michael, Poetry: untitled fragments, MS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">60</container>
-                            <unittitle> Longley, Michael, Poetry by <persname
+                            <unittitle>Longley, Michael, Poetry by <persname
                                     authfilenumber="49259678" source="viaf">Julie
                                     O’Callaghan</persname>: “Naturally the Foundation Will Not Bear
                                 My Expense,” TS</unittitle>
@@ -3164,14 +3166,14 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">62</container>
-                            <unittitle> Mahon, Derek, Correspondence, undated</unittitle>
+                            <unittitle>Mahon, Derek, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">9</container>
                             <container type="folder">63</container>
-                            <unittitle> Mahon, Derek, Correspondence, 1969 [to <persname
+                            <unittitle>Mahon, Derek, Correspondence, 1969 [to <persname
                                     authfilenumber="92591927" source="viaf">James
                                 Simmons</persname>]</unittitle>
                         </did>
@@ -3180,7 +3182,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">64</container>
-                            <unittitle> Mahon, Derek, Poetry: “Four Poems,” TS [includes: <persname
+                            <unittitle>Mahon, Derek, Poetry: “Four Poems,” TS [includes: <persname
                                     authfilenumber="109465048" source="viaf">J.P.
                                     Donleavy's</persname> Dublin,” “The Graduate in Metal Box,”
                                 “Gypsies II,” “I Am Raftery”]</unittitle>
@@ -3190,7 +3192,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">65</container>
-                            <unittitle> Mahon, Derek, Poetry: “Two Translations,” TS [variant title:
+                            <unittitle>Mahon, Derek, Poetry: “Two Translations,” TS [variant title:
                                 “After Nerval”]</unittitle>
                         </did>
                     </c03>
@@ -3198,7 +3200,7 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">66</container>
-                            <unittitle> Mahon, Derek, Poetry: “The Voice,” TS translated from the
+                            <unittitle>Mahon, Derek, Poetry: “The Voice,” TS translated from the
                                 French of <persname authfilenumber="49227055" source="viaf">Philippe
                                     Jaccottet</persname> [includes unsourced printed
                                 version]</unittitle>
@@ -3218,7 +3220,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">2</container>
-                            <unittitle> Marcus, David, 1970-1978 [to Frank Ormsby]</unittitle>
+                            <unittitle>Marcus, David, 1970-1978 [to Frank Ormsby]</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -3355,7 +3357,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">20</container>
-                            <unittitle> McFadden, Roy, Correspondence, 1979 [from Frank Ormsby to
+                            <unittitle>McFadden, Roy, Correspondence, 1979 [from Frank Ormsby to
                                 Roy McFadden]</unittitle>
                         </did>
                     </c03>
@@ -3363,7 +3365,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">21</container>
-                            <unittitle> McFadden, Roy Correspondence, 1979 [from assorted editors to
+                            <unittitle>McFadden, Roy Correspondence, 1979 [from assorted editors to
                                 Roy McFadden]</unittitle>
                         </did>
                     </c03>
@@ -3371,7 +3373,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">22</container>
-                            <unittitle> McFadden, Roy, Poetry: “Daisymount Terrace,” TS [with TLS
+                            <unittitle>McFadden, Roy, Poetry: “Daisymount Terrace,” TS [with TLS
                                 from Roy McFadden, 2 April 1978]</unittitle>
                         </did>
                     </c03>
@@ -3379,7 +3381,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">23</container>
-                            <unittitle> McFadden, Roy, Poetry: <title>After Seymour’s
+                            <unittitle>McFadden, Roy, Poetry: <title>After Seymour’s
                                     Funeral</title>, TS (1990)</unittitle>
                         </did>
                     </c03>
@@ -3387,7 +3389,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">24</container>
-                            <unittitle> McFadden, Roy, Poetry: <title>Verifications</title>, proofs
+                            <unittitle>McFadden, Roy, Poetry: <title>Verifications</title>, proofs
                                 (1977)</unittitle>
                         </did>
                     </c03>
@@ -3395,7 +3397,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">25</container>
-                            <unittitle> McFadden, Roy, Poetry: selections for Ormsby's <title>Poets
+                            <unittitle>McFadden, Roy, Poetry: selections for Ormsby's <title>Poets
                                     from the North of Ireland</title> [includes: “Epithalamium,”
                                 “First Letter to an Irish Novelist,” “Stringer’s Field,” TS; with
                                 TLS from McFadden, 13 May 1979]</unittitle>
@@ -3405,7 +3407,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">26</container>
-                            <unittitle> McFadden, Roy, Poetry: selections for Ormsby's <title>Poets
+                            <unittitle>McFadden, Roy, Poetry: selections for Ormsby's <title>Poets
                                     from the North of Ireland</title> [includes: “Contemplations of
                                 Mary,” “From Memoirs of Chinatown: Bigamy,” “First Letter to an
                                 Irish Novelist,” “The Grand Central Hotel,” proofs; with TLS from
@@ -3425,56 +3427,56 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">28</container>
-                            <unittitle> McGuckian, Medbh, Correspondence, undated</unittitle>
+                            <unittitle>McGuckian, Medbh, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">29</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “After the Fire,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “After the Fire,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">30</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Amelia,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Amelia,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">31</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Balakhana,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Balakhana,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">32</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “The Bone-Setter,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “The Bone-Setter,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">33</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “The Cage-Cup,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “The Cage-Cup,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">34</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Catching Geese,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Catching Geese,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">35</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “The Chain Sleeper,”
+                            <unittitle>McGuckian, Medbh, Poetry: “The Chain Sleeper,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -3482,77 +3484,77 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">36</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Choice,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Choice,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">37</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “The Confinement,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “The Confinement,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">38</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “The Cup,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “The Cup,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">39</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “The Fire Tower,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “The Fire Tower,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">40</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Fossils,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Fossils,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">41</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Friday,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Friday,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">42</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “The Garden Gnome,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “The Garden Gnome,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">43</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “The Half-Word,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “The Half-Word,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">44</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “The House,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “The House,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">45</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Kells,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Kells,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">46</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Partly Dedicated to a House,”
+                            <unittitle>McGuckian, Medbh, Poetry: “Partly Dedicated to a House,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -3560,14 +3562,14 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">47</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Petite Maison,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Petite Maison,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">48</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “The Return of Helen,”
+                            <unittitle>McGuckian, Medbh, Poetry: “The Return of Helen,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -3575,21 +3577,21 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">49</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Sea or Sky?” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Sea or Sky?” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">50</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Shaferi,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Shaferi,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">51</container>
-                            <unittitle> McGuckian, Medbh, Medbh, Poetry: “The Show House,”
+                            <unittitle>McGuckian, Medbh, Medbh, Poetry: “The Show House,”
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -3597,42 +3599,42 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">52</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “The Sofa,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “The Sofa,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">53</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Studies,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Studies,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">54</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Tobacco Hole,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Tobacco Hole,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">55</container>
-                            <unittitle> McGuckian, Medbh, Poetry: “Truganini,” TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: “Truganini,” TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">56</container>
-                            <unittitle> McGuckian, Medbh, Poetry: "Up the River," TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: "Up the River," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">57</container>
-                            <unittitle> McGuckian, Medbh, Poetry: "Waterford," TS</unittitle>
+                            <unittitle>McGuckian, Medbh, Poetry: "Waterford," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -3648,7 +3650,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">59</container>
-                            <unittitle> Montague, John, Correspondence, announcements and
+                            <unittitle>Montague, John, Correspondence, announcements and
                                 invitations</unittitle>
                         </did>
                     </c03>
@@ -3656,7 +3658,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">60</container>
-                            <unittitle> Montague, John, Poetry: "Coldness," "The Massacre,"
+                            <unittitle>Montague, John, Poetry: "Coldness," "The Massacre,"
                                 "Northern Express," TS</unittitle>
                         </did>
                     </c03>
@@ -3664,14 +3666,14 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">61</container>
-                            <unittitle> Montague, John, Poetry: "Craigavon Blues," TS</unittitle>
+                            <unittitle>Montague, John, Poetry: "Craigavon Blues," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">62</container>
-                            <unittitle> Montague, John, Poetry: "A Frenchman in Derry,"
+                            <unittitle>Montague, John, Poetry: "A Frenchman in Derry,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -3679,21 +3681,21 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">63</container>
-                            <unittitle> Montague, John, Poetry: "Wedge," TS</unittitle>
+                            <unittitle>Montague, John, Poetry: "Wedge," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">64</container>
-                            <unittitle> Montague, John, Poetry: "Weeds," TS</unittitle>
+                            <unittitle>Montague, John, Poetry: "Weeds," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">65</container>
-                            <unittitle> Montague, John, Printed material: "Old Mythologies," poem on
+                            <unittitle>Montague, John, Printed material: "Old Mythologies," poem on
                                 postcard with MS message from Montague, undated</unittitle>
                         </did>
                     </c03>
@@ -3701,7 +3703,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">66</container>
-                            <unittitle> Montague, John, Printed material: "Omagh Hospital," poem in
+                            <unittitle>Montague, John, Printed material: "Omagh Hospital," poem in
                                 the <title>Poetry Book Society Bulletin</title>
                             </unittitle>
                         </did>
@@ -3710,7 +3712,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">67</container>
-                            <unittitle> Montague, John, Printed material: Review of Montague's
+                            <unittitle>Montague, John, Printed material: Review of Montague's
                                     <title>A Chosen Light</title> [by Dan Covy?]</unittitle>
                         </did>
                     </c03>
@@ -3718,7 +3720,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">68</container>
-                            <unittitle> Montague, John, Photographs</unittitle>
+                            <unittitle>Montague, John, Photographs</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -3734,21 +3736,21 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">70</container>
-                            <unittitle> Muldoon, Paul, Correspondence, 1980-1991</unittitle>
+                            <unittitle>Muldoon, Paul, Correspondence, 1980-1991</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">71</container>
-                            <unittitle> Muldoon, Paul, Correspondence, undated</unittitle>
+                            <unittitle>Muldoon, Paul, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">72</container>
-                            <unittitle> Muldoon, Paul, Poetry: <corpname authfilenumber="123393054"
+                            <unittitle>Muldoon, Paul, Poetry: <corpname authfilenumber="123393054"
                                     source="viaf">Belfast Group</corpname> worksheets, undated
                                 [incomplete worksheet includes: <title render="doublequote">The
                                     Electric Orchard</title>, <title render="doublequote">Grass
@@ -3760,7 +3762,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">73</container>
-                            <unittitle> Muldoon, Paul, Poetry: Belfast Group worksheets, <date
+                            <unittitle>Muldoon, Paul, Poetry: Belfast Group worksheets, <date
                                     normal="1971-10-25">25 October 1971</date> [includes: <title
                                     render="doublequote">Blowing Eggs</title>, <title
                                     render="doublequote">The Radio Horse</title>, <title
@@ -3776,7 +3778,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">74</container>
-                            <unittitle> Muldoon, Paul, Poetry: <title>Knowing My Place</title>, TS
+                            <unittitle>Muldoon, Paul, Poetry: <title>Knowing My Place</title>, TS
                                 mock-up of pamphlet, 1971 [includes: "Rodgers at Loughgall,"
                                 "Seanchas," "Macha," "Clonfeacle," "Dancers at the Moy," "Belfast,"
                                 "The Indians on Alcatraz," "Dixon on Tory," "Little Skellig,"
@@ -3787,7 +3789,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">75</container>
-                            <unittitle> Muldoon, Paul, Poetry: <title>Spirit of Dawn</title>, TS for
+                            <unittitle>Muldoon, Paul, Poetry: <title>Spirit of Dawn</title>, TS for
                                 pamphlet, 1975 [includes: "Ned Skinner," "Spirit of Dawn,"
                                 "Cheesecake," "The Mixed Marriage," "Ma," "Keen," "Vaquero," "The
                                 Rucksack," "Big Liz," "Largesse," "At Martha’s Deli," "The Big
@@ -3798,7 +3800,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">76</container>
-                            <unittitle> Muldoon, Paul, Poetry: <title>Spirit of Dawn</title>,
+                            <unittitle>Muldoon, Paul, Poetry: <title>Spirit of Dawn</title>,
                                 mock-up for pamphlet, 1975</unittitle>
                         </did>
                     </c03>
@@ -3806,7 +3808,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">77</container>
-                            <unittitle> Muldoon, Paul, Poetry: <title>Spirit of Dawn</title>,
+                            <unittitle>Muldoon, Paul, Poetry: <title>Spirit of Dawn</title>,
                                 mock-up for pamphlet, 1975</unittitle>
                         </did>
                     </c03>
@@ -3814,21 +3816,21 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">78</container>
-                            <unittitle> Muldoon, Paul, Poetry: "Centre Piece," MS</unittitle>
+                            <unittitle>Muldoon, Paul, Poetry: "Centre Piece," MS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">79</container>
-                            <unittitle> Muldoon, Paul, Poetry: "The Glass Boat," TS</unittitle>
+                            <unittitle>Muldoon, Paul, Poetry: "The Glass Boat," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">80</container>
-                            <unittitle> Muldoon, Paul, Poetry: "James Dixon The First Tractor That
+                            <unittitle>Muldoon, Paul, Poetry: "James Dixon The First Tractor That
                                 Ever Came to Tory," TS</unittitle>
                         </did>
                     </c03>
@@ -3836,42 +3838,42 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">81</container>
-                            <unittitle> Muldoon, Paul, Poetry: "The Pink Tandem," TS</unittitle>
+                            <unittitle>Muldoon, Paul, Poetry: "The Pink Tandem," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">82</container>
-                            <unittitle> Muldoon, Paul, Poetry: "Poem for Lawrence," MS</unittitle>
+                            <unittitle>Muldoon, Paul, Poetry: "Poem for Lawrence," MS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">83</container>
-                            <unittitle> Muldoon, Paul, Poetry: "Rapunzel," TS</unittitle>
+                            <unittitle>Muldoon, Paul, Poetry: "Rapunzel," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">84</container>
-                            <unittitle> Muldoon, Paul, Poetry: "Taking the Rust," MS</unittitle>
+                            <unittitle>Muldoon, Paul, Poetry: "Taking the Rust," MS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">85</container>
-                            <unittitle> Muldoon, Paul, Poetry: "Uncle Pat," TS</unittitle>
+                            <unittitle>Muldoon, Paul, Poetry: "Uncle Pat," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">86</container>
-                            <unittitle> Muldoon, Paul, Prose: "Winners," TS review of <title>Under
+                            <unittitle>Muldoon, Paul, Prose: "Winners," TS review of <title>Under
                                     the Moon, Over the Stars</title> by Michael Longley </unittitle>
                         </did>
                     </c03>
@@ -3879,7 +3881,7 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">87</container>
-                            <unittitle> Muldoon, Paul, Prose: untitled, MS review of <title>No
+                            <unittitle>Muldoon, Paul, Prose: untitled, MS review of <title>No
                                     Continuing City</title> by Michael Longley </unittitle>
                         </did>
                     </c03>
@@ -3896,7 +3898,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">2</container>
-                            <unittitle> O’Brien, Sean, Correspondence, 1988</unittitle>
+                            <unittitle>O’Brien, Sean, Correspondence, 1988</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -3912,70 +3914,70 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">4</container>
-                            <unittitle> Paulin, Tom, Correspondence, undated</unittitle>
+                            <unittitle>Paulin, Tom, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">5</container>
-                            <unittitle> Paulin, Tom, Poetry: "Ballywaire," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "Ballywaire," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">6</container>
-                            <unittitle> Paulin, Tom, Poetry: "The College Record," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "The College Record," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">7</container>
-                            <unittitle> Paulin, Tom, Poetry: "A Desert Development," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "A Desert Development," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">8</container>
-                            <unittitle> Paulin, Tom, Poetry: "The Editorial Manse," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "The Editorial Manse," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">9</container>
-                            <unittitle> Paulin, Tom, Poetry: "From," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "From," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">10</container>
-                            <unittitle> Paulin, Tom, Poetry: "A Kind of Local," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "A Kind of Local," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">11</container>
-                            <unittitle> Paulin, Tom, Poetry: "Image," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "Image," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">12</container>
-                            <unittitle> Paulin, Tom, Poetry: "In Antrim," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "In Antrim," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">13</container>
-                            <unittitle> Paulin, Tom, Poetry: "No More Photographs," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "No More Photographs," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -3991,28 +3993,28 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">15</container>
-                            <unittitle> Paulin, Tom, Poetry: "A Pre-War Arrival," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "A Pre-War Arrival," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">16</container>
-                            <unittitle> Paulin, Tom, Poetry: "Reminders," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "Reminders," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">17</container>
-                            <unittitle> Paulin, Tom, Poetry: "A September Rising," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "A September Rising," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">18</container>
-                            <unittitle> Paulin, Tom, Poetry: "The wind in pine forests, dry twigs…,"
+                            <unittitle>Paulin, Tom, Poetry: "The wind in pine forests, dry twigs…,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4020,14 +4022,14 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">19</container>
-                            <unittitle> Paulin, Tom, Poetry: "Without Mercy," TS</unittitle>
+                            <unittitle>Paulin, Tom, Poetry: "Without Mercy," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">20</container>
-                            <unittitle> Paulin, Tom, Printed material: "Tom Paulin writes…" in the
+                            <unittitle>Paulin, Tom, Printed material: "Tom Paulin writes…" in the
                                     <title>Poetry Book Society Bulletin</title>, spring
                                 1977</unittitle>
                         </did>
@@ -4036,21 +4038,21 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">21</container>
-                            <unittitle> Peskett, William, Correspondence, 1970-1979</unittitle>
+                            <unittitle>Peskett, William, Correspondence, 1970-1979</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">22</container>
-                            <unittitle> Peskett, William, Correspondence, undated</unittitle>
+                            <unittitle>Peskett, William, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">23</container>
-                            <unittitle> Peskett, William, Correspondence, 1969-1970 [to James
+                            <unittitle>Peskett, William, Correspondence, 1969-1970 [to James
                                 Simmons]</unittitle>
                         </did>
                     </c03>
@@ -4058,28 +4060,28 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">24</container>
-                            <unittitle> Peskett, William, Poetry: "Cleaning Stables," TS</unittitle>
+                            <unittitle>Peskett, William, Poetry: "Cleaning Stables," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">25</container>
-                            <unittitle> Peskett, William, Poetry: "Window Dressing," TS</unittitle>
+                            <unittitle>Peskett, William, Poetry: "Window Dressing," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">26</container>
-                            <unittitle> Price, Victor, Correspondence, 1975-1981</unittitle>
+                            <unittitle>Price, Victor, Correspondence, 1975-1981</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">27</container>
-                            <unittitle> Price, Victor, Poetry: "Commuters" and "Photograph of a
+                            <unittitle>Price, Victor, Poetry: "Commuters" and "Photograph of a
                                 Leopard Lady," TS</unittitle>
                         </did>
                     </c03>
@@ -4087,42 +4089,42 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">28</container>
-                            <unittitle> Price, Victor, Poetry: "Errant Valkyrie," TS</unittitle>
+                            <unittitle>Price, Victor, Poetry: "Errant Valkyrie," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">29</container>
-                            <unittitle> Price, Victor, Poetry: "Georgie," TS</unittitle>
+                            <unittitle>Price, Victor, Poetry: "Georgie," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">30</container>
-                            <unittitle> Price, Victor, Poetry: "Not Dead Yet," TS</unittitle>
+                            <unittitle>Price, Victor, Poetry: "Not Dead Yet," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">31</container>
-                            <unittitle> Price, Victor, Poetry: "Reading to Music," TS</unittitle>
+                            <unittitle>Price, Victor, Poetry: "Reading to Music," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">32</container>
-                            <unittitle> Price, Victor, Poetry: "Twisted Nerve," TS</unittitle>
+                            <unittitle>Price, Victor, Poetry: "Twisted Nerve," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">33</container>
-                            <unittitle> Price, Victor, Prose: "Richard Rowley - A Forgotten Poet,"
+                            <unittitle>Price, Victor, Prose: "Richard Rowley - A Forgotten Poet,"
                                 TS [essay]</unittitle>
                         </did>
                     </c03>
@@ -4130,7 +4132,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">34</container>
-                            <unittitle> Price, Victor, Poetry: <title>A Winning Line</title>, TS
+                            <unittitle>Price, Victor, Poetry: <title>A Winning Line</title>, TS
                                 [novel]</unittitle>
                         </did>
                     </c03>
@@ -4156,14 +4158,14 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">37</container>
-                            <unittitle> Rumens, Carol, Correspondence, undated</unittitle>
+                            <unittitle>Rumens, Carol, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">38</container>
-                            <unittitle> Rumens, Carol, Poetry: <title>A Necklace of Mirrors</title>,
+                            <unittitle>Rumens, Carol, Poetry: <title>A Necklace of Mirrors</title>,
                                 TS [includes: ALS from Rumens 24 October 1978 and poems: "Portrait
                                 of the Poet as a Little Girl," "Sappho," "Li Ju-Chen’s Dream," "The
                                 Witch’s Manuscript," "Song for Puberty," Charlotte's Journey," "The
@@ -4176,14 +4178,14 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">39</container>
-                            <unittitle> Rumens, Carol, Poetry: "Fear," TS</unittitle>
+                            <unittitle>Rumens, Carol, Poetry: "Fear," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">40</container>
-                            <unittitle> Rumens, Carol, Poetry: "The Girl in the Cathedral,"
+                            <unittitle>Rumens, Carol, Poetry: "The Girl in the Cathedral,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4191,7 +4193,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">41</container>
-                            <unittitle> Rumens, Carol, Poetry: "A Poor Man" and "Small Views,"
+                            <unittitle>Rumens, Carol, Poetry: "A Poor Man" and "Small Views,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4199,42 +4201,42 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">42</container>
-                            <unittitle> Rumens, Carol, Poetry: "Unplayed Music," TS</unittitle>
+                            <unittitle>Rumens, Carol, Poetry: "Unplayed Music," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">43</container>
-                            <unittitle> Simmons, James, Correspondence, 1968-1974</unittitle>
+                            <unittitle>Simmons, James, Correspondence, 1968-1974</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">44</container>
-                            <unittitle> Simmons, James, Correspondence, 1975-1984</unittitle>
+                            <unittitle>Simmons, James, Correspondence, 1975-1984</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">45</container>
-                            <unittitle> Simmons, James, Correspondence, 1988-1996</unittitle>
+                            <unittitle>Simmons, James, Correspondence, 1988-1996</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">46</container>
-                            <unittitle> Simmons, James, Correspondence, undated</unittitle>
+                            <unittitle>Simmons, James, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">47</container>
-                            <unittitle> Simmons, James, Correspondence, <corpname>The Poets'
+                            <unittitle>Simmons, James, Correspondence, <corpname>The Poets'
                                     House</corpname> organizational materials</unittitle>
                         </did>
                     </c03>
@@ -4242,7 +4244,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">48</container>
-                            <unittitle> Simmons, James, Correspondence, <corpname>The Poets'
+                            <unittitle>Simmons, James, Correspondence, <corpname>The Poets'
                                     House</corpname> promotional materials</unittitle>
                         </did>
                     </c03>
@@ -4250,7 +4252,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">49</container>
-                            <unittitle> Simmons, Jamess, Poetry: the Belfast Group worksheets, <date
+                            <unittitle>Simmons, Jamess, Poetry: the Belfast Group worksheets, <date
                                     normal="1971-03-01">Monday March 1, 1971</date> [includes:
                                     <title render="doublequote">Marital Sonnets</title>, <title
                                     render="doublequote">Elegy for J.F. Kennedy</title>, <title
@@ -4263,7 +4265,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">50</container>
-                            <unittitle> Simmons, James, Poetry: The Poets' House, "Poems in Honor of
+                            <unittitle>Simmons, James, Poetry: The Poets' House, "Poems in Honor of
                                 James Simmons's 60th Birthday," 14 Februrary 1993 [includes:
                                 McGuckian's "The Tomorrow Club," Montague's "Last Journey," Ormsby's
                                 "Some of Us Stayed Forever," Simmons's "The Island Again,"
@@ -4274,7 +4276,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">51</container>
-                            <unittitle> Simmons, James, Poetry: "The Ballad of Bertrand Russell,"
+                            <unittitle>Simmons, James, Poetry: "The Ballad of Bertrand Russell,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4282,7 +4284,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">52</container>
-                            <unittitle> Simmons, James, Poetry: "The Cattle Rustling at Cooley,"
+                            <unittitle>Simmons, James, Poetry: "The Cattle Rustling at Cooley,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4290,7 +4292,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">53</container>
-                            <unittitle> Simmons, James, Poetry: "The Circumnavigators," TS [See also
+                            <unittitle>Simmons, James, Poetry: "The Circumnavigators," TS [See also
                                 Subseries 1.1: <title>Honest Ulsterman</title> correspondence,
                                 letter from Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4299,7 +4301,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">54</container>
-                            <unittitle> Simmons, James, Poetry: "The Cook's Song," TS [See also
+                            <unittitle>Simmons, James, Poetry: "The Cook's Song," TS [See also
                                 Subseries 1.1: <title>Honest Ulsterman</title> correspondence,
                                 letter from Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4308,7 +4310,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">55</container>
-                            <unittitle> Simmons, James, Poetry: "A Customer of Beauty / A Barren
+                            <unittitle>Simmons, James, Poetry: "A Customer of Beauty / A Barren
                                 Exercise," TS</unittitle>
                         </did>
                     </c03>
@@ -4316,7 +4318,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">56</container>
-                            <unittitle> Simmons, James, Poetry: "Divorce," TS [See also Subseries
+                            <unittitle>Simmons, James, Poetry: "Divorce," TS [See also Subseries
                                 1.1: <title>Honest Ulsterman</title> correspondence, letter from
                                 Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4325,28 +4327,28 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">57</container>
-                            <unittitle> Simmons, James, Poetry: "Dunlewey: 1977," TS</unittitle>
+                            <unittitle>Simmons, James, Poetry: "Dunlewey: 1977," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">58</container>
-                            <unittitle> Simmons, James, Poetry: "Elegy," TS</unittitle>
+                            <unittitle>Simmons, James, Poetry: "Elegy," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">59</container>
-                            <unittitle> Simmons, James, Poetry: "Escape," TS</unittitle>
+                            <unittitle>Simmons, James, Poetry: "Escape," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">11</container>
                             <container type="folder">60</container>
-                            <unittitle> Simmons, James, Poetry: "Extempore Effusion on a Hurt
+                            <unittitle>Simmons, James, Poetry: "Extempore Effusion on a Hurt
                                 Thumb," TS</unittitle>
                         </did>
                     </c03>
@@ -4354,7 +4356,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">61</container>
-                            <unittitle> Simmons, James, Poetry: "Fragments," and "Wish Fulfillment,"
+                            <unittitle>Simmons, James, Poetry: "Fragments," and "Wish Fulfillment,"
                                 TS [See also Subseries 1.1: <title>Honest Ulsterman</title>
                                 correspondence, letter from Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4363,7 +4365,7 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">62</container>
-                            <unittitle> Simmons, James, Poetry: "The Heart of his Mystery: Derek
+                            <unittitle>Simmons, James, Poetry: "The Heart of his Mystery: Derek
                                 Mahon Reads his Poetry," TS</unittitle>
                         </did>
                     </c03>
@@ -4371,7 +4373,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">1</container>
-                            <unittitle> Simmons, James, Poetry: "Holiday in Garvagh," TS [See also
+                            <unittitle>Simmons, James, Poetry: "Holiday in Garvagh," TS [See also
                                 Subseries 1.1: <title>Honest Ulsterman</title> correspondence,
                                 letter from Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4380,28 +4382,28 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">2</container>
-                            <unittitle> Simmons, James, Poetry: "J.M. Synge," TS</unittitle>
+                            <unittitle>Simmons, James, Poetry: "J.M. Synge," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">3</container>
-                            <unittitle> Simmons, James, Poetry: "Leeds. 1958," TS</unittitle>
+                            <unittitle>Simmons, James, Poetry: "Leeds. 1958," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">4</container>
-                            <unittitle> Simmons, James, Poetry: "The Liberator," TS</unittitle>
+                            <unittitle>Simmons, James, Poetry: "The Liberator," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">5</container>
-                            <unittitle> Simmons, James, Poetry: "The Man Outside the Beauty
+                            <unittitle>Simmons, James, Poetry: "The Man Outside the Beauty
                                 Parlour," TS</unittitle>
                         </did>
                     </c03>
@@ -4409,14 +4411,14 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">6</container>
-                            <unittitle> Simmons, James, Poetry: "Marital Sonnets," TS</unittitle>
+                            <unittitle>Simmons, James, Poetry: "Marital Sonnets," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">7</container>
-                            <unittitle> Simmons, James, Poetry: "Nancy With the Laughing Face," TS
+                            <unittitle>Simmons, James, Poetry: "Nancy With the Laughing Face," TS
                                 [See also Subseries 1.1: <title>Honest Ulsterman</title>
                                 correspondence, letter from Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4425,7 +4427,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">8</container>
-                            <unittitle> Simmons, James, Poetry: "To One Watching With Envy a Game of
+                            <unittitle>Simmons, James, Poetry: "To One Watching With Envy a Game of
                                 Tennis Played by Experts," TS</unittitle>
                         </did>
                     </c03>
@@ -4433,7 +4435,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">9</container>
-                            <unittitle> Simmons, James, Poetry: "On Secondment," TS [See also
+                            <unittitle>Simmons, James, Poetry: "On Secondment," TS [See also
                                 Subseries 1.1: <title>Honest Ulsterman</title> correspondence,
                                 letter from Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4442,7 +4444,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">10</container>
-                            <unittitle> Simmons, James, Poetry: "Second Settler's Soliloquy," TS
+                            <unittitle>Simmons, James, Poetry: "Second Settler's Soliloquy," TS
                                 [See also Subseries 1.1: <title>Honest Ulsterman</title>
                                 correspondence, letter from Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4451,7 +4453,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">11</container>
-                            <unittitle> Simmons, James, Poetry: "Set Peace," TS [See also Subseries
+                            <unittitle>Simmons, James, Poetry: "Set Peace," TS [See also Subseries
                                 1.1: <title>Honest Ulsterman</title> correspondence, letter from
                                 Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4460,7 +4462,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">12</container>
-                            <unittitle> Simmons, James, Poetry: "Sex, Rectitude and Loneliness,"
+                            <unittitle>Simmons, James, Poetry: "Sex, Rectitude and Loneliness,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4468,7 +4470,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">13</container>
-                            <unittitle> Simmons, James, Poetry: "The Straight Line and the Circle,"
+                            <unittitle>Simmons, James, Poetry: "The Straight Line and the Circle,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4476,7 +4478,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">14</container>
-                            <unittitle> Simmons, James, Poetry: "Strip to Essentials," TS [See also
+                            <unittitle>Simmons, James, Poetry: "Strip to Essentials," TS [See also
                                 Subseries 1.1: <title>Honest Ulsterman</title> correspondence,
                                 letter from Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4485,28 +4487,28 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">15</container>
-                            <unittitle> Simmons, James, Poetry: "The Strong Breed," TS</unittitle>
+                            <unittitle>Simmons, James, Poetry: "The Strong Breed," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">16</container>
-                            <unittitle> Simmons, James, Poetry: "The Troubles," TS</unittitle>
+                            <unittitle>Simmons, James, Poetry: "The Troubles," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">17</container>
-                            <unittitle> Simmons, James, Poetry: "Twenty Years," TS</unittitle>
+                            <unittitle>Simmons, James, Poetry: "Twenty Years," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">18</container>
-                            <unittitle> Simmons, James, Poetry: "Valediction to the Editors,"
+                            <unittitle>Simmons, James, Poetry: "Valediction to the Editors,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4514,7 +4516,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">19</container>
-                            <unittitle> Simmons, James, Poetry: "When She's Late Home,"
+                            <unittitle>Simmons, James, Poetry: "When She's Late Home,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4522,7 +4524,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">20</container>
-                            <unittitle> Simmons, James, Poetry: "White Gloves Across the Border,"
+                            <unittitle>Simmons, James, Poetry: "White Gloves Across the Border,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4530,7 +4532,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">21</container>
-                            <unittitle> Simmons, James, Poetry: "Why to the Wilderness," TS [See
+                            <unittitle>Simmons, James, Poetry: "Why to the Wilderness," TS [See
                                 also Subseries 1.1: <title>Honest Ulsterman</title> correspondence,
                                 letter from Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4539,7 +4541,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">22</container>
-                            <unittitle> Simmons, James, Poetry: "The Wreckers," TS [See also
+                            <unittitle>Simmons, James, Poetry: "The Wreckers," TS [See also
                                 Subseries 1.1: <title>Honest Ulsterman</title> correspondence,
                                 letter from Simmons, 22 September 1971]</unittitle>
                         </did>
@@ -4548,14 +4550,14 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">23</container>
-                            <unittitle> Simmons, James, Poetry: untitled</unittitle>
+                            <unittitle>Simmons, James, Poetry: untitled</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">24</container>
-                            <unittitle> Simmons, James, Prose: <title>A Boyhood in the
+                            <unittitle>Simmons, James, Prose: <title>A Boyhood in the
                                     Colony</title>, TS autobiography [includes chapters 5 ("Mother
                                 and Garden") and 7 ("'Training,' an Interlude")]</unittitle>
                         </did>
@@ -4564,7 +4566,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">25</container>
-                            <unittitle> Simmons, James, Prose: "Author's Note," TS [autobiographical
+                            <unittitle>Simmons, James, Prose: "Author's Note," TS [autobiographical
                                 sketch]</unittitle>
                         </did>
                     </c03>
@@ -4572,7 +4574,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">26</container>
-                            <unittitle> Simmons, James, Prose: "Art and Politics," TS
+                            <unittitle>Simmons, James, Prose: "Art and Politics," TS
                                 [essay]</unittitle>
                         </did>
                     </c03>
@@ -4580,14 +4582,14 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">27</container>
-                            <unittitle> Simmons, James, Prose: "Dr. Conrad," TS [essay]</unittitle>
+                            <unittitle>Simmons, James, Prose: "Dr. Conrad," TS [essay]</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">28</container>
-                            <unittitle> Simmons, James, Prose: "Huckleberry Finn (1), (2)," TS
+                            <unittitle>Simmons, James, Prose: "Huckleberry Finn (1), (2)," TS
                                 [essays for <title>The Honest Ulsterman</title>'s "The Entertainment
                                 Section"]</unittitle>
                         </did>
@@ -4596,7 +4598,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">29</container>
-                            <unittitle> Simmons, James, Prose: "The Thoughts of Derek Montgomery,"
+                            <unittitle>Simmons, James, Prose: "The Thoughts of Derek Montgomery,"
                                 TS [essays]</unittitle>
                         </did>
                     </c03>
@@ -4604,7 +4606,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">30</container>
-                            <unittitle> Simmons, James, Prose: "The Thoughts of Derek Montgomery,"
+                            <unittitle>Simmons, James, Prose: "The Thoughts of Derek Montgomery,"
                                 proofs [essays include: "James Joyce," "Understanding," "Religion as
                                 Literature"]</unittitle>
                         </did>
@@ -4613,7 +4615,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">31</container>
-                            <unittitle> Simmons, James, Prose: untitled, TS review of <title>The Big
+                            <unittitle>Simmons, James, Prose: untitled, TS review of <title>The Big
                                     Chapel</title> by <persname authfilenumber="91961511"
                                     source="viaf">Thomas Kilroy</persname>
                             </unittitle>
@@ -4623,7 +4625,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">32</container>
-                            <unittitle> Simmons, James, Prose: untitled, TS review of
+                            <unittitle>Simmons, James, Prose: untitled, TS review of
                                     <title>Fergus</title> by <persname authfilenumber="36913224"
                                     source="viaf">Brian Moore</persname>
                             </unittitle>
@@ -4633,7 +4635,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">33</container>
-                            <unittitle> Simmons, James, Prose: untitled, TS review of <title>A Man
+                            <unittitle>Simmons, James, Prose: untitled, TS review of <title>A Man
                                     Flourishing</title> by <persname authfilenumber="64290920"
                                     source="viaf">Sam Hanna Bell</persname>
                             </unittitle>
@@ -4643,7 +4645,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">34</container>
-                            <unittitle> Simmons, James, Printed material: Programs [including
+                            <unittitle>Simmons, James, Printed material: Programs [including
                                     <title>The Cattle Rustling</title>]</unittitle>
                         </did>
                     </c03>
@@ -4651,7 +4653,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">35</container>
-                            <unittitle> Simmons, James, Printed material: Reviews of James Simmons
+                            <unittitle>Simmons, James, Printed material: Reviews of James Simmons
                             </unittitle>
                         </did>
                     </c03>
@@ -4659,7 +4661,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">36</container>
-                            <unittitle> Simmons, James, Artwork</unittitle>
+                            <unittitle>Simmons, James, Artwork</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -4684,7 +4686,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">39</container>
-                            <unittitle> Waterman, Andrew, Poetry: "Summer Truce," TS</unittitle>
+                            <unittitle>Waterman, Andrew, Poetry: "Summer Truce," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -4700,14 +4702,14 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">41</container>
-                            <unittitle> Williams, Patrick, Correspondence, undated</unittitle>
+                            <unittitle>Williams, Patrick, Correspondence, undated</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">42</container>
-                            <unittitle> Williams, Patrick, Poetry: "Abuse by Fire," "Getting Home,"
+                            <unittitle>Williams, Patrick, Poetry: "Abuse by Fire," "Getting Home,"
                                 "God &amp; Angels," "God Talk," "Mountain," "Murphy," "Poor Old
                                 Death," TS [collected as a group]</unittitle>
                         </did>
@@ -4716,7 +4718,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">43</container>
-                            <unittitle> Williams, Patrick, Poetry: "Alma Mater," "Boozed," "The
+                            <unittitle>Williams, Patrick, Poetry: "Alma Mater," "Boozed," "The
                                 Boys," "Carnival," "For Those Concerned," "In the Pen," "The Salt
                                 Town," "Seize the Day," "Vampire," "A Warning," "Winter," TS
                                 [collected as a group]</unittitle>
@@ -4726,7 +4728,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">44</container>
-                            <unittitle> Williams, Patrick, Poetry: "Certain Gardens," "A Choice," "A
+                            <unittitle>Williams, Patrick, Poetry: "Certain Gardens," "A Choice," "A
                                 Glance Behind," "In the Room," "On a Clear Day," "Sick Joke," "Shock
                                 Treatment," "Ten Years," TS [collected as a group]</unittitle>
                         </did>
@@ -4735,7 +4737,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">45</container>
-                            <unittitle> Williams, Patrick, Poetry: "The Ghost Houses," "Here Comes
+                            <unittitle>Williams, Patrick, Poetry: "The Ghost Houses," "Here Comes
                                 Everybody," "Midnight Mass," "Progress Report," "Speech Surgery," TS
                                 [collected as a group]</unittitle>
                         </did>
@@ -4744,56 +4746,56 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">46</container>
-                            <unittitle> Williams, Patrick, Poetry: "Caller," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Caller," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">47</container>
-                            <unittitle> Williams, Patrick, Poetry: "Children of Ice," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Children of Ice," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">48</container>
-                            <unittitle> Williams, Patrick, Poetry: "The Curator," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "The Curator," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">49</container>
-                            <unittitle> Williams, Patrick, Poetry: "Exhumation," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Exhumation," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">50</container>
-                            <unittitle> Williams, Patrick, Poetry: "Getting Home," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Getting Home," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">51</container>
-                            <unittitle> Williams, Patrick, Poetry: "Little Job," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Little Job," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">52</container>
-                            <unittitle> Williams, Patrick, Poetry: "Murphy," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Murphy," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">53</container>
-                            <unittitle> Williams, Patrick, Poetry: "New Year Encyclical,"
+                            <unittitle>Williams, Patrick, Poetry: "New Year Encyclical,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4801,14 +4803,14 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">54</container>
-                            <unittitle> Williams, Patrick, Poetry: "Light," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Light," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">55</container>
-                            <unittitle> Williams, Patrick, Poetry: "A Personal Matter,"
+                            <unittitle>Williams, Patrick, Poetry: "A Personal Matter,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4816,35 +4818,35 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">56</container>
-                            <unittitle> Williams, Patrick, Poetry: "Place," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Place," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">57</container>
-                            <unittitle> Williams, Patrick, Poetry: "Poem," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Poem," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">58</container>
-                            <unittitle> Williams, Patrick, Poetry: "Shelter," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Shelter," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">59</container>
-                            <unittitle> Williams, Patrick, Poetry: "Speech Surgery," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Speech Surgery," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">60</container>
-                            <unittitle> Williams, Patrick, Poetry: "Ten Years," TS</unittitle>
+                            <unittitle>Williams, Patrick, Poetry: "Ten Years," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
@@ -4861,7 +4863,7 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">62</container>
-                            <unittitle> Young, Augustus, Poetry: "Ballad of Fat Margot,"
+                            <unittitle>Young, Augustus, Poetry: "Ballad of Fat Margot,"
                                 TS</unittitle>
                         </did>
                     </c03>
@@ -4869,14 +4871,14 @@
                         <did>
                             <container type="box">12</container>
                             <container type="folder">63</container>
-                            <unittitle> Young, Augustus, Poetry: "Going to the City," TS</unittitle>
+                            <unittitle>Young, Augustus, Poetry: "Going to the City," TS</unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">12</container>
                             <container type="folder">64</container>
-                            <unittitle> Young, Augustus, Poetry: "Skirtings," TS</unittitle>
+                            <unittitle>Young, Augustus, Poetry: "Skirtings," TS</unittitle>
                         </did>
                     </c03>
                 </c02>
@@ -5754,7 +5756,7 @@
                         <did>
                             <container type="box">15</container>
                             <container type="folder">2</container>
-                            <unittitle> Ormsby, Frank, <title>Being Walked by a Dog</title>, TS
+                            <unittitle>Ormsby, Frank, <title>Being Walked by a Dog</title>, TS
                                 (1979)</unittitle>
                         </did>
                     </c03>
@@ -5849,7 +5851,7 @@
                         <did>
                             <container type="box">15</container>
                             <container type="folder">11</container>
-                            <unittitle> Peskett, William, <title>A Killing in the Grove</title>
+                            <unittitle>Peskett, William, <title>A Killing in the Grove</title>
                                 [cover art proofs]</unittitle>
                         </did>
                     </c03>
@@ -14175,14 +14177,14 @@
                 </scopecontent>
                 <c02 level="file">
                     <did>
-                        <unittitle> Frank Ormsby </unittitle>
+                        <unittitle>Frank Ormsby </unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
                     <did>
                         <container type="box">34</container>
                         <container type="folder">7</container>
-                        <unittitle> Ormsby at <corpname authfilenumber="146045434" source="viaf"
+                        <unittitle>Ormsby at <corpname authfilenumber="146045434" source="viaf"
                                 >Canadian Association for Irish Studies</corpname>, <corpname
                                 authfilenumber="127537677" source="viaf">University of
                                 Saskatchewan</corpname>, February 1987</unittitle>
@@ -14192,7 +14194,7 @@
                     <did>
                         <container type="box">34</container>
                         <container type="folder">8</container>
-                        <unittitle> Ormsby on trip to <geogname authfilenumber="798549"
+                        <unittitle>Ormsby on trip to <geogname authfilenumber="798549"
                                 source="geonames">Romania</geogname> sponsored by <corpname>The
                                 British Council</corpname>, 2-10 October 1987 [with <persname
                                 authfilenumber="29580646" source="viaf">Fleur
@@ -14203,7 +14205,7 @@
                     <did>
                         <container type="box">34</container>
                         <container type="folder">9</container>
-                        <unittitle> Ormsby in <geogname authfilenumber="588409" source="geonames"
+                        <unittitle>Ormsby in <geogname authfilenumber="588409" source="geonames"
                                 >Tallinn, Estonia</geogname>, 28 October - 4 November
                             1995</unittitle>
                     </did>
@@ -14212,7 +14214,7 @@
                     <did>
                         <container type="box">34</container>
                         <container type="folder">10</container>
-                        <unittitle> Ormsby negatives</unittitle>
+                        <unittitle>Ormsby negatives</unittitle>
                     </did>
                 </c02>
                 <c02 level="file">
