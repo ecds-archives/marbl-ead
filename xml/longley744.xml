@@ -12758,7 +12758,7 @@
                         <did>
                             <container type="box">64</container>
                             <container type="folder">6</container>
-                            <unittitle>Magazines and Journals: <corpname source="dbpedia" authfilenumber="Š"><emph render="italic">The Honest Ulsterman</emph></corpname>
+                            <unittitle>Magazines and Journals: <corpname source="dbpedia" authfilenumber="The_Honest_Ulsterman"><emph render="italic">The Honest Ulsterman</emph></corpname>
 
                             </unittitle>
                         </did>
