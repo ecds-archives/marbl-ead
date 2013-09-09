@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
-  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dbp="http://dbpedia.org/ontology/" xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
     relatedencoding="Dublin Core" repositoryencoding="iso15511" scriptencoding="iso15924">
@@ -37,7 +39,7 @@
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname encodinganalog="100" source="lcnaf">Fallon, Peter.</persname>
+        <persname source="viaf" authfilenumber="24613408" encodinganalog="100">Fallon, Peter.</persname>
       </origination>
       <unittitle encodinganalog="245$a">Peter Fallon - Gallery Press collection, <unitdate
           certainty="circa" encodinganalog="245$f" normal="1967/1998" type="inclusive">circa
@@ -83,25 +85,25 @@
     <bioghist encodinganalog="545">
       <head>Biographical or Historical Note</head>
       <p>Peter Fallon, poet, editor and publisher, was born in Germany in 1951 but spent his early
-        years on a farm in <geogname source="dbpedia" authfilenumber="County_Meath">County Meath, Ireland</geogname>. He graduated in 1975 with a B.A. in English
-        Language and Literature and an H.Dip. Ed from <corpname source="dbpedia" authfilenumber="Trinity_College,_Dublin">Trinity College</corpname>. In 1970, at the age of
-        eighteen, he founded The Gallery Press that has published poems and plays by the Ireland’s
+        years on a farm in <geogname source="geonames" authfilenumber="2962661" role="dbp:birthPlace">County Meath, Ireland</geogname>. He graduated in 1975 with a B.A. in English
+        Language and Literature and an H.Dip. Ed from <corpname source="dbpedia" authfilenumber="Trinity_College,_Dublin" role="schema:alumniOf">Trinity College</corpname>. In 1970, at the age of
+        eighteen, he founded <corpname source="viaf" authfilenumber="147893360" role="schema:founderOf">The Gallery Press</corpname> that has published poems and plays by the Ireland’s
         finest established and emerging authors. The Gallery Press is recognised as the pre-eminent
-        literary publishing house in Ireland. Among the writers it publishes are <persname source="viaf" authfilenumber="46805211">John Banville</persname>,
-        <persname source="viaf" authfilenumber="85621766">Ciaran Carson</persname>, <persname source="viaf" authfilenumber="120096893">Medbh McGuckian</persname>, <persname source="viaf" authfilenumber="110228045">Derek Mahon</persname>, <persname source="viaf" authfilenumber="98548196">John Montague</persname>, <persname source="viaf" authfilenumber="94779115">Nuala Ní Dhomhnaill</persname>, and the
-        playwright <persname source="viaf" authfilenumber="76315726">Brian Friel</persname>. The press has also published books by <persname source="viaf" authfilenumber="113258025">Paul Durcan</persname>, <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>,
-        and <persname source="viaf" authfilenumber="64048541">Paul Muldoon</persname>.</p>
-      <p>Fallon first began touring the <geogname source="geonames" authfilenumber="6252001">United States</geogname>, Europe, and <geogname source="geonames" authfilenumber="1861060">Japan</geogname> in 1972 and has since given
+        literary publishing house in Ireland. Among the writers it publishes are <persname source="viaf" authfilenumber="46805211" role="schema:colleague">John Banville</persname>,
+        <persname source="viaf" authfilenumber="85621766" role="schema:colleague">Ciaran Carson</persname>, <persname source="viaf" authfilenumber="120096893" role="schema:colleague">Medbh McGuckian</persname>, <persname source="viaf" authfilenumber="110228045" role="schema:colleague">Derek Mahon</persname>, <persname source="viaf" authfilenumber="98548196" role="schema:colleague">John Montague</persname>, <persname source="viaf" authfilenumber="94779115" role="schema:colleague">Nuala Ní Dhomhnaill</persname>, and the
+        playwright <persname source="viaf" authfilenumber="76315726" role="schema:colleague">Brian Friel</persname>. The press has also published books by <persname source="viaf" authfilenumber="113258025" role="schema:colleague">Paul Durcan</persname>, <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>,
+        and <persname source="viaf" authfilenumber="64048541" role="schema:colleague">Paul Muldoon</persname>.</p>
+      <p>Fallon first began touring the <geogname source="geonames" authfilenumber="6252001" role="schema:workLocation">United States</geogname>, Europe, and <geogname source="geonames" authfilenumber="1861060" role="schema:workLocation">Japan</geogname> in 1972 and has since given
         readings, lectures and workshops at over one hundred colleges and universities. In 1976-1977
-        he served as poet-in-residence at <corpname source="dbpedia" authfilenumber="Deerfield_academy">Deerfield Academy</corpname> in <geogname source="geonames" authfilenumber="6254926">Massachusetts</geogname> and in 1979 Fallon was
+        he served as poet-in-residence at <corpname source="dbpedia" authfilenumber="Deerfield_academy" role="schema:worksFor">Deerfield Academy</corpname> in <geogname source="geonames" authfilenumber="6254926">Massachusetts</geogname> and in 1979 Fallon was
         the International Poet-in-Residence in the Indiana Public Schools. Fallon acted as fiction
-        editor at the <corpname source="dbpedia" authfilenumber="O%27Brien_Press">O'Brien press</corpname> from 1980-1985. <corpname source="dbpedia" authfilenumber="Arts_Council_of_Ireland">The National Arts Council of Ireland</corpname> awarded
+        editor at the <corpname source="dbpedia" authfilenumber="O%27Brien_Press" role="schema:worksFor">O'Brien press</corpname> from 1980-1985. The National Arts Council of Ireland awarded
         Fallon an Arts Council bursary in 1981. In 1990 he and Derek Mahon edited <title>The Penguin
           Book of Contemporary Irish Poetry</title>. Peter Fallon's own collections of poems include
           <title>The Speaking Stones</title>, <title>Winter Work</title>, <title>The News and
           Weather</title>, <title>Eye to Eye</title>, and <title>News Of the World: Selected and New
           Poems</title>. A selection of his poems, <title>News of the World: Selected Poems</title>,
-        was published in the United States by <corpname source="dbpedia" authfilenumber="Wake_forest_university_press">Wake Forest University Press.</corpname></p>
+        was published in the United States by Wake Forest University Press.</p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
@@ -120,9 +122,9 @@
       <controlaccess>
         <head>Corporate Names</head>
         <corpname encodinganalog="610" source="lcnaf">After Hours Books.</corpname>
-        <corpname encodinganalog="610" source="lcnaf">Deerfield Press.</corpname>
-        <corpname encodinganalog="710" source="lcnaf">Gallery Press (Loughcrew, Ireland)</corpname>
-        <corpname source="dbpedia" authfilenumber="O%27Brien_Press">O'Brien Press.</corpname>
+        <corpname source="viaf" authfilenumber="130286320" encodinganalog="610">Deerfield Press.</corpname>
+        <corpname source="viaf" authfilenumber="147893360" encodinganalog="710">Gallery Press (Loughcrew, Ireland)</corpname>
+        <corpname source="viaf" authfilenumber="131392206" encodinganalog="610">O'Brien Press.</corpname>
         <corpname encodinganalog="710" source="lcnaf">Tara Telephone.</corpname>
       </controlaccess>
       <controlaccess>
@@ -175,7 +177,7 @@
         <scopecontent encodinganalog="520">
           <head>Scope and Content Note</head>
           <p>The series contains files relating to authors who have published works through the
-            Gallery Press (1969-1988), Gallery Press in conjunction with <corpname source="viaf" authfilenumber="130286320">Deerfield Press</corpname>, <corpname source="dbpedia" authfilenumber="O%27Brien_Press">O'Brien
+            Gallery Press (1969-1988), Gallery Press in conjunction with <corpname source="viaf" authfilenumber="130286320">Deerfield Press</corpname>, <corpname source="viaf" authfilenumber="131392206" >O'Brien
             Press</corpname> (1980-1980), and Oldcastle Enterprises/After Hours Books. The files may include
             biographical information on the author, correspondence, manuscripts and typescripts of
             their works, and page proofs and mock-ups. Additional correspondence may be found in
@@ -12831,7 +12833,7 @@
             spanning 1968-1998. The largest part of this correspondence is located in Series 2,
             though most correspondence directly related to books published by the Gallery Press is
             located in subseries 1.1; submissions correspondence may also be located in subseries
-            1.2; some correspondence related to Deerfield Press, <corpname source="dbpedia" authfilenumber="O%27Brien_Press">O'Brien Press</corpname>, and Oldcastle
+            1.2; some correspondence related to <corpname source="viaf" authfilenumber="130286320">Deerfield Press</corpname>, <corpname source="viaf" authfilenumber="131392206">O'Brien Press</corpname>, and Oldcastle
             Enterprises and After Hours Books is located in subseries 1.3, 1.4, and 1.5,
             respectively; correspondence related to works edited by Peter Fallon is generally
             located in subseries 3.2; and letters regarding Fallon's lecture tours of the United
