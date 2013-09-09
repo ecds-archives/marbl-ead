@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
-  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dbp="http://dbpedia.org/ontology/" xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
     relatedencoding="Dublin Core" repositoryencoding="iso15511" scriptencoding="iso15924">
@@ -35,7 +37,7 @@
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname encodinganalog="100" source="lcnaf">Deane, Seamus, 1940-</persname>
+        <persname source="viaf" authfilenumber="108344790" encodinganalog="100">Deane, Seamus, 1940-</persname>
       </origination>
 
       <unittitle encodinganalog="245$a">Seamus Deane papers</unittitle>
@@ -78,19 +80,19 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Seamus Deane (1940-), Irish poet and educator, was born in <geogname
-          authfilenumber="2643735" source="geonames">Derry, Northern Ireland</geogname>. He attended
-          <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia">Queen's
+      <p>Seamus Deane (<date normal="1940" type="schema:birthDate">1940</date>-), Irish poet and educator, was born in <geogname
+          authfilenumber="2643735" source="geonames" role="schema:birthPlace">Derry, Northern Ireland</geogname>. He attended
+          <corpname authfilenumber="Queen%27s_University_Belfast" source="dbpedia" role="schema:alumniOf">Queen's
           University, Belfast</corpname> and <corpname authfilenumber="University_of_Cambridge"
-          source="dbpedia">Cambridge University</corpname>. He was a professor of English and
+          source="dbpedia" role="schema:alumniOf">Cambridge University</corpname>. He was a professor of English and
         American Literature at <corpname authfilenumber="University_College_Dublin" source="dbpedia"
-          >University College, Dublin</corpname> and a professor of Irish Studies at the <corpname
-          authfilenumber="University_of_notre_dame" source="dbpedia">University of Notre
+           role="schema:worksFor">University College, Dublin</corpname> and a professor of Irish Studies at the <corpname
+          authfilenumber="University_of_notre_dame" source="dbpedia" role="schema:worksFor">University of Notre
           Dame</corpname>. He was also a founding director of the <corpname
-          authfilenumber="Field_Day_Theatre_Company" source="dbpedia">Field Day Theatre
-          Company</corpname>, along with <persname authfilenumber="38545317" source="viaf">David
-          Hammond</persname>, <persname authfilenumber="109557338" source="viaf">Seamus
-          Heaney</persname>, and <persname authfilenumber="108291535" source="viaf">Tom
+          authfilenumber="Field_Day_Theatre_Company" source="dbpedia" role="schema:founderOf">Field Day Theatre
+          Company</corpname>, along with <persname authfilenumber="38545317" source="viaf" role="schema:colleague">David
+          Hammond</persname>, <persname authfilenumber="109557338" source="viaf" role="schema:colleague">Seamus
+          Heaney</persname>, and <persname authfilenumber="108291535" source="viaf" role="schema:colleague">Tom
           Paulin</persname>. Deane has published several works of poetry and non-fiction, as well as
         one novel. His collections of poetry include Gradual Wars, Rumors and History Lessons; his
         non-fiction includes Heroic Styles: The Tradition of an Idea, Celtic Revivals: Essays in
@@ -126,21 +128,20 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname authfilenumber="109176234" source="viaf">Donoghue, Denis.</persname>
-        <persname authfilenumber="109557338" source="viaf">Heaney, Seamus.</persname>
-        <persname authfilenumber="34500781" source="viaf">Kinsella, Thomas.</persname>
-        <persname authfilenumber="39398205" source="viaf">Longley, Michael, 1939-</persname>
-        <persname authfilenumber="109956735" source="viaf">Longley, Edna.</persname>
-        <persname authfilenumber="120096893" source="viaf">McGuckian, Medbh, 1950-</persname>
-        <persname authfilenumber="110228045" source="viaf">Mahon, Derek, 1941-</persname>
-        <persname authfilenumber="108291535" source="viaf">Paulin, Tom.</persname>
-        <persname authfilenumber="76315726" source="viaf">Friel, Brian.</persname>
-        <persname authfilenumber="91961511" source="viaf">Kilroy, Thomas.</persname>
+        <persname authfilenumber="109176234" source="viaf" encodinganalog="600">Donoghue, Denis.</persname>
+        <persname authfilenumber="109557338" source="viaf" encodinganalog="600">Heaney, Seamus.</persname>
+        <persname authfilenumber="34500781" source="viaf" encodinganalog="600">Kinsella, Thomas.</persname>
+        <persname authfilenumber="39398205" source="viaf" encodinganalog="600">Longley, Michael, 1939-</persname>
+        <persname authfilenumber="109956735" source="viaf" encodinganalog="600">Longley, Edna.</persname>
+        <persname authfilenumber="120096893" source="viaf" encodinganalog="600">McGuckian, Medbh, 1950-</persname>
+        <persname authfilenumber="110228045" source="viaf" encodinganalog="600">Mahon, Derek, 1941-</persname>
+        <persname authfilenumber="108291535" source="viaf" encodinganalog="600">Paulin, Tom.</persname>
+        <persname authfilenumber="76315726" source="viaf" encodinganalog="600">Friel, Brian.</persname>
+        <persname authfilenumber="91961511" source="viaf" encodinganalog="600">Kilroy, Thomas.</persname>
       </controlaccess>
       <controlaccess>
         <head>Corporate Names</head>
-        <corpname authfilenumber="Field_Day_Theatre_Company" source="dbpedia">Field Day Theatre
-          Company.</corpname>
+        <corpname source="viaf" authfilenumber="268319582" encodinganalog="610">Field Day Theatre Company.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
