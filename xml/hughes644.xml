@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
-  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dbp="http://dbpedia.org/ontology/" xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
     relatedencoding="Dublin Core" repositoryencoding="iso15511" scriptencoding="iso15924">
@@ -35,7 +37,7 @@
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname encodinganalog="100" source="lcnaf">Hughes, Ted, 1930-1998.</persname>
+        <persname source="viaf" authfilenumber="108232871" encodinganalog="100">Hughes, Ted, 1930-1998.</persname>
       </origination>
       <unittitle encodinganalog="245$a">Ted Hughes papers, <unitdate calendar="gregorian"
           encodinganalog="245$f" era="ce" normal="1940/1999" type="inclusive">1940-1999
@@ -88,63 +90,63 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Ted Hughes was born on August 17th, 1930, the third child of <persname source="viaf" authfilenumber="11604654">Edith Farrar</persname> and William
-        Hughes of <geogname source="geonames" authfilenumber="2641922">Mytholmroyd, Yorkshire</geogname>. When he was seven the family moved to <geogname source="geonames" authfilenumber="2642683">Mexborough</geogname>, a nearby
+      <p>Ted Hughes was born on <date normal="1930-08-17" type="schema:birthDate">August 17th, 1930</date>, the third child of <persname source="viaf" authfilenumber="11604654" role="schema:parent">Edith Farrar</persname> and William
+        Hughes of <geogname source="geonames" authfilenumber="2641922" role="schema:birthPlace">Mytholmroyd, Yorkshire</geogname>. When he was seven the family moved to <geogname source="geonames" authfilenumber="2642683" role="schema:homeLocation">Mexborough</geogname>, a nearby
         mining town, where Hughes' parents ran a local newsagent's shop. There Hughes attended
         Mexborough Grammar School where he first began writing adventure stories and, later, verse,
         as he has explained, "when I discovered that what I wrote amused my classmates." Two poems
         from this period-among the earliest he wrote-survive in the Ted Hughes papers.</p>
-      <p>In 1948 Hughes won a scholarship to attend <corpname source="dbpedia" authfilenumber="_Cambridge">Pembroke College, Cambridge</corpname>, but he first
+      <p>In 1948 Hughes won a scholarship to attend <corpname source="viaf" authfilenumber="167939795" role="schema:alumniOf">Pembroke College, Cambridge</corpname>, but he first
         completed two years of national service as a ground wireless mechanic in an isolated RAF
-        station in <geogname source="geonames" authfilenumber="2650345">East Yorkshire</geogname>. As he later recalled, there he had "nothing to do but read and
+        station in <geogname source="geonames" authfilenumber="2650345" role="schema:workLocation">East Yorkshire</geogname>. As he later recalled, there he had "nothing to do but read and
         reread Shakespeare and watch the grass grow." The landscape of his early years in Yorkshire
         left a permanent imprint on his later poetry as it also did on his life-long habits of
         sight.</p>
       <p>In 1951 Hughes entered Pembroke College, Cambridge, where he first studied English
         literature, before switching in his third year to archaeology and anthropology. After
-        completing his degree, Hughes divided his time between Cambridge and <geogname source="geonames" authfilenumber="2643743">London</geogname> where he drifted
-        between a variety of odd jobs, among them that of a script reader for <corpname source="dbpedia" authfilenumber="Pinewood_Studios">Pinewood Studios</corpname> (?).
+        completing his degree, Hughes divided his time between Cambridge and <geogname source="geonames" authfilenumber="2643743" role="schema:homeLocation">London</geogname> where he drifted
+        between a variety of odd jobs, among them that of a script reader for <corpname source="dbpedia" authfilenumber="Pinewood_Studios" role="schema:worksFor">Pinewood Studios</corpname> (?).
         In the years immediately after finishing at Cambridge, he also began publishing poems under
         a variety of pseudonyms in local literary magazines, among them <title>Chequer</title>,
-        <corpname source="dbpedia" authfilenumber="Granta"><emph render="italic">Granta</emph></corpname>, and <corpname source="dbpedia" authfilenumber="Delta_(magazine)"><emph render="italic">Delta</emph></corpname>.</p>
-      <p>In February 1956 Hughes contributed four poems to a new literary magazine called <corpname source="dbpedia" authfilenumber="St._Botolph%27s_Review"><emph render="italic">St. Boltoph's Review</emph></corpname>. It was at a party to mark the launch of the new magazine that he
-        first met the American poet <persname source="viaf" authfilenumber="14775269">Sylvia Plath</persname> who was in Cambridge on a Fulbright Scholarship.
+        <corpname source="dbpedia" authfilenumber="Granta" role="schema:worksFor"><emph render="italic">Granta</emph></corpname>, and <corpname source="dbpedia" authfilenumber="Delta_(magazine)" role="schema:worksFor"><emph render="italic">Delta</emph></corpname>.</p>
+      <p>In February 1956 Hughes contributed four poems to a new literary magazine called <corpname source="dbpedia" authfilenumber="St._Botolph%27s_Review" role="schema:worksFor"><emph render="italic">St. Boltoph's Review</emph></corpname>. It was at a party to mark the launch of the new magazine that he
+        first met the American poet <persname source="viaf" authfilenumber="14775269" role="schema:spouse">Sylvia Plath</persname> who was in Cambridge on a Fulbright Scholarship.
         Soon after, on Bloomsday, June 16th, 1956, they were married in a small service at the
         church of St. George the Martyr in London.</p>
       <p>At the time, Plath had already published numerous stories and poems in leading American
         magazines, and she soon introduced Hughes to an active program or regular manuscript
         submissions to leading literary magazines far beyond Cambridge. His first acceptance, as
         recorded in the scrapbook that Plath kept at the time, came with the publication of "Bawdry
-        Embraced" in the August 1956 issue of <corpname source="dbpedia" authfilenumber="Poetry_magazine"><emph render="italic">Poetry</emph></corpname> magazine.</p>
+        Embraced" in the August 1956 issue of <corpname source="dbpedia" authfilenumber="Poetry_magazine" role="schema:worksFor"><emph render="italic">Poetry</emph></corpname> magazine.</p>
       <p>On the first anniversary of their meeting, Hughes learned that a collection of his poems,
-          <title>The Hawk in the Rain</title>, had been selected by <persname source="viaf" authfilenumber="61562401">Marianne Moore</persname>, <persname source="viaf" authfilenumber="2465832">W.H. Auden</persname>, and
-        <persname source="viaf" authfilenumber="39398656">Stephen Spender</persname>, as the best first collection out of 287 entries in a poetry competition
-        organized by the <corpname source="dbpedia" authfilenumber="Jewish_community_center">Young Men's and Young Women's Hebrew Association</corpname> of New York. With the
-        publication of <title>The Hawk in the Rain</title> in both London and <geogname source="geonames" authfilenumber="5128581">New York</geogname>, Ted Hughes'
+          <title>The Hawk in the Rain</title>, had been selected by Marianne Moore, W.H. Auden, and
+        Stephen Spender, as the best first collection out of 287 entries in a poetry competition
+        organized by the Young Men's and Young Women's Hebrew Association of New York. With the
+        publication of <title>The Hawk in the Rain</title> in both London and New York, Ted Hughes'
         literary career was launched. </p>
-      <p>From 1957 to 1959, Ted Hughes and Sylvia Plath lived in the <geogname source="geonames" authfilenumber="6252001">United States</geogname> where Plath
-        taught at <corpname source="dbpedia" authfilenumber="Smith_College">Smith College</corpname> and Hughes at the <corpname source="dbpedia" authfilenumber="University_of_Massachusetts">University of Massachusetts</corpname>. It was while living
-        in the U.S. that Hughes met the artist <persname source="viaf" authfilenumber="79049216">Leonard Baskin</persname> who first suggested a sequence of
+      <p>From 1957 to 1959, Ted Hughes and Sylvia Plath lived in the <geogname source="geonames" authfilenumber="6252001" role="schema:homeLocation">United States</geogname> where Plath
+        taught at Smith College and Hughes at the <corpname source="dbpedia" authfilenumber="University_of_Massachusetts" role="schema:worksFor">University of Massachusetts</corpname>. It was while living
+        in the U.S. that Hughes met the artist <persname source="viaf" authfilenumber="79049216" role="schema:knows">Leonard Baskin</persname> who first suggested a sequence of
         poems based on a mythical crow figure and who later became a frequent collaborator on a
         number of fine press, artist's editions of Hughes' work. After a camping trip across the
-        U.S. in the summer of 1959, Ted and Sylvia spent several weeks in residence at the <corpname source="dbpedia" authfilenumber="Yaddo">Yaddo</corpname>
+        U.S. in the summer of 1959, Ted and Sylvia spent several weeks in residence at the <corpname source="dbpedia" authfilenumber="Yaddo" role="schema:workLocation">Yaddo</corpname>
         artists' colony in upstate New York. There Hughes worked on the poems that would later be
         collected in his second collection, <title>Lupercal</title>.</p>
       <p>They returned to England in December and the following Spring Hughes learned that he had
         won both the Somerset Maugham Award and the Hawthorndon Prize (the latter for his second
-        collection, <title>Lupercal</title>). A short time later their first child, <persname source="viaf" authfilenumber="46896227">Frieda </persname>, was
-        born. Partly to support his new family, Hughes began a series of radio talks for the <corpname source="dbpedia" authfilenumber="Bbc">BBC</corpname>'s
+        collection, <title>Lupercal</title>). A short time later their first child, <persname source="viaf" authfilenumber="46896227" role="schema:children">Frieda</persname>, was
+        born. Partly to support his new family, Hughes began a series of radio talks for the <corpname source="viaf" authfilenumber="127458402" role="schema:worksFor">BBC</corpname>'s
         Listening and Writing program (later collected in <title>Poetry in the Making</title>), and
-        in August the Hughes' moved into "Court Green," a former rectory in the village of <geogname source="geonames" authfilenumber="2641245">North
-        Tawton</geogname> in Devon. In January 1962 their second child, <persname source="viaf" authfilenumber="78733107">Nicholas </persname>, was born.</p>
-      <p>During the fall of 1962 Hughes began seeing the artist <persname source="viaf" authfilenumber="51807905">Assia Wevill</persname> and soon after he and
+        in August the Hughes' moved into "Court Green," a former rectory in the village of <geogname source="geonames" authfilenumber="2641245" role="schema:homeLocation">North
+        Tawton</geogname> in Devon. In January 1962 their second child, <persname source="viaf" authfilenumber="78733107" role="schema:children">Nicholas </persname>, was born.</p>
+      <p>During the fall of 1962 Hughes began seeing the artist <persname source="viaf" authfilenumber="51807905" role="schema:knows">Assia Wevill</persname> and soon after he and
         Sylvia Plath separated. While suffering from depression the following winter, Plath took her
         own life.</p>
       <p>After Sylvia Plath's suicide, Hughes published a series of children's books, <title>How the
           Whale Became</title> (1963), <title>The Earth-Owl and Other Moon People</title> (1963),
           <title>Nessie the Mannerless Monster</title> (1964), and in 1965 he began serving as a
-        judge for the National Children's Poetry Competition. He also, along with <persname source="viaf" authfilenumber="68911711">Daniel Weissbort</persname>,
-        founded the journal <corpname source="dbpedia" authfilenumber="Modern_Poetry_in_Translation"><emph render="italic">Modern Poetry in Translation</emph></corpname> devoted to introducing the
+        judge for the National Children's Poetry Competition. He also, along with <persname source="viaf" authfilenumber="68911711" role="schema:colleague">Daniel Weissbort</persname>,
+        founded the journal <corpname source="dbpedia" authfilenumber="Modern_Poetry_in_Translation" role="schema:founderOf"><emph render="italic">Modern Poetry in Translation</emph></corpname> devoted to introducing the
         work of foreign language poets to English readers. Also in 1965, Hughes published
           <title>Ariel</title>, the posthumous collection of Sylvia Plath's poems upon which her
         reputation as a poet largely rests. In January 1967 Hughes and Assia Wevill's daughter Shura
@@ -153,23 +155,23 @@
         and a single radio play that he had previously recorded for the BBC. He also worked on a
         variety of other projects including serving as co-director of Poetry International, a major
         literary festival that included leading poets from around the world. He also collaborated
-        with the director <persname source="viaf" authfilenumber="54145090">Peter Brook</persname> on a stage adaptation of Seneca's <title>Oedipus</title> for
-        the <corpname source="dbpedia" authfilenumber="National_Theatre_Company">National Theatre Company</corpname> and translated a selection of poems by <persname source="viaf" authfilenumber="29529096">Yehuda Amichai</persname>
+        with the director <persname source="viaf" authfilenumber="54145090" role="schema:colleague">Peter Brook</persname> on a stage adaptation of Seneca's <title>Oedipus</title> for
+        the <corpname source="dbpedia" authfilenumber="National_Theatre_Company" role="schema:worksFor">National Theatre Company</corpname> and translated a selection of poems by Yehuda Amichai
         (published in 1968). </p>
       <p>In March 1969 Hughes' partner, Assia Wevill took her own life and that of Shura. Later that
         same year Hughes' mother also passed away.</p>
-      <p>In the late-1960s Hughes divided his time between <geogname source="geonames" authfilenumber="2963597">Ireland</geogname> and England and considered for a
+      <p>In the late-1960s Hughes divided his time between <geogname source="geonames" authfilenumber="2963597" role="schema:homeLocation">Ireland</geogname> and England and considered for a
         time moving permanently to Ireland; however, in 1969 he purchased Lumb Bank in his native
-        Yorkshire. The following year he returned to Devon where he married <persname source="viaf" authfilenumber="93262345">Carol Orchard</persname> and where
+        Yorkshire. The following year he returned to Devon where he married <persname source="viaf" authfilenumber="93262345" role="schema:spouse">Carol Orchard</persname> and where
         he settled permanently.</p>
       <p>Beginning in 1970, and continuing over the next few years, Hughes published the cycle of
         crow poems that he had first begun at the suggestion of Leonard Baskin. In 1971 he also saw
         into print three collections of poems by Sylvia Plath, <title>Crossing the Water</title>,
           <title>Lyonnesse</title>, and <title>Winter Trees</title>. That same year he traveled to
-        <geogname source="geonames" authfilenumber="130758">Iran</geogname> where he again collaborated with Peter Brook, this time on a performance of
+        <geogname source="geonames" authfilenumber="130758" role="schema:workLocation">Iran</geogname> where he again collaborated with Peter Brook, this time on a performance of
           <title>Orghast</title> which was first performed on the ruins of Persepolis. </p>
       <p>In 1972 Ted and Carol Hughes purchased Moortown Farm in Devon which they managed with
-        Carol's father, Jack Orchard. That same year, <corpname source="dbpedia" authfilenumber="Faber_and_Faber">Faber and Faber</corpname> issued a selection of Hughes'
+        Carol's father, Jack Orchard. That same year, <corpname source="dbpedia" authfilenumber="Faber_and_Faber" role="schema:worksFor">Faber and Faber</corpname> issued a selection of Hughes'
         poems and an expanded edition of <title>Crow</title>. In 1974 Hughes received the
         prestigious Queen's Medal for Poetry. After the publication of his long poem
           <title>Gaudete</title> in 1977, Hughes published a series of collections that reflected
@@ -177,11 +179,11 @@
           Elmet</title> (1979), <title>Moortown Elegies</title> (1979), and <title>Moortown</title>
         (1979), the latter dedicated to his father-in-law, Jack Orchard.</p>
       <p>Hughes' interests in rural life and in children's education were combined in his work on
-        behalf of the <corpname source="dbpedia" authfilenumber="Farms_for_City_Children">Farms for City Children</corpname> program in the late 1970s. During this period and
+        behalf of the <corpname source="dbpedia" authfilenumber="Farms_for_City_Children" role="schema:member">Farms for City Children</corpname> program in the late 1970s. During this period and
         throughout the 1980s he continued to publish numerous works for children, and in 1982 he and
         Seamus Heaney collaborated on <title>The Rattle Bag</title>, an anthology of poems for
-        children. In 1984 Ted Hughes was named Poet Laureate to the Queen, succeeding Sir <persname source="viaf" authfilenumber="66543881">John
-        Betjeman</persname>. A collection of his laureate poems were collected in 1994 under the title
+        children. In 1984 Ted Hughes was named Poet Laureate to the Queen, succeeding Sir John
+        Betjeman. A collection of his laureate poems were collected in 1994 under the title
           <title>Rain-Charm for the Duchy</title>. Hughes' life-long interest--and love
         for--Shakespeare culminated in the 1992 study of his plays, <title>Shakespeare and the
           Goddess of Complete Being</title>.</p>
@@ -189,13 +191,13 @@
         series of translations of the <title>Metamorphoses</title>, which were published as
           <title>Tales from Ovid</title> in 1997. In February 1998 Hughes surprised the literary
         world with the publication of <title>Birthday Letters</title>, a series of 88 poems written
-        to his first wife, Sylvia Plath. The critic <persname source="viaf" authfilenumber="64034086">Al Alvarez</persname> described them as "the most
+        to his first wife, Sylvia Plath. The critic Al Alvarez described them as "the most
         vulnerable he ever wrote, and also the saddest." Hughes' annus mirabilis continued with the
         completion of translations, in rapid succession, of three major dramatic works Racine's
           <title>Phedre</title>, Aeschylus' <title>The Oresteia</title>, and Euripides'
           <title>Alcestis</title>. </p>
-      <p>On October 28th, 1998 Ted Hughes died of cancer. In May 1999, the world paid tribute in a
-        memorial service at London's <corpname source="dbpedia" authfilenumber="Westminster_abbey">Westminster Abbey</corpname>.</p>
+      <p>On <date normal="1998-10-28">October 28th, 1998</date> Ted Hughes died of cancer. In May 1999, the world paid tribute in a
+        memorial service at London's Westminster Abbey.</p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
@@ -220,23 +222,23 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname source="viaf" authfilenumber="29529096">Amichai, Yehuda.</persname>
-        <persname source="viaf" authfilenumber="79049216">Baskin, Leonard, 1922-2000.</persname>
-        <persname source="viaf" authfilenumber="7459339">Booth, Martin.</persname>
-        <persname source="viaf" authfilenumber="9844322">Causley, Charles, 1917-</persname>
-        <persname source="viaf" authfilenumber="70571527">Csokits, János.</persname>
-        <persname source="viaf" authfilenumber="100948525">Fainlight, Ruth.</persname>
-        <persname source="viaf" authfilenumber="109557338">Heaney, Seamus, 1939-</persname>
-        <persname source="viaf" authfilenumber="52603330">Horovitz, Michael, 1935-</persname>
-        <persname source="viaf" authfilenumber="108309153">Merchant, W. Moelwyn (William Moelwyn), 1913-</persname>
+        <persname source="viaf" authfilenumber="29529096" encodinganalog="600">Amichai, Yehuda.</persname>
+        <persname source="viaf" authfilenumber="79049216" encodinganalog="600">Baskin, Leonard, 1922-2000.</persname>
+        <persname source="viaf" authfilenumber="7459339" encodinganalog="600">Booth, Martin.</persname>
+        <persname source="viaf" authfilenumber="9844322" encodinganalog="600">Causley, Charles, 1917-</persname>
+        <persname source="viaf" authfilenumber="70571527" encodinganalog="600">Csokits, János.</persname>
+        <persname source="viaf" authfilenumber="100948525" encodinganalog="600">Fainlight, Ruth.</persname>
+        <persname source="viaf" authfilenumber="109557338" encodinganalog="600">Heaney, Seamus, 1939-</persname>
+        <persname source="viaf" authfilenumber="52603330" encodinganalog="600">Horovitz, Michael, 1935-</persname>
+        <persname source="viaf" authfilenumber="108309153" encodinganalog="600">Merchant, W. Moelwyn (William Moelwyn), 1913-</persname>
 
-        <persname source="viaf" authfilenumber="190239833">Myers, Lucas.</persname>
-        <persname source="viaf" authfilenumber="14775269">Plath, Sylvia.</persname>
-        <persname source="viaf" authfilenumber="30343038">Redgrove, Peter.</persname>
-        <persname source="viaf" authfilenumber="167173217">Sagar, Keith M.</persname>
-        <persname source="viaf" authfilenumber="39398656">Spender, Stephen, 1909-1995.</persname>
-        <persname source="viaf" authfilenumber="108199065">Sillitoe, Alan.</persname>
-        <persname source="viaf" authfilenumber="68911711">Weissbort, Daniel.</persname>
+        <persname source="viaf" authfilenumber="190239833" encodinganalog="600">Myers, Lucas.</persname>
+        <persname source="viaf" authfilenumber="14775269" encodinganalog="600">Plath, Sylvia.</persname>
+        <persname source="viaf" authfilenumber="30343038" encodinganalog="600">Redgrove, Peter.</persname>
+        <persname source="viaf" authfilenumber="167173217" encodinganalog="600">Sagar, Keith M.</persname>
+        <persname source="viaf" authfilenumber="39398656" encodinganalog="600">Spender, Stephen, 1909-1995.</persname>
+        <persname source="viaf" authfilenumber="108199065" encodinganalog="600">Sillitoe, Alan.</persname>
+        <persname source="viaf" authfilenumber="68911711" encodinganalog="600">Weissbort, Daniel.</persname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
