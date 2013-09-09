@@ -79,7 +79,7 @@
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
       <p>Seamus Heaney was born on <date normal="1939-04-13" type="schema:birthDate">April 13,
-          1939</date>, to Margaret and <persname authfilenumber="191373100" source="viaf">Patrick
+          1939</date>, to Margaret and <persname authfilenumber="191373100" source="viaf" role="schema:parent">Patrick
           Heaney</persname>. The eldest of nine children, he was born at the family farm, Mossbawn,
         northwest of <geogname authfilenumber="2655984" role="dbp:birthPlace" source="geonames"
           >Belfast</geogname> in <geogname authfilenumber="2643735" role="dbp:birthPlace"
