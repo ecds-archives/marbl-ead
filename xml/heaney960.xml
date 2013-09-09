@@ -183,19 +183,19 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname authfilenumber="46805211" source="viaf">Banville, John</persname>
-        <persname authfilenumber="31993687" source="viaf">Brodsky, Joseph, 1940-</persname>
-        <persname authfilenumber="111397155" source="viaf">Dawe, Gerald, 1952-</persname>
-        <persname authfilenumber="108344790" source="viaf">Deane, Seamus, 1940-</persname>
-        <persname authfilenumber="107572951" source="viaf">Dunn, Douglas.</persname>
-        <persname authfilenumber="24613408" source="viaf">Fallon, Peter, 1951-</persname>
-        <persname authfilenumber="76315726" source="viaf">Friel, Brian.</persname>
-        <persname authfilenumber="76363549" source="viaf">Hecht, Anthony, 1923-</persname>
-        <persname authfilenumber="108232871" source="viaf">Hughes, Ted, 1930-1998.</persname>
-        <persname authfilenumber="39398205" source="viaf">Longley, Michael, 1939-</persname>
-        <persname authfilenumber="120096893" source="viaf">McGuckian, Medbh, 1950-</persname>
-        <persname authfilenumber="64048541" source="viaf">Muldoon, Paul.</persname>
-        <persname authfilenumber="2601174" source="viaf">Simmons, James, 1933-</persname>
+        <persname authfilenumber="46805211" source="viaf" encodinganalog="600">Banville, John</persname>
+        <persname authfilenumber="31993687" source="viaf" encodinganalog="600">Brodsky, Joseph, 1940-</persname>
+        <persname authfilenumber="111397155" source="viaf" encodinganalog="600">Dawe, Gerald, 1952-</persname>
+        <persname authfilenumber="108344790" source="viaf" encodinganalog="600">Deane, Seamus, 1940-</persname>
+        <persname authfilenumber="107572951" source="viaf" encodinganalog="600">Dunn, Douglas.</persname>
+        <persname authfilenumber="24613408" source="viaf" encodinganalog="600">Fallon, Peter, 1951-</persname>
+        <persname authfilenumber="76315726" source="viaf" encodinganalog="600">Friel, Brian.</persname>
+        <persname authfilenumber="76363549" source="viaf" encodinganalog="600">Hecht, Anthony, 1923-</persname>
+        <persname authfilenumber="108232871" source="viaf" encodinganalog="600">Hughes, Ted, 1930-1998.</persname>
+        <persname authfilenumber="39398205" source="viaf" encodinganalog="600">Longley, Michael, 1939-</persname>
+        <persname authfilenumber="120096893" source="viaf" encodinganalog="600">McGuckian, Medbh, 1950-</persname>
+        <persname authfilenumber="64048541" source="viaf" encodinganalog="600">Muldoon, Paul.</persname>
+        <persname authfilenumber="2601174" source="viaf" encodinganalog="600">Simmons, James, 1933-</persname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
