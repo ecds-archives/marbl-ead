@@ -92,11 +92,11 @@
         Oratory at <corpname source="dbpedia" authfilenumber="Harvard_university" role="schema:workLocation">Harvard</corpname> and the <persname source="dbpedia" authfilenumber="Oxford_university" role="schema:workLocation">Oxford</persname> Professor of Poetry. Among his many awards are the Nobel
         Prize for Literature 1995 and the Whitbread prize in 1987, 1996 and 1999. He was made a
         Commandeur de L'Ordre des Arts et Lettres in 1996. </p>
-      <p>David Hammond, folk singer, radio and film producer, was born in <geogname source="geonames" authfilenumber="2655984" role="schema:birthPlace">Belfast, Northern Ireland</geogname>
-        in <date normal="1928" type="schema:birthDate">1928</date>. Beginning in the 1950s, Hammond worked for the <corpname source="viaf" authfilenumber="127906415" role="schema:worksFor">British Broadcasting Corporation
-          Northern Ireland (BBC NI)</corpname> as both a broadcaster and a film-maker. Hammond, along with 
-        <persname source="viaf" authfilenumber="109557338" role="schema:colleague">Seamus Heaney</persname>, <persname source="viaf" authfilenumber="108291535" role="schema:colleague">Tom Paulin</persname> and <persname source="viaf" authfilenumber="76315726" role="schema:colleague">Brian Friel</persname>, served as directors when the <corpname source="dbpedia" authfilenumber="Field_Day_Theatre_Company" role="schema:memberOf">Field Day Theatre</corpname> was
-        established in 1980. In 1986, Hammond formed <corpname source="viaf" authfilenumber="126800954" role="schema:founderOf">Flying Fox Films</corpname>, an independent company based
+      <p>David Hammond, folk singer, radio and film producer, was born in Belfast, Northern Ireland
+        in 1928. Beginning in the 1950s, Hammond worked for the British Broadcasting Corporation
+          Northern Ireland (BBC NI) as both a broadcaster and a film-maker. Hammond, along with
+        Seamus Heaney, Tom Paulin and Brian Friel, served as directors when the Field Day Theatre was
+        established in 1980. In 1986, Hammond formed Flying Fox Films, an independent company based
         in Belfast, which is primarily concerned with the production of television documentaries
         about Irish history, literature and culture. </p>
       <p>Hammond and Heaney collaborated on a number of film and radio projects for the BBC NI,
