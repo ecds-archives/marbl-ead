@@ -11782,7 +11782,7 @@
                         <container type="box">60</container>
                         <container type="folder">1</container>
                         <unittitle>
-                            <persname source="viaf" authfilenumber="50609413" role="schema:author dc:creator">Dugdale, Norman</persname>:
+                            <persname source="viaf" authfilenumber="50609413" role="dc:creator">Dugdale, Norman</persname>:
                             <title render="doublequote">Terminus</title>,
                             <title render="doublequote">A Question of Identity</title>,
                             <title render="doublequote">A Self-Portrait</title>,
@@ -11798,7 +11798,7 @@
                     <did>
                         <container type="box">60</container>
                         <container type="folder">2</container>
-                        <unittitle><persname role="schema:author dc:creator">Harvey,
+                        <unittitle><persname role="dc:creator">Harvey,
                             W.J.</persname>: <title render="doublequote">The Poem in
                             October</title>, <title render="doublequote">Reading Drayton in
                                 October</title>, <title render="doublequote">Hart Crane</title>,
@@ -11814,7 +11814,7 @@
                         <container type="box">60</container>
                         <container type="folder">3</container>
                         <unittitle>
-                            <persname authfilenumber="109557338" role="schema:author dc:creator"
+                            <persname authfilenumber="109557338" role="dc:creator"
                                 source="viaf">Heaney, Seamus</persname>, <date normal="1965-04-27"
                                 >April 27, 1965</date>: <title render="doublequote">Boy Driving his
                                 Father to Confession</title>, <title render="doublequote">To A Wine
@@ -11833,7 +11833,7 @@
                         <container type="box">60</container>
                         <container type="folder">4</container>
                         <unittitle>
-                            <persname authfilenumber="109557338" role="schema:author dc:creator"
+                            <persname authfilenumber="109557338" role="dc:creator"
                                 source="viaf">Heaney, Seamus</persname>: <title render="doublequote"
                                 >Icon</title>, <title render="doublequote">Limbo</title>, <title
                                 render="doublequote">Wedding Day</title>, <title
@@ -11850,7 +11850,7 @@
                         <container type="box">60</container>
                         <container type="folder">5</container>
                         <unittitle>
-                            <persname authfilenumber="109557338" role="schema:author dc:creator"
+                            <persname authfilenumber="109557338" role="dc:creator"
                                 source="viaf">Heaney, Seamus</persname>: <title render="doublequote"
                                 >Digging</title>, <title render="doublequote">Death of a
                                 Naturalist</title>, <title render="doublequote">Storm on the
@@ -11866,7 +11866,7 @@
                         <container type="box">60</container>
                         <container type="folder">6</container>
                         <unittitle>
-                            <persname authfilenumber="109557338" role="schema:author dc:creator"
+                            <persname authfilenumber="109557338" role="dc:creator"
                                 source="viaf">Heaney, Seamus</persname>: <title render="doublequote"
                                 >A Lough Neagh Sequence</title> ["1. Vision", "2. The Coming", "3.
                             Bait", "4. Setting", "5. Lifting", "6. The Going", "7. Coda"] [2
@@ -11879,7 +11879,7 @@
                         <container type="box">60</container>
                         <container type="folder">7</container>
                         <unittitle>
-                            <persname authfilenumber="109557338" role="schema:author dc:creator"
+                            <persname authfilenumber="109557338" role="dc:creator"
                                 source="viaf">Heaney, Seamus</persname>: <title render="doublequote"
                                 >At Ardboe Point</title>, <title render="doublequote"
                                 >Good-Night</title>, <title render="doublequote">The Crowing
@@ -11895,7 +11895,7 @@
                         <container type="box">60</container>
                         <container type="folder">8</container>
                         <unittitle>
-                            <persname authfilenumber="109557338" role="schema:author dc:creator"
+                            <persname authfilenumber="109557338" role="dc:creator"
                                 source="viaf">Heaney, Seamus</persname>: <title render="doublequote"
                                 >The Diviner</title>, <title render="doublequote">Gravities</title>,
                                 <title render="doublequote">Ancestral Photograph</title>, <title
@@ -11912,7 +11912,7 @@
                         <container type="box">60</container>
                         <container type="folder">9</container>
                         <unittitle>
-                            <persname authfilenumber="109557338" role="schema:author dc:creator"
+                            <persname authfilenumber="109557338" role="dc:creator"
                                 source="viaf">Heaney, Seamus</persname>: <title render="doublequote"
                                 >Elegy for an Unborn Child</title>, <title render="doublequote"
                                 >Triptych for the Easter Battlers</title>, <title
@@ -11930,11 +11930,11 @@
                         <container type="box">60</container>
                         <container type="folder">10</container>
                         <unittitle>
-                            <persname authfilenumber="109557338" role="schema:author dc:creator"
+                            <persname authfilenumber="109557338" role="dc:creator"
                                 source="viaf">Heaney, Seamus</persname>, <persname
-                                authfilenumber="39398205" role="schema:author dc:creator"
+                                authfilenumber="39398205" role="dc:creator"
                                 source="viaf">Michael Longley</persname>, and <persname
-                                authfilenumber="267971098" role="schema:author dc:creator"
+                                authfilenumber="267971098" role="dc:creator"
                                 source="viaf">Brendan Kennelly</persname>: <title
                                 render="doublequote">Death of a Naturalist</title>, <title
                                 render="doublequote">Lovers on Aran</title>, <title
@@ -11961,7 +11961,7 @@
                         <container type="box">60</container>
                         <container type="folder">11</container>
                         <unittitle>
-                            <persname authfilenumber="39398205" role="schema:author dc:creator"
+                            <persname authfilenumber="39398205" role="dc:creator"
                                 source="viaf">Longley, Michael</persname>: <title
                                 render="doublequote">A Headstone</title>, <title
                                 render="doublequote">Man Friday</title>
@@ -11980,7 +11980,7 @@
                         <container type="box">60</container>
                         <container type="folder">12</container>
                         <unittitle>
-                            <persname authfilenumber="39398205" role="schema:author dc:creator"
+                            <persname authfilenumber="39398205" role="dc:creator"
                                 source="viaf">Longley, Michael</persname>: <title
                                 render="doublequote">Circe</title>, <title render="doublequote">The
                                 Ornithological Section</title>, <title render="doublequote"
@@ -11997,7 +11997,7 @@
                         <container type="box">60</container>
                         <container type="folder">13</container>
                         <unittitle>
-                            <persname authfilenumber="39398205" role="schema:author dc:creator"
+                            <persname authfilenumber="39398205" role="dc:creator"
                                 source="viaf">Longley, Michael</persname>: <title
                                 render="doublequote">Altera Cithera</title>, <title
                                 render="doublequote">Three Posthumous Pieces</title>, <title
@@ -12015,7 +12015,7 @@
                         <container type="box">60</container>
                         <container type="folder">14</container>
                         <unittitle><persname authfilenumber="39398205"
-                                role="schema:author dc:creator" source="viaf">Longley,
+                                role="dc:creator" source="viaf">Longley,
                                 Michael</persname>: <title render="doublequote">Emily
                                 Dickinson</title>, <title render="doublequote">The Osprey</title>,
                                 <title render="doublequote">In Memoriam</title>, <title
@@ -12033,7 +12033,7 @@
                         <container type="box">60</container>
                         <container type="folder">15</container>
                         <unittitle><persname authfilenumber="39398205"
-                                role="schema:author dc:creator" source="viaf">Longley,
+                                role="dc:creator" source="viaf">Longley,
                                 Michael</persname>: <title render="doublequote">Dr. Johnson on the
                                 Hebrides</title>, <title render="doublequote">Leaving
                                 Inishmore</title>, <title render="doublequote">Camouflage</title>,
@@ -12051,7 +12051,7 @@
                         <container type="box">60</container>
                         <container type="folder">16</container>
                         <unittitle><persname authfilenumber="39398205"
-                                role="schema:author dc:creator" source="viaf">Longley,
+                                role="dc:creator" source="viaf">Longley,
                                 Michael</persname>: <title render="doublequote">No Continuing
                                 City</title>, <title render="doublequote">A Slight Adultery</title>,
                                 <title render="doublequote">The Journey</title>, <title
@@ -12066,7 +12066,7 @@
                         <container type="box">60</container>
                         <container type="folder">17</container>
                         <unittitle><persname authfilenumber="39398205"
-                                role="schema:author dc:creator" source="viaf">Longley,
+                                role="dc:creator" source="viaf">Longley,
                                 Michael</persname>: <title render="doublequote">In Memoriam</title>,
                                 <title render="doublequote">Christopher at Birth</title>, <title
                                 render="doublequote">Freeze-Up</title>, <title render="doublequote"
@@ -12082,7 +12082,7 @@
                         <container type="box">60</container>
                         <container type="folder">18</container>
                         <unittitle><persname authfilenumber="39398205"
-                                role="schema:author dc:creator" source="viaf">Longley,
+                                role="dc:creator" source="viaf">Longley,
                                 Michael</persname>: <title render="doublequote">Gathering
                                 Mushrooms</title>, <title render="doublequote">To Bix
                                 Beiderbecke</title>, <title render="doublequote">Nausicaa</title>,
@@ -12100,7 +12100,7 @@
                         <container type="box">60</container>
                         <container type="folder">19</container>
                         <unittitle><persname authfilenumber="39398205"
-                                role="schema:author dc:creator" source="viaf">Longley,
+                                role="dc:creator" source="viaf">Longley,
                                 Michael</persname>: <title render="doublequote">To the
                             Poets</title>, <title render="doublequote">Mountain Swim</title>, <title
                                 render="doublequote">A Nativity</title>, <title render="doublequote"
@@ -12115,7 +12115,7 @@
                     <did>
                         <container type="box">60</container>
                         <container type="folder">20</container>
-                        <unittitle><persname role="schema:author dc:creator">McGurk, Tom</persname>,
+                        <unittitle><persname role="dc:creator">McGurk, Tom</persname>,
                                 <date normal="1965-12-01">December 1, [1965?]</date> group meeting:
                                 <title render="doublequote">The Magi</title>, <title
                                 render="doublequote">A.D. 1969</title>, <title render="doublequote"
@@ -12127,7 +12127,7 @@
                     <did>
                         <container type="box">60</container>
                         <container type="folder">21</container>
-                        <unittitle><persname role="schema:author dc:creator">McGurk, Tom</persname>:
+                        <unittitle><persname role="dc:creator">McGurk, Tom</persname>:
                                 <title render="doublequote">First-Born</title>, <title
                                 render="doublequote">Kavanagh's Arrival</title>, <title
                                 render="doublequote">Heartman - still beating strong!</title>,
@@ -12143,7 +12143,7 @@
                         <container type="box">60</container>
                         <container type="folder">22</container>
                         <unittitle><persname authfilenumber="110228045"
-                                role="schema:author dc:creator" source="viaf">Mahon,
+                                role="dc:creator" source="viaf">Mahon,
                                 Derek</persname>: <title render="doublequote">Poem in
                                 Belfast</title>, <title render="doublequote">In Carrowdore
                                 Churchyard</title>, <title render="doublequote">My Wicked
@@ -12159,7 +12159,7 @@
                         <container type="box">60</container>
                         <container type="folder">23</container>
                         <unittitle><persname authfilenumber="64048541"
-                                role="schema:author dc:creator" source="viaf">Muldoon,
+                                role="dc:creator" source="viaf">Muldoon,
                                 Paul</persname>: <title render="doublequote">Wind and Tree</title>,
                                 <title render="doublequote">Hedges in Winter</title>, <title
                                 render="doublequote">Cuckoo Corn</title>, <title
@@ -12175,7 +12175,7 @@
                         <container type="box">60</container>
                         <container type="folder">24</container>
                         <unittitle><persname authfilenumber="64048541"
-                                role="schema:author dc:creator" source="viaf">Muldoon,
+                                role="dc:creator" source="viaf">Muldoon,
                                 Paul</persname>: <title render="doublequote">Stillborn</title>,
                                 <title render="doublequote">Snail</title>, <title
                                 render="doublequote">January</title>, <title render="doublequote"
@@ -12192,7 +12192,7 @@
                         <container type="box">60</container>
                         <container type="folder">25</container>
                         <unittitle><persname authfilenumber="2490119"
-                                role="schema:author dc:creator" source="viaf">Terry,
+                                role="dc:creator" source="viaf">Terry,
                                 Arthur</persname>: <title render="doublequote">A Small War</title>,
                                 <title render="doublequote">The Appointment</title>, <title
                                 render="doublequote">The Sisters</title>, <title
@@ -12206,7 +12206,7 @@
                         <container type="box">60</container>
                         <container type="folder">26</container>
                         <unittitle><persname authfilenumber="2490119"
-                                role="schema:author dc:creator" source="viaf">Terry,
+                                role="dc:creator" source="viaf">Terry,
                                 Arthur</persname>: <title render="doublequote">Beginnings</title>,
                                 <title render="doublequote">Untitled ["On Sunday evenings in the
                                 poor quarter"]</title>, <title render="doublequote">Time
@@ -12219,7 +12219,7 @@
                         <container type="box">60</container>
                         <container type="folder">27</container>
                         <unittitle><persname authfilenumber="2490119"
-                                role="schema:author dc:creator" source="viaf">Terry,
+                                role="dc:creator" source="viaf">Terry,
                                 Arthur</persname>: <title render="doublequote">By Natural
                                 Piety</title></unittitle>
                     </did>

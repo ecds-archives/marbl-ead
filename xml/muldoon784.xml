@@ -2128,7 +2128,7 @@
 
           <c03 level="file"><did><container type="box">30</container><container type="folder">7</container>
             <unittitle>Group Sheet 1:
-              <persname source="viaf" authfilenumber="64048541" role="schema:author dc:creator"/>
+              <persname source="viaf" authfilenumber="64048541" role="dc:creator"/>
               2 leaves, 4 sides, 4 copies: includes
               <title render="doublequote">Wind and Tree</title>,
               <title render="doublequote">Hedges in Winter</title>,
@@ -2143,7 +2143,7 @@
           </did></c03>
           <c03 level="file"><did><container type="box">30</container><container type="folder">8</container>
           <unittitle>Group Sheet 2:
-            <persname source="viaf" authfilenumber="64048541" role="schema:author dc:creator"/>
+            <persname source="viaf" authfilenumber="64048541" role="dc:creator"/>
             3 leaves, 5 sides, 7 copies: includes
             <title render="doublequote">Stillborn</title>,
             <title render="doublequote">Snail</title>,
@@ -2159,7 +2159,7 @@
         </did></c03>
           <c03 level="file"><did><container type="box">30</container><container type="folder">9</container>
           <unittitle>Group Sheet 3:
-            <persname source="viaf" authfilenumber="64048541" role="schema:author dc:creator"/>
+            <persname source="viaf" authfilenumber="64048541" role="dc:creator"/>
             2 leaves, 4 sides: includes,
             <title render="doublequote">Blowing Eggs</title>,
             <title render="doublequote">The Radio Horse</title>,

@@ -1964,7 +1964,7 @@
           <p>Arranged alphabetically by author.</p>
         </arrangement>
         <c02 level="file"><did><container type="box">41</container><container type="folder">1</container>
-          <unittitle><persname source="viaf" authfilenumber="85621766" role="schema:author dc:creator">Carson, Ciaran</persname>:
+          <unittitle><persname source="viaf" authfilenumber="85621766" role="dc:creator">Carson, Ciaran</persname>:
             <title render="doublequote">Letter from Alaska</title>,
             <title render="doublequote">Aranmore Island</title> (with three sections entitled "Erratics," "The Fault," and "American Wake"),
             <title render="doublequote">The Island Revisited</title>,
@@ -1974,7 +1974,7 @@
             <dao xlink:href="http://pid.emory.edu/ark:/25593/1bc0v"/>
             </did></c02>
         <c02 level="file"><did><container type="box">41</container><container type="folder">2</container>
-          <unittitle><persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Heaney, Seamus</persname>:
+          <unittitle><persname source="viaf" authfilenumber="109557338" role="dc:creator">Heaney, Seamus</persname>:
             <title render="doublequote">Servant Boy</title>,
             <title render="doublequote">The Last Mummer</title>,
             <title render="doublequote">Gifts of Rain</title>,
@@ -1983,7 +1983,7 @@
             <dao xlink:href="http://pid.emory.edu/ark:/25593/17kwv"/>
           </did></c02>
         <c02 level="file"><did><container type="box">41</container><container type="folder">3</container>
-          <unittitle><persname source="viaf" authfilenumber="39398205" role="schema:author dc:creator">Longley, Michael</persname>:
+          <unittitle><persname source="viaf" authfilenumber="39398205" role="dc:creator">Longley, Michael</persname>:
             <title render="doublequote">Altera Cithera</title>,
             <title render="doublequote">Three Posthumous Pieces</title>,
             <title render="doublequote">The Island</title>,
@@ -1996,10 +1996,10 @@
             <dao xlink:href="http://pid.emory.edu/ark:/25593/17m0c"/>
           </did></c02>
         <c02 level="file"><did><container type="box">41</container><container type="folder">4</container>
-          <unittitle><persname source="viaf" authfilenumber="95151565" role="schema:author dc:creator">MacLaverty, Bernard</persname>:
+          <unittitle><persname source="viaf" authfilenumber="95151565" role="dc:creator">MacLaverty, Bernard</persname>:
             <title render="doublequote">The Deep End</title>; [<date normal="1972-02-14">14 February 1972</date>]</unittitle></did></c02>
         <c02 level="file"><did><container type="box">41</container><container type="folder">5</container>
-          <unittitle><persname role="schema:author dc:creator">McMahon, Trevor</persname>:
+          <unittitle><persname role="dc:creator">McMahon, Trevor</persname>:
             <title render="doublequote">Moth</title>,
             <title render="doublequote">Worm</title>,
             <title render="doublequote">The Planter Speaks</title>,
@@ -2009,7 +2009,7 @@
             <title render="doublequote">The Fool's Soliloquy</title>,
             <title render="doublequote">Poem as Mammoth</title>; [<date normal="1971-11-22">22 November 1971</date>]</unittitle></did></c02>
         <c02 level="file"><did><container type="box">41</container><container type="folder">6</container>
-          <unittitle><persname source="viaf" authfilenumber="64048541" role="schema:author dc:creator">Muldoon, Paul</persname>:
+          <unittitle><persname source="viaf" authfilenumber="64048541" role="dc:creator">Muldoon, Paul</persname>:
             <title render="doublequote">Blowing Eggs</title>,
             <title render="doublequote">The Radio Horse</title>,
             <title render="doublequote">The Field Hospital</title>,

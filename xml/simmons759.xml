@@ -11502,7 +11502,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname authfilenumber="39398205" role="schema:author dc:creator" source="viaf">Michael Longley</persname>:
+                <persname authfilenumber="39398205" role="dc:creator" source="viaf">Michael Longley</persname>:
                 <title render="doublequote">To the Poets</title>,
                   <title render="doublequote">Mountain Swim</title>,
                   <title render="doublequote">A Nativity</title>,
@@ -11520,7 +11520,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname authfilenumber="64048541" role="schema:author dc:creator" source="viaf">Paul Muldoon</persname>:
+                <persname authfilenumber="64048541" role="dc:creator" source="viaf">Paul Muldoon</persname>:
                 <title render="doublequote">Wind and Tree</title>,
                 <title render="doublequote">Hedges in Winter</title>,
                 <title render="doublequote">Cuckoo Corn</title>,
@@ -11539,7 +11539,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname authfilenumber="64048541" role="schema:author dc:creator" source="viaf">Paul Muldoon</persname>:
+                <persname authfilenumber="64048541" role="dc:creator" source="viaf">Paul Muldoon</persname>:
                 <title render="doublequote">Wind and Tree</title>,
                 <title render="doublequote">Hedges in Winter</title>,
                 <title render="doublequote">Cuckoo Corn</title>,
@@ -11558,7 +11558,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname role="schema:author dc:creator" source="viaf">Watton, Joan</persname>:
+                <persname role="dc:creator" source="viaf">Watton, Joan</persname>:
                   <title render="doublequote">Aunt Alice</title>,
                   <title render="doublequote">Spinster</title>,
                   <title render="doublequote">The Hangover</title>,
@@ -11576,7 +11576,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname role="schema:author dc:creator" source="viaf">Joan Watton</persname>:
+                <persname role="dc:creator" source="viaf">Joan Watton</persname>:
                   <title render="doublequote">Betrayal</title>,
                   <title render="doublequote">Gleneyre Children's Home</title> (County Armagh Welfare Committee),
                   <title render="doublequote">An Old Man in a Fish Shop</title>,
@@ -11593,7 +11593,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname source="viaf" authfilenumber="64048541" role="schema:author dc:creator">Paul Muldoon</persname>:
+                <persname source="viaf" authfilenumber="64048541" role="dc:creator">Paul Muldoon</persname>:
               <title render="doublequote">Blowing Eggs</title>,
               <title render="doublequote">The Radio Horse</title>,
               <title render="doublequote">The Field Hospital</title>,
@@ -11611,7 +11611,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname source="viaf" authfilenumber="91907300" role="schema:author dc:creator">Philip Hobsbaum</persname>:
+                <persname source="viaf" authfilenumber="91907300" role="dc:creator">Philip Hobsbaum</persname>:
                 <title render="doublequote">In Retreat</title>
                </unittitle>
             </did>
@@ -11622,7 +11622,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Seamus Heaney</persname>:
+                <persname source="viaf" authfilenumber="109557338" role="dc:creator">Seamus Heaney</persname>:
                 <title render="doublequote">Servant Boy</title>,
                 <title render="doublequote">The Last Mummer</title>,
                 <title render="doublequote">Gifts of Rain</title>,
@@ -11638,7 +11638,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Seamus Heaney</persname>:
+                <persname source="viaf" authfilenumber="109557338" role="dc:creator">Seamus Heaney</persname>:
                 <title render="doublequote">Oh Brave New Bull</title>,
                 <title render="doublequote">Mid-Term Break</title>,
                 <title render="doublequote">A Pillar of the Community</title>,
@@ -11656,7 +11656,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Seamus Heaney</persname>:
+                <persname source="viaf" authfilenumber="109557338" role="dc:creator">Seamus Heaney</persname>:
                 <title render="doublequote">Taking Stock 5/4/`64</title>,
                 <title render="doublequote">Twice Shy</title>,
                 <title render="doublequote">The Early Purges</title>,
@@ -11674,7 +11674,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname role="schema:author dc:creator">Brian Scott</persname>:
+                <persname role="dc:creator">Brian Scott</persname>:
                 <title render="doublequote">[Untitled]</title>,
                 <title render="doublequote">Last Night I wrote a poem of Love</title>,
                 <title render="doublequote">Because I Have a Pact with the Maker</title>,
@@ -11688,7 +11688,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname source="viaf" authfilenumber="7497547" role="schema:author dc:creator">Stewart Parker</persname>: Untitled prose
+                <persname source="viaf" authfilenumber="7497547" role="dc:creator">Stewart Parker</persname>: Untitled prose
               </unittitle>
             </did>
           </c03>
@@ -11698,7 +11698,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname source="viaf" authfilenumber="7497547" role="schema:author dc:creator">Stewart Parker</persname>:
+                <persname source="viaf" authfilenumber="7497547" role="dc:creator">Stewart Parker</persname>:
                 <title render="doublequote">Paddy Dies</title>,
                 <title render="doublequote">Valediction for Hammy from Hangoveria</title>,
                 <title render="doublequote">Inside a Home for the Old</title>,
@@ -11714,7 +11714,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname role="schema:author dc:creator">Tom McGurk</persname>:
+                <persname role="dc:creator">Tom McGurk</persname>:
                 <title render="doublequote">September Sibelius</title>,
                 <title render="doublequote">Protest</title>,
                 <title render="doublequote">The Son of the King of Moy</title>,
@@ -11732,7 +11732,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname source="viaf" authfilenumber="95151565" role="schema:author dc:creator">Bernard MacLaverty</persname>:
+                <persname source="viaf" authfilenumber="95151565" role="dc:creator">Bernard MacLaverty</persname>:
                 <title render="doublequote">The Choice</title> [short story]
               </unittitle>
             </did>
@@ -11743,7 +11743,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname role="schema:author dc:creator">Maurice Gallagher</persname>:
+                <persname role="dc:creator">Maurice Gallagher</persname>:
                 <title render="doublequote">Tragrainey</title> [short story]
               </unittitle>
             </did>
@@ -11754,7 +11754,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname role="schema:author dc:creator">Maurice Gallagher</persname>:
+                <persname role="dc:creator">Maurice Gallagher</persname>:
                 <title render="doublequote">Untitled (Jimmy McHugh was a very quiet person. . . .)</title> [short story]
               </unittitle>
             </did>
@@ -11765,7 +11765,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname role="schema:author dc:creator">Hugh Bredin</persname>:
+                <persname role="dc:creator">Hugh Bredin</persname>:
                 <title render="doublequote">The Kingdom of Heaven</title> [short story]
               </unittitle>
             </did>
@@ -11776,7 +11776,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname role="schema:author dc:creator">Hugh Bredin</persname>:
+                <persname role="dc:creator">Hugh Bredin</persname>:
                 <title render="doublequote">Wolf</title> [short story]
               </unittitle>
             </did>
@@ -11787,7 +11787,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname role="schema:author dc:creator">John Bond</persname>:
+                <persname role="dc:creator">John Bond</persname>:
                 <title render="doublequote">Wolf ("Mam")</title> [short story]
               </unittitle>
             </did>
