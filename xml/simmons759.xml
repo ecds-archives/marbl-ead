@@ -11495,6 +11495,303 @@
               <unittitle>Hobsbaum Group, photocopies</unittitle>
             </did>
           </c03>
+          <!-- detailed listing of group sheets -->
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname authfilenumber="39398205" role="schema:author dc:creator" source="viaf">Michael Longley</persname>:
+                <title render="doublequote">To the Poets</title>,
+                  <title render="doublequote">Mountain Swim</title>,
+                  <title render="doublequote">A Nativity</title>,
+                  <title render="doublequote">Miscarriage</title>,
+                  <title render="doublequote">The North</title>,
+                  <title render="doublequote">Lares</title>,
+                  <title render="doublequote">Caravan</title>
+                </unittitle>
+                <dao xlink:href="http://pid.emory.edu/ark:/25593/17m8g"/>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname authfilenumber="64048541" role="schema:author dc:creator" source="viaf">Paul Muldoon</persname>:
+                <title render="doublequote">Wind and Tree</title>,
+                <title render="doublequote">Hedges in Winter</title>,
+                <title render="doublequote">Cuckoo Corn</title>,
+                <title render="doublequote">Siesta</title>,
+                <title render="doublequote">Vampire</title>,
+                <title render="doublequote">Grass Widow</title>,
+                <title render="doublequote">The Indians on Alcatraz</title>,
+                <title render="doublequote">The Electric Orchard</title>
+              </unittitle>
+              <dao xlink:href="http://pid.emory.edu/ark:/25593/17mcw"/>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname authfilenumber="64048541" role="schema:author dc:creator" source="viaf">Paul Muldoon</persname>:
+                <title render="doublequote">Wind and Tree</title>,
+                <title render="doublequote">Hedges in Winter</title>,
+                <title render="doublequote">Cuckoo Corn</title>,
+                <title render="doublequote">Siesta</title>,
+                <title render="doublequote">Vampire</title>,
+                <title render="doublequote">Grass Widow</title>,
+                <title render="doublequote">The Indians on Alcatraz</title>,
+                <title render="doublequote">The Electric Orchard</title>
+              </unittitle>
+              <dao xlink:href="http://pid.emory.edu/ark:/25593/17mcw"/>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname role="schema:author dc:creator" source="viaf">Watton, Joan</persname>:
+                  <title render="doublequote">Aunt Alice</title>,
+                  <title render="doublequote">Spinster</title>,
+                  <title render="doublequote">The Hangover</title>,
+                  <title render="doublequote">Detachment</title>,
+                  <title render="doublequote">Maggie</title>,
+                  <title render="doublequote">Letters from the Island</title>,
+                  <title render="doublequote">Wakening</title>
+                  [handwritten poem by Gabriel Ferrater on reverse]
+               </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname role="schema:author dc:creator" source="viaf">Joan Watton</persname>:
+                  <title render="doublequote">Betrayal</title>,
+                  <title render="doublequote">Gleneyre Children's Home</title> (County Armagh Welfare Committee),
+                  <title render="doublequote">An Old Man in a Fish Shop</title>,
+                  <title render="doublequote">Worm</title>,
+                  <title render="doublequote">Nightmare</title>,
+                  <title render="doublequote">A Lone, Middle-Aged, Unmarried Woman Relates</title>,
+                  <title render="doublequote">Boyhood Memory</title>
+               </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname source="viaf" authfilenumber="64048541" role="schema:author dc:creator">Paul Muldoon</persname>:
+              <title render="doublequote">Blowing Eggs</title>,
+              <title render="doublequote">The Radio Horse</title>,
+              <title render="doublequote">The Field Hospital</title>,
+              <title render="doublequote">On a Dog of Unlike Eyes</title>,
+              <title render="doublequote">The Lost Tribe</title>,
+              <title render="doublequote">The Upriver Incident</title>,
+              <title render="doublequote">Party Piece</title>;
+              [<date normal="1971-11-25">October 25th</date> 8pm No 4 University Square]</unittitle>
+              <dao xlink:href="http://pid.emory.edu/ark:/25593/17m9m"/>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname source="viaf" authfilenumber="91907300" role="schema:author dc:creator">Philip Hobsbaum</persname>:
+                <title render="doublequote">In Retreat</title>
+               </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Seamus Heaney</persname>:
+                <title render="doublequote">Servant Boy</title>,
+                <title render="doublequote">The Last Mummer</title>,
+                <title render="doublequote">Gifts of Rain</title>,
+                <title render="doublequote">The Tollund Man</title>,
+                <title render="doublequote">Westering</title>;
+                [<date normal="1971-11-08">Mon 8th November</date>, 8pm, No 4 University Square]</unittitle>
+                <dao xlink:href="http://pid.emory.edu/ark:/25593/17kwv"/>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Seamus Heaney</persname>:
+                <title render="doublequote">Oh Brave New Bull</title>,
+                <title render="doublequote">Mid-Term Break</title>,
+                <title render="doublequote">A Pillar of the Community</title>,
+                <title render="doublequote">MacKenna's Saturday Night</title>,
+                <title render="doublequote">Turkeys Observed</title>,
+                <title render="doublequote">The Indomitable Irishry</title>,
+                <title render="doublequote">Obituary</title>;
+                [handwritten text on the reverse]</unittitle>
+                <dao xlink:href="http://pid.emory.edu/ark:/25593/17kp1"/>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname source="viaf" authfilenumber="109557338" role="schema:author dc:creator">Seamus Heaney</persname>:
+                <title render="doublequote">Taking Stock 5/4/`64</title>,
+                <title render="doublequote">Twice Shy</title>,
+                <title render="doublequote">The Early Purges</title>,
+                <title render="doublequote">In Glenelly Valley</title>,
+                <title render="doublequote">Ex-Champ</title>,
+                <title render="doublequote">The Evangelist</title>,
+                <title render="doublequote">Men's Confessions</title>;
+              </unittitle>
+                <dao xlink:href="http://pid.emory.edu/ark:/25593/17kq5"/>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname role="schema:author dc:creator">Brian Scott</persname>:
+                <title render="doublequote">[Untitled]</title>,
+                <title render="doublequote">Last Night I wrote a poem of Love</title>,
+                <title render="doublequote">Because I Have a Pact with the Maker</title>,
+                <title render="doublequote">Miracle</title>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname source="viaf" authfilenumber="7497547" role="schema:author dc:creator">Stewart Parker</persname>: Untitled prose
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname source="viaf" authfilenumber="7497547" role="schema:author dc:creator">Stewart Parker</persname>:
+                <title render="doublequote">Paddy Dies</title>,
+                <title render="doublequote">Valediction for Hammy from Hangoveria</title>,
+                <title render="doublequote">Inside a Home for the Old</title>,
+                <title render="doublequote">The Broken Lives</title>,
+                <title render="doublequote">Coming Out</title>
+                [2 copies]
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname role="schema:author dc:creator">Tom McGurk</persname>:
+                <title render="doublequote">September Sibelius</title>,
+                <title render="doublequote">Protest</title>,
+                <title render="doublequote">The Son of the King of Moy</title>,
+                <title render="doublequote">Apologia in Memoriam</title>,
+                <title render="doublequote">Greetings</title>,
+                <title render="doublequote">Mise Eire</title>,
+                <title render="doublequote">Facts of Life</title>
+                ("First-Born," "First-Poem," "First-Sin," "First-Love")
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname source="viaf" authfilenumber="95151565" role="schema:author dc:creator">Bernard MacLaverty</persname>:
+                <title render="doublequote">The Choice</title> [short story]
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname role="schema:author dc:creator">Maurice Gallagher</persname>:
+                <title render="doublequote">Tragrainey</title> [short story]
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname role="schema:author dc:creator">Maurice Gallagher</persname>:
+                <title>Untitled ("Jimmy McHugh was a very quiet person. . . .")</title> [short story]
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname role="schema:author dc:creator">Hugh Bredin</persname>:
+                <title render="doublequote">The Kingdom of Heaven</title> [short story]
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname role="schema:author dc:creator">Hugh Bredin</persname>:
+                <title render="doublequote">Wolf</title> [short story]
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">63</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                <persname role="schema:author dc:creator">John Bond</persname>:
+                <title render="doublequote">Wolf ("Mam")</title> [short story]
+              </unittitle>
+            </did>
+          </c03>
           <c03 level="file">
             <did>
               <container type="box">63</container>
