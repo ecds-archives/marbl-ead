@@ -11684,7 +11684,7 @@
                         <container type="box">30</container>
                         <container type="folder">6</container>
                         <unittitle>
-                            <persname role="dc:creator schema">McMahon, Trevor</persname>:
+                            <persname role="dc:creator">McMahon, Trevor</persname>:
                                 <corpname authfilenumber="123393054" source="viaf">Belfast
                                 Group</corpname> worksheet, <date normal="1971-11-22">22 November
                                 1971</date> [includes poems: <title render="doublequote"
