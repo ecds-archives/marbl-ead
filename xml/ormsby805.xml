@@ -2438,8 +2438,11 @@
                         <did>
                             <container type="box">8</container>
                             <container type="folder">57</container>
-                            <unittitle>Heaney, Seamus, Poetry: Belfast Group worksheet, <date
-                                    normal="1971-11-08">8 November 1971</date> [includes: <title
+                            <unittitle>
+                                <persname authfilenumber="109557338" role="dc:creator"
+                                    source="viaf">Heaney, Seamus</persname>, Poetry:
+                                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
+                                <date normal="1971-11-08">8 November 1971</date> [includes: <title
                                     render="doublequote">Gifts of Rain</title>, <title
                                     render="doublequote">The Last Mummer</title>, <title
                                     render="doublequote">Servant Boy</title>, <title
@@ -2943,7 +2946,10 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">35</container>
-                            <unittitle>Longley, Michael, Poetry: Belfast Group worksheets, circa
+                            <unittitle>
+                                <persname authfilenumber="39398205" role="dc:creator"
+                                    source="viaf">Longley, Michael</persname>, Poetry:
+                                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheets, circa
                                     <date normal="1970/1971">1970-1971</date> [includes: <title
                                     render="doublequote">To the Poets</title>, <title
                                     render="doublequote">Mountain Swim</title>, <title
@@ -2959,16 +2965,21 @@
                         <did>
                             <container type="box">9</container>
                             <container type="folder">36</container>
-                            <unittitle>Longley, Michael, Poetry: Belfast Group worksheets, <date
-                                    normal="1972-01-31">31 January 1972</date> [includes: <title
-                                    render="doublequote">Altera Cithera</title>, <title
-                                    render="doublequote">Three Posthumous Pieces</title>, <title
-                                    render="doublequote">The Island</title>, <title
-                                    render="doublequote">Casualty</title>, <title
-                                    render="doublequote">Badger</title>, <title render="doublequote"
-                                    >Hedgehog</title>, <title render="doublequote">Robin</title>,
-                                    <title render="doublequote">Kingfisher</title>, <title
-                                    render="doublequote">The Adulterer</title>]</unittitle>
+                            <unittitle>
+                                <persname authfilenumber="39398205" role="dc:creator"
+                                    source="viaf">Longley, Michael</persname>, Poetry:
+                                <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheets,
+                                <date normal="1972-01-31">31 January 1972</date> [includes:
+                                <title render="doublequote">Altera Cithera</title>,
+                                <title render="doublequote">Three Posthumous Pieces</title>,
+                                <title render="doublequote">The Island</title>,
+                                <title render="doublequote">Casualty</title>,
+                                <title render="doublequote">Badger</title>,
+                                <title render="doublequote">Hedgehog</title>,
+                                <title render="doublequote">Robin</title>,
+                                <title render="doublequote">Kingfisher</title>,
+                                <title render="doublequote">The Adulterer</title>]
+                            </unittitle>
                             <dao xlink:href="http://pid.emory.edu/ark:/25593/17m0c"/>
                         </did>
                     </c03>
@@ -3750,20 +3761,26 @@
                         <did>
                             <container type="box">10</container>
                             <container type="folder">72</container>
-                            <unittitle>Muldoon, Paul, Poetry: <corpname authfilenumber="123393054"
-                                    source="viaf">Belfast Group</corpname> worksheets, undated
-                                [incomplete worksheet includes: <title render="doublequote">The
-                                    Electric Orchard</title>, <title render="doublequote">Grass
-                                    Window</title>, <title render="doublequote">The Indians on
-                                    Alcatraz</title>]</unittitle>
+                            <unittitle><persname authfilenumber="64048541"
+                                role="dc:creator" source="viaf">Muldoon,
+                                Paul</persname>, Poetry:
+                                <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets, undated
+                                [incomplete worksheet includes:
+                                <title render="doublequote">The Electric Orchard</title>,
+                                <title render="doublequote">Grass Window</title>,
+                                <title render="doublequote">The Indians on Alcatraz</title>]
+                            </unittitle>
                         </did>
                     </c03>
                     <c03 level="file">
                         <did>
                             <container type="box">10</container>
                             <container type="folder">73</container>
-                            <unittitle>Muldoon, Paul, Poetry: Belfast Group worksheets, <date
-                                    normal="1971-10-25">25 October 1971</date> [includes: <title
+                            <unittitle><persname authfilenumber="64048541"
+                                role="dc:creator" source="viaf">Muldoon,
+                                Paul</persname>, Poetry:
+                                <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets,
+                                <date normal="1971-10-25">25 October 1971</date> [includes: <title
                                     render="doublequote">Blowing Eggs</title>, <title
                                     render="doublequote">The Radio Horse</title>, <title
                                     render="doublequote">The Field Hospital</title>, <title
@@ -4252,8 +4269,10 @@
                         <did>
                             <container type="box">11</container>
                             <container type="folder">49</container>
-                            <unittitle>Simmons, Jamess, Poetry: the Belfast Group worksheets, <date
-                                    normal="1971-03-01">Monday March 1, 1971</date> [includes:
+                            <unittitle>
+                                <persname authfilenumber="2601174" source="viaf" role="dc:title">Simmons, James</persname>, Poetry:
+                                <corpname authfilenumber="123393054" source="viaf">Belfast Group</corpname> worksheets,
+                                <date normal="1971-03-01">Monday March 1, 1971</date> [includes:
                                     <title render="doublequote">Marital Sonnets</title>, <title
                                     render="doublequote">Elegy for J.F. Kennedy</title>, <title
                                     render="doublequote">The Publican</title>, <title
@@ -11595,7 +11614,7 @@
                         <container type="box">30</container>
                         <container type="folder">1</container>
                         <unittitle>
-                            <persname authfilenumber="50609413" role="dc:creator schema:author"
+                            <persname authfilenumber="50609413" role="dc:creator"
                                 source="viaf">Dugdale, Norman</persname>: <corpname
                                 authfilenumber="123393054" source="viaf">Belfast Group</corpname>
                             worksheet, circa <date normal="1972">1972</date> [includes poems: <title
@@ -11623,7 +11642,7 @@
                         <container type="box">30</container>
                         <container type="folder">3</container>
                         <unittitle>
-                            <persname authfilenumber="95151565" role="dc:creator schema:author"
+                            <persname authfilenumber="95151565" role="dc:creator"
                                 source="viaf">MacLaverty, Bernard</persname>: <corpname
                                 authfilenumber="123393054" source="viaf">Belfast Group</corpname>
                             worksheet, <date normal="1971-11-30">30 November 1971</date> [includes
@@ -11636,7 +11655,7 @@
                         <container type="box">30</container>
                         <container type="folder">4</container>
                         <unittitle>
-                            <persname authfilenumber="95151565" role="dc:creator schema:author"
+                            <persname authfilenumber="95151565" role="dc:creator"
                                 source="viaf">MacLaverty, Bernard</persname>: <corpname
                                 authfilenumber="123393054" source="viaf">Belfast Group</corpname>
                             worksheet, <date normal="1972-02-14">14 February 1972</date> [includes
@@ -11648,7 +11667,7 @@
                     <did>
                         <container type="box">30</container>
                         <container type="folder">5</container>
-                        <unittitle><persname role="dc:creator schema:author">McGurk, Tom</persname>:
+                        <unittitle><persname role="dc:creator">McGurk, Tom</persname>:
                                 <corpname authfilenumber="123393054" source="viaf">Belfast
                                 Group</corpname> worksheet, circa <date normal="1971/1972"
                                 >1971-1972</date> [includes poems: <title render="doublequote"
@@ -11665,7 +11684,7 @@
                         <container type="box">30</container>
                         <container type="folder">6</container>
                         <unittitle>
-                            <persname role="dc:creator schema:author">McMahon, Trevor</persname>:
+                            <persname role="dc:creator schema">McMahon, Trevor</persname>:
                                 <corpname authfilenumber="123393054" source="viaf">Belfast
                                 Group</corpname> worksheet, <date normal="1971-11-22">22 November
                                 1971</date> [includes poems: <title render="doublequote"
