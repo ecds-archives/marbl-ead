@@ -1979,7 +1979,7 @@
             <title render="doublequote">The Last Mummer</title>,
             <title render="doublequote">Gifts of Rain</title>,
             <title render="doublequote">The Tollund Man</title>,
-            <title>Westering</title>;" [<date normal="1971-11-08">8 November 1971</date>]</unittitle>
+            <title render="doublequote">Westering</title>; [<date normal="1971-11-08">8 November 1971</date>]</unittitle>
             <dao xlink:href="http://pid.emory.edu/ark:/25593/17kwv"/>
           </did></c02>
         <c02 level="file"><did><container type="box">41</container><container type="folder">3</container>
