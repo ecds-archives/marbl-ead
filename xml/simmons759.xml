@@ -11755,7 +11755,7 @@
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
                 <persname role="schema:author dc:creator">Maurice Gallagher</persname>:
-                <title>Untitled ("Jimmy McHugh was a very quiet person. . . .")</title> [short story]
+                <title render="doublequote">Untitled (Jimmy McHugh was a very quiet person. . . .)</title> [short story]
               </unittitle>
             </did>
           </c03>
