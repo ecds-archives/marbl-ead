@@ -93,7 +93,7 @@
         </processinfo>
         <bioghist encodinganalog="545">
             <head>Biographical Note</head>
-            <p>A central figure in <geogname authfilenumber="7521316" source="geonames"
+            <p>A central figure in <geogname authfilenumber="7521316" source="geonames" role="schema:homeLocation"
                     >Ulster</geogname>'s literary culture since the late 1960's, Frank Ormsby has
                 led a lively and multifarious writing life as a poet, book and magazine editor, and
                 teacher based in <geogname authfilenumber="2655984" role="schema:homeLocation"
@@ -119,14 +119,13 @@
                     Spring</title> (1986) and <title>The Ghost Train</title> (1995) have been
                 published with the <corpname authfilenumber="147893360" role="schema:association"
                     source="viaf">Gallery Press</corpname>. In 1992, Ormsby won a Cultural
-                Traditions Award given in memory of <persname authfilenumber="94401473"
-                    source="viaf">John Hewitt</persname>, and in 2002 he was honored with the
+                Traditions Award given in memory of John Hewitt, and in 2002 he was honored with the
                 Lawrence O'Shaughnessy Award for Poetry from the <corpname
                     authfilenumber="131195240" role="schema:association" source="viaf">University of
                     St Thomas at St Paul, Minnesota</corpname>.</p>
             <p>Ormsby began his editorial career in 1969, when he and <persname
                     authfilenumber="55394043" role="schema:colleague" source="viaf">Michael
-                    Foley</persname> succeeded <persname authfilenumber="92591927" source="viaf"
+                    Foley</persname> succeeded <persname authfilenumber="92591927" source="viaf" role="schema:colleague"
                     >James Simmons</persname> as co-editors of <title>The Honest Ulsterman</title>.
                 From 1972 to 1984, Ormsby was the sole editor of this small but important literary
                 magazine that offered both younger and established Northern Irish writers invaluable
