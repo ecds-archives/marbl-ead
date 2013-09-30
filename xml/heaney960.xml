@@ -38,7 +38,7 @@
       </origination>
       <unittitle encodinganalog="245$a">Seamus Heaney papers, <unitdate encodinganalog="245$f"
           normal="1951/2004" type="inclusive">1951-2004</unitdate></unittitle>
-      <unitid identifier="960">Manuscript Collection No. 960</unitid>
+      <unitid identifier="http://pid.emory.edu/ark:/25593/94k51">Manuscript Collection No. 960</unitid>
       <physdesc encodinganalog="300"><extent>51 linear ft.</extent><extent>(102 boxes)</extent> and
           <extent>13 oversized papers (OP)</extent></physdesc>
       <abstract>Personal papers of Irish poet Seamus Heaney consisting mostly of correspondence, as

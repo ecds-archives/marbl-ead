@@ -44,7 +44,7 @@
       <unittitle encodinganalog="245$a">Derek Mahon papers, <unitdate calendar="gregorian"
           encodinganalog="245$f" era="ce" normal="1948/2008" type="inclusive"
         >1948-2008</unitdate></unittitle>
-      <unitid countrycode="US" identifier="689" repositorycode="geu-s">Manuscript Collection No.
+      <unitid countrycode="US" identifier="http://pid.emory.edu/ark:/25593/94jh9" repositorycode="geu-s">Manuscript Collection No.
         689</unitid>
       <physdesc encodinganalog="300"><extent>34.75 linear ft.</extent><extent>(67 boxes)</extent>
         and <extent>16 oversized papers (OP)</extent></physdesc>

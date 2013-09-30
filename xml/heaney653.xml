@@ -40,7 +40,7 @@
       </origination>
       <unittitle encodinganalog="245$a">Seamus Heaney collection,
 		  <unitdate type="inclusive" normal="1972/2003" encodinganalog="245$f">1972-2005</unitdate></unittitle>
-      <unitid countrycode="US" repositorycode="geu-s" identifier="653">Manuscript Collection
+      <unitid countrycode="US" repositorycode="geu-s" identifier="http://pid.emory.edu/ark:/25593/94jbm">Manuscript Collection
 		  No.653</unitid>
       <physdesc encodinganalog="300"><extent>1 linear ft.</extent><extent>(3
 		  boxes)</extent> and <extent>12 oversized papers (OP)</extent></physdesc>

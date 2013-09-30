@@ -43,7 +43,7 @@
       <unittitle encodinganalog="245$a">Edna O'Brien papers, <unitdate certainty="circa"
           encodinganalog="245$f" normal="1939/2000" type="inclusive">circa
         1939-2000</unitdate></unittitle>
-      <unitid countrycode="US" identifier="855" repositorycode="geu-s">Manuscript Collection No.
+      <unitid countrycode="US" identifier="http://pid.emory.edu/ark:/25593/94jtj" repositorycode="geu-s">Manuscript Collection No.
         855</unitid>
       <physdesc encodinganalog="300"><extent>46.75 linear ft.</extent><extent>(95 boxes)</extent>,
           <extent>8 DVD</extent>, and <extent>22 oversized papers (OP)</extent></physdesc>
