@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21">
-  <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/8zvnd" url="http://pid.emory.edu/ark:/25593/8zvnd">schuchard1005</eadid>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
+    relatedencoding="Dublin Core" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="US" identifier="ark:/25593/8zvnd" mainagencycode="geu-s"
+      url="http://pid.emory.edu/ark:/25593/8zvnd">schuchard1005</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper encodinganalog="Title" type="Irish">Ronald Schuchard
-			 papers, 1981-2011</titleproper>
-        <author encodinganalog="Creator">Manuscript, Archives, and Rare Book
-			 Library, Emory University</author>
+        <titleproper encodinganalog="Title" type="Irish">Ronald Schuchard papers,
+          1981-2011</titleproper>
+        <author encodinganalog="Creator">Manuscript, Archives, and Rare Book Library, Emory
+          University</author>
       </titlestmt>
       <publicationstmt>
         <publisher encodinganalog="Publisher">Emory University</publisher>
@@ -22,35 +26,33 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded, 
-		  <date encodinganalog="Date" normal="2006-06-19">June 19,
-			 2006</date></creation>
+      <creation>Finding aid encoded, <date encodinganalog="Date" normal="2006-06-19">June 19,
+          2006</date></creation>
       <langusage>
-        <language langcode="eng" encodinganalog="Language" scriptcode="Latn">English</language>
+        <language encodinganalog="Language" langcode="eng" scriptcode="Latn">English</language>
       </langusage>
     </profiledesc>
   </eadheader>
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname source="lcnaf" encodinganalog="100">Schuchard,
-			 Ronald.</persname>
+        <persname encodinganalog="100" source="lcnaf">Schuchard, Ronald.</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Ronald Schuchard papers, 
-		  <unitdate type="inclusive" encodinganalog="245$f" normal="1981/2011" era="ce" calendar="gregorian">1981-2011</unitdate></unittitle>
-      <unitid countrycode="US" repositorycode="geu-s" identifier="1005">Manuscript Collection No.
-		  1005</unitid>
+      <unittitle encodinganalog="245$a">Ronald Schuchard papers, <unitdate calendar="gregorian"
+          encodinganalog="245$f" era="ce" normal="1981/2011" type="inclusive"
+        >1981-2011</unitdate></unittitle>
+      <unitid countrycode="US" identifier="1005" repositorycode="geu-s">Manuscript Collection No.
+        1005</unitid>
       <physdesc encodinganalog="300">
         <extent>2 linear ft.</extent>
-        <extent>(5
-		  boxes)</extent>
+        <extent>(5 boxes)</extent>
       </physdesc>
-      <abstract>Papers of Ronald Schuchard, a professor of English at Emory
-		  University, from 1981-2011.</abstract>
-      <langmaterial encodinganalog="546">Materials entirely in
-		  <language langcode="eng">English</language>.</langmaterial>
-      <repository encodinganalog="852">Emory University<subarea>Manuscript,
-		  Archives, and Rare Book Library</subarea></repository>
+      <abstract>Papers of Ronald Schuchard, a professor of English at Emory University, from
+        1981-2011.</abstract>
+      <langmaterial encodinganalog="546">Materials entirely in <language langcode="eng"
+          >English</language>.</langmaterial>
+      <repository encodinganalog="852">Emory University<subarea>Manuscript, Archives, and Rare Book
+          Library</subarea></repository>
     </did>
     <acqinfo encodinganalog="541">
       <head>Source</head>
@@ -62,13 +64,12 @@
     </accessrestrict>
     <userestrict encodinganalog="540">
       <head>Terms Governing Use and Reproduction</head>
-      <p>All requests subject to limitations noted in departmental policies on
-		  reproduction.</p>
+      <p>All requests subject to limitations noted in departmental policies on reproduction.</p>
     </userestrict>
     <prefercite encodinganalog="524">
       <head>Citation</head>
-      <p>[after identification of item(s)], Ronald Schuchard papers,
-		  Manuscript, Archives, and Rare Book Library, Emory University.</p>
+      <p>[after identification of item(s)], Ronald Schuchard papers, Manuscript, Archives, and Rare
+        Book Library, Emory University.</p>
     </prefercite>
     <processinfo>
       <head>Processing</head>
@@ -82,115 +83,102 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Ronald Schuchard is Goodrich C. White Professor of English at Emory
-		  University, where he began his career as teacher and scholar in 1969. He
-		  completed his graduate work at the University of Texas, Austin, and teaches
-		  courses in 20th century British, Irish and Anglophone literature. He is author
-		  of numerous studies of modern authors, particularly T.S. Eliot and W.B. Yeats.
-		  His book, 
-		<title>Eliot's Dark Angel</title> (Oxford University Press, 1999), won
-		the Robert Penn Warren/Cleanth Brooks Award for Outstanding Literary Criticism
-		and the Annual SAMLA Studies Award for the best book published by a member of
-		the South Atlantic Modern Language Association. He is the editor of T.S.
-		Eliot's Clark and Turnbull Lectures, 
-		<title>The Varieties of Metaphysical Poetry</title> (Faber &amp; Faber,
-		1993; Harcourt, Brace, 1994; Harvest, 1996), and co-editor with John Kelly of 
-		<title>The Collected Letters of W.B. Yeats</title>, Volume 3 (Oxford
-		University Press, 1994) and Volumes 4-5. During the 2000-2001 academic year, he
-		was a Visiting Fellow at Trinity College, Dublin, and a Senior Research Fellow
-		at Queen's University, Belfast.</p>
-      <p>Schuchard has been a key figure in developing an outstanding archive
-		  of twentieth century Irish and English manuscript collections in the Woodruff
-		  Library of Emory University and in organizing the Richard Ellmann Lectures in
-		  Modern Literature, inaugurated by Seamus Heaney in 1988. He is the former
-		  director of Emory University's British Studies Program at University College,
-		  Oxford and of the Yeats International Summer School in Silgo, Ireland. He is an
-		  active member of the Modern Language Association, the T.S. Eliot Society of St.
-		  Louis, the New York Yeats Society, the American Conference for Irish Studies,
-		  the International Association for the Study of Irish Literatures, and the
-		  Grollier Club of New York. In addition to serving on the editorial boards of 
-		<title>Yeats Annual</title>, 
-		<title>The Recorder: Journal of the American Irish Historical
-		  Society</title> and 
-		<title>Texas Studies in Literature and Language</title>, he is a member
-		of the advisory boards of The Correspondence of Samuel Beckett and the W.B.
-		Yeats Drama Foundation. His research has been supported by American Council of
-		Learned Societies and National Endowment for the Humanities grants; and in
-		addition to serving as a Fulbright Senior Lecturer in Greece, he has been a
-		Visiting Fellow at Wolfson College, Oxford, and twice a Research Fellow at the
-		Institute of English Studies, University of London. </p>
+      <p>Ronald Schuchard is Goodrich C. White Professor of English at <corpname source="dbpedia" authfilenumber="Emory_University">Emory University</corpname>, where he
+        began his career as teacher and scholar in 1969. He completed his graduate work at the
+        <corpname source="dbpedia" authfilenumber="University_of_Texas_at_Austin">University of Texas, Austin</corpname>, and teaches courses in 20th century <geogname source="geonames" authfilenumber="2654669">British</geogname>, <geogname source="geonames" authfilenumber="2963597">Irish</geogname> and
+        Anglophone literature. He is author of numerous studies of modern authors, particularly <persname source="viaf" authfilenumber="56609282">T.S.
+        Eliot</persname> and <persname source="viaf" authfilenumber="46768718">W.B. Yeats</persname>. His book, <title>Eliot's Dark Angel</title> (Oxford University Press,
+        1999), won the Robert Penn Warren/Cleanth Brooks Award for Outstanding Literary Criticism
+        and the Annual SAMLA Studies Award for the best book published by a member of the <corpname source="dbpedia" authfilenumber="South_Atlantic_Modern_Language_Association#Regional_associations">South
+        Atlantic Modern Language Association</corpname>. He is the editor of T.S. Eliot's Clark and Turnbull
+        Lectures, <title>The Varieties of Metaphysical Poetry</title> (Faber &amp; Faber, 1993;
+        Harcourt, Brace, 1994; Harvest, 1996), and co-editor with John Kelly of <title>The Collected
+          Letters of W.B. Yeats</title>, Volume 3 (Oxford University Press, 1994) and Volumes 4-5.
+        During the 2000-2001 academic year, he was a Visiting Fellow at <corpname source="dbpedia" authfilenumber="Trinity_College_Dublin">Trinity College, Dublin</corpname>, and
+        a Senior Research Fellow at <corpname source="dbpedia" authfilenumber="Queens_University_Belfast">Queen's University, Belfast</corpname>.</p>
+      <p>Schuchard has been a key figure in developing an outstanding archive of twentieth century
+        Irish and English manuscript collections in the <corpname source="viaf" authfilenumber="142407460">Woodruff Library</corpname> of Emory University and in
+        organizing the Richard Ellmann Lectures in Modern Literature, inaugurated by <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>
+        in 1988. He is the former director of Emory University's British Studies Program at
+        <corpname source="dbpedia" authfilenumber="University_College_Oxford">University College, Oxford</corpname> and of the <corpname source="viaf" authfilenumber="141896861">Yeats International Summer School</corpname> in <geogname source="geonames" authfilenumber="2961423">Sligo, Ireland</geogname>.
+        He is an active member of the <corpname source="dbpedia" authfilenumber="Modern_Language_Association">Modern Language Association</corpname>, the T.S. Eliot Society of St.
+        Louis, the New York Yeats Society, the <corpname source="viaf" authfilenumber="153671387">American Conference for Irish Studies</corpname>, the
+        <corpname source="viaf" authfilenumber="124074316">International Association for the Study of Irish Literatures</corpname>, and the <corpname source="dbpedia" authfilenumber="Grolier_Club">Grollier Club of New
+          York</corpname>. In addition to serving on the editorial boards of <title>Yeats Annual</title>,
+          <title>The Recorder: Journal of the American Irish Historical Society</title> and
+          <title>Texas Studies in Literature and Language</title>, he is a member of the advisory
+        boards of The Correspondence of Samuel Beckett and the W.B. Yeats Drama Foundation. His
+        research has been supported by <corpname source="dbpedia" authfilenumber="American_Council_of_Learned_Societies">American Council of Learned Societies</corpname> and <corpname source="dbpedia" authfilenumber="National_Endowment_for_the_Humanities">National Endowment
+        for the Humanities</corpname> grants; and in addition to serving as a Fulbright Senior Lecturer in
+        <geogname source="geonames" authfilenumber="390903">Greece</geogname>, he has been a Visiting Fellow at <corpname source="dbpedia" authfilenumber="Wolfson_College,_Oxford">Wolfson College, Oxford</corpname>, and twice a Research
+        Fellow at the Institute of English Studies, University of London. </p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
-      <p>The Ronald Schuchard papers primarily consist of materials relating to
-		  Ron Schuchard's relationship with Seamus Heaney from 1981-2005, including
-		  correspondence, drafts of lectures for the Richard Ellmann Lectures in Modern
-		  Literature, writings, printed materials, and photographs. The bulk of the
-		  papers consist of correspondence between Heaney and Schuchard (1981-2005) and
-		  reflects the planning for the Richard Ellmann Lectures in Modern Literature at
-		  Emory University, which Heaney delivered in 1988 and the friendship between
-		  Schuchard and Heaney. Also present in the papers are Seamus Heaney's drafts of
-		  the Ellmann Lectures and drafts prepared for the publication of the lectures in
-		  
-		<title>The Place of Writing</title> (1989), as well as a small group of
-		printed materials relating to Heaney and a small number of photographs.</p>
+      <p>The Ronald Schuchard papers primarily consist of materials relating to Ron Schuchard's
+        relationship with <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname> from 1981-2005, including correspondence, drafts of lectures
+        for the Richard Ellmann Lectures in Modern Literature, writings, printed materials, and
+        photographs. The bulk of the papers consist of correspondence between Heaney and Schuchard
+        (1981-2005) and reflects the planning for the Richard Ellmann Lectures in Modern Literature
+        at <corpname source="dbpedia" authfilenumber="Emory_University">Emory University</corpname>, which Heaney delivered in 1988 and the friendship between Schuchard and
+        Heaney. Also present in the papers are Seamus Heaney's drafts of the Ellmann Lectures and
+        drafts prepared for the publication of the lectures in <title>The Place of Writing</title>
+        (1989), as well as a small group of printed materials relating to Heaney and a small number
+        of photographs.</p>
     </scopecontent>
     <arrangement encodinganalog="351">
       <head>Arrangement Note</head>
-      <p>Organized into five series: (1) Correspondence, (2) Richard
-		  Ellmann Lectures in Modern Literature, (3) Writings of others, (4) Printed
-		  materials, and (5) Photographs.</p>
+      <p>Organized into five series: (1) Correspondence, (2) Richard Ellmann Lectures in Modern
+        Literature, (3) Writings of others, (4) Printed materials, and (5) Photographs.</p>
     </arrangement>
     <controlaccess>
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Uniform Title</head>
-        <title encodinganalog="630" source="lcnaf">Richard Ellmann lectures on
-			 modern literature.</title>
+        <title encodinganalog="630" source="lcnaf">Richard Ellmann lectures on modern
+          literature.</title>
       </controlaccess>
       <controlaccess>
         <head>Personal Names</head>
-        <persname encodinganalog="600" source="lcnaf">Heaney, Seamus,
-			 1939-</persname>
+        <persname source="viaf" authfilenumber="109557338">Heaney, Seamus, 1939-</persname>
       </controlaccess>
       <controlaccess>
         <head>Corporate Names</head>
-        <corpname encodinganalog="610" source="lcnaf">Emory
-			 University--Faculty.</corpname>
+        <corpname source="viaf" authfilenumber="Emory_University">Emory University--Faculty.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
-        <subject source="lcsh" encodinganalog="650">Irish poetry--20th
-			 century.</subject>
-        <subject source="lcsh" encodinganalog="650">Poets, Irish.</subject>
+        <subject encodinganalog="650" source="lcsh">Irish poetry--20th century.</subject>
+        <subject encodinganalog="650" source="lcsh">Poets, Irish.</subject>
       </controlaccess>
       <controlaccess>
         <head>Form/Genre Terms</head>
-        <genreform source="aat" encodinganalog="655">Manuscripts.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform encodinganalog="655" source="aat">Manuscripts.</genreform>
+        <genreform encodinganalog="655" source="aat">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <separatedmaterial encodinganalog="544 0">
       <head>Related Materials in This Repository</head>
-      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/bmnn5">Emory University Archives, RG 903, Series 026, Lectures and Symposia:
-		  Richard Ellmann Lectures in Modern Literature</extref>.</p>
+      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/bmnn5">Emory University Archives, RG
+          903, Series 026, Lectures and Symposia: Richard Ellmann Lectures in Modern
+          Literature</extref>.</p>
     </separatedmaterial>
     <dsc type="combined">
       <head>Description of Series</head>
-      <c01 level="series" id="schuchard1005_series1">
+      <c01 id="schuchard1005_series1" level="series">
         <did>
           <unitid>Series 1</unitid>
-          <unittitle encodinganalog="245$a">Correspondence, 
-				<unitdate encodinganalog="245$f" normal="1981/2004" era="ce" calendar="gregorian">1981-2005</unitdate></unittitle>
+          <unittitle encodinganalog="245$a">Correspondence, <unitdate calendar="gregorian"
+              encodinganalog="245$f" era="ce" normal="1981/2004">1981-2005</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 1 - 2</physdesc>
         </did>
         <accessrestrict encodinganalog="506">
           <head>Restrictions on Access</head>
-          <p>Special restrictions apply: Letters by Seamus Heaney are closed to researchers.</p>
+          <p>Special restrictions apply: Letters by <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname> are closed to researchers.</p>
         </accessrestrict>
         <c02 level="file">
           <did>
-            <unittitle>Heaney, Seamus [RESTRICTED]</unittitle>
+            <unittitle><persname source="viaf" authfilenumber="109557338">Heaney, Seamus</persname> [RESTRICTED]</unittitle>
           </did>
         </c02>
         <c02 level="file">
@@ -244,52 +232,52 @@
           <did>
             <container type="box">2</container>
             <container type="folder">1</container>
-            <unittitle>Fallon, Peter, 1996</unittitle>
+            <unittitle><persname source="viaf" authfilenumber="24613408">Fallon, Peter</persname>, 1996</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">2</container>
             <container type="folder">2</container>
-            <unittitle>Hecht, Anthony, 1993-1995</unittitle>
+            <unittitle><persname source="viaf" authfilenumber="76363549">Hecht, Anthony</persname>, 1993-1995</unittitle>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="schuchard1005_series2">
+      <c01 id="schuchard1005_series2" level="series">
         <did>
           <unitid>Series 2</unitid>
-          <unittitle encodinganalog="245$a">Richard Ellmann Lectures in Modern
-				Literature, 
-				<unitdate type="inclusive" normal="1988" encodinganalog="245$f" era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          <unittitle encodinganalog="245$a">Richard Ellmann Lectures in Modern Literature, <unitdate
+              calendar="gregorian" encodinganalog="245$f" era="ce" normal="1988" type="inclusive"
+              >1988</unitdate></unittitle>
           <physdesc encodinganalog="300">Box 3</physdesc>
         </did>
         <c02 level="file">
           <did>
-            <unittitle>"The Place of Writing: W.B Yeats and Thoor Ballylee," Seamus Heaney </unittitle>
+            <unittitle>"The Place of Writing: W.B Yeats and Thoor Ballylee," Seamus Heaney
+            </unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">1</container>
-            <unittitle>"A Tower in the Ear: Yeats and Ballylee," manuscript,
-				  October 12, 1985, 28 pp.</unittitle>
+            <unittitle>"A Tower in the Ear: Yeats and Ballylee," manuscript, October 12, 1985, 28
+              pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">2</container>
-            <unittitle>"The Place of Writing", early draft manuscript, 5
-				  pp.</unittitle>
+            <unittitle>"The Place of Writing", early draft manuscript, 5 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">3</container>
-            <unittitle>"The Place of Writing," unidentified verse fragment,
-				  manuscript, 1 p.</unittitle>
+            <unittitle>"The Place of Writing," unidentified verse fragment, manuscript, 1
+              p.</unittitle>
           </did>
         </c02>
         <c02 level="file">
@@ -303,8 +291,8 @@
           <did>
             <container type="box">3</container>
             <container type="folder">3</container>
-            <unittitle>"Introduction," Introductory remarks: Ellmann Lecture
-				  Series, manuscript, 8 pp.</unittitle>
+            <unittitle>"Introduction," Introductory remarks: Ellmann Lecture Series, manuscript, 8
+              pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
@@ -318,24 +306,23 @@
           <did>
             <container type="box">3</container>
             <container type="folder">4</container>
-            <unittitle>"The Place of Writing," typescript with corrections
-				  ["1st draft"], 4 pp.</unittitle>
+            <unittitle>"The Place of Writing," typescript with corrections ["1st draft"], 4
+              pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">5</container>
-            <unittitle>"The Place of Writing," typescript with corrections, 20
-				  pp.</unittitle>
+            <unittitle>"The Place of Writing," typescript with corrections, 20 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">6</container>
-            <unittitle>"The Place of Writing," heavily revised typescript and
-				  manuscript, 37 pp.</unittitle>
+            <unittitle>"The Place of Writing," heavily revised typescript and manuscript, 37
+              pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
@@ -349,54 +336,51 @@
           <did>
             <container type="box">3</container>
             <container type="folder">8</container>
-            <unittitle>"The Place of Writing," photocopy of typescript and
-				  manuscript, 30 pp.; with photocopied source material</unittitle>
+            <unittitle>"The Place of Writing," photocopy of typescript and manuscript, 30 pp.; with
+              photocopied source material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">9</container>
-            <unittitle>"The Place of Writing: W.B. Yeats and Thoor Ballylee,"
-				  typescript, 25 pp.</unittitle>
+            <unittitle>"The Place of Writing: W.B. Yeats and Thoor Ballylee," typescript, 25
+              pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">10</container>
-            <unittitle>"The Place of Writing: W.B. Yeats and Thoor Ballylee,"
-				  photocopied typescript, 25 pp.</unittitle>
+            <unittitle>"The Place of Writing: W.B. Yeats and Thoor Ballylee," photocopied
+              typescript, 25 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <unittitle>"The Pre-Natal Mountain: Vision and Irony in Recent
-              Irish Poetry," Seamus Heaney</unittitle>
-          </did>
-        </c02>
-        <c02 level="file">
-          <did>
-            <container type="box">3</container>
-            <container type="folder">11</container>
-            <unittitle>"The Pre-Natal Mountain", early draft, manuscript, 10
-				  pp.</unittitle>
+            <unittitle>"The Pre-Natal Mountain: Vision and Irony in Recent Irish Poetry," Seamus
+              Heaney</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">11</container>
-            <unittitle>"The Pre-Natal Mountain" [on Louis MacNeice],
-				  manuscript, 3 pp.</unittitle>
+            <unittitle>"The Pre-Natal Mountain", early draft, manuscript, 10 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">11</container>
-            <unittitle>"The Pre-Natal Mountain" [on Paul Muldoon], manuscript,
-				  4 pp.</unittitle>
+            <unittitle>"The Pre-Natal Mountain" [on Louis MacNeice], manuscript, 3 pp.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>"The Pre-Natal Mountain" [on Paul Muldoon], manuscript, 4 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
@@ -410,8 +394,7 @@
           <did>
             <container type="box">3</container>
             <container type="folder">13</container>
-            <unittitle>"The Pre-Natal Mountain," typescript with corrections,
-				  20 pp.</unittitle>
+            <unittitle>"The Pre-Natal Mountain," typescript with corrections, 20 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
@@ -425,126 +408,121 @@
           <did>
             <container type="box">3</container>
             <container type="folder">15</container>
-            <unittitle>"The Pre-Natal Mountain," photocopy of corrected
-				  typescript, 22 pp.; with photocopied source material</unittitle>
+            <unittitle>"The Pre-Natal Mountain," photocopy of corrected typescript, 22 pp.; with
+              photocopied source material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">16</container>
-            <unittitle>"The Pre-Natal Mountain: Vision and Irony in Recent
-				  Irish Poetry," photocopy of corrected typescript, 25 pp.</unittitle>
+            <unittitle>"The Pre-Natal Mountain: Vision and Irony in Recent Irish Poetry," photocopy
+              of corrected typescript, 25 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">17</container>
-            <unittitle>"The Pre-Natal Mountain: Vision and Irony in Recent
-				  Irish Poetry," typescript, 25 pp.</unittitle>
+            <unittitle>"The Pre-Natal Mountain: Vision and Irony in Recent Irish Poetry,"
+              typescript, 25 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <unittitle>"Cornucopia and Empty Shell: Variations on a Theme from
-              Ellmann," Seamus Heaney</unittitle>
-          </did>
-        </c02>
-        <c02 level="file">
-          <did>
-            <container type="box">3</container>
-            <container type="folder">18</container>
-            <unittitle>"Cornucopia and Empty Shell," [on Thomas Kinsella],
-				  manuscript, 2 pp.</unittitle>
+            <unittitle>"Cornucopia and Empty Shell: Variations on a Theme from Ellmann," Seamus
+              Heaney</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">18</container>
-            <unittitle>"Cornucopia and Empty Shell," [on John Montague],
-				  manuscript, 3 pp.</unittitle>
+            <unittitle>"Cornucopia and Empty Shell," [on Thomas Kinsella], manuscript, 2
+              pp.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>"Cornucopia and Empty Shell," [on John Montague], manuscript, 3
+              pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">19</container>
-            <unittitle>"Cornucopia and Empty Shell", early draft, manuscript,
-				  22 pp.</unittitle>
+            <unittitle>"Cornucopia and Empty Shell", early draft, manuscript, 22 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">20</container>
-            <unittitle>"Cornucopia and Empty Shell," manuscript, 31
-				  pp.</unittitle>
+            <unittitle>"Cornucopia and Empty Shell," manuscript, 31 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">21</container>
-            <unittitle>"Cornucopia and Empty Shell," photocopy with
-				  corrections, 30 pp.</unittitle>
+            <unittitle>"Cornucopia and Empty Shell," photocopy with corrections, 30 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">1</container>
             <container type="folder">22</container>
-            <unittitle>"Cornucopia and Empty Shell," photocopied typescript
-				  with corrections, 22 pp.</unittitle>
+            <unittitle>"Cornucopia and Empty Shell," photocopied typescript with corrections, 22
+              pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">23</container>
-            <unittitle>"Cornucopia and Empty Shell," typescript with
-				  corrections, 22 pp.</unittitle>
+            <unittitle>"Cornucopia and Empty Shell," typescript with corrections, 22 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">24</container>
-            <unittitle>"Cornucopia and Empty Shell," typescript and manuscript
-				  with corrections, 28 pp.</unittitle>
+            <unittitle>"Cornucopia and Empty Shell," typescript and manuscript with corrections, 28
+              pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">25</container>
-            <unittitle>"Cornucopia and Empty Shell," typescript, 21
-				  pp.</unittitle>
+            <unittitle>"Cornucopia and Empty Shell," typescript, 21 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">26</container>
-            <unittitle>"Cornucopia and Empty Shell," photocopied typescript and
-				  manuscript, 24 pp; with photocopied source material</unittitle>
+            <unittitle>"Cornucopia and Empty Shell," photocopied typescript and manuscript, 24 pp;
+              with photocopied source material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">27</container>
-            <unittitle>"Cornucopia and Empty Shell: Variations on a Theme from
-				  Ellmann," photocopied typescript, 24 pp.</unittitle>
+            <unittitle>"Cornucopia and Empty Shell: Variations on a Theme from Ellmann," photocopied
+              typescript, 24 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
             <container type="folder">28</container>
-            <unittitle>"Cornucopia and Empty Shell: Variations on a Theme from
-				  Ellmann," typescript, 24 pp.</unittitle>
+            <unittitle>"Cornucopia and Empty Shell: Variations on a Theme from Ellmann," typescript,
+              24 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
@@ -576,54 +554,53 @@
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="schuchard1005_series3">
+      <c01 id="schuchard1005_series3" level="series">
         <did>
           <unitid>Series 3</unitid>
-          <unittitle encodinganalog="245$a">Writings by Others, 
-				<unitdate type="inclusive" encodinganalog="245$f" normal="1983/1998" era="ce" calendar="gregorian">1983-1998</unitdate></unittitle>
+          <unittitle encodinganalog="245$a">Writings by Others, <unitdate calendar="gregorian"
+              encodinganalog="245$f" era="ce" normal="1983/1998" type="inclusive"
+              >1983-1998</unitdate></unittitle>
           <physdesc encodinganalog="300">Box 4: folders 1-4</physdesc>
         </did>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">1</container>
-            <unittitle>"The Birthplace," typescript of poem with a few
-				  holograph corrections, inscribed, signed and dated by Seamus Heaney, April 25,
-				  1983, 2 pp.</unittitle>
+            <unittitle>"The Birthplace," typescript of poem with a few holograph corrections,
+              inscribed, signed and dated by Seamus Heaney, April 25, 1983, 2 pp.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">2</container>
-            <unittitle>Notes for introduction of Marie Heaney at Silgo [Yeats
-				  Summer School], 13 August 1995 with holograph introduction written by Ron
-				  Schuchard</unittitle>
+            <unittitle>Notes for introduction of Marie Heaney at Silgo [Yeats Summer School], 13
+              August 1995 with holograph introduction written by Ron Schuchard</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">3</container>
-            <unittitle>"Casting and Gathering," typescript of poem for Ted
-				  Hughes, inscribed, signed, August 1990 [telefacsimile copy], May 28,
-				  1998</unittitle>
+            <unittitle>"Casting and Gathering," typescript of poem for Ted Hughes, inscribed,
+              signed, August 1990 [telefacsimile copy], May 28, 1998</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">4</container>
-            <unittitle>"At Lullwater," typescript of poem inscribed "for Keith
-				  and Ron," signed and dated by Seamus Heaney, June 28, 1998</unittitle>
+            <unittitle>"At Lullwater," typescript of poem inscribed "for Keith and Ron," signed and
+              dated by Seamus Heaney, June 28, 1998</unittitle>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="schuchard1005_series4">
+      <c01 id="schuchard1005_series4" level="series">
         <did>
           <unitid>Series 4</unitid>
-          <unittitle encodinganalog="245$a">Printed materials, 
-				<unitdate type="inclusive" encodinganalog="245$f" normal="1988/1995" era="ce" calendar="gregorian">1988-2005</unitdate></unittitle>
+          <unittitle encodinganalog="245$a">Printed materials, <unitdate calendar="gregorian"
+              encodinganalog="245$f" era="ce" normal="1988/1995" type="inclusive"
+              >1988-2005</unitdate></unittitle>
           <physdesc encodinganalog="300">Box 4: folder 5 - Box 5: folder 28</physdesc>
         </did>
         <c02 level="file">
@@ -635,77 +612,93 @@
           <did>
             <container type="box">4</container>
             <container type="folder">5</container>
-            <unittitle>Heaney, Seamus, blurb for compact disk "The Given Note," Liam O'Flynn [photocopy] with holograph notes for compact disk "Out to Another Side," Liam O'Flynn, undated</unittitle>
+            <unittitle>Heaney, Seamus, blurb for compact disk "The Given Note," Liam O'Flynn
+              [photocopy] with holograph notes for compact disk "Out to Another Side," Liam O'Flynn,
+              undated</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">6</container>
-            <unittitle>Heaney, Seamus, "To the Poets of St. Andrews," Poetry House cards, one of four greeting card, including poems by Thomas A. Clark, Robert Crawford, and Kathleen Jamie, undated</unittitle>
+            <unittitle>Heaney, Seamus, "To the Poets of St. Andrews," Poetry House cards, one of
+              four greeting card, including poems by Thomas A. Clark, Robert Crawford, and Kathleen
+              Jamie, undated</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">7</container>
-            <unittitle>Heaney, Seamus, "Verses for a Fordham Commencement," <title>Irish Literary Supplement</title>, volume 1, number 2, Fall 1982</unittitle>
+            <unittitle>Heaney, Seamus, "Verses for a Fordham Commencement," <title>Irish Literary
+                Supplement</title>, volume 1, number 2, Fall 1982</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">8</container>
-            <unittitle>Heaney, Seamus, "Above Respectability," [review of Oscar Wilde by Richard Ellmann], <title>The Atlantic Magazine</title>, volume 261, number 2, February 1988</unittitle>
+            <unittitle>Heaney, Seamus, "Above Respectability," [review of Oscar Wilde by Richard
+              Ellmann], <title>The Atlantic Magazine</title>, volume 261, number 2, February
+              1988</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">9</container>
-            <unittitle>Heaney, Seamus, "Valedictory Verses," [Composed for Craysfort Graduation Exercises, 1988], photocopied poem inscribed and signed, May 13, 1988</unittitle>
+            <unittitle>Heaney, Seamus, "Valedictory Verses," [Composed for Craysfort Graduation
+              Exercises, 1988], photocopied poem inscribed and signed, May 13, 1988</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">10</container>
-            <unittitle>Heaney, Seamus, "Unresting Death" [review of <title>Collected Poems</title> by Philip Larkin], The Observer, October 9, 1988</unittitle>
+            <unittitle>Heaney, Seamus, "Unresting Death" [review of <title>Collected Poems</title>
+              by Philip Larkin], The Observer, October 9, 1988</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">11</container>
-            <unittitle>Heaney, Seamus, "Markings," <title>Oxford Today</title>, volume 3, number 3, Trinity Issue, 1991</unittitle>
+            <unittitle>Heaney, Seamus, "Markings," <title>Oxford Today</title>, volume 3, number 3,
+              Trinity Issue, 1991</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">12</container>
-            <unittitle>Heaney, Seamus, "After the Killing," reprinted in church program for St. Augustine's Catholic Church, Galway, September 4, 1994</unittitle>
+            <unittitle>Heaney, Seamus, "After the Killing," reprinted in church program for St.
+              Augustine's Catholic Church, Galway, September 4, 1994</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">13</container>
-            <unittitle>Heaney, Seamus, Quotation from the opening of the Linen Hall Library's new extension, 16 February, 2000, <title>Linen Hall Library Newsletter</title>, Autumn/Winter 2000</unittitle>
+            <unittitle>Heaney, Seamus, Quotation from the opening of the Linen Hall Library's new
+              extension, 16 February, 2000, <title>Linen Hall Library Newsletter</title>,
+              Autumn/Winter 2000</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">14</container>
-            <unittitle>Heaney, Seamus, "Holding Reality and Justice," <title>Emory Report</title>, volume 55, number 32, May 27, 2003</unittitle>
+            <unittitle>Heaney, Seamus, "Holding Reality and Justice," <title>Emory Report</title>,
+              volume 55, number 32, May 27, 2003</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">15</container>
-            <unittitle>Heaney, Seamus, "Filial Closeness at Work," [review of W.B. Yeats, <title>A Life</title> by R.F. Foster], <title>FT Weekend</title>, September 27-28, 2003</unittitle>
+            <unittitle>Heaney, Seamus, "Filial Closeness at Work," [review of W.B. Yeats, <title>A
+                Life</title> by R.F. Foster], <title>FT Weekend</title>, September 27-28,
+              2003</unittitle>
           </did>
         </c02>
         <c02 level="file">
@@ -717,133 +710,152 @@
           <did>
             <container type="box">4</container>
             <container type="folder">16</container>
-            <unittitle>O'Toole, Michael, "Poetic Justice," <title>Visitor</title>, undated</unittitle>
+            <unittitle>O'Toole, Michael, "Poetic Justice," <title>Visitor</title>,
+              undated</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">17</container>
-            <unittitle>Fitzgerald, Mary, "A Seamus Heaney Harvest," <title>Irish Literary Supplement</title>, volume 1, number 1, Spring 1982</unittitle>
+            <unittitle>Fitzgerald, Mary, "A Seamus Heaney Harvest," <title>Irish Literary
+                Supplement</title>, volume 1, number 1, Spring 1982</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">4</container>
             <container type="folder">18</container>
-            <unittitle>King, Patricia McGovern, "An Interview with Seamus Heaney," <title>An Gael</title>, volume 3, number 1, 1985</unittitle>
+            <unittitle>King, Patricia McGovern, "An Interview with Seamus Heaney," <title>An
+                Gael</title>, volume 3, number 1, 1985</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">1</container>
-            <unittitle>O'Callaghan, Kate, "Seamus Heaney- A Poet of His People," <title>Irish American Magazine</title>, May 1986</unittitle>
+            <unittitle>O'Callaghan, Kate, "Seamus Heaney- A Poet of His People," <title>Irish
+                American Magazine</title>, May 1986</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">2</container>
-            <unittitle>Graham, Keith, "Seamus Heaney's Poetic Pen Conveys 'the good, the true,'" <title>The Atlanta Constitution</title>, April 15, 1988</unittitle>
+            <unittitle>Graham, Keith, "Seamus Heaney's Poetic Pen Conveys 'the good, the true,'"
+                <title>The Atlanta Constitution</title>, April 15, 1988</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">3</container>
-            <unittitle>Pattishall, Roy, "In Brief: Heaney Inaugurates Ellmann Lectures," <title>Emory Magazine</title>, volume 64, number 3, August 1988</unittitle>
+            <unittitle>Pattishall, Roy, "In Brief: Heaney Inaugurates Ellmann Lectures,"
+                <title>Emory Magazine</title>, volume 64, number 3, August 1988</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">4</container>
-            <unittitle>Costa, Peter, "A Conversation with Seamus Heaney," <title>Harvard University Gazette</title>, volume 86, number 41, June 1991</unittitle>
+            <unittitle>Costa, Peter, "A Conversation with Seamus Heaney," <title>Harvard University
+                Gazette</title>, volume 86, number 41, June 1991</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">5</container>
-            <unittitle>Raine, Craig, "Famous Seamus," <title>Vanity Fair</title>, volume 54, number 12, December 1991</unittitle>
+            <unittitle>Raine, Craig, "Famous Seamus," <title>Vanity Fair</title>, volume 54, number
+              12, December 1991</unittitle>
           </did>
-        </c02> 
+        </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">6</container>
-            <unittitle>Archibald, Douglas, ed. "Essays on Seamus Heaney" <title>Colby Quarterly</title>, volume 30, number 1, March 1994</unittitle>
+            <unittitle>Archibald, Douglas, ed. "Essays on Seamus Heaney" <title>Colby
+                Quarterly</title>, volume 30, number 1, March 1994</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">7</container>
-            <unittitle>Basney, Lionel, "Down to the Center: Seamus Heaney and His Place," <title>The Christian Century</title>, volume 113, number 12, April 10, 1996</unittitle>
+            <unittitle>Basney, Lionel, "Down to the Center: Seamus Heaney and His Place," <title>The
+                Christian Century</title>, volume 113, number 12, April 10, 1996</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">8</container>
-            <unittitle>Murphy, Kevin, "The Growth of a Poet's Mind," <title>The Bookpress</title>, February 1999</unittitle>
+            <unittitle>Murphy, Kevin, "The Growth of a Poet's Mind," <title>The Bookpress</title>,
+              February 1999</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">9</container>
-            <unittitle>Browne, Vincent, "Still Finding Himself in His Poetry," [interview with Seamus Heaney], <title>The Irish Times</title>, March 31, 2001</unittitle>
+            <unittitle>Browne, Vincent, "Still Finding Himself in His Poetry," [interview with
+              Seamus Heaney], <title>The Irish Times</title>, March 31, 2001</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">10</container>
-            <unittitle>Vendler, Helen, "Heaney, the Survivor," <title>The Irish Times</title>, March 21, 2001</unittitle>
+            <unittitle>Vendler, Helen, "Heaney, the Survivor," <title>The Irish Times</title>, March
+              21, 2001</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">11</container>
-            <unittitle>Kennedy, Maeve, "Sutton Hoo Lays Out Its Treasures," <title>The Guardian</title>, March 14, 2002</unittitle>
+            <unittitle>Kennedy, Maeve, "Sutton Hoo Lays Out Its Treasures," <title>The
+                Guardian</title>, March 14, 2002</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">12</container>
-            <unittitle>Anonymous, "Emory Houses Seamus Heaney's Life Works," <title>Loose Canons</title>, volume 6, issue 3, 2003</unittitle>
+            <unittitle>Anonymous, "Emory Houses Seamus Heaney's Life Works," <title>Loose
+                Canons</title>, volume 6, issue 3, 2003</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">13</container>
-            <unittitle>Lichtenstein, Merav, "Heaney to Appear Exclusively at Emory This Year," <title>The Emory Wheel</title>, March 4, 2003</unittitle>
+            <unittitle>Lichtenstein, Merav, "Heaney to Appear Exclusively at Emory This Year,"
+                <title>The Emory Wheel</title>, March 4, 2003</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">14</container>
-            <unittitle>Hammacher, Deb, "Heaney Reading to Honor Chase," <title>Emory Report</title>, volume 56, number 5, September 22, 2003</unittitle>
+            <unittitle>Hammacher, Deb, "Heaney Reading to Honor Chase," <title>Emory Report</title>,
+              volume 56, number 5, September 22, 2003</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">15</container>
-            <unittitle>Brown, Sandra, "Poet Laureate Heaney Honors Chase Tonight," <title>The Emory Wheel</title>, September 23, 2003</unittitle>
+            <unittitle>Brown, Sandra, "Poet Laureate Heaney Honors Chase Tonight," <title>The Emory
+                Wheel</title>, September 23, 2003</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">16</container>
-            <unittitle>Terrazas, Michael, "Heaney Honors Chase, Emory with Papers," <title>Emory Report</title>, volume 56, number 6, September 29, 2003</unittitle>
+            <unittitle>Terrazas, Michael, "Heaney Honors Chase, Emory with Papers," <title>Emory
+                Report</title>, volume 56, number 6, September 29, 2003</unittitle>
           </did>
         </c02>
         <c02 level="file">
@@ -857,21 +869,24 @@
           <did>
             <container type="box">5</container>
             <container type="folder">18</container>
-            <unittitle>Smyth, Gerry, ed., "Heaney at 70," <title>The Irish Times</title>, April 11, 2009</unittitle>
+            <unittitle>Smyth, Gerry, ed., "Heaney at 70," <title>The Irish Times</title>, April 11,
+              2009</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">19</container>
-            <unittitle>McCrum, Robert, "Life of a Naturalist," <title>The Observer Magazine</title>, July 2009</unittitle>
+            <unittitle>McCrum, Robert, "Life of a Naturalist," <title>The Observer Magazine</title>,
+              July 2009</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">20</container>
-            <unittitle>Laskey, Michael, "Great Plain Utterance," <title>The Poetry Paper</title>, issue 7, 2010-2011</unittitle>
+            <unittitle>Laskey, Michael, "Great Plain Utterance," <title>The Poetry Paper</title>,
+              issue 7, 2010-2011</unittitle>
           </did>
         </c02>
         <c02 level="file">
@@ -883,127 +898,147 @@
           <did>
             <container type="box">5</container>
             <container type="folder">21</container>
-            <unittitle>Brochures: Seamus Heaney Centre for Irish Poetry, Queen's University of Belfast, undated</unittitle>
+            <unittitle>Brochures: Seamus Heaney Centre for Irish Poetry, Queen's University of
+              Belfast, undated</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">22</container>
-            <unittitle>Brochure: "Stern," broadside poem by Seamus Heaney (in memory of Ted Hughes), undated</unittitle>
+            <unittitle>Brochure: "Stern," broadside poem by Seamus Heaney (in memory of Ted Hughes),
+              undated</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">23</container>
-            <unittitle>Catalog: "Seamus Heaney," Maggs Bros. Ltd. Catalog of Heaney publications offered for sale, undated</unittitle>
+            <unittitle>Catalog: "Seamus Heaney," Maggs Bros. Ltd. Catalog of Heaney publications
+              offered for sale, undated</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">24</container>
-            <unittitle>Catalog: "Images of Sweeney," art exhibition catalog with quotation from Seamus Heaney's translation Sweeney Astray, 1987</unittitle>
+            <unittitle>Catalog: "Images of Sweeney," art exhibition catalog with quotation from
+              Seamus Heaney's translation Sweeney Astray, 1987</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">25</container>
-            <unittitle>Schedule for Ron Schuchard Pig Roast honoring Seamus Heaney, Atlanta, April 13, [1988]</unittitle>
+            <unittitle>Schedule for Ron Schuchard Pig Roast honoring Seamus Heaney, Atlanta, April
+              13, [1988]</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">26</container>
-            <unittitle>Clippings, [twelve] regarding Seamus Heaney and the awarding of the Nobel Prize for Literature, 1995</unittitle>
+            <unittitle>Clippings, [twelve] regarding Seamus Heaney and the awarding of the Nobel
+              Prize for Literature, 1995</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">27</container>
-            <unittitle>Program: Commencement, University of North Carolina (Chapel Hill), May 12, 1996, [Seamus Heaney, commencement speaker, honoroary degree recipient]</unittitle>
+            <unittitle>Program: Commencement, University of North Carolina (Chapel Hill), May 12,
+              1996, [Seamus Heaney, commencement speaker, honoroary degree recipient]</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">28</container>
-            <unittitle>Program: Encaenia, June 25, 1997, celebration at Oxford University (England), [Seamus Heaney, honorary degree recipient]</unittitle>
+            <unittitle>Program: Encaenia, June 25, 1997, celebration at Oxford University (England),
+              [Seamus Heaney, honorary degree recipient]</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">29</container>
-            <unittitle>Electric Light, ticket stub for reading by Seamus Heaney, Abbey Theatre, Dublin, March 14, 2001</unittitle>
+            <unittitle>Electric Light, ticket stub for reading by Seamus Heaney, Abbey Theatre,
+              Dublin, March 14, 2001</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">30</container>
-            <unittitle>Program: Emory University commencement, May 12, 2003 [Seamus Heaney commencement speaker]</unittitle>
+            <unittitle>Program: Emory University commencement, May 12, 2003 [Seamus Heaney
+              commencement speaker]</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">31</container>
-            <unittitle>Miscellaneous: Fact sheet relating to writings by Ciaran Carson, 2005</unittitle>
+            <unittitle>Miscellaneous: Fact sheet relating to writings by Ciaran Carson,
+              2005</unittitle>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="schuchard1005_series5">
+      <c01 id="schuchard1005_series5" level="series">
         <did>
           <unitid>Series 5</unitid>
-          <unittitle encodinganalog="245$a">Photographs, 
-				<unitdate type="inclusive" encodinganalog="245$f" normal="1982/2004" era="ce" calendar="gregorian">1982-2004</unitdate></unittitle>
+          <unittitle encodinganalog="245$a">Photographs, <unitdate calendar="gregorian"
+              encodinganalog="245$f" era="ce" normal="1982/2004" type="inclusive"
+              >1982-2004</unitdate></unittitle>
           <physdesc encodinganalog="300">Box 5: folders 29-34</physdesc>
         </did>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">32</container>
-            <unittitle>Ron Schuchard, William Morgan, Seamus Heaney, Tom Flanagan at Thomas Hardy's grave, July 1982</unittitle>
+            <unittitle>Ron Schuchard, William Morgan, Seamus Heaney, Tom Flanagan at Thomas Hardy's
+              grave, July 1982</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">33</container>
-            <unittitle>Seamus Heaney with [William?] Arrowsmith, Bob O'Clair, and Richard Ellmann; Seamus Heaney with Bob O'Clair, and unidentified students, April 1983</unittitle>
+            <unittitle>Seamus Heaney with [William?] Arrowsmith, Bob O'Clair, and Richard Ellmann;
+              Seamus Heaney with Bob O'Clair, and unidentified students, April 1983</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">31</container>
-            <unittitle>Valerie Eliot, Seamus Heaney, and Ron Schuchard, Yeats International Summer School (Sligo, Ireland), 1997</unittitle>
+            <unittitle>Valerie Eliot, Seamus Heaney, and Ron Schuchard, Yeats International Summer
+              School (Sligo, Ireland), 1997</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">34</container>
-            <unittitle>Ron Schuchard, Valerie Eliot, Seamus Heaney, Maura McTinghe, and Ann Fogarty at Drumcliff Church (County Sligo), Yeats International Summer School (Sligo, Ireland), 1997</unittitle>
+            <unittitle>Ron Schuchard, Valerie Eliot, Seamus Heaney, Maura McTinghe, and Ann Fogarty
+              at Drumcliff Church (County Sligo), Yeats International Summer School (Sligo,
+              Ireland), 1997</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">35</container>
-            <unittitle>Ron Schuchard in Seamus Heaney's living room for interview for Sean O'Mordha's telecast, "W.B. Yeats: Cast a Cold Eye," January 1999</unittitle>
+            <unittitle>Ron Schuchard in Seamus Heaney's living room for interview for Sean
+              O'Mordha's telecast, "W.B. Yeats: Cast a Cold Eye," January 1999</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
             <container type="folder">36</container>
-            <unittitle>Seamus Heaney and three unidentified individuals with poster of postage stamps featuring Nobel literary laureates; ACS from Seamus Heaney to Ron Schuchard with Heaney stamp affixed, 2004</unittitle>
+            <unittitle>Seamus Heaney and three unidentified individuals with poster of postage
+              stamps featuring Nobel literary laureates; ACS from Seamus Heaney to Ron Schuchard
+              with Heaney stamp affixed, 2004</unittitle>
           </did>
         </c02>
       </c01>
