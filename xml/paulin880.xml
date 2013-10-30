@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+  xmlns:schema="http://schema.org/" xmlns:dbp="http://dbpedia.org/ontology/"
+  xmlns:dc="http://purl.org/dc/terms/">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
     relatedencoding="Dublin Core" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="ark:/25593/8zrf8" mainagencycode="geu-s"
@@ -36,7 +38,7 @@
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname encodinganalog="100" source="lcnaf">Paulin, Tom, 1949-</persname>
+        <persname encodinganalog="100" source="viaf" authfilenumber="108291535">Paulin, Tom, 1949-</persname>
       </origination>
       <unittitle encodinganalog="245$a">Tom Paulin papers, <unitdate encodinganalog="245$f"
           normal="1969/2008" type="inclusive">1969-2008</unitdate></unittitle>
@@ -88,34 +90,32 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Tom Paulin was born in 1949 in <geogname authfilenumber="2644688" source="geonames"
-          >Leeds</geogname> but raised in <geogname authfilenumber="2655984" source="geonames"
+      <p>Tom Paulin was born in <date normal="1949" type="schema:birthDate">1949</date> in <geogname authfilenumber="2644688" source="geonames" role="schema:birthPlace"
+          >Leeds</geogname> but raised in <geogname authfilenumber="2655984" source="geonames" role="schema:homeLocation"
           >Belfast</geogname>. After attending <corpname authfilenumber="Hull_university"
-          source="dbpedia">Hull </corpname> and <corpname authfilenumber="Oxford_university"
-          source="dbpedia">Oxford</corpname> Universities, he embarked on an academic career which
-        began at <corpname authfilenumber="Nottingham_university" source="dbpedia">Nottingham
+          source="dbpedia" role="schema:alumniOf">Hull</corpname> and <corpname authfilenumber="Oxford_university"
+          source="dbpedia" role="schema:alumniOf">Oxford</corpname> Universities, he embarked on an academic career which
+        began at <corpname authfilenumber="Nottingham_university" source="dbpedia" role="schema:worksFor">Nottingham
           University</corpname>; since 1994 he has been teaching at <corpname
-          authfilenumber="Hertford_College" source="dbpedia">Hertford College</corpname>, Oxford.
+          authfilenumber="Hertford_College" source="dbpedia" role="schema:worksFor">Hertford College</corpname>, Oxford.
         Paulin has apportioned his literary life into two reasonably distinct areas: he is a poet,
         and he is a critic.</p>
       <p>Paulin's first major volume of poetry, <title>A State of Justice</title>, was published by
-          <corpname authfilenumber="Faber_and_faber" source="dbpedia">Faber and Faber</corpname> in
+        Faber and Faberin
         1977; since then he has published <title>The Strange Museum</title> (1980), <title>Liberty
           Tree</title> (1983), <title>Fivemiletown</title> (1987), <title>Selected Poems
           1972-1990</title> (1993), <title>Walking a Line</title> (1994) and <title>The Wind
           Dog</title> (1999). He has received the Eric Gregory Award (1976), the Somerset Maugham
         Award (1978), and was joint winner of the Geoffrey Faber Memorial Prize (1982). In May 2000,
-        he was awarded a three-year fellowship by the <corpname
-          authfilenumber="National_Endowment_for_Science,_Technology_and_the_Arts" source="dbpedia"
-          >National Endowment for Science, Technology and the Arts</corpname> (NESTA) in order for
+        he was awarded a three-year fellowship by the National Endowment for Science, Technology and the Arts
+        (NESTA) in order for
         him to write a long poem "affirming the struggle and memory of the generation that fought
         the Second World War." The first part of this project, <title>The Invasion Handbook</title>,
         was published in 2002.</p>
       <p>Tom Paulin's first critical book was <title>Thomas Hardy: The Poetry of Perception
         </title>(1975). After that monograph he turned to the essay form as his favored method of
-        criticism, publishing critical articles particularly in <corpname
-          authfilenumber="London_Review_Of_Books" source="dbpedia"><emph render="italic">The London
-            Review of Books</emph></corpname> (LRB). Many of these essays have been collected
+        criticism, publishing critical articles particularly in <emph render="italic">The London
+            Review of Books</emph> (LRB). Many of these essays have been collected
         together in two volumes: <title>Ireland and the English Crisis</title> (1984) and
           <title>Minotaur: Poetry and the Nation State</title> (1992). A further selection of his
         prose, <title>Writing to the Moment: Selected Critical Essays 1980-1996</title>, was
@@ -127,20 +127,16 @@
         to be in the form of the polemical essay, published initially in a general circulation
         periodical such as the LRB, and pitched at a reasonably general audience. As well as
         critical articles, he has written prose diaries for the LRB. But he is perhaps best known in
-        Britain for his combative performances on "Late Review," a <corpname authfilenumber="BBC2"
-          source="dbpedia">BBC2</corpname> television program which features intellectual
-        disputation on various artistic productions.</p>
+        Britain for his combative performances on "Late Review," a BBC2 television program which features intellectual disputation on various artistic productions.</p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
-      <p>The collection consists of the papers of <geogname authfilenumber="2963597"
-          source="geonames">Irish</geogname> poet and critic Tom Paulin from 1969-2008. The papers
+      <p>The collection consists of the papers of Irish poet and critic Tom Paulin from 1969-2008. The papers
         include correspondence; manuscript writings by Paulin including poems, translations, prose
         and criticism; manuscript writings of others; printed material by and about Paulin;
         photographs and audiovisual material; personal files and subject files. The collection also
-        contains files relating to Paulin's involvement with the <corpname
-          authfilenumber="Field_Day_Theatre_Company" source="dbpedia">Field Day Theatre
-          Company</corpname>.</p>
+        contains files relating to Paulin's involvement with the Field Day Theatre
+          Company.</p>
     </scopecontent>
     <arrangement encodinganalog="351">
       <head>Arrangement Note</head>
@@ -153,29 +149,29 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname authfilenumber="51710796" source="viaf">Barnes, Julian.</persname>
-        <persname authfilenumber="277666574" source="viaf">Chaudhuri, Amit, 1962-</persname>
-        <persname authfilenumber="111397155" source="viaf">Dawe, Gerald, 1952-</persname>
-        <persname authfilenumber="108344790" source="viaf">Deane, Seamus, 1940-</persname>
-        <persname authfilenumber="73874087" source="viaf">Eagleton, Terry, 1943-</persname>
-        <persname authfilenumber="76315726" source="viaf">Friel, Brian, 1948-</persname>
-        <persname authfilenumber="109557338" source="viaf">Heaney, Seamus.</persname>
-        <persname authfilenumber="38545317" source="viaf">Hammond, David, singer.</persname>
-        <persname authfilenumber="64066068" source="viaf">Hofmann, Michael, 1957 Aug. 25.</persname>
-        <persname authfilenumber="108232871" source="viaf">Hughes, Ted, 1930-1998.</persname>
-        <persname authfilenumber="39398205" source="viaf">Longley, Michael 1939-</persname>
-        <persname authfilenumber="95152561" source="viaf">McGahern, John, 1934-</persname>
-        <persname authfilenumber="272840740" source="viaf"> Monteith, Charles.</persname>
-        <persname authfilenumber="108638782" source="viaf">Morrison, Blake.</persname>
-        <persname authfilenumber="108893413" source="viaf">Motion, Andrew, 1952-</persname>
-        <persname authfilenumber="64048541" source="viaf">Muldoon, Paul.</persname>
-        <persname authfilenumber="34553683" source="viaf">O'Donoghue, Bernard.</persname>
-        <persname authfilenumber="49280158" source="viaf"> Ormsby, Frank, 1947-</persname>
-        <persname authfilenumber="101760846" source="viaf">Sommer, Piotr, 1948-</persname>
+        <persname authfilenumber="51710796" source="viaf" encodinganalog="600 or 700">Barnes, Julian.</persname>
+        <persname authfilenumber="277666574" source="viaf" encodinganalog="600 or 700">Chaudhuri, Amit, 1962-</persname>
+        <persname authfilenumber="111397155" source="viaf" encodinganalog="600 or 700">Dawe, Gerald, 1952-</persname>
+        <persname authfilenumber="108344790" source="viaf" encodinganalog="600 or 700">Deane, Seamus, 1940-</persname>
+        <persname authfilenumber="73874087" source="viaf" encodinganalog="600 or 700">Eagleton, Terry, 1943-</persname>
+        <persname authfilenumber="76315726" source="viaf" encodinganalog="600 or 700">Friel, Brian, 1948-</persname>
+        <persname authfilenumber="109557338" source="viaf" encodinganalog="600 or 700">Heaney, Seamus.</persname>
+        <persname authfilenumber="38545317" source="viaf" encodinganalog="600 or 700">Hammond, David, singer.</persname>
+        <persname authfilenumber="64066068" source="viaf" encodinganalog="600 or 700">Hofmann, Michael, 1957 Aug. 25.</persname>
+        <persname authfilenumber="108232871" source="viaf" encodinganalog="600 or 700">Hughes, Ted, 1930-1998.</persname>
+        <persname authfilenumber="39398205" source="viaf" encodinganalog="600 or 700">Longley, Michael 1939-</persname>
+        <persname authfilenumber="95152561" source="viaf" encodinganalog="600 or 700">McGahern, John, 1934-</persname>
+        <persname authfilenumber="272840740" source="viaf" encodinganalog="600 or 700">Monteith, Charles.</persname>
+        <persname authfilenumber="108638782" source="viaf" encodinganalog="600 or 700">Morrison, Blake.</persname>
+        <persname authfilenumber="108893413" source="viaf" encodinganalog="600 or 700">Motion, Andrew, 1952-</persname>
+        <persname authfilenumber="64048541" source="viaf" encodinganalog="600 or 700">Muldoon, Paul.</persname>
+        <persname authfilenumber="34553683" source="viaf" encodinganalog="600 or 700">O'Donoghue, Bernard.</persname>
+        <persname authfilenumber="49280158" source="viaf" encodinganalog="600 or 700">Ormsby, Frank, 1947-</persname>
+        <persname authfilenumber="101760846" source="viaf" encodinganalog="600 or 700">Sommer, Piotr, 1948-</persname>
       </controlaccess>
       <controlaccess>
         <head>Corporate Names</head>
-        <corpname authfilenumber="Field_Day_Theatre_Company" source="dbpedia">Field Day Theatre
+        <corpname authfilenumber="Field_Day_Theatre_Company" source="dbpedia" encodinganalog="610">Field Day Theatre
           Company.</corpname>
       </controlaccess>
       <controlaccess>
@@ -6514,16 +6510,16 @@
       <c01 id="paulin880_series3" level="series">
         <did>
           <unitid>Series 3</unitid>
-          <unittitle encodinganalog="245$a">Field Day Theatre Company files</unittitle>
+          <unittitle encodinganalog="245$a"><corpname source="viaf" authfilenumber="157168776">Field Day Theatre Company</corpname> files</unittitle>
           <physdesc encodinganalog="300">Boxes 51-56, OP 4-6</physdesc>
         </did>
         <scopecontent encodinganalog="520">
           <head>Scope and Content Note</head>
-          <p>The <corpname source="dbpedia" authfilenumber="Field_Day_Theatre_Company">Field Day Theatre Company</corpname> was created by <persname source="viaf" authfilenumber="76315726">Brian Friel</persname> and <persname source="viaf" authfilenumber="85656395">Stephen Rea</persname> in 1980; soon
-            afterwards <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>, Tom Paulin, <persname source="viaf" authfilenumber="108344790">Seamus Deane</persname> and <persname source="viaf" authfilenumber="38545317">David Hammond</persname> joined its board of
+          <p>The Field Day Theatre Company was created by <persname source="viaf" authfilenumber="76315726" role="schema:founder">Brian Friel</persname> and <persname source="viaf" authfilenumber="85656395" role="schema:founder">Stephen Rea</persname> in 1980; soon
+            afterwards <persname source="viaf" authfilenumber="109557338" role="schema:member">Seamus Heaney</persname>, <persname source="viaf" authfilenumber="108291535" role="schema:member">Tom Paulin</persname>, <persname source="viaf" authfilenumber="108344790" role="schema:member">Seamus Deane</persname> and <persname source="viaf" authfilenumber="38545317" role="schema:member">David Hammond</persname> joined its board of
             directors. Field Day's primary purpose was to commission and stage Irish drama,
-            producing such classics as Brian Friel's <title>Translations</title> (1980) and <persname source="viaf" authfilenumber="7497547">Stewart
-            Parker</persname>'s <title>Pentecost</title> (1987); but it has also become known for its political
+            producing such classics as Brian Friel's <title>Translations</title> (1980) and Stewart
+            Parker's <title>Pentecost</title> (1987); but it has also become known for its political
             pamphlets and the <title>Field Day Anthology of Irish Writing</title> (1991). This
             series is comprised of much of the business correspondence of Field Day, particularly
             during the 1980s, as well as scripts and other associated materials which were
