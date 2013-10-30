@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+  xmlns:schema="http://schema.org/" xmlns:dbp="http://dbpedia.org/ontology/"
+  xmlns:dc="http://purl.org/dc/terms/">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
     relatedencoding="Dublin Core" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="ark:/25593/8zqkq" mainagencycode="geu-s"
@@ -37,7 +39,7 @@
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname encodinganalog="100" source="lcnaf">O'Grady, Desmond, 1935-</persname>
+        <persname encodinganalog="100" source="viaf" authfilenumber="112928390">O'Grady, Desmond, 1935-</persname>
       </origination>
       <unittitle encodinganalog="245$a">Desmond O'Grady papers, <unitdate encodinganalog="245$f"
           normal="1953/2001" type="inclusive">1953-2001</unitdate></unittitle>
@@ -83,9 +85,9 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Desmond O'Grady was born in 1935 in <geogname source="geonames" authfilenumber="2962943">Limerick, Ireland</geogname>. He holds an M.A. and Ph.D from
-        <corpname source="dbpedia" authfilenumber="Harvard_University">Harvard University</corpname>. He is a charter member of <corpname source="dbpedia" authfilenumber="Aosdana">Aosdana</corpname> and served as the Irish representative
-        to <corpname source="dbpedia" authfilenumber="Irish_National_Congress">Congress</corpname> of the Community of European Writers in 1962 and 1965. His published works
+      <p>Desmond O'Grady was born in <date normal="1935" type="schema:birthDate">1935</date> in <geogname source="geonames" authfilenumber="2962943" role="dbp:birthPlace">Limerick, Ireland</geogname>. He holds an M.A. and Ph.D from
+        <corpname source="dbpedia" authfilenumber="Harvard_University" role="schema:alumniOf">Harvard University</corpname>. He is a charter member of <corpname source="dbpedia" authfilenumber="Aosdana" role="schema:memberOf">Aosdana</corpname> and served as the Irish representative
+        to Congress of the Community of European Writers in 1962 and 1965. His published works
         include volumes of poetry, <title>Chords and Orchestrations</title>, <title>Reilly</title>,
           <title>The Dark Edge of Europe</title>, <title>The Dying Gaul</title>,
           <title>Hellas</title>, <title>Separations</title>, <title>Stations</title>, <title>Sing Me
@@ -108,8 +110,8 @@
         and translations from <title>Off Licence</title>, <title>The Gododdin</title>, <title>A
           Limerick Rake</title>, <title>Grecian Glances</title>, <title>The Seven Arab Odes</title>,
           <title>Ten Modern Arab Poets</title>, and <title>Trawling Tradition</title>. Also present
-        are extensive files of personal and literary correspondence including letters from <persname source="viaf" authfilenumber="7386737">Samuel
-        Beckett</persname>, <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>, <persname source="viaf" authfilenumber="110228045">Derek Mahon</persname>, <persname source="viaf" authfilenumber="92591927">James Simmons</persname>, and <persname source="viaf" authfilenumber="61545326">Richard Ellmann</persname>. The collection also
+        are extensive files of personal and literary correspondence including letters from <persname source="viaf" authfilenumber="7386737" role="schema:knows">Samuel
+        Beckett</persname>, <persname source="viaf" authfilenumber="109557338" role="schema:knows">Seamus Heaney</persname>, <persname source="viaf" authfilenumber="110228045" role="schema:knows">Derek Mahon</persname>, <persname source="viaf" authfilenumber="92591927" role="schema:knows">James Simmons</persname>, and <persname source="viaf" authfilenumber="61545326" role="schema:knows">Richard Ellmann</persname>. The collection also
         includes writings by others, personal files (including diaries and other personal items),
         collected printed material either by or about Desmond O'Grady, photographs, and sound
         recordings.</p>
@@ -124,30 +126,30 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname source="viaf" authfilenumber="51748870">Astley, Neil.</persname>
-        <persname source="viaf" authfilenumber="46805211">Banville, John.</persname>
-        <persname source="viaf" authfilenumber="7386737">Beckett, Samuel, 1906-1989.</persname>
-        <persname source="viaf" authfilenumber="9904049">Bolger, Dermot, 1959-</persname>
-        <persname source="viaf" authfilenumber="31993687">Brodsky, Joseph, 1940-</persname>
-        <persname source="viaf" authfilenumber="12402723">Dorgan, Theo.</persname>
-        <persname source="viaf" authfilenumber="79059031">Egan, Desmond.</persname>
-        <persname source="viaf" authfilenumber="61545326">Ellmann, Richard, 1918-</persname>
-        <persname source="viaf" authfilenumber="24613408">Fallon, Peter, 1951-</persname>
-        <persname source="viaf" authfilenumber="103216787">Hartnett, Michael, 1941-</persname>
-        <persname source="viaf" authfilenumber="109557338">Heaney, Seamus, 1939-</persname>
-        <persname source="viaf" authfilenumber="108232871">Hughes, Ted, 1930-1998.</persname>
-        <persname source="viaf" authfilenumber="64128892">Johnston, Dillon.</persname>
-        <persname source="viaf" authfilenumber="267971098">Kennelly, Brendan.</persname>
-        <persname source="viaf" authfilenumber="44326385">Kiely, Benedict.</persname>
-        <persname source="viaf" authfilenumber="34500781">Kinsella, Thomas.</persname>
-        <persname source="viaf" authfilenumber="110228045">Mahon, Derek, 1941-</persname>
-        <persname source="viaf" authfilenumber="85878653">MacIntyre, Tom.</persname>
-        <persname source="viaf" authfilenumber="64048541">Muldoon, Paul.</persname>
-        <persname source="viaf" authfilenumber="114019944"> Ni Chuuilleanain, Eilean.</persname>
-       <persname source="viaf" authfilenumber="237935224"> O'Keeffe, Timothy.</persname>
-        <persname source="viaf" authfilenumber="49280158">Ormsby, Frank, 1947-</persname>
-        <persname source="viaf" authfilenumber="92591927">Simmons, James, 1933-</persname>
-        <persname source="viaf" authfilenumber="94292464">Simms, Jacqueline, 1940-</persname>
+        <persname source="viaf" authfilenumber="51748870" encodinganalog="600">Astley, Neil.</persname>
+        <persname source="viaf" authfilenumber="46805211" encodinganalog="600">Banville, John.</persname>
+        <persname source="viaf" authfilenumber="7386737" encodinganalog="600">Beckett, Samuel, 1906-1989.</persname>
+        <persname source="viaf" authfilenumber="9904049" encodinganalog="600">Bolger, Dermot, 1959-</persname>
+        <persname source="viaf" authfilenumber="31993687" encodinganalog="600">Brodsky, Joseph, 1940-</persname>
+        <persname source="viaf" authfilenumber="12402723" encodinganalog="600">Dorgan, Theo.</persname>
+        <persname source="viaf" authfilenumber="79059031" encodinganalog="600">Egan, Desmond.</persname>
+        <persname source="viaf" authfilenumber="61545326" encodinganalog="600">Ellmann, Richard, 1918-</persname>
+        <persname source="viaf" authfilenumber="24613408" encodinganalog="600">Fallon, Peter, 1951-</persname>
+        <persname source="viaf" authfilenumber="103216787" encodinganalog="600">Hartnett, Michael, 1941-</persname>
+        <persname source="viaf" authfilenumber="109557338" encodinganalog="600">Heaney, Seamus, 1939-</persname>
+        <persname source="viaf" authfilenumber="108232871" encodinganalog="600">Hughes, Ted, 1930-1998.</persname>
+        <persname source="viaf" authfilenumber="64128892" encodinganalog="600">Johnston, Dillon.</persname>
+        <persname source="viaf" authfilenumber="267971098" encodinganalog="600">Kennelly, Brendan.</persname>
+        <persname source="viaf" authfilenumber="44326385" encodinganalog="600">Kiely, Benedict.</persname>
+        <persname source="viaf" authfilenumber="34500781" encodinganalog="600">Kinsella, Thomas.</persname>
+        <persname source="viaf" authfilenumber="110228045" encodinganalog="600">Mahon, Derek, 1941-</persname>
+        <persname source="viaf" authfilenumber="85878653" encodinganalog="600">MacIntyre, Tom.</persname>
+        <persname source="viaf" authfilenumber="64048541" encodinganalog="600">Muldoon, Paul.</persname>
+        <persname source="viaf" authfilenumber="114019944" encodinganalog="600">Ni Chuuilleanain, Eilean.</persname>
+        <persname source="viaf" authfilenumber="237935224" encodinganalog="600">O'Keeffe, Timothy.</persname>
+        <persname source="viaf" authfilenumber="49280158" encodinganalog="600">Ormsby, Frank, 1947-</persname>
+        <persname source="viaf" authfilenumber="92591927" encodinganalog="600">Simmons, James, 1933-</persname>
+        <persname source="viaf" authfilenumber="94292464" encodinganalog="600">Simms, Jacqueline, 1940-</persname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
@@ -6854,7 +6856,7 @@
             O'Grady recorded his thoughts and feelings on the major events in his life.</p>
           <p>The subject files (Subseries 4.2) contain printed material and correspondence relating
             to specific individuals such as Katherine Washburn and Noel Harrington and organizations
-            such as <corpname source="dbpedia" authfilenumber="Aosdana">Aosdana</corpname>. Some subject files such as the Katherine Washburn, Noel Harrington, and
+            such as Aosdana. Some subject files such as the Katherine Washburn, Noel Harrington, and
             Teaching Material files were created by O'Grady. Other files, such as Aosdana, financial
             papers, and drawings, were artificially assembled out of similar materials found
             throughout the papers.</p>
