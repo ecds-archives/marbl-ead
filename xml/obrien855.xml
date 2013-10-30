@@ -21,7 +21,7 @@
 				Library</addressline>
           <addressline>Atlanta, GA 30322</addressline>
           <addressline>404-727-6887</addressline>
-          <addressline>marbl@emory.edu</addressline>
+          
           <addressline>marbl@emory.edu</addressline>
         </address>
         <date encodinganalog="Date" normal="2003-08-15">August 15, 2003</date>
@@ -132,9 +132,9 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname authfilenumber="7386737" source="viaf">Beckett, Samuel, 1906-</persname>
+        <persname authfilenumber="7386737" source="viaf">Beckett, Samuel, 1906-1989.</persname>
         <persname authfilenumber="4926523" source="viaf">Bell, Quentin.</persname>
-        <persname authfilenumber="68929835" source="viaf">Graves, Robert, 1895-</persname>
+        <persname authfilenumber="68929835" source="viaf">Graves, Robert, 1895-1985.</persname>
         <persname authfilenumber="109557338" source="viaf">Heaney, Seamus, 1939-</persname>
         <persname authfilenumber="108232871" source="viaf">Hughes, Ted, 1930-1998.</persname>
         <persname authfilenumber="100954367" source="viaf">Osborne, John, 1929-</persname>
@@ -14568,16 +14568,16 @@
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>"Brother," from <title>Lantern Slides</title>, and excerpts from
-                  <title>Time and Tide</title> [digitized; filename 4619-4620]</unittitle>
+              <unittitle>"Brother," from 
+					 <title>Lantern Slides</title>, and excerpts from 
+                <title>Time and Tide</title> [digitized; Emory:4619, Emory:4620]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>Answering machine messages and <title>House of Splendid Isolation</title>,
-                July 1993 [digitized; filename 4621-4622]</unittitle>
+              <unittitle>Answering machine messages and <title>House of Splendid Isolation</title>, July 1993 [digitized; Emory:4621, Emory:4622]</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -14589,32 +14589,30 @@
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>"A Portrait of the Artist as a Young Girl," 2 September 1985 [digitized;
-                filename 4555]</unittitle>
+              <unittitle>"A Portrait of the Artist as a Young Girl," 2
+                September 1985 [digitized; Emory:4555]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>"O'Brien and Trevor," 22 May 1990 [digitized; filename
-                4556-4557]</unittitle>
+              <unittitle>"O'Brien and Trevor," 22 May 1990 [digitized; Emory:4556, Emory:4557]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>"Writers' Bookshelves: Edna O'Brien," 31 October 1990 [digitized; filename
-                4558]</unittitle>
+              <unittitle>"Writers' Bookshelves: Edna O'Brien," 31 October
+                1990 [digitized; Emory:4558]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>"Public Radio Book Show," 30 December 1990 [digitized; filename
-                4559]</unittitle>
+              <unittitle>"Public Radio Book Show," 30 December 1990 [digitized; Emory:4559]</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -14626,15 +14624,15 @@
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>"Johnny En Jones" [digitized; filename 4618]</unittitle>
+              <unittitle>"Johnny En Jones" [digitized; Emory:4618]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>Philip Larkin's "Deception," read by Harold Pinter [digitized; filename
-                4623-4624]</unittitle>
+              <unittitle>Philip Larkin's "Deception," read by Harold
+                Pinter [digitized; Emory:4623-4624]</unittitle>
             </did>
           </c03>
         </c02>

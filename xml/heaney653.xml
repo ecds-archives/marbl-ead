@@ -794,6 +794,13 @@
         </did>
         <c02 level="file">
           <did>
+            <container type="box">-</container>
+            <container type="folder">-</container>
+            <unittitle>Heaney, Seamus, interviewed by Rosemary Magee, August 2008 [digitized; Emory: f790v]</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
             <container type="box">3</container>
             <container type="folder">1</container>
             <unittitle>"<persname source="viaf" authfilenumber="44300643">Joyce</persname>, <persname source="viaf" authfilenumber="46768718">Yeats</persname>
@@ -809,6 +816,7 @@
               2006</unittitle>
           </did>
         </c02>
+        
       </c01>
     </dsc>
   </archdesc>

@@ -45,7 +45,7 @@
 		  <unitdate type="inclusive" encodinganalog="245$f" normal="1970/2010" certainty="circa">circa 1970-2010</unitdate></unittitle>
       <unitid countrycode="US" repositorycode="geu-s" identifier="746">Manuscript Collection No.
 		  746</unitid>
-      <physdesc encodinganalog="300"><extent>29.5 linear ft.</extent><extent> (62
+      <physdesc encodinganalog="300"><extent>34.5 linear ft.</extent><extent> (67
 		  boxes)</extent> and <extent> 27 oversized papers (OP)</extent></physdesc>
       <abstract encodinganalog="520">Personal and literary papers of Irish
 		  poet Ciaran Carson including correspondence, literary
@@ -96,7 +96,7 @@
     </scopecontent>
     <arrangement encodinganalog="351">
       <head>Arrangement Note</head>
-      <p>Organized into nine series: (1) Correspondence, (2) Writings by Carson, (3) Writings by others, (4) Printed material by Carson and others, (5) Belfast Group worksheets, (6) Photographs, (7) Personal materials, (8) Subject files, and (9) Arts Council of Northern Ireland records.</p>
+      <p>Organized into ten series: (1) Correspondence, (2) Writings by Carson, (3) Writings by others, (4) Printed material by Carson and others, (5) Belfast Group worksheets, (6) Photographs, (7) Personal materials, (8) Subject files, (9) Arts Council of Northern Ireland records and (10) Unprocessed additions.</p>
     </arrangement>
     <controlaccess>
       <head>Selected Search Terms</head>
@@ -237,8 +237,7 @@
         <c02 level="file"><did><unittitle>Restricted correspondence</unittitle></did></c02>
         <c02 level="file"><did><container type="box">7</container><container type="folder">1</container><unittitle>Heaney, Seamus, 1973 (1 item)</unittitle></did></c02>
         <c02 level="file"><did><container type="box">7</container><container type="folder">2</container><unittitle>Heaney, Seamus, 1996-1999 (3 items)</unittitle></did></c02>
-        <c02 level="file"><did><container type="box">7</container><container type="folder">3</container><unittitle>Heaney, Seamus, 2010 (2 items)</unittitle></did></c02>
-
+        <c02 level="file"><did><container type="box">7</container><container type="folder">3</container><unittitle>Heaney, Seamus, 2005-2010 (11 items)</unittitle></did></c02>
       </c01>
       <c01 level="series" id="carson746_series2">
         <did>
@@ -315,12 +314,12 @@
           <c03 level="file"><did><container type="box">49</container><container type="folder">2</container><unittitle><title>The Pen Friend</title> notebook No. 2, May - October 2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">49</container><container type="folder">3</container><unittitle><title>On the Night Watch</title> notebooks, 2004-2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">49</container><container type="folder">4</container><unittitle><title>On the Night Watch</title> notebook, June - August 2008</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">49</container><container type="folder">5</container><unittitle><title>The T&#x00e1;in</title> notebook, September 2005</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">49</container><container type="folder">6</container><unittitle><title>The T&#x00e1;in</title> notebook No. 1, November 2005 </unittitle></did></c03>
-          <c03 level="file"><did><container type="box">49</container><container type="folder">7</container><unittitle><title>The T&#x00e1;in</title> notebook No. 2, November - December 2005</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">50</container><container type="folder">1</container><unittitle><title>The T&#x00e1;in</title> notebook No. 3, December 2005 - February 2006</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">50</container><container type="folder">2</container><unittitle><title>The T&#x00e1;in</title> notebook No. 4, February 2006</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">50</container><container type="folder">3</container><unittitle><title>The T&#x00e1;in</title> notebook, December 2005 - September 2006</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">49</container><container type="folder">5</container><unittitle><title>The Táin</title> notebook, September 2005</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">49</container><container type="folder">6</container><unittitle><title>The Táin</title> notebook No. 1, November 2005 </unittitle></did></c03>
+          <c03 level="file"><did><container type="box">49</container><container type="folder">7</container><unittitle><title>The Táin</title> notebook No. 2, November - December 2005</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">50</container><container type="folder">1</container><unittitle><title>The Táin</title> notebook No. 3, December 2005 - February 2006</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">50</container><container type="folder">2</container><unittitle><title>The Táin</title> notebook No. 4, February 2006</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">50</container><container type="folder">3</container><unittitle><title>The Táin</title> notebook, December 2005 - September 2006</unittitle></did></c03>
           <c03 level="file"><did><container type="box">50</container><container type="folder">4</container><unittitle>Drafts of unpublished poems, March 2006</unittitle></did></c03>
           <c03 level="file"><did><container type="box">50</container><container type="folder">5</container><unittitle><title>For All We Know </title>notebook No. 1, May-June 2007</unittitle></did></c03>
           <c03 level="file"><did><container type="box">50</container><container type="folder">6</container><unittitle><title>For All We Know</title> notebook No. 2, August 2007</unittitle></did></c03>
@@ -468,7 +467,7 @@
 <c04 level="file"><did><container type="box">14</container><container type="folder">21</container><unittitle>"Ovid: <title>Metamorphoses</title>, XIII, 439-575," TS with notes by Tess Gallagher [See also Subseries 2.3: <title>After Ovid</title>, "Hecuba" corrected galley proofs] </unittitle></did></c04>
 <c04 level="file"><did><container type="box">14</container><container type="folder">22</container><unittitle>"Ovid: <title>Metamorphoses</title>, XIII, 576-619," [See also Subseries 2.3: <title>After Ovid</title>, "Aurora and Memnon" corrected galley proofs]</unittitle></did></c04>
 <c04 level="file"><did><container type="box">14</container><container type="folder">23</container><unittitle>"Second Language," TS</unittitle></did></c04>
-<c04 level="file"><did><container type="box">14</container><container type="folder">24</container><unittitle>"Second Nature," MS and TS [includes MS in Irish of Se&#x00e1;n &#x00d3; R&#x00ed;ord&#x00e1;in's "Malairt," dated Christmas 1995; verso contains MS copy of Emily Dickinson's Poem 465, "I heard a fly buzz"] </unittitle></did></c04>
+<c04 level="file"><did><container type="box">14</container><container type="folder">24</container><unittitle>"Second Nature," MS and TS [includes MS in Irish of Seán Ó Ríordáin's "Malairt," dated Christmas 1995; verso contains MS copy of Emily Dickinson's Poem 465, "I heard a fly buzz"] </unittitle></did></c04>
 <c04 level="file"><did><container type="box">14</container><container type="folder">25</container><unittitle>"Sonnet," MS and TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">14</container><container type="folder">26</container><unittitle>"Tak, Tak," MS and TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">OP1</container><container type="folder">-</container><unittitle>"Tak, Tak," proof for TLS publication, 31 September 1993.</unittitle></did></c04>
@@ -550,7 +549,7 @@
 <c04 level="file"><did><container type="box">15</container><container type="folder">55</container><unittitle>"The Poppy Battle," TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">15</container><container type="folder">56</container><unittitle>"The Rising of the Moon," TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">15</container><container type="folder">57</container><unittitle>"The Rising Sun," TS</unittitle></did></c04>
-<c04 level="file"><did><container type="box">15</container><container type="folder">58</container><unittitle>"Sak&#x00e9;," TS</unittitle></did></c04>
+<c04 level="file"><did><container type="box">15</container><container type="folder">58</container><unittitle>"Saké," TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">15</container><container type="folder">59</container><unittitle>"Salt of the Earth," TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">15</container><container type="folder">60</container><unittitle>"Sayers, or, Both Saw Wonders," TS [variant title: "Sayers"]</unittitle></did></c04>
 <c04 level="file"><did><container type="box">15</container><container type="folder">61</container><unittitle>"Sod of Death," TS</unittitle></did></c04>
@@ -608,7 +607,7 @@
 <c04 level="file"><did><container type="box">50</container><container type="folder">26</container><unittitle>"Some Uses of a Dead Horse," TS, 22 January 2002</unittitle></did></c04>
 <c04 level="file"><did><container type="box">50</container><container type="folder">27</container><unittitle>"Spin Cycle," TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>"Spin Cycle 2" [see "Spin Cycle"]</unittitle></did></c04>
-<c04 level="file"><did><container type="box">50</container><container type="folder">28</container><unittitle>"Th&#x00e9;odore G&#x00e9;ricault: <title>Farrier's Signboard</title>, 1814," TS</unittitle></did></c04>
+<c04 level="file"><did><container type="box">50</container><container type="folder">28</container><unittitle>"Théodore Géricault: <title>Farrier's Signboard</title>, 1814," TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">50</container><container type="folder">29</container><unittitle>"War," TS </unittitle></did></c04>
 <c04 level="file"><did><container type="box">50</container><container type="folder">30</container><unittitle>"The War Correspondent," TS and notes, 23 June 1999-2 July 1999 (parts 1-7) [incorporated into <title>Breaking News</title> January-February 2002]</unittitle></did></c04>
 <c04 level="file"><did><container type="box">50</container><container type="folder">31</container><unittitle>"Waste Not," TS</unittitle></did></c04>
@@ -626,7 +625,7 @@
 <c04 level="file"><did><container type="box">51</container><container type="folder">8</container><unittitle>"The Assignation," Part One, TS and notes [variant titles: "Wenceslas" and "Under Cover"] [see also "Reboubt," Part One]</unittitle></did></c04>
 <c04 level="file"><did><container type="box">51</container><container type="folder">9</container><unittitle>"The Assignation," Part Two, TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">51</container><container type="folder">10</container><unittitle>"Before," Part One, TS [variant title: "Swap"]</unittitle></did></c04>
-<c04 level="file"><did><container type="box">51</container><container type="folder">11</container><unittitle>"Collaboration," Part One, TS and notes [variant title: "R&#x00e9;sistance"]</unittitle></did></c04>
+<c04 level="file"><did><container type="box">51</container><container type="folder">11</container><unittitle>"Collaboration," Part One, TS and notes [variant title: "Résistance"]</unittitle></did></c04>
 <c04 level="file"><did><container type="box">51</container><container type="folder">12</container><unittitle>"Corrigendum," Part One, TS [variant title: "Hotel Scribe"]</unittitle></did></c04>
 <c04 level="file"><did><container type="box">51</container><container type="folder">13</container><unittitle>"Corrigendum," Part Two, TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">51</container><container type="folder">14</container><unittitle>"Fall," Part Two, TS</unittitle></did></c04>
@@ -693,7 +692,7 @@
 <c04 level="file"><did><container type="box">52</container><container type="folder">23</container><unittitle>"Come In," TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">52</container><container type="folder">24</container><unittitle>"Come What May," TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">52</container><container type="folder">25</container><unittitle>"Euphrasia," TS</unittitle></did></c04>
-<c04 level="file"><did><container type="box">52</container><container type="folder">26</container><unittitle>"The Floor," TS and notes [variant title: "Url&#x00e1;r: a Gloss 2"]</unittitle></did></c04>
+<c04 level="file"><did><container type="box">52</container><container type="folder">26</container><unittitle>"The Floor," TS and notes [variant title: "Urlár: a Gloss 2"]</unittitle></did></c04>
 <c04 level="file"><did><container type="box">52</container><container type="folder">27</container><unittitle>"From in Behind," TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">52</container><container type="folder">28</container><unittitle>"From the Larynx," TS</unittitle></did></c04>
 <c04 level="file"><did><container type="box">52</container><container type="folder">29</container><unittitle>"From His Pedestal," TS</unittitle></did></c04>
@@ -762,7 +761,7 @@
             </did>
             <c04 level="file"><did><container type="box">16</container><container type="folder">19</container><unittitle>"An Accident at the Mill," TS [originally found with series 5, Belfast Group worksheets, 1971-1972]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">16</container><container type="folder">20</container><unittitle>"According to Luke," TS [included with <title>The Twelfth of Never</title> materials]</unittitle></did></c04>
-            <c04 level="file"><did><container type="box">16</container><container type="folder">21</container><unittitle>"After Mallarm&#x00e9;," [originally found with series 5, Belfast Group worksheets, 1971-1972]</unittitle></did></c04>
+            <c04 level="file"><did><container type="box">16</container><container type="folder">21</container><unittitle>"After Mallarmé," [originally found with series 5, Belfast Group worksheets, 1971-1972]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">54</container><container type="folder">4</container><unittitle>"Alexandria," TS and notes</unittitle></did></c04>
             <c04 level="file"><did><container type="box">16</container><container type="folder">22</container><unittitle>"Alphabet City," MS</unittitle></did></c04>
             <c04 level="file"><did><container type="box">54</container><container type="folder">5</container><unittitle>"Athlone Through Hilversum," TS, 20 February 2001 [originally filed by Carson with materials from <title>Breaking News</title>]</unittitle></did></c04>
@@ -774,7 +773,7 @@
             <c04 level="file"><did><container type="box">17</container><container type="folder">4</container><unittitle>"At the Zoo," TS [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">54</container><container type="folder">6</container><unittitle>"Au Contraire," TS [originally filed by Carson with materials from <title>For All We Know</title>]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">17</container><container type="folder">5</container><unittitle>"Babel," TS</unittitle></did></c04>
-            <c04 level="file"><did><container type="box">54</container><container type="folder">7</container><unittitle>"The Battle of K&#x00f6;niggr&#x00e4;tz," TS, 21 December 2001 [originally filed by Carson with materials from <title>Breaking News</title>]</unittitle></did></c04>
+            <c04 level="file"><did><container type="box">54</container><container type="folder">7</container><unittitle>"The Battle of Königgrätz," TS, 21 December 2001 [originally filed by Carson with materials from <title>Breaking News</title>]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">17</container><container type="folder">6</container><unittitle>"Beauty," MS and TS [originally filed by Carson in <title>Belfast Confetti</title> notebook No.1]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">17</container><container type="folder">7</container><unittitle>"The Belfast Hospital for Sick Children," TS [circa 2000-2002]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">54</container><container type="folder">8</container><unittitle>"A Bible Dictionary," TS [originally filed by Carson with materials from <title>For All We Know</title>]</unittitle></did></c04>
@@ -801,8 +800,8 @@
             <c04 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>"Directions" [See Subseries 2.2: Uncollected Poems, "Candy Apples"]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">54</container><container type="folder">12</container><unittitle>"The Drill-Bit Broke," TS [originally filed by Carson with materials from <title>On the Night Watch</title>]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">17</container><container type="folder">24</container><unittitle>"The Eclectic Bar," TS</unittitle></did></c04>
-            <c04 level="file"><did><container type="box">17</container><container type="folder">25</container><unittitle>"The &#x00c9;migr&#x00e9;," TS</unittitle></did></c04>
-            <c04 level="file"><did><container type="box">54</container><container type="folder">13</container><unittitle>"Fathers" and "Bas&#x00e1;in Mhara," TS and notes</unittitle></did></c04>
+            <c04 level="file"><did><container type="box">17</container><container type="folder">25</container><unittitle>"The Émigré," TS</unittitle></did></c04>
+            <c04 level="file"><did><container type="box">54</container><container type="folder">13</container><unittitle>"Fathers" and "Basáin Mhara," TS and notes</unittitle></did></c04>
             <c04 level="file"><did><container type="box">17</container><container type="folder">26</container><unittitle>"Firing Range," TS</unittitle></did></c04>
             <c04 level="file"><did><container type="box">17</container><container type="folder">27</container><unittitle>"First Times," TS [See also Subseries 2.2: <title>The Lost Explorer</title>, "Great-Grandmother"]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">54</container><container type="folder">14</container><unittitle>"Fishing for Eels," MS and TS, February 2007</unittitle></did></c04>
@@ -915,7 +914,7 @@
             <c04 level="file"><did><container type="box">54</container><container type="folder">34</container><unittitle>"Trust," TS [originally filed by Carson with materials from <title>Breaking News</title>]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">18</container><container type="folder">18</container><unittitle>"Tunney," MS</unittitle></did></c04>
             <c04 level="file"><did><container type="box">18</container><container type="folder">19</container><unittitle>"Upset bee buzzes," MS [haiku]</unittitle></did></c04>
-            <c04 level="file"><did><container type="box">54</container><container type="folder">35</container><unittitle>"Url&#x00e1;r: a Gloss" [originally filed by Carson with materials from <title>On the Night Watch</title>]</unittitle></did></c04>
+            <c04 level="file"><did><container type="box">54</container><container type="folder">35</container><unittitle>"Urlár: a Gloss" [originally filed by Carson with materials from <title>On the Night Watch</title>]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">18</container><container type="folder">20</container><unittitle>"The vanity case you lost," MS [originally filed by Carson with materials from <title>The New Estate</title>]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">54</container><container type="folder">36</container><unittitle>"Vespers," TS [originally filed by Carson with materials from <title>On the Night Watch</title>]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">18</container><container type="folder">21</container><unittitle>"A Visit to the Slate Mines," TS [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c04>
@@ -936,7 +935,7 @@
             <c04 level="file"><did><container type="box">18</container><container type="folder">34</container><unittitle>"Wrong Side of the Fence," TS [See also Subseries 2.2: <title>The Irish for No</title>, TS, annotated by Tess Gallagher]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">18</container><container type="folder">35</container><unittitle>"Your mouth, half-opened, breathed" TS [originally filed by Carson with materials from <title>The New Estate</title>]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">54</container><container type="folder">37</container><unittitle>Uncollected sequence of poems, MS, TS, and notes [contains "Raglan Street," "Berlin Street," "Crimea Street," "Miss Moran Tobacconist," "The Millfield Foundry Belfast," "One Exchange Place," and "Tru-Fit Exhausts] [originally filed by Carson with materials from "The War Correspondent" in <title>Breaking News</title>]</unittitle></did></c04>
-            <c04 level="file"><did><container type="box">54</container><container type="folder">38</container><unittitle>Uncollected sequence of poems, TS, July 1999 [contains "St. Gall's Public Elementary School," "The Belfast Hospital for Sick Children," "Mandelstam Street," "Addition Place," "Inkerman Street," "Raglan Street," "Concert at the Great Northern Railway Station," "Church of the Most Holy Redeemer," "Berlin Street," "Ambrose Serridge Bookseller," "The Dolphin Caf&#x00e9;," "Crimea Street," "Sevastopol Street," and "Jerusalem Street"]</unittitle></did></c04>
+            <c04 level="file"><did><container type="box">54</container><container type="folder">38</container><unittitle>Uncollected sequence of poems, TS, July 1999 [contains "St. Gall's Public Elementary School," "The Belfast Hospital for Sick Children," "Mandelstam Street," "Addition Place," "Inkerman Street," "Raglan Street," "Concert at the Great Northern Railway Station," "Church of the Most Holy Redeemer," "Berlin Street," "Ambrose Serridge Bookseller," "The Dolphin Café," "Crimea Street," "Sevastopol Street," and "Jerusalem Street"]</unittitle></did></c04>
             <c04 level="file"><did><container type="box">18</container><container type="folder">36</container><unittitle>Unidentified manuscript fragments</unittitle></did></c04>
             <c04 level="file"><did><container type="box">54</container><container type="folder">39</container><unittitle>Unidentified notes</unittitle></did></c04>
             <c04 level="file"><did><container type="box">18</container><container type="folder">37</container><unittitle>Unidentified typescript fragments</unittitle></did></c04>
@@ -999,7 +998,7 @@
           <c03 level="file"><did><container type="box">18</container><container type="folder">73</container><unittitle>"Miss Malinger," TS [variant title: "Miss Cutie Pie"]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">18</container><container type="folder">74</container><unittitle>"O Happy Death," TS [variant title: "Dead Happy"]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">18</container><container type="folder">75</container><unittitle>"On the Road," TS</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">18</container><container type="folder">76</container><unittitle>"Poster Advertising the Amazing Victory at Sarrebr&#x00fc;k," TS</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">18</container><container type="folder">76</container><unittitle>"Poster Advertising the Amazing Victory at Sarrebrük," TS</unittitle></did></c03>
           <c03 level="file"><did><container type="box">18</container><container type="folder">77</container><unittitle>"Rainy Liaisons," TS </unittitle></did></c03>
           <c03 level="file"><did><container type="box">18</container><container type="folder">78</container><unittitle>"Recalling the Belgian Friends," TS [variant title: "Remembering Belgian Friends"]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">18</container><container type="folder">79</container><unittitle>"The Riddle of the Pyx," TS [variant title: "Madame l'Angoisse, offing on high her onyx"]</unittitle></did></c03>
@@ -1064,27 +1063,27 @@
           <c03 level="file"><did><container type="box">55</container><container type="folder">2</container><unittitle><title>The Midnight Court</title>, TS, "Final," 3 January 2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">55</container><container type="folder">3</container><unittitle><title>The Midnight Court</title>, proofs, 4 March 2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">55</container><container type="folder">4</container><unittitle><title>The Midnight Court</title>, proofs, 23 March 2005</unittitle></did></c03>
-          <c03 level="file"><did><unittitle><title>The T&#x00e1;in</title> (2008)</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">55</container><container type="folder">5</container><unittitle><title>The T&#x00e1;in</title>, TS, "First/Second Draft," 25 November 2005</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">55</container><container type="folder">6</container><unittitle><title>The T&#x00e1;in</title>, TS, 5 December 2005</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">55</container><container type="folder">7</container><unittitle><title>The T&#x00e1;in</title>, TS, 7 December 2005-15 January 2006</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">55</container><container type="folder">8</container><unittitle><title>The T&#x00e1;in</title>, TS, 16 January-1 April 2006</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">55</container><container type="folder">9</container><unittitle>The T&#x00e1;in, TS, "1st fair copy," 2 April 2006 [1 of 2]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">55</container><container type="folder">10</container><unittitle><title>The T&#x00e1;in</title>, TS, "1st fair copy," 2 April 2006 [2 of 2]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">55</container><container type="folder">11</container><unittitle><title>The T&#x00e1;in</title>, TS, "2nd fair copy," 6 June 2006 [1 of 2]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">56</container><container type="folder">1</container><unittitle><title>The T&#x00e1;in</title>, TS, "2nd fair copy," 6 June 2006 [1 of 2]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">56</container><container type="folder">2</container><unittitle><title>The T&#x00e1;in</title>, "Final Version (more or less"), 17 August 2006 [1 of 2]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">56</container><container type="folder">3</container><unittitle><title>The T&#x00e1;in</title>, "Final Version (more or less"), 17 August 2006 [2 of 2]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">56</container><container type="folder">4</container><unittitle><title>The T&#x00e1;in</title>, proofs with corrections, 4 July 2007</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">56</container><container type="folder">5</container><unittitle><title>The T&#x00e1;in</title>, proofs, fair copy, 4 July 2007 [1 of 2]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">56</container><container type="folder">6</container><unittitle><title>The T&#x00e1;in</title>, proofs, fair copy, 4 July 2007 [2 of 2]</unittitle></did></c03>
+          <c03 level="file"><did><unittitle><title>The Táin</title> (2008)</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">55</container><container type="folder">5</container><unittitle><title>The Táin</title>, TS, "First/Second Draft," 25 November 2005</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">55</container><container type="folder">6</container><unittitle><title>The Táin</title>, TS, 5 December 2005</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">55</container><container type="folder">7</container><unittitle><title>The Táin</title>, TS, 7 December 2005-15 January 2006</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">55</container><container type="folder">8</container><unittitle><title>The Táin</title>, TS, 16 January-1 April 2006</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">55</container><container type="folder">9</container><unittitle>The Táin, TS, "1st fair copy," 2 April 2006 [1 of 2]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">55</container><container type="folder">10</container><unittitle><title>The Táin</title>, TS, "1st fair copy," 2 April 2006 [2 of 2]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">55</container><container type="folder">11</container><unittitle><title>The Táin</title>, TS, "2nd fair copy," 6 June 2006 [1 of 2]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">56</container><container type="folder">1</container><unittitle><title>The Táin</title>, TS, "2nd fair copy," 6 June 2006 [1 of 2]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">56</container><container type="folder">2</container><unittitle><title>The Táin</title>, "Final Version (more or less"), 17 August 2006 [1 of 2]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">56</container><container type="folder">3</container><unittitle><title>The Táin</title>, "Final Version (more or less"), 17 August 2006 [2 of 2]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">56</container><container type="folder">4</container><unittitle><title>The Táin</title>, proofs with corrections, 4 July 2007</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">56</container><container type="folder">5</container><unittitle><title>The Táin</title>, proofs, fair copy, 4 July 2007 [1 of 2]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">56</container><container type="folder">6</container><unittitle><title>The Táin</title>, proofs, fair copy, 4 July 2007 [2 of 2]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">56</container><container type="folder">7</container><unittitle>Introduction and blurb on Carson, TS, circa September 2006</unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">1</container><unittitle>Blurb by W. S. Merwin, 26 November 2007</unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">2</container><unittitle>"Poems," TS, circa November 2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">3</container><unittitle>Research material, "Bull Stuff," circa 2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">4</container><unittitle>Editorial guidelines for Penguin Books with correspondence, November 2005 - May 2006 </unittitle></did></c03>
-          <c03 level="file"><did><container type="box">57</container><container type="folder">5</container><unittitle><title>The T&#x00e1;in</title>, cover art, 2008</unittitle></did></c03>
-          <c03 level="file"><did><unittitle>Translations of Gear&#x00f3;id Mac Lochlainn</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">57</container><container type="folder">5</container><unittitle><title>The Táin</title>, cover art, 2008</unittitle></did></c03>
+          <c03 level="file"><did><unittitle>Translations of Gearóid Mac Lochlainn</unittitle></did></c03>
           <c03 level="file"><did><container type="box">20</container><container type="folder">10</container><unittitle>"At the Table," "The Flow," "The Irish-Speaking Mynah," "Rambling "The Storytellers," "Troubles," TS translations from the Irish of Mac Lochlainn; includes photocopy originals and TLS from CC to GM, 4 February 2000</unittitle></did></c03>
           <c03 level="file"><did><unittitle>Translations of Peter Hackay and Christopher Whyte for <title>The Yellow Nib</title></unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">6</container><unittitle>"Choosing Land"</unittitle></did></c03>
@@ -1096,23 +1095,23 @@
           <c03 level="file"><did><container type="box">57</container><container type="folder">12</container><unittitle>"The Tin"</unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">13</container><unittitle><title>The Yellow Nib</title>, cover art, 2006</unittitle></did></c03>
           <c03 level="file"><did><unittitle>Miscellaneous Translations</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">20</container><container type="folder">11</container><unittitle>"The Blind man in the Studio," TS translation of Se&#x00e1;n &#x00d3; R&#x00ed;ord&#x00e1;in [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">20</container><container type="folder">12</container><unittitle>"Claustrophobia," MS translation of Se&#x00e1;n &#x00d3; R&#x00ed;ord&#x00e1;in [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">20</container><container type="folder">13</container><unittitle>"Fever," TS translation of Se&#x00e1;n &#x00d3; R&#x00ed;ord&#x00e1;in [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">20</container><container type="folder">14</container><unittitle>"Freedom," TS translation of Se&#x00e1;n &#x00d3; R&#x00ed;ord&#x00e1;in [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">20</container><container type="folder">11</container><unittitle>"The Blind man in the Studio," TS translation of Seán Ó Ríordáin [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">20</container><container type="folder">12</container><unittitle>"Claustrophobia," MS translation of Seán Ó Ríordáin [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">20</container><container type="folder">13</container><unittitle>"Fever," TS translation of Seán Ó Ríordáin [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">20</container><container type="folder">14</container><unittitle>"Freedom," TS translation of Seán Ó Ríordáin [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">20</container><container type="folder">15</container><unittitle>"The Head" and "The Smell of Blood", MS and TS translations of Nuala Ni Dhomhnaill with ALS from Ni Dhomhnaill, 8 June 1989</unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">14</container><unittitle>"If I were fire, I'd burn up the world," "Only three things interest me at all," "When Picciolini got back here from France," TS translations of Cecco Angiolieri"</unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">15</container><unittitle>"The Lament of Nuala O'Neill for Donegal in the Reign of James I, King of Britain," translation for Pat Craig, 9 July 2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">20</container><container type="folder">16</container><unittitle>"Let it Be", TS translation of Nuala Ni Dhomhnaill [1994]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">20</container><container type="folder">17</container><unittitle>"Light," MS translation of Se&#x00e1;n &#x00d3; R&#x00ed;ord&#x00e1;in [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">20</container><container type="folder">18</container><unittitle>"My Mother's Burial," MS translation of Se&#x00e1;n &#x00d3; R&#x00ed;ord&#x00e1;in [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">20</container><container type="folder">17</container><unittitle>"Light," MS translation of Seán Ó Ríordáin [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">20</container><container type="folder">18</container><unittitle>"My Mother's Burial," MS translation of Seán Ó Ríordáin [originally filed by Carson with materials from <title>The Lost Explorer</title>]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">16</container><unittitle>"The Prologue to <title>The Canterbury Tales</title>," TS, 26 January 2003</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>"The Question," TS translation of Se&#x00e1;n &#x00d3; R&#x00ed;ord&#x00e1;in [See Subseries 2.3: Miscellaneous translations, "The Blind man in the Studio"]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>"The Question," TS translation of Seán Ó Ríordáin [See Subseries 2.3: Miscellaneous translations, "The Blind man in the Studio"]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">17</container><unittitle>"Scribe," from the Early Irish, ascribed to Colm Cille, TS, July 2004</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">57</container><container type="folder">18</container><unittitle>"Swap," TS translation of Se&#x00e1;n &#x00d3; R&#x00ed;ord&#x00e1;in</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">20</container><container type="folder">19</container><unittitle>"The Swing," TS, translation of Liam O. Muirthile's "An Luasc&#x00e1;n" [published in Poetry 167:1-2 (1995)]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">57</container><container type="folder">18</container><unittitle>"Swap," TS translation of Seán Ó Ríordáin</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">20</container><container type="folder">19</container><unittitle>"The Swing," TS, translation of Liam O. Muirthile's "An Luascán" [published in Poetry 167:1-2 (1995)]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">20</container><container type="folder">20</container><unittitle>"Verses to the Song," TS for recording by Padraigiu Ni Uallachain; with two related letters</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">20</container><container type="folder">21</container><unittitle>Assorted translations: MS notes on Bar&#x00e1;ntas, Scotish Arts Council, program, 1995 [Scots Gaelic to English]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">20</container><container type="folder">21</container><unittitle>Assorted translations: MS notes on Barántas, Scotish Arts Council, program, 1995 [Scots Gaelic to English]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">57</container><container type="folder">19</container><unittitle>Irish versions of poems in <title>Breaking News</title></unittitle></did></c03>
 
         </c02>
@@ -1164,7 +1163,7 @@
           <c03 level="file"><did><container type="box">21</container><container type="folder">14</container><unittitle><title>Last Night's Fun</title>, book jacket</unittitle></did></c03>
           <c03 level="file"><did><unittitle><title>The Star Factory</title> (1997)</unittitle></did></c03>
           <c03 level="file"><did><container type="box">22</container><container type="folder">1</container><unittitle><title>The Star Factory</title>, miscellaneous typescript pages, research materials, notes</unittitle></did></c03>
-          <c03 level="file"><did><container type="box"></container><container></container><unittitle><title>The Star Factory</title> manuscript notes [See Series 6: Photograph of Tess Gallagher with Carson's daughter, MS on the envelop]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box"/><container/><unittitle><title>The Star Factory</title> manuscript notes [See Series 6: Photograph of Tess Gallagher with Carson's daughter, MS on the envelop]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">22</container><container type="folder">2</container><unittitle><title>The Star Factory</title>, corrected typescript, pp. 1-111</unittitle></did></c03>
           <c03 level="file"><did><container type="box">22</container><container type="folder">3</container><unittitle><title>The Star Factory</title>, corrected typescript, pp. 112-226</unittitle></did></c03>
           <c03 level="file"><did><container type="box">22</container><container type="folder">4</container><unittitle><title>The Star Factory</title>, corrected typescript, pp. 227-328</unittitle></did></c03>
@@ -1274,7 +1273,7 @@
           <c03 level="file"><did><container type="box">59</container><container type="folder">6</container><unittitle>"Belfast: Betwixt, Between, Behind the Name," TS of Chapter Two in <title>Betwixt and Between: Place and Cultural Translation</title>, ed. by Stephen Kelly and David Johnston, 2007</unittitle></did></c03>
           <c03 level="file"><did><container type="box">27</container><container type="folder">6</container><unittitle>"Belfast Notes," TS of article, for TLS, 18 March 1988 [See also Subseries 4.1: "Belfast Notes," for TLS, 18 March 1988]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">27</container><container type="folder">7</container><unittitle>"Belfast Notes," TS of article, for TLS 24-30 June 1988 [See also Subseries 4.1: "Belfast Notes," 24-30 June 1988]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">OP5</container><container></container><unittitle>"Belfast Notes," proof of article for TLS, 24-30 June 1988 [See also Subseries 4.1: "Belfast Notes," in TLS, 24-30 June 1988]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">OP5</container><container/><unittitle>"Belfast Notes," proof of article for TLS, 24-30 June 1988 [See also Subseries 4.1: "Belfast Notes," in TLS, 24-30 June 1988]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>"Blurb for a Stor's a Stoirin," TS introduction for Padraigin Ni Uallachain, <title>A Stor's A Stoirin</title> [See Subseries 3.1: Ni Uallachain's <title>A Stor's A Stoirin</title>]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">59</container><container type="folder">7</container><unittitle>"Brian Ballard Catalogue," TS, 9 March 2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">27</container><container type="folder">8</container><unittitle>"Calling It to Mind, Getting It by Heart," TS liner notes for CD of Liam O'Flynn and Seamus Heaney performing together; includes MS notes and TLS from CC [circa 2000-2001]</unittitle></did></c03>
@@ -1311,7 +1310,7 @@
           <c03 level="file"><did><container type="box">27</container><container type="folder">29</container><unittitle>"Piece for Harry Bradley," TS</unittitle></did></c03>
           <c03 level="file"><did><container type="box">27</container><container type="folder">30</container><unittitle>"Piece for the Poetry Book Society," TS</unittitle></did></c03>
           <c03 level="file"><did><container type="box">27</container><container type="folder">31</container><unittitle>"Piece for the Poetry Book Society," TS with ALS from Carson to Clare Brown</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">27</container><container type="folder">32</container><unittitle>"Recent Irish Architecture," TS [July 2000], with ALS from CC and photocopy of Colm T&#x00f3;ib&#x00ed;n's essay "New Irish Architecture"</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">27</container><container type="folder">32</container><unittitle>"Recent Irish Architecture," TS [July 2000], with ALS from CC and photocopy of Colm Tóibín's essay "New Irish Architecture"</unittitle></did></c03>
           <c03 level="file"><did><container type="box">59</container><container type="folder">17</container><unittitle>"The Red Hand of Ulster," TS, research material, and proofs, for <title>The Dublin Review</title>, February 2002</unittitle></did></c03>
           <c03 level="file"><did><container type="box">27</container><container type="folder">33</container><unittitle>"Somebody Up There Listening," TS for <title>Belfast Review</title> [See also Subseries 4.1: "Somebody Up There Listening"]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">27</container><container type="folder">34</container><unittitle>"This Great Estrangement," galley proofs of review of Medbh McGuckian's <title>Shelmalier</title>, spring 1999</unittitle></did></c03>
@@ -1338,7 +1337,7 @@
           <c03 level="file"><did><container type="box">28</container><container type="folder">5</container><unittitle>"Many Mansions," TS review of Jorie Graham's <title>Swarm and Kit Wright's Hoping It Might Be So</title>, with ALS from CC, 15 January 2001, includes proof of review with variant title: "A Lot of Buzzing Around the Bush; and also a Poet to Enjoy" [See also Subseries 4.1: <title>Poetry London</title>, spring 2000]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">28</container><container type="folder">6</container><unittitle>"Mirror Writing," TS review of Richard Murphy's <title>The Kick</title></unittitle></did></c03>
           <c03 level="file"><did><container type="box">59</container><container type="folder">24</container><unittitle>"Realms of Gold," TS review of <title>Venice: A Collection of the Poetry of Place</title>, ed. by Hetty Meryric Hughes, circa 2006</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">28</container><container type="folder">7</container><unittitle>Untitled, TS review of <title>An Duanaire</title> by Se&#x00e1;n O'Tuama and Thomas Kinsella</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">28</container><container type="folder">7</container><unittitle>Untitled, TS review of <title>An Duanaire</title> by Seán O'Tuama and Thomas Kinsella</unittitle></did></c03>
           <c03 level="file"><did><container type="box">28</container><container type="folder">8</container><unittitle>Untitled, TS review of <title>Katerina Brae</title> by Christopher Reid</unittitle></did></c03>
           <c03 level="file"><did><container type="box">59</container><container type="folder">25</container><unittitle>Untitled, TS review of <title>Mary Mary's Last Dance</title>, September 2002</unittitle></did></c03>
           <c03 level="file"><did><container type="box">28</container><container type="folder">9</container><unittitle>Untitled, MS and TS review of <title>Narrative Singing in Ireland</title> by Hugh Shields</unittitle></did></c03>
@@ -1347,8 +1346,7 @@
           <c03 level="file"><did><container type="box">28</container><container type="folder">12</container><unittitle>Untitled, TS review of <title>Sam Henry's Songs of the People</title> ed. by Gale Huntington</unittitle></did></c03>
           <c03 level="file"><did><container type="box">28</container><container type="folder">13</container><unittitle>Untitled, TS review of <title>Sweeney Astray</title> by Seamus Heaney</unittitle></did></c03>
           <c03 level="file"><did><container type="box">59</container><container type="folder">26</container><unittitle>Untitled, TS review of <title>The Truth Commissioner</title> by David Park, circa March 2008</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">59</container><container type="folder">27</container><unittitle>Untitled, TS review of <title>An tAthair P&#x00e1;draug &#x00d3; Duinnin -- Bleachtaire</title> and <title>Oiche Bhealtaine</title> by Biddy Jenkinson, circa 2008</unittitle></did></c03>
-
+          <c03 level="file"><did><container type="box">59</container><container type="folder">27</container><unittitle>Untitled, TS review of <title>An tAthair Pádraug Ó Duinnin -- Bleachtaire</title> and <title>Oiche Bhealtaine</title> by Biddy Jenkinson, circa 2008</unittitle></did></c03>
         </c02>
         <c02 level="subseries" id="carson746_subseries2.5">
           <did>
@@ -1368,8 +1366,8 @@
           <c03 level="file"><did><container type="box">28</container><container type="folder">15</container><unittitle>"Chief O'Neill's Favourites," TS BBC radio script</unittitle></did></c03>
           <c03 level="file"><did><container type="box">28</container><container type="folder">16</container><unittitle>"Cuchullain in the Land of Shadows," TS February 1986</unittitle></did></c03>
           <c03 level="file"><did><container type="box">28</container><container type="folder">17</container><unittitle>"The Destruction of Dun Rig," TS June 1985</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">59</container><container type="folder">28</container><unittitle>"Following the Stream," TS for BBC film <title>T&#x00ed; Chulainn</title>, 11 September 1998</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">59</container><container type="folder">29</container><unittitle>"Imram T&#x00e1;in," TS [in Irish and English]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">59</container><container type="folder">28</container><unittitle>"Following the Stream," TS for BBC film <title>Tí Chulainn</title>, 11 September 1998</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">59</container><container type="folder">29</container><unittitle>"Imram Táin," TS [in Irish and English]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">59</container><container type="folder">30</container><unittitle>"Radio On, Radio Off," piece for Radio Ulster, 11 July 2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">28</container><container type="folder">18</container><unittitle>"Today and Yesterday in Northern Ireland: The Gift of Ink / Michael J. Murphy" TS Spring 1988</unittitle></did></c03>
           <c03 level="file"><did><container type="box">28</container><container type="folder">19</container><unittitle>"Today and Yesterday in Northern Ireland: Trams," TS Autumn 1988</unittitle></did></c03>
@@ -1439,7 +1437,7 @@
             <p>Arranged in alphabetical order.</p>
           </arrangement>
           <c03 level="file"><did><container type="box">29</container><container type="folder">1</container><unittitle>Boland, Eavan: TS for <title>The Back Door</title> include: "The Gorgon Child," "In His own Image," "In Her Own Image," "Woman in Kitchen," "The Muse Mother," "Monotony,"with TLS from Boland, 22 July 1977</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">29</container><container type="folder">2</container><unittitle>Comiskey, John: TS of <title>The Well</title>, a stage production of traditional music and published poetry by various writers including: Ciaran Carson ["C&#x00e9;il&#x00ed;"], George Mackay Brown, Norman MacCaig, Nuala N&#x00ed; Dhomhnaill, Michael Hartnett, Thomas Kinsella, Richard Murphy, Se&#x00e1;n Dunne, Paul Durcan, Carol Ann Duffy, among others; arranged for the Dublin Theatre Festival 2000 [See also Subseries 2.4: "The Well"]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">29</container><container type="folder">2</container><unittitle>Comiskey, John: TS of <title>The Well</title>, a stage production of traditional music and published poetry by various writers including: Ciaran Carson ["Céilí"], George Mackay Brown, Norman MacCaig, Nuala Ní Dhomhnaill, Michael Hartnett, Thomas Kinsella, Richard Murphy, Seán Dunne, Paul Durcan, Carol Ann Duffy, among others; arranged for the Dublin Theatre Festival 2000 [See also Subseries 2.4: "The Well"]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">60</container><container type="folder">1</container><unittitle>Dale, Peter Nicholas: TS, Translations of Giuseppe Gioachimo Belli's sonnets, with correspondence between Carson and Dale, 6 April 2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">29</container><container type="folder">3</container><unittitle>Dorgan, Theo: TS, "General de Gaulle's Alexandrine Rag-Time," [circa 1998]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">29</container><container type="folder">4</container><unittitle>Foley, Michael: TS for <title>The Back Door</title> include: "The Ghost of James Joyce," "The Wife's Complaint," "The Husband's Message," "Pierrot's Melancholy" [after Laforgue], "Sundays," "Young Couple" [after Rimbaud], "To Mount Etna" [after Corbie?e], with ALS from Foley, 9 September 1977</unittitle></did></c03>
@@ -1476,8 +1474,8 @@
           <c03 level="file"><did><container type="box">30</container><container type="folder">1</container><unittitle>Ni Uallachain, Padraigin: TS, <title>A Stor's A Stoirin</title> [part 1], with introduction by Carson [1994]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">30</container><container type="folder">2</container><unittitle>Ni Uallachain, Padraigin: TS <title>A Stor's A Stoirin</title> [part 2], [1994]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">60</container><container type="folder">7</container><unittitle>O'Kelly, Patrick: TS, "The Litany for Doneraile," no date</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">30</container><container type="folder">3</container><unittitle>O'Muirthile, Liam: TS "D&#x00e1;n I gCuimhne Ar Mhe&#x00e1;ig Howley," "An Luasc&#x00e1;n," "Domhnach C&#x00e1;sca," [31 May 1995]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">30</container><container type="folder">4</container><unittitle>O'Muirthile, Liam: TS "Galar an ghr&#x00e1;," [July 1999]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">30</container><container type="folder">3</container><unittitle>O'Muirthile, Liam: TS "Dán I gCuimhne Ar Mheáig Howley," "An Luascán," "Domhnach Cásca," [31 May 1995]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">30</container><container type="folder">4</container><unittitle>O'Muirthile, Liam: TS "Galar an ghrá," [July 1999]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">30</container><container type="folder">5</container><unittitle>Paulin, Tom: TS for <title>The Back Door</title> include: "Trotsky in Finland," "The Eye's Parish," "Anastasia McLaughlin," "At Lockjaw Hall," "Still Century," "Going in the Rain," with ALS from Paulin, 6 September 1977</unittitle></did></c03>
           <c03 level="file"><did><container type="box">30</container><container type="folder">6</container><unittitle>Peskett, William: TS for <title>The Back Door</title> include: "New Year in an Empty Church," "Copy," "Camping on Dunwhich Cliff," with TLS from Peskett, 25 July 1977</unittitle></did></c03>
           <c03 level="file"><did><container type="box">60</container><container type="folder">8</container><unittitle>Radicchi, Alessandra: TS, translations of Edoardo Zuccato's poems, with correspondence from Zuccato, 13 January 1997</unittitle></did></c03>
@@ -1535,8 +1533,7 @@
           <c03 level="file"><did><container type="box">30</container><container type="folder">24</container><unittitle>Morrow, John: TS of story, "Travels with the Sound Man"</unittitle></did></c03>
           <c03 level="file"><did><container type="box">30</container><container type="folder">25</container><unittitle>Muldoon, Paul: TS of libretto, <title>Six Honest Serving Men</title></unittitle></did></c03>
           <c03 level="file"><did><unittitle>Translations of Carson</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">60</container><container type="folder">20</container><unittitle>Th&#x00e9; au Tr&#x00e8;ste, TS of translation of Carson's <title>Shamrock Tea</title>, no date</unittitle></did></c03>
-
+          <c03 level="file"><did><container type="box">60</container><container type="folder">20</container><unittitle>Thé au Trèste, TS of translation of Carson's <title>Shamrock Tea</title>, no date</unittitle></did></c03>
         </c02>
         <c02 level="subseries" id="carson746_subseries3.3">
           <did>
@@ -1587,7 +1584,7 @@
             <head>Arrangement Note</head>
             <p>Arranged in alphabetical order.</p>
           </arrangement>
-          <c03 level="file"><did><container type="box">31</container><container type="folder">16</container><unittitle>Brennan-Corcoran, Helen: "Dancing on a Plate: the Sean-N&#x00f3;s Dance Tradition of Conamara," TS dissertation [1994]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">31</container><container type="folder">16</container><unittitle>Brennan-Corcoran, Helen: "Dancing on a Plate: the Sean-Nós Dance Tradition of Conamara," TS dissertation [1994]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">31</container><container type="folder">17</container><unittitle>Donleavy, (?): TS copy of scores and commentary on traditional Irish music scores</unittitle></did></c03>
           <c03 level="file"><did><container type="box">31</container><container type="folder">18</container><unittitle>Foy, Barry: <title>The Field Guide to the Irish Music Session</title>, TS with TSL from Foy, 14 February 1998</unittitle></did></c03>
           <c03 level="file"><did><container type="box">31</container><container type="folder">19</container><unittitle>Gallagher, Tess: "Preface" [incomplete] of <title>Soul Barnacles</title>, TS</unittitle></did></c03>
@@ -1640,7 +1637,7 @@
           <c03 level="file"><did><container type="box">OP6</container><container type="folder">-</container><unittitle>"Aranmore Ireland 3. "American Wake" in <title>The Irish Press</title>, undated</unittitle></did></c03>
           <c03 level="file"><did><container type="box">32</container><container type="folder">4</container><unittitle>"Artwork Old as the Hills," [essay] in <title>Belfast Review</title>, March-May 1985</unittitle></did></c03>
           <c03 level="file"><did><container type="box">32</container><container type="folder">5</container><unittitle>"Athlone through Hilversum," fragment of poem used as promotional material</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">61</container><container type="folder">2</container><unittitle>"Az Elfeledett V&#x00e1;ros," [poem] in Magyar Napl&#x00f3;, January 2005</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">61</container><container type="folder">2</container><unittitle>"Az Elfeledett Város," [poem] in Magyar Napló, January 2005</unittitle></did></c03>
           <c03 level="file"><did><container type="box">61</container><container type="folder">3</container><unittitle>"Basin and Range," [review of Peter Redgrove and Penelope Shuttle] in Poetry London, summer 2000</unittitle></did></c03>
           <c03 level="file"><did><container type="box">61</container><container type="folder">4</container><unittitle>"Bats, Balls, and Boozers," [review of Tony Collins and Wray Vamplew] in <title>The Guardian</title>, 20 July 2002</unittitle></did></c03>
           <c03 level="file"><did><container type="box">32</container><container type="folder">6</container><unittitle>"Bedtime Story," corrected proof with TLS from Alice Quinn and copy of <title>The New Yorker</title>, 6 November 1989 [See also Subseries 4.1: "Ambition"]</unittitle></did></c03>
@@ -1707,7 +1704,7 @@
           <c03 level="file"><did><container type="box">34</container><container type="folder">6</container><unittitle>"What I Did on Mes Vacances," [essay] in <title>Belfast Review</title>, September-November 1985</unittitle></did></c03>
           <c03 level="file"><did><container type="box">OP6</container><container type="folder">-</container><unittitle>"Wheel" [poem] in <title>The Irish Press</title>, undated</unittitle></did></c03>
           <c03 level="file"><did><container type="box">OP12</container><container type="folder">-</container><unittitle>"When Memory Goes Blank," [essay] in <title>Newsday</title>, 7 October 2001 [variant title: "Living in Troubled Times;" See also Subseries 2.4: "Living in Troubled Times"]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">34</container><container type="folder">7</container><unittitle>"Whiskey," [poem translated into German] in <title>Warenmuster, bl&#x00fc;hend</title></unittitle></did></c03>
+          <c03 level="file"><did><container type="box">34</container><container type="folder">7</container><unittitle>"Whiskey," [poem translated into German] in <title>Warenmuster, blühend</title></unittitle></did></c03>
           <c03 level="file"><did><container type="box">OP10</container><container type="folder">-</container><unittitle>"Yes," in "Four Poems," [poem]  <title>TLS</title> 17-23 March 1989</unittitle></did></c03>
           <c03 level="file"><did><container type="box">34</container><container type="folder">8</container><unittitle>Miscellaneous printed material by Carson</unittitle></did></c03>
 
@@ -1733,7 +1730,7 @@
           <c03 level="file"><did><container type="box">34</container><container type="folder">13</container><unittitle>"Coriandoli di Guerra, La Belfast Polifonica de Ciaran Carson," by Giovanni Pillonca in <title>Il Manifesto</title>, August 1998</unittitle></did></c03>
           <c03 level="file"><did><container type="box">61</container><container type="folder">12</container><unittitle>Edinburgh International Book Festival, 20 August 2006</unittitle></did></c03>
           <c03 level="file"><did><container type="box">34</container><container type="folder">14</container><unittitle>"The Evolving Art of Ciaran Carson," by Ben Howard in <title>Shenandoah</title>, Spring 1998</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>"Exploded Diagrams," by Caitr&#x00ed;ona O'Reilly in <title>Dublin Review</title>, autumn 2001 [See Subseries 4.1: "This is what libraries are for," by Carson]</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>"Exploded Diagrams," by Caitríona O'Reilly in <title>Dublin Review</title>, autumn 2001 [See Subseries 4.1: "This is what libraries are for," by Carson]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">34</container><container type="folder">15</container><unittitle>"First Impressions, Second Thoughts," by David Burleigh in <title>Haiku: Haiku Magazine in English</title> (spring-summer 1991), with TLS from Burleigh, 28 May 1991</unittitle></did></c03>
           <c03 level="file"><did><container type="box">34</container><container type="folder">16</container><unittitle><title>Gendaishi Techo</title>, (October 2001) Japanese literary journal with article on Carson's <title>Fishing for Amber</title>; includes TLS from Nobuaki Tochigi, 27 October 2001</unittitle></did></c03>
           <c03 level="file"><did><container type="box">34</container><container type="folder">17</container><unittitle>"Hummable Sonnets, Brechtian Monologues," [review of <title>The Twelfth of Never</title>] by John Harley Williams in <title>Poetry London</title>, summer 2001</unittitle></did></c03>
@@ -1750,7 +1747,7 @@
           <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>"Reeling with Words: Music and Intoxication in Ciaran Carson's Alphabetical Sequences," by Nobuaki Tochigi in <title>The Harp</title> (IASIL-Japan Bulletin Vol. XIII), 1998 [See Subseries 4.2: "Carson's Sense of Place," by Ryoji Okuda]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">61</container><container type="folder">15</container><unittitle>"'That Blank Month': Secrecy, Shibboleths, and Silence in Northern Irish Poetry,'" by David Wheatley in <title>Journal of Modern Literature</title>, 2002</unittitle></did></c03>
           <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>"This is Radio Carson," by Michael Hinds in <title>The Harp</title> (IASIL-Japan Bulletin Vol. XIII), 1998 [See Subseries 4.2: "Carson's Sense of Place," by Ryoji Okuda]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">35</container><container type="folder">6</container><unittitle>"Tussen Aanhalingstekens: Over de Po&#x00eb;zie van Ciaran Carson," by Peter Nijmeijer in <title>De Gids</title>, October 1997</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">35</container><container type="folder">6</container><unittitle>"Tussen Aanhalingstekens: Over de Poëzie van Ciaran Carson," by Peter Nijmeijer in <title>De Gids</title>, October 1997</unittitle></did></c03>
           <c03 level="file"><did><container type="box">-</container><container type="folder">-</container><unittitle>"War and Verse," by Thomas O'Dwyer in <title>The Jerusalem Post</title>, 11 June 1999 [See Subseries 4.2: OP15]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">35</container><container type="folder">7</container><unittitle>Assorted articles relating to Ciaran Carson [1976-2003]</unittitle></did></c03>
           <c03 level="file"><did><container type="box">OP15</container><container type="folder">-</container><unittitle>Assorted articles about Carson</unittitle></did></c03>
@@ -1777,7 +1774,7 @@
           <c03 level="file"><did><container type="box">61</container><container type="folder">16</container><unittitle>Reviews and clippings of <title>The Inferno</title> (2002-2007)</unittitle></did></c03>
           <c03 level="file"><did><container type="box">61</container><container type="folder">17</container><unittitle>Reviews and clippings of <title>Breaking News</title> (2003)</unittitle></did></c03>
           <c03 level="file"><did><container type="box">61</container><container type="folder">18</container><unittitle>Reviews and clippings of <title>The Midnight Court</title> (2005)</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">61</container><container type="folder">19</container><unittitle>Reviews and clippings of <title>The T&#x00e1;in</title> (2007)</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">61</container><container type="folder">19</container><unittitle>Reviews and clippings of <title>The Táin</title> (2007)</unittitle></did></c03>
           <c03 level="file"><did><container type="box">61</container><container type="folder">20</container><unittitle>Reviews and clippings of <title>Bear in Mind These Dead</title> (2008)</unittitle></did></c03>
           <c03 level="file"><did><container type="box">61</container><container type="folder">21</container><unittitle>Reviews and clippings of <title>For All We Know</title> (2008)</unittitle></did></c03>
           <c03 level="file"><did><unittitle>Promotional Material</unittitle></did></c03>
@@ -1829,7 +1826,7 @@
           <c03 level="file"><did><container type="box">37</container><container type="folder">18</container><unittitle>Waterstone's Booksellers, 23 May 1996</unittitle></did></c03>
           <c03 level="file"><did><container type="box">37</container><container type="folder">19</container><unittitle>Spoleto Festival USA, 3 June 1996</unittitle></did></c03>
           <c03 level="file"><did><container type="box">OP21</container><container type="folder">-</container><unittitle>T. S. Eliot Prize 1996 Shortlist Readings, 12 January 1997</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">37</container><container type="folder">20</container><unittitle>Stray Dog Caf&#x00e9;, Dublin, 27 April 1997</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">37</container><container type="folder">20</container><unittitle>Stray Dog Café, Dublin, 27 April 1997</unittitle></did></c03>
           <c03 level="file"><did><container type="box">37</container><container type="folder">21</container><unittitle>Poetry International Rotterdam, 20 June 1997</unittitle></did></c03>
           <c03 level="file"><did><container type="box">37</container><container type="folder">22</container><unittitle>Sixth William Carleton Summer School, Clogher, Ireland, 4-7 August 1997</unittitle></did></c03>
           <c03 level="file"><did><container type="box">38</container><container type="folder">1</container><unittitle>T. S. Eliot Prize award ceremony 1997, 19 January 1998</unittitle></did></c03>
@@ -1938,7 +1935,7 @@
           <c03 level="file"><did><container type="box">OP24</container><container type="folder">-</container><unittitle>Miscellaneous printed material with literary subjects</unittitle></did></c03>
           <c03 level="file"><did><unittitle>Printed Material with Other Subjects</unittitle></did></c03>
           <c03 level="file"><did><container type="box">40</container><container type="folder">13</container><unittitle>"Fiddlin' John Carson," article on Irish traditional music by Mark Wilson [circa 1976]</unittitle></did></c03>
-          <c03 level="file"><did><container type="box">OP24</container><container></container><unittitle>"An Irishman Before the Mexican Inquisition, 1574-5," by P. E. H. Hair, in <title>Irish Historical Studies</title>, March 1971</unittitle></did></c03>
+          <c03 level="file"><did><container type="box">OP24</container><container/><unittitle>"An Irishman Before the Mexican Inquisition, 1574-5," by P. E. H. Hair, in <title>Irish Historical Studies</title>, March 1971</unittitle></did></c03>
           <c03 level="file"><did><container type="box">40</container><container type="folder">14</container><unittitle>Miscellaneous printed material about music</unittitle></did></c03>
           <c03 level="file"><did><container type="box">OP25</container><container type="folder">-</container><unittitle>Miscellaneous printed material about music</unittitle></did></c03>
           <c03 level="file"><did><container type="box">40</container><container type="folder">15</container><unittitle>Miscellaneous printed material about visual arts</unittitle></did></c03>
@@ -2038,7 +2035,7 @@
           <p>Groups of photographs are alphabetically arranged by principle
 				subject, with individual photographs ordered chronologically when possible.</p>
         </arrangement>
-        <c02 level="file"><did><container type="box">42</container><container></container><unittitle>1</unittitle></did></c02>
+        <c02 level="file"><did><container type="box">42</container><container/><unittitle>1</unittitle></did></c02>
         <c02 level="file"><did><container type="box">42</container><container type="folder">2</container><unittitle>Ciaran Carson playing flute at Aspects: A Celebration of Irish Writing, Bangor, Co. Down, September 1994 [See also Series 1: Correspondence, 9 September 1995]</unittitle></did></c02>
         <c02 level="file"><did><container type="box">42</container><container type="folder">3</container><unittitle>Ciaran Carson with Paul Muldoon, included with ALS from Muldoon 28 January 1995</unittitle></did></c02>
         <c02 level="file"><did><container type="box">42</container><container type="folder">4</container><unittitle>Ciaran Carson with Edwin (?), November 1995 [See also subseries 4.3: Clair McNamee, "Writers' Portraits 1995 Catalogue"]</unittitle></did></c02>
@@ -2060,7 +2057,7 @@
         <c02 level="file"><did><container type="box">42</container><container type="folder">20</container><unittitle>Ciaran Carson [undated] at home </unittitle></did></c02>
         <c02 level="file"><did><container type="box">42</container><container type="folder">21</container><unittitle>Ciaran Carson [undated] with Medbh McGuckian, among others at reading</unittitle></did></c02>
         <c02 level="file"><did><container type="box">42</container><container type="folder">22</container><unittitle>Ciaran Carson [undated] with Paul Muldoon, Dillon Johnston, Guinn Batten, snapshots probably near Wake Forest University </unittitle></did></c02>
-        <c02 level="file"><did><container type="box">42</container><container type="folder">23</container><unittitle>Ciaran Carson [undated] photos by Marcas O'Murch&#x00fa; [See also Series 1: undated correspondence: ALS from O'Murch&#x00fa;]</unittitle></did></c02>
+        <c02 level="file"><did><container type="box">42</container><container type="folder">23</container><unittitle>Ciaran Carson [undated] photos by Marcas O'Murchú [See also Series 1: undated correspondence: ALS from O'Murchú]</unittitle></did></c02>
         <c02 level="file"><did><container type="box">42</container><container type="folder">24</container><unittitle>Ciaran Carson [undated] in Poland</unittitle></did></c02>
         <c02 level="file"><did><container type="box">42</container><container type="folder">25</container><unittitle>Ciaran Carson [undated] portraits</unittitle></did></c02>
         <c02 level="file"><did><container type="box">42</container><container type="folder">26</container><unittitle>Ciaran Carson [undated] portraits on compact disc</unittitle></did></c02>
@@ -2189,7 +2186,7 @@
         <c02 level="file"><did><container type="box">46</container><container type="folder">19</container><unittitle>Blackstaff Press, 1973-1979</unittitle></did></c02>
         <c02 level="file"><did><container type="box">46</container><container type="folder">20</container><unittitle>Blackstaff Press, 1980</unittitle></did></c02>
         <c02 level="file"><did><container type="box">47</container><container type="folder">1</container><unittitle>Comhaltas Ceoltoiri Eireann, 1975-1980</unittitle></did></c02>
-        <c02 level="file"><did><container type="box">47</container><container type="folder">2</container><unittitle>Comhdh&#x00e1;il N&#x00e1;is&#x00ed;unta Na Gaeilge, 1976-1977</unittitle></did></c02>
+        <c02 level="file"><did><container type="box">47</container><container type="folder">2</container><unittitle>Comhdháil Náisíunta Na Gaeilge, 1976-1977</unittitle></did></c02>
         <c02 level="file"><did><container type="box">47</container><container type="folder">3</container><unittitle>Correspondence with Other Artists, 1980</unittitle></did></c02>
         <c02 level="file"><did><container type="box">47</container><container type="folder">4</container><unittitle>Culman Cholmcille, 1980</unittitle></did></c02>
         <c02 level="file"><did><container type="box">47</container><container type="folder">5</container><unittitle>Ministry of Education, 1970-1976</unittitle></did></c02>
@@ -2206,7 +2203,53 @@
         <c02 level="file"><did><container type="box">47</container><container type="folder">15</container><unittitle>Tyrone Guthrie Center, 1998</unittitle></did></c02>
 
       </c01>
+      <c01 level="series" id="carson746_series10">
+        <did>
+          <unitid>Series 10</unitid>
+          <unittitle encodinganalog="245$a">Unprocessed additions</unittitle>
+          <physdesc encodinganalog="300">Boxes 63 - 67</physdesc>
+        </did>
 
+        <c02 level="file">
+          <did>
+            <container type="box">63</container>
+            <container type="folder">-</container>
+            <unittitle>Notebooks, subject files, printed material</unittitle>
+          </did>
+        </c02>
+
+        <c02 level="file">
+          <did>
+            <container type="box">64</container>
+            <container type="folder">-</container>
+            <unittitle>Writings by Carson, printed material</unittitle>
+          </did>
+        </c02>
+
+        <c02 level="file">
+          <did>
+            <container type="box">65</container>
+            <container type="folder">-</container>
+            <unittitle>Writings by Carson, notebooks</unittitle>
+          </did>
+        </c02>
+
+        <c02 level="file">
+          <did>
+            <container type="box">66</container>
+            <container type="folder">-</container>
+            <unittitle>Writings by Carson, writings by others, printed material</unittitle>
+          </did>
+        </c02>
+
+        <c02 level="file">
+          <did>
+            <container type="box">67</container>
+            <container type="folder">-</container>
+            <unittitle>Writings by Carson</unittitle>
+          </did>
+        </c02>
+      </c01>
     </dsc>
     <index id="carson746_index1">
       <head>Index of Selected Correspondents</head>

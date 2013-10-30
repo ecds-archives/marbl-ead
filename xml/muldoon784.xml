@@ -91,7 +91,7 @@
         <head>Personal Names</head>
         <persname source="viaf" authfilenumber="85621766" encodinganalog="600">Carson, Ciaran, 1948-</persname>
         <persname source="viaf" authfilenumber="24613408" encodinganalog="600">Fallon, Peter, 1951-</persname>
-        <persname source="viaf" authfilenumber="109557338" encodinganalog="600">Heaney, Seamus.</persname>
+        <persname source="viaf" authfilenumber="109557338" encodinganalog="600">Heaney, Seamus, 1939-</persname>
         <persname source="viaf" authfilenumber="39398205" encodinganalog="600">Longley, Michael, 1939-</persname>
         <persname source="viaf" authfilenumber="120096893" encodinganalog="600">McGuckian, Medbh, 1950-</persname>
         <persname source="viaf" authfilenumber="110228045" encodinganalog="600">Mahon, Derek, 1941-</persname>
@@ -1477,10 +1477,10 @@
 <c03 level="file"><did><container type="box">21</container><container type="folder">19</container><unittitle>"Cows" and "Milkweed and Murdoch," corrected typescript drafts, with title page </unittitle></did></c03>
 <c03 level="file"><did><container type="box">21</container><container type="folder">20</container><unittitle>"Yarrow" fragment with roman numeral pages X, XI, and XII</unittitle></did></c03>
 <c03 level="file"><did><container type="box">21</container><container type="folder">21</container><unittitle>"Yarrow," single uncorrected typescript page</unittitle></did></c03>
+
 <c03 level="file"><did><container type="box">21</container><container type="folder">22</container><unittitle>"Yarrow," multiple typescript drafts</unittitle></did></c03>
-<c03 level="file"><did><container type="box">21</container><container type="folder">23</container><unittitle>"Yarrow," multiple typescript drafts</unittitle></did></c03>
-<c03 level="file"><did><container type="box">21</container><container type="folder">24</container><unittitle>"Yarrow," multiple numbered typescript drafts, heavily corrected</unittitle></did></c03>
-<c03 level="file"><did><container type="box">21</container><container type="folder">25</container><unittitle>"Yarrow," long typescript fragment, uncorrected</unittitle></did></c03>
+<c03 level="file"><did><container type="box">21</container><container type="folder">23</container><unittitle>"Yarrow," multiple numbered typescript drafts, heavily corrected</unittitle></did></c03>
+<c03 level="file"><did><container type="box">21</container><container type="folder">24</container><unittitle>"Yarrow," long typescript fragment, uncorrected</unittitle></did></c03>
 <c03 level="file"><did><container type="box">22</container><container type="folder">1</container><unittitle>"Yarrow," corrected typescript fragment, dated August 1992--August 1993</unittitle></did></c03>
 <c03 level="file"><did><container type="box">22</container><container type="folder">2</container><unittitle>"Yarrow," lightly corrected typescript fragment with handwritten page numbers</unittitle></did></c03>
 <c03 level="file"><did><container type="box">22</container><container type="folder">3</container><unittitle>"Yarrow," single uncorrected typescript page</unittitle></did></c03>

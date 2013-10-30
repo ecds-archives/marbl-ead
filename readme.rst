@@ -3,7 +3,6 @@ marbl-ead
 
 EAD finding aids tagged with named entity URIs for work in the Networking Belfast project.
 
-
 -----
 
 This fork of repository was created for EAD XML enhancement work being done
@@ -50,3 +49,6 @@ software currently supports exposing via RDFa:
 * If a series is about a person or group, tag the name in the ``unittitle``
   when possible (e.g., series 11 with Edna Longley materials in the
   Michael Longley collection).
+
+The XML in this repo is owned by `Manuscripts, Archives, and Rare Book Library`_.
+

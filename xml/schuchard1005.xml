@@ -128,6 +128,11 @@
         (1989), as well as a small group of printed materials relating to Heaney and a small number
         of photographs.</p>
     </scopecontent>
+    <separatedmaterial encodinganalog="544 1">
+      <head>Separated and Related Material</head>
+      <p>In Emory's holdings are books formerly owned by Ron Schuchard.  These materials may be located in the Emory University online catalog by searching for: <extref xlink:href="http://discovere.emory.edu:8991/author-exact/Ronald Schuchard collector">Ronald Schuchard, collector</extref>.</p>
+      <p>Additional Ellmann Lecture materials may be found in Emory University Archives, <extref xlink:href="http://pid.emory.edu/ark:/25593/bmnn5">Richard Ellmann Lectures in Modern Literature records (Series 26)</extref>.</p>
+     </separatedmaterial> 
     <arrangement encodinganalog="351">
       <head>Arrangement Note</head>
       <p>Organized into five series: (1) Correspondence, (2) Richard Ellmann Lectures in Modern
@@ -159,12 +164,6 @@
         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
-    <separatedmaterial encodinganalog="544 0">
-      <head>Related Materials in This Repository</head>
-      <p><extref xlink:href="http://pid.emory.edu/ark:/25593/bmnn5">Emory University Archives, RG
-          903, Series 026, Lectures and Symposia: Richard Ellmann Lectures in Modern
-          Literature</extref>.</p>
-    </separatedmaterial>
     <dsc type="combined">
       <head>Description of Series</head>
       <c01 id="schuchard1005_series1" level="series">

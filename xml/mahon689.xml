@@ -207,9 +207,9 @@
         <head>Personal Names</head>
           <persname authfilenumber="7386737" encodinganalog="600" source="viaf">Beckett, Samuel, 1906-1989</persname>
           <persname authfilenumber="26912311" encodinganalog="600" source="viaf">Berkeley, Sara, 1967-</persname>
-          <persname authfilenumber="76315726" encodinganalog="600" source="viaf">Friel, Brian, 1948-</persname>
+          <persname authfilenumber="76315726" encodinganalog="600" source="viaf">Friel, Brian.</persname>
           <persname authfilenumber="109557338" encodinganalog="600" source="viaf">Heaney, Seamus, 1939-</persname>
-          <persname authfilenumber="76363549" encodinganalog="600" source="viaf">Hecht, Anthony, 1923-2004</persname>
+          <persname authfilenumber="76363549" encodinganalog="600" source="viaf">Hecht, Anthony, 1923-2004.</persname>
           <persname authfilenumber="39398205" encodinganalog="600" source="viaf">Longley, Michael, 1939-</persname>
           <persname authfilenumber="110923132" encodinganalog="600" source="viaf">Merwin, W. S. (William Stanley), 1927-</persname>
           <persname authfilenumber="98548196" encodinganalog="600" source="viaf">Montague, John.</persname>
@@ -217,12 +217,11 @@
         </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
-        <subject encodinganalog="650" source="lcsh">English poetry-Irish authors.</subject>
-        <subject encodinganalog="650" source="lcsh">French literature-Translations into
-          English</subject>
-        <subject encodinganalog="650" source="lcsh">Irish poetry-20th century.</subject>
-        <subject encodinganalog="650" source="lcsh">Poets, Irish-20th century.</subject>
-        <subject encodinganalog="650" source="lcsh">Stage adaptations.</subject>
+        <subject source="lcsh" encodinganalog="650">English poetry--Irish authors.</subject>
+        <subject source="lcsh" encodinganalog="650">French literature--Translations into English.</subject>
+        <subject source="lcsh" encodinganalog="650">Irish poetry--20th century.</subject>
+        <subject source="lcsh" encodinganalog="650">Poets, Irish--20th century.</subject>
+        <subject source="lcsh" encodinganalog="650">Stage adaptations.</subject>
       </controlaccess>
       <controlaccess>
         <head>Form/Genre Terms</head>
@@ -286,7 +285,7 @@
           <did>
             <container type="box">1</container>
             <container type="folder">1</container>
-            <unittitle>1972, 1979</unittitle>
+            <unittitle>1972-1979</unittitle>
           </did>
         </c02>
         <c02 level="file">
@@ -8915,40 +8914,35 @@
             <did>
               <container type="box">46</container>
               <container type="folder"/>
-              <unittitle>Derek Mahon reads from "<title>The Hudson Letter</title>" [place and date
-                unknown] [digitized; b4v5w]</unittitle>
+              <unittitle>Derek Mahon reads from "<title>The Hudson Letter</title>" [place and date unknown] [digitized; Emory:b4v5w]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>"An Evening of Irish Poetry with Derek Mahon," Emory University, 29 January
-                1996 [digitized; filename 3936-3937]</unittitle>
+              <unittitle>"An Evening of Irish Poetry with Derek Mahon," Emory University, 29 January 1996 [digitized; Emory:3936, Emory:3937]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>Mahon, Derek, "A Grafted Tongue: A Portrait of John Montague" by Derek
-                Mahon, no date[digitized; filename bscxs]</unittitle>
+              <unittitle>Mahon, Derek, "A Grafted Tongue: A Portrait of John Montague" by Derek Mahon, no date [digitized; Emory:bscxs]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>Jack MacGowran reads poems by Samuel Beckett, Claddagh Media, January 21,
-                1996 [digitized; filename 3940, 3947]</unittitle>
+              <unittitle>Jack MacGowran reads poems by Samuel Beckett, Claddagh Media, January 21, 1996 [digitized; Emory:3940, Emory:3947]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle>"MacGowran Speaking Beckett," Claddagh Media, November 11, 1996 [digitized;
-                filename: 3948-3949]</unittitle>
+              <unittitle>"MacGowran Speaking Beckett," Claddagh Media, November 11, 1996 [digitized; Emory:3948, Emory:3949]</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -8962,15 +8956,14 @@
             <did>
               <container type="box">46</container>
               <container type="folder"/>
-              <unittitle>"The Poet's Voice" - Dylan Thomas [digitized; filename 3938]</unittitle>
+              <unittitle>"The Poet's Voice" - Dylan Thomas [digitized; Emory:3938]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box">46</container>
               <container type="folder"/>
-              <unittitle>"A Sense of Place" [interview of and reading by Derek Mahon], BBC, 12
-                February 1984 [digitized; b4v75, b4v61]</unittitle>
+              <unittitle>"A Sense of Place" [interview of and reading by Derek Mahon], BBC, 12 February 1984 [digitized; Emory:b4v75, Emory:b4v61]</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -8989,8 +8982,7 @@
             <did>
               <container type="box">-</container>
               <container type="folder">-</container>
-              <unittitle><title>The Hudson Letter</title>, radio version read by Stephen Rea, RTÉ,
-                25 December 2001 [digitized; filename 3939]</unittitle>
+              <unittitle><title>The Hudson Letter</title>, radio version read by Stephen Rea, RTÉ, 25 December 2001 [digitized; Emory:3939]</unittitle>
             </did>
           </c03>
           <c03 level="file">
@@ -9051,8 +9043,7 @@
             <did>
               <container type="box">46a</container>
               <container type="folder"/>
-              <unittitle>"Derek Mahon" [Lannan Literary Video #38; reading and interview on 8 March,
-                1994 [digitized; filename 9762]</unittitle>
+              <unittitle>"Derek Mahon"  [Lannan Literary Video #38; reading and interview on 8 March, 1994 [digitized; Emory:9762]</unittitle>
             </did>
           </c03>
         </c02>
