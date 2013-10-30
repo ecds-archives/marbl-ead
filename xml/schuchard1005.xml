@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+  xmlns:schema="http://schema.org/" xmlns:dbp="http://dbpedia.org/ontology/"
+  xmlns:dc="http://purl.org/dc/terms/">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
     relatedencoding="Dublin Core" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="ark:/25593/8zvnd" mainagencycode="geu-s"
@@ -36,7 +38,7 @@
   <archdesc level="collection" relatedencoding="MARC21">
     <did>
       <origination>
-        <persname encodinganalog="100" source="lcnaf">Schuchard, Ronald.</persname>
+        <persname encodinganalog="100" source="viaf" authfilenumber="54238476">Schuchard, Ronald.</persname>
       </origination>
       <unittitle encodinganalog="245$a">Ronald Schuchard papers, <unitdate calendar="gregorian"
           encodinganalog="245$f" era="ce" normal="1981/2011" type="inclusive"
@@ -83,44 +85,44 @@
     </processinfo>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Ronald Schuchard is Goodrich C. White Professor of English at <corpname source="dbpedia" authfilenumber="Emory_University">Emory University</corpname>, where he
+      <p>Ronald Schuchard is Goodrich C. White Professor of English at <corpname source="dbpedia" authfilenumber="Emory_University" role="schema:worksFor">Emory University</corpname>, where he
         began his career as teacher and scholar in 1969. He completed his graduate work at the
-        <corpname source="dbpedia" authfilenumber="University_of_Texas_at_Austin">University of Texas, Austin</corpname>, and teaches courses in 20th century <geogname source="geonames" authfilenumber="2654669">British</geogname>, <geogname source="geonames" authfilenumber="2963597">Irish</geogname> and
-        Anglophone literature. He is author of numerous studies of modern authors, particularly <persname source="viaf" authfilenumber="56609282">T.S.
-        Eliot</persname> and <persname source="viaf" authfilenumber="46768718">W.B. Yeats</persname>. His book, <title>Eliot's Dark Angel</title> (Oxford University Press,
+        <corpname source="dbpedia" authfilenumber="University_of_Texas_at_Austin" role="schema:alumniOf">University of Texas, Austin</corpname>, and teaches courses in 20th century British, Irish and
+        Anglophone literature. He is author of numerous studies of modern authors, particularly T.S.
+        Eliot and W.B. Yeats. His book, <title>Eliot's Dark Angel</title> (Oxford University Press,
         1999), won the Robert Penn Warren/Cleanth Brooks Award for Outstanding Literary Criticism
-        and the Annual SAMLA Studies Award for the best book published by a member of the <corpname source="dbpedia" authfilenumber="South_Atlantic_Modern_Language_Association#Regional_associations">South
-        Atlantic Modern Language Association</corpname>. He is the editor of T.S. Eliot's Clark and Turnbull
+        and the Annual SAMLA Studies Award for the best book published by a member of the South
+        Atlantic Modern Language Association. He is the editor of T.S. Eliot's Clark and Turnbull
         Lectures, <title>The Varieties of Metaphysical Poetry</title> (Faber &amp; Faber, 1993;
         Harcourt, Brace, 1994; Harvest, 1996), and co-editor with John Kelly of <title>The Collected
           Letters of W.B. Yeats</title>, Volume 3 (Oxford University Press, 1994) and Volumes 4-5.
-        During the 2000-2001 academic year, he was a Visiting Fellow at <corpname source="dbpedia" authfilenumber="Trinity_College_Dublin">Trinity College, Dublin</corpname>, and
-        a Senior Research Fellow at <corpname source="dbpedia" authfilenumber="Queens_University_Belfast">Queen's University, Belfast</corpname>.</p>
+        During the 2000-2001 academic year, he was a Visiting Fellow at <corpname source="dbpedia" authfilenumber="Trinity_College_Dublin" role="schema:worksFor">Trinity College, Dublin</corpname>, and
+        a Senior Research Fellow at <corpname source="dbpedia" authfilenumber="Queens_University_Belfast" role="schema:worksFor">Queen's University, Belfast</corpname>.</p>
       <p>Schuchard has been a key figure in developing an outstanding archive of twentieth century
-        Irish and English manuscript collections in the <corpname source="viaf" authfilenumber="142407460">Woodruff Library</corpname> of Emory University and in
-        organizing the Richard Ellmann Lectures in Modern Literature, inaugurated by <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname>
+        Irish and English manuscript collections in the Woodruff Library of Emory University and in
+        organizing the Richard Ellmann Lectures in Modern Literature, inaugurated by Seamus Heaney
         in 1988. He is the former director of Emory University's British Studies Program at
-        <corpname source="dbpedia" authfilenumber="University_College_Oxford">University College, Oxford</corpname> and of the <corpname source="viaf" authfilenumber="141896861">Yeats International Summer School</corpname> in <geogname source="geonames" authfilenumber="2961423">Sligo, Ireland</geogname>.
-        He is an active member of the <corpname source="dbpedia" authfilenumber="Modern_Language_Association">Modern Language Association</corpname>, the T.S. Eliot Society of St.
-        Louis, the New York Yeats Society, the <corpname source="viaf" authfilenumber="153671387">American Conference for Irish Studies</corpname>, the
-        <corpname source="viaf" authfilenumber="124074316">International Association for the Study of Irish Literatures</corpname>, and the <corpname source="dbpedia" authfilenumber="Grolier_Club">Grollier Club of New
+        <corpname source="dbpedia" authfilenumber="University_College_Oxford" role="schema:worksFor">University College, Oxford</corpname> and of the <corpname source="viaf" authfilenumber="141896861" role="schema:worksFor">Yeats International Summer School</corpname> in Sligo, Ireland.
+        He is an active member of the <corpname source="dbpedia" authfilenumber="Modern_Language_Association" role="schema:memberOf">Modern Language Association</corpname>, the T.S. Eliot Society of St.
+        Louis, the New York Yeats Society, the <corpname source="viaf" authfilenumber="153671387" role="schema:memberOf">American Conference for Irish Studies</corpname>, the
+        <corpname source="viaf" authfilenumber="124074316" role="schema:memberOf">International Association for the Study of Irish Literatures</corpname>, and the <corpname source="dbpedia" authfilenumber="Grolier_Club" role="schema:memberOf">Grollier Club of New
           York</corpname>. In addition to serving on the editorial boards of <title>Yeats Annual</title>,
           <title>The Recorder: Journal of the American Irish Historical Society</title> and
           <title>Texas Studies in Literature and Language</title>, he is a member of the advisory
         boards of The Correspondence of Samuel Beckett and the W.B. Yeats Drama Foundation. His
-        research has been supported by <corpname source="dbpedia" authfilenumber="American_Council_of_Learned_Societies">American Council of Learned Societies</corpname> and <corpname source="dbpedia" authfilenumber="National_Endowment_for_the_Humanities">National Endowment
-        for the Humanities</corpname> grants; and in addition to serving as a Fulbright Senior Lecturer in
-        <geogname source="geonames" authfilenumber="390903">Greece</geogname>, he has been a Visiting Fellow at <corpname source="dbpedia" authfilenumber="Wolfson_College,_Oxford">Wolfson College, Oxford</corpname>, and twice a Research
+        research has been supported by American Council of Learned Societies and National Endowment
+        for the Humanities grants; and in addition to serving as a Fulbright Senior Lecturer in
+        <geogname source="geonames" authfilenumber="390903" role="schema:workLocation">Greece</geogname>, he has been a Visiting Fellow at <corpname source="dbpedia" authfilenumber="Wolfson_College,_Oxford" role="schema:worksFor">Wolfson College, Oxford</corpname>, and twice a Research
         Fellow at the Institute of English Studies, University of London. </p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
       <p>The Ronald Schuchard papers primarily consist of materials relating to Ron Schuchard's
-        relationship with <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname> from 1981-2005, including correspondence, drafts of lectures
+        relationship with Seamus Heaney from 1981-2005, including correspondence, drafts of lectures
         for the Richard Ellmann Lectures in Modern Literature, writings, printed materials, and
         photographs. The bulk of the papers consist of correspondence between Heaney and Schuchard
         (1981-2005) and reflects the planning for the Richard Ellmann Lectures in Modern Literature
-        at <corpname source="dbpedia" authfilenumber="Emory_University">Emory University</corpname>, which Heaney delivered in 1988 and the friendship between Schuchard and
+        at Emory University, which Heaney delivered in 1988 and the friendship between Schuchard and
         Heaney. Also present in the papers are Seamus Heaney's drafts of the Ellmann Lectures and
         drafts prepared for the publication of the lectures in <title>The Place of Writing</title>
         (1989), as well as a small group of printed materials relating to Heaney and a small number
@@ -140,11 +142,11 @@
       </controlaccess>
       <controlaccess>
         <head>Personal Names</head>
-        <persname source="viaf" authfilenumber="109557338">Heaney, Seamus, 1939-</persname>
+        <persname source="viaf" authfilenumber="109557338" encodinganalog="600">Heaney, Seamus, 1939-</persname>
       </controlaccess>
       <controlaccess>
         <head>Corporate Names</head>
-        <corpname source="viaf" authfilenumber="Emory_University">Emory University--Faculty.</corpname>
+        <corpname source="viaf" authfilenumber="Emory_University" encodinganalog="610">Emory University--Faculty.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Topical Terms</head>
@@ -174,7 +176,7 @@
         </did>
         <accessrestrict encodinganalog="506">
           <head>Restrictions on Access</head>
-          <p>Special restrictions apply: Letters by <persname source="viaf" authfilenumber="109557338">Seamus Heaney</persname> are closed to researchers.</p>
+          <p>Special restrictions apply: Letters by Seamus Heaney are closed to researchers.</p>
         </accessrestrict>
         <c02 level="file">
           <did>
@@ -185,7 +187,7 @@
           <did>
             <container type="box">1</container>
             <container type="folder">1</container>
-            <unittitle>Heaney, Seamus, undated</unittitle>
+            <unittitle><persname source="viaf" authfilenumber="109557338">Heaney, Seamus</persname>, undated</unittitle>
           </did>
         </c02>
         <c02 level="file">
