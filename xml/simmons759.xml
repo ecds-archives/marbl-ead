@@ -11558,7 +11558,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname role="dc:creator" source="viaf">Watton, Joan</persname>:
+                <persname role="dc:creator" source="viaf" authfilenumber="262730140">Watton, Joan</persname>:
                   <title render="doublequote">Aunt Alice</title>,
                   <title render="doublequote">Spinster</title>,
                   <title render="doublequote">The Hangover</title>,
@@ -11576,7 +11576,7 @@
               <container type="folder">6</container>
               <unittitle>
                 <corpname source="viaf" authfilenumber="123393054">Belfast Group</corpname> Worksheet,
-                <persname role="dc:creator" source="viaf">Joan Watton</persname>:
+                <persname role="dc:creator" source="viaf" authfilenumber="262730140">Watton, Joan</persname>:
                   <title render="doublequote">Betrayal</title>,
                   <title render="doublequote">Gleneyre Children's Home</title> (County Armagh Welfare Committee),
                   <title render="doublequote">An Old Man in a Fish Shop</title>,
