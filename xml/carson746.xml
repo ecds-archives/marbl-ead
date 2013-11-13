@@ -104,11 +104,11 @@
         <head>Personal Names</head>
         <persname source="viaf" authfilenumber="24613408" encodinganalog="600">Fallon, Peter, 1951-</persname>
         <persname source="viaf" authfilenumber="79088985" encodinganalog="600">Gallagher, Tess.</persname>
-        <persname source="viaf" authfilenumber="109557338" encodinganalog="600">Heaney, Seamus</persname>
+        <persname source="viaf" authfilenumber="109557338" encodinganalog="600">Heaney, Seamus, 1939-</persname>
         <persname source="viaf" authfilenumber="120096893" encodinganalog="600">McGuckian, Medbh, 1950-</persname>
         <persname source="viaf" authfilenumber="98548196" encodinganalog="600">Montague, John.</persname>
         <persname source="viaf" authfilenumber="49280158" encodinganalog="600">Ormsby, Frank, 1947-</persname>
-        <persname source="viaf" authfilenumber="113957087" encodinganalog="600">Prolux, Annie.</persname>
+        <persname source="viaf" authfilenumber="113957087" encodinganalog="600">Proulx, Annie.</persname>
         <persname source="viaf" authfilenumber="112404721" encodinganalog="600">Robinson, Tim, 1935-</persname>
       </controlaccess>
       <controlaccess>
@@ -344,7 +344,7 @@
           <c03 level="subseries" id="carson746_subseries2.2a">
             <did>
               <unitid>Subseries 2.2a</unitid>
-              <unittitle encodinganalog="245$a">Collected poems
+              <unittitle encodinganalog="245$a">Collected poems,
                 <unitdate type="inclusive" normal="1973/2009" encodinganalog="245$f" certainty="circa">1973-2009</unitdate></unittitle>
               <physdesc encodinganalog="300">Boxes 12-16, 50-54; OP1</physdesc>
             </did>
