@@ -149,25 +149,25 @@
       <head>Selected Search Terms</head>
       <controlaccess>
         <head>Personal Names</head>
-        <persname authfilenumber="51710796" source="viaf" encodinganalog="600 or 700">Barnes, Julian.</persname>
-        <persname authfilenumber="277666574" source="viaf" encodinganalog="600 or 700">Chaudhuri, Amit, 1962-</persname>
-        <persname authfilenumber="111397155" source="viaf" encodinganalog="600 or 700">Dawe, Gerald, 1952-</persname>
-        <persname authfilenumber="108344790" source="viaf" encodinganalog="600 or 700">Deane, Seamus, 1940-</persname>
-        <persname authfilenumber="73874087" source="viaf" encodinganalog="600 or 700">Eagleton, Terry, 1943-</persname>
-        <persname authfilenumber="76315726" source="viaf" encodinganalog="600 or 700">Friel, Brian.</persname>
-        <persname authfilenumber="109557338" source="viaf" encodinganalog="600 or 700">Heaney, Seamus.</persname>
-        <persname authfilenumber="38545317" source="viaf" encodinganalog="600 or 700">Hammond, David, singer.</persname>
-        <persname authfilenumber="64066068" source="viaf" encodinganalog="600 or 700">Hofmann, Michael, 1957 Aug. 25.</persname>
-        <persname authfilenumber="108232871" source="viaf" encodinganalog="600 or 700">Hughes, Ted, 1930-1998.</persname>
-        <persname authfilenumber="39398205" source="viaf" encodinganalog="600 or 700">Longley, Michael, 1939-</persname>
-        <persname authfilenumber="95152561" source="viaf" encodinganalog="600 or 700">McGahern, John, 1934-</persname>
-        <persname authfilenumber="272840740" source="viaf" encodinganalog="600 or 700">Monteith, Charles.</persname>
-        <persname authfilenumber="108638782" source="viaf" encodinganalog="600 or 700">Morrison, Blake.</persname>
-        <persname authfilenumber="108893413" source="viaf" encodinganalog="600 or 700">Motion, Andrew, 1952-</persname>
-        <persname authfilenumber="64048541" source="viaf" encodinganalog="600 or 700">Muldoon, Paul.</persname>
-        <persname authfilenumber="34553683" source="viaf" encodinganalog="600 or 700">O'Donoghue, Bernard.</persname>
-        <persname authfilenumber="49280158" source="viaf" encodinganalog="600 or 700">Ormsby, Frank, 1947-</persname>
-        <persname authfilenumber="101760846" source="viaf" encodinganalog="600 or 700">Sommer, Piotr, 1948-</persname>
+        <persname authfilenumber="51710796" source="viaf" encodinganalog="600">Barnes, Julian.</persname>
+        <persname authfilenumber="277666574" source="viaf" encodinganalog="600">Chaudhuri, Amit, 1962-</persname>
+        <persname authfilenumber="111397155" source="viaf" encodinganalog="600">Dawe, Gerald, 1952-</persname>
+        <persname authfilenumber="108344790" source="viaf" encodinganalog="600">Deane, Seamus, 1940-</persname>
+        <persname authfilenumber="73874087" source="viaf" encodinganalog="600">Eagleton, Terry, 1943-</persname>
+        <persname authfilenumber="76315726" source="viaf" encodinganalog="600">Friel, Brian.</persname>
+        <persname authfilenumber="109557338" source="viaf" encodinganalog="600">Heaney, Seamus, 1939-</persname>
+        <persname authfilenumber="38545317" source="viaf" encodinganalog="600">Hammond, David, singer.</persname>
+        <persname authfilenumber="64066068" source="viaf" encodinganalog="600">Hofmann, Michael, 1957 Aug. 25.</persname>
+        <persname authfilenumber="108232871" source="viaf" encodinganalog="600">Hughes, Ted, 1930-1998.</persname>
+        <persname authfilenumber="39398205" source="viaf" encodinganalog="600">Longley, Michael, 1939-</persname>
+        <persname authfilenumber="95152561" source="viaf" encodinganalog="600">McGahern, John, 1934-</persname>
+        <persname authfilenumber="272840740" source="viaf" encodinganalog="600">Monteith, Charles.</persname>
+        <persname authfilenumber="108638782" source="viaf" encodinganalog="600">Morrison, Blake.</persname>
+        <persname authfilenumber="108893413" source="viaf" encodinganalog="600">Motion, Andrew, 1952-</persname>
+        <persname authfilenumber="64048541" source="viaf" encodinganalog="600">Muldoon, Paul.</persname>
+        <persname authfilenumber="34553683" source="viaf" encodinganalog="600">O'Donoghue, Bernard.</persname>
+        <persname authfilenumber="49280158" source="viaf" encodinganalog="600">Ormsby, Frank, 1947-</persname>
+        <persname authfilenumber="101760846" source="viaf" encodinganalog="600">Sommer, Piotr, 1948-</persname>
       </controlaccess>
       <controlaccess>
         <head>Corporate Names</head>
