@@ -170,7 +170,7 @@
         <did>
           <unitid>Series 1</unitid>
           <unittitle encodinganalog="245$a">Correspondence, <unitdate calendar="gregorian"
-              encodinganalog="245$f" era="ce" normal="1981/2004">1981-2005</unitdate></unittitle>
+              encodinganalog="245$f" era="ce" normal="1981/2005">1981-2005</unitdate></unittitle>
           <physdesc encodinganalog="300">Boxes 1 - 2</physdesc>
         </did>
         <accessrestrict encodinganalog="506">
@@ -600,7 +600,7 @@
         <did>
           <unitid>Series 4</unitid>
           <unittitle encodinganalog="245$a">Printed materials, <unitdate calendar="gregorian"
-              encodinganalog="245$f" era="ce" normal="1988/1995" type="inclusive"
+              encodinganalog="245$f" era="ce" normal="1988/2005" type="inclusive"
               >1988-2005</unitdate></unittitle>
           <physdesc encodinganalog="300">Box 4: folder 5 - Box 5: folder 28</physdesc>
         </did>
